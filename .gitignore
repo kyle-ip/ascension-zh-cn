@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+state/local.json
+state/backups/
+loc/en/extracted/
+.DS_Store
+Thumbs.db

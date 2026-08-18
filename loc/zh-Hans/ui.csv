@@ -1,0 +1,73 @@
+key,zh
+Key_2Players,2 名玩家
+Key_3Players,3 名玩家
+Key_4Players,4 名玩家
+Key_AIDifficulty,AI 难度
+Key_AIOpponent,AI 对手
+Key_AIPlayer,AI 玩家
+Key_Accept,接受
+Key_AcceptInvite,接受邀请
+Key_Achievements,成就
+Key_AddComputerPlayer,添加电脑玩家
+Key_AddFriend,添加好友
+Key_AddFriendPrompt,要将这名玩家加入好友列表吗？
+Key_AddHumanPlayer,添加人类玩家
+Key_AddProfile,添加档案
+Key_Agree,我同意
+Key_AmbientVolume,环境音量
+Key_Animation_Speed,动画速度
+Key_Announcements,公告
+Key_AudioLevels,音量
+Key_AutoPlay,自动出牌
+Key_Back,返回
+Key_Buy,购买
+Key_Cancel,取消
+Key_CardGallery,卡牌图鉴
+Key_Close,关闭
+Key_Confirm,确认
+Key_ConfirmChange,确认更改
+Key_ConfirmExit,确定要退出游戏吗？
+Key_ConfirmPassword,确认密码
+Key_ConfirmProfileDelete,确定要删除此档案吗？
+Key_Continue,继续
+Key_CreateAccount,创建账号
+Key_CreateGame,创建对局
+Key_Credits,制作人员
+Key_Day,天
+Key_Days,天
+Key_Delete,删除
+Key_DeleteFriend,删除好友
+Key_DeleteGame,删除对局
+Key_DeleteGameConfirm,要删除此对局吗？
+Key_Languages,语言
+Key_MainMenu,主菜单
+Key_Offline,离线
+Key_Play,开始
+Key_PlayOffline,离线游戏
+Key_PlayOnline,在线游戏
+Key_Player1,玩家 1
+Key_Player2,玩家 2
+Key_Player3,玩家 3
+Key_Player4,玩家 4
+Key_Playername,玩家名称
+Key_Settings,设置
+Key_SelectLanguage,选择语言
+Key_Quit,退出
+Key_Resume,继续游戏
+Key_Rulebook,规则书
+Key_Save,保存
+Key_Search,搜索
+Key_Start,开始
+Key_Surrender,认输
+Key_Tutorial,教程
+Key_Yes,是
+Key_No,否
+Key_Ok,确定
+Key_Honor,荣誉
+Key_Runes,符文
+Key_Power,战力
+Key_Deck,牌库
+Key_Discard,弃牌堆
+Key_Hand,手牌
+Key_Void,虚空区
+Key_CenterRow,中央牌列

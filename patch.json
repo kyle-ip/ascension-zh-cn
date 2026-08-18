@@ -1,0 +1,7 @@
+{
+  "name": "ascension-zh-cn",
+  "enabled": false,
+  "locale": "zh-Hans",
+  "gameRoot": "",
+  "notes": "enabled is written by tools/patch.py. Leave gameRoot empty to auto-detect the Steam install (parent of this repo, or the default Steam path)."
+}

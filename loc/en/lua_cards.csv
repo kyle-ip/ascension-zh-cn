@@ -1,0 +1,1282 @@
+id,card_name,display_name,card_set,card_type,effect_text,flavor_text,source_file
+"Vedah, Sage of Swords","Vedah, Sage of Swords","Vedah, Sage of Swords",promo,Hero,Reveal the top card of the center deck.  Draw it or defeat it.,,promo_cards.lua
+Giant Rat,Giant Rat,Giant Rat,promo,Monster,"Any card underneath Giant Rat cannot be acquired, banished, or defeated until Giant Rat is banished or defeated.
+Reward: Gain 1H.",,promo_cards.lua
+Rat King,Rat King,Rat King,promo,Monster,"When Rat King enters the center row, place a Giant Rat on top of each other center row space.
+Reward: Gain 4H and defeat all Giant Rats in play.",,promo_cards.lua
+Pathwarden,Pathwarden,Pathwarden,promo,Hero,Gain 2R.  You may spend R as though it was P this turn.,,promo_cards.lua
+Deep Drone,Deep Drone,Deep Drone,promo,Hero,Gain 2R.  Put the next construct you acquire this turn directly into play.,,promo_cards.lua
+Void Mesmer,Void Mesmer,Void Mesmer,promo,Hero,"Gain 2P.  The next time you defeat a Monster this turn, you may acquire a Hero of equal or lesser cost.",,promo_cards.lua
+"Kythis, the Gatekeeper","Kythis, the Gatekeeper","Kythis, the Gatekeeper",promo,Monster,"When Kythis enters the center row, take the top card of the center deck and place it face down underneath him.
+",,promo_cards.lua
+Journeyman Sage,Journeyman Sage,Journeyman Sage,promo,Hero,"FATE: When this enters the center row, each player may banish a Hero in their hand to acquire a Mystic or Heavy Infantry and add it to their hand.
+",,promo_cards.lua
+Nethersnare,Nethersnare,Nethersnare,promo,Construct,"Once per turn, if there is no Monster under this, you may put a Monster from the center row under it.
+",,promo_cards.lua
+Askara of Fortune,Askara of Fortune,Askara of Fortune,promo,Hero,Each player reveals the top card of their deck. ,,promo_cards.lua
+Hedron Flare,Hedron Flare,Hedron Flare,promo,Construct,"Once per turn, you may acquire a Mechana Hero in the center row without paying its cost.",,promo_cards.lua
+"Cetra, Guide of Ogo","Cetra, Guide of Ogo","Cetra, Guide of Ogo",promo,Hero,Acquire all Heroes in the center row without paying their costs. ,,promo_cards.lua
+Ring of Life,Ring of Life,Ring of Life,promo,Construct,"Once per turn, if you have played a Lifebound Hero, gain 1R. ",,promo_cards.lua
+Ender of Days,Ender of Days,Ender of Days,promo,Monster,Reward: Gain 10H. Remove all Honor from the Honor Pool.,,promo_cards.lua
+Leprechaun,Leprechaun,Leprechaun,promo,Hero,Gain 2R.  Acquire a Pot of Gold from the End of the Rainbow or from another player's control.,,promo_cards.lua
+Pot of Gold,Pot of Gold,Pot of Gold,promo,Construct,"When you play this, draw a card.  When you play a Leprechaun, gain 1H.",,promo_cards.lua
+"Miles, Golden Prodigy","Miles, Golden Prodigy","Miles, Golden Prodigy",promo,Hero,"Draw a card. Whenever you play a card of another faction this turn, draw a card. This only happens once per faction.",,promo_cards.lua
+Control Room,Control Room,Control Room,promo,Construct,"Once per turn, you may put a Mechana Construct you control on top of the center deck.
+",,promo_cards.lua
+Soul Collector,Soul Collector,Soul Collector,promo,Construct,"Once per turn, add a Soul counter to this if you've defeated a Monster in the center row.
+",,promo_cards.lua
+Arha Sanctuary,Arha Sanctuary,Arha Sanctuary,promo,Construct,"When this enters play, put the top card of your deck under this face up.
+",,promo_cards.lua
+Moon Staff,Moon Staff,Moon Staff,promo,Construct,"Once per turn, you may spend 4R to double your power.",,promo_cards.lua
+Constricting Horror,Constricting Horror,Constricting Horror,promo,Monster,Reward: Gain 4H. Reveal cards from the center deck until you reveal a Hero. ,,promo_cards.lua
+Big Bad Bunny,Big Bad Bunny,Big Bad Bunny,promo,Monster,FATE: Place a card from the center deck facedown under this and each other card in the center row. ,,promo_cards.lua
+Lotus Siren,Lotus Siren,Lotus Siren,promo,Hero,"Gain 2R.
+",,promo_cards.lua
+Aether Channeler,Aether Channeler,Aether Channeler,promo,Hero,Banish a card from your hand.  Replace it with a random hero and put it in your hand.,,promo_cards.lua
+Spirit of the Ancients,Spirit of the Ancients,Spirit of the Ancients,promo,Hero,Choose a Lifebound Hero that hasn't been chosen with this before. This card counts as a copy of that Hero.,,promo_cards.lua
+Temporal Excavator,Temporal Excavator,Temporal Excavator,promo,Construct,:  Add one card and if it is already there then banish it and replace it.,,promo_cards.lua
+Eternal Tormentor,Eternal Tormentor,Eternal Tormentor,promo,Hero,Defeat a random Monster in the void without paying its costs and put it on the bottom of the center deck.,,promo_cards.lua
+Explosive Swarm,Explosive Swarm,Explosive Swarm,promo,Monster,"Reward: Gain 4H. When an adjacent non-Monster card would be replaced,",,promo_cards.lua
+Portal,Portal,Portal,promo,Portal,This is any hero or construct that could be found in the center deck of any Ascension set. ,,promo_cards.lua
+Aether Curator,Aether Curator,Aether Curator,promo,Hero,"Banish a card in the center row. Replace it with a Portal.
+",,promo_cards.lua
+Aetherspring Witch,Aetherspring Witch,Aetherspring Witch,promo,Hero,"Choose one: Gain 3H, or acquire a Portal in the center row without paying its cost.",,promo_cards.lua
+Destroyer's Gate,Destroyer's Gate,Destroyer's Gate,promo,Construct,"After a certain amount of time, this transforms into something awesome!",,promo_cards.lua
+Aether Ritualist,Aether Ritualist,Aether Ritualist,promo,Hero,"Gain 2P.
+",,promo_cards.lua
+Tollmaster Ky'lek,Tollmaster Ky'lek,Tollmaster Ky'lek,promo,Monster,"FATE: Banish all other cards in the center row and replace them with Portals.
+",,promo_cards.lua
+Defender of Vigil,Defender of Vigil,Defender of Vigil,promo,Hero,"Gain 2R and 2P.
+",,promo_cards.lua
+"David, Prophetic Guide","David, Prophetic Guide","David, Prophetic Guide",promo,Hero,"Draw three card, then put two cards from your hand on top of your deck in any order.",,promo_cards.lua
+Eye of Potential,Eye of Potential,Eye of Potential,promo,Construct,"Once per turn, you may banish a card in your hand. ",,promo_cards.lua
+"Forrest, Beastwarden","Forrest, Beastwarden","Forrest, Beastwarden",promo,Hero,"Gain 2R.
+",,promo_cards.lua
+Lunar Matriarch,Lunar Matriarch,Lunar Matriarch,promo,Hero,"Gain 5H.
+",,promo_cards.lua
+N.I.N.E.,N.I.N.E.,N.I.N.E.,promo,Hero,"Gain 2R.
+",,promo_cards.lua
+Tinkering Monk,Tinkering Monk,Tinkering Monk,promo,Hero,"Gain 2R.
+",,promo_cards.lua
+Ethereal Huntress,Ethereal Huntress,Ethereal Huntress,promo,Hero,"Gain 3P.
+",,promo_cards.lua
+Chaos Rider,Chaos Rider,Chaos Rider,promo,Hero,"Gain 3P.
+",,promo_cards.lua
+"Nova, Born of Chaos","Nova, Born of Chaos","Nova, Born of Chaos",promo,Monster,Reward: All players return all honor tokens to the honor pool. ,,promo_cards.lua
+Stone Blade Templar,Stone Blade Templar,Stone Blade Templar,promo,Hero,"Reveal and banish the top card of the Center Deck. If its faction is:
+",,promo_cards.lua
+Spire of the Wind,Spire of the Wind,Spire of the Wind,promo,Construct,"Once per turn, you may discard card from your hand to draw a card.",,promo_cards.lua
+Seed of the World,Seed of the World,Seed of the World,promo,Construct,"Once per turn, when you acquire a Hero in the Center Row,",,promo_cards.lua
+Chaotic Cannon,Chaotic Cannon,Chaotic Cannon,promo,Construct,"Once per turn, discard the top card of your deck to gain Power equal to its Honor value.",,promo_cards.lua
+The Aethermourne,The Aethermourne,The Aethermourne,promo,Construct,"Once per turn, gain Power equal to the number of Monsters in the Center Row.",,promo_cards.lua
+Puggageddon,Puggageddon,Puggageddon,promo,Monster,Reward: Gain 2 Honor. Put this into another player's discard pile. ,,promo_cards.lua
+Twilight Scout,Twilight Scout,Twilight Scout,WoS,Hero,"Draw a card.
+",,set10_cards.lua
+Inspired Templar,Inspired Templar,Inspired Templar,WoS,Hero,"Defeat a Monster with cost 4P or less without paying its cost.
+",,set10_cards.lua
+Pillar of Resolve,Pillar of Resolve,Pillar of Resolve,WoS,Construct,"Once per turn, if you have played a Mystic and a Heavy Infantry, draw two cards.",,set10_cards.lua
+"Ta'hyr, the Sun","Ta'hyr, the Sun","Ta'hyr, the Sun",WoS,Hero,"If all cards in the center row are DAY cards, ",,set10_cards.lua
+Shrine Attendant,Shrine Attendant,Shrine Attendant,WoS,Hero,Add a Mystic or Heavy Infantry to your hand.,,set10_cards.lua
+Searing Askara,Searing Askara,Searing Askara,WoS,Hero,Banish a card in the center row. ,,set10_cards.lua
+Arha Historian,Arha Historian,Arha Historian,WoS,Hero,Draw a card. ,,set10_cards.lua
+Bringer of Hope,Bringer of Hope,Bringer of Hope,WoS,Hero,Banish a card in your hand. ,,set10_cards.lua
+Sunstreak Courier,Sunstreak Courier,Sunstreak Courier,WoS,Hero,Gain 1R and 1P.,,set10_cards.lua
+Everbloom Witch,Everbloom Witch,Everbloom Witch,WoS,Hero,"Gain 3H.
+",,set10_cards.lua
+Marsh Ranger,Marsh Ranger,Marsh Ranger,WoS,Hero,"Gain 1R and 1H. Draw a card.
+",,set10_cards.lua
+"Vyrak, the First","Vyrak, the First","Vyrak, the First",WoS,Hero,"You may spend P as R to acquire this.
+",,set10_cards.lua
+Lunar Guardian,Lunar Guardian,Lunar Guardian,WoS,Hero,"Gain 2R.
+",,set10_cards.lua
+Verdant Chanter,Verdant Chanter,Verdant Chanter,WoS,Hero,"Gain 2R.
+",,set10_cards.lua
+Map of the Stars,Map of the Stars,Map of the Stars,WoS,Construct,"Once per turn, gain 1R and 1P.",,set10_cards.lua
+"Luro, the Hunter","Luro, the Hunter","Luro, the Hunter",WoS,Hero,"Gain 3R.
+",,set10_cards.lua
+Solar Sentry,Solar Sentry,Solar Sentry,WoS,Hero,"Gain 2R.
+",,set10_cards.lua
+Sureshot Tracker,Sureshot Tracker,Sureshot Tracker,WoS,Hero,"Gain 2P.
+",,set10_cards.lua
+Foundry Hound,Foundry Hound,Foundry Hound,WoS,Construct,"Once per turn, if you play a Mechana Contruct ",,set10_cards.lua
+Watchtower Golem,Watchtower Golem,Watchtower Golem,WoS,Construct,"Once per turn, if you play a Mechana Contruct ",,set10_cards.lua
+Wrecklamax,Wrecklamax,Wrecklamax,WoS,Construct,"Once per turn, if you play a Mechana Contruct ",,set10_cards.lua
+Illuminator,Illuminator,Illuminator,WoS,Construct,"DAY: Once per turn, gain 1R and 1P ",,set10_cards.lua
+Flare Tracker,Flare Tracker,Flare Tracker,WoS,Hero,"Gain 2R.
+",,set10_cards.lua
+Rescuebot 505,Rescuebot 505,Rescuebot 505,WoS,Construct,"When you acquire this and it is Day, put it directly into play.
+",,set10_cards.lua
+Shade Converter,Shade Converter,Shade Converter,WoS,Construct,"If you control three or more Mechana Constructs, ",,set10_cards.lua
+Dogs of War,Dogs of War,Dogs of War,WoS,Hero,"Gain 1P.
+",,set10_cards.lua
+Riftwatch Outpost,Riftwatch Outpost,Riftwatch Outpost,WoS,Construct,"Once per turn, gain 1P.
+",,set10_cards.lua
+Deadeye Assassin,Deadeye Assassin,Deadeye Assassin,WoS,Hero,"Gain 3P.
+",,set10_cards.lua
+Dark Gladiator,Dark Gladiator,Dark Gladiator,WoS,Hero,"Gain 2P.
+",,set10_cards.lua
+Dread Conjurer,Dread Conjurer,Dread Conjurer,WoS,Hero,"Draw a card.
+",,set10_cards.lua
+Wartorn Arbiter,Wartorn Arbiter,Wartorn Arbiter,WoS,Hero,Gain 1P. ,,set10_cards.lua
+Shade of Sadranis,Shade of Sadranis,Shade of Sadranis,WoS,Hero,"Gain 4P.
+",,set10_cards.lua
+"Isha, the Pursuer","Isha, the Pursuer","Isha, the Pursuer",WoS,Hero,"Gain 3P.
+",,set10_cards.lua
+Shardwing Beetle,Shardwing Beetle,Shardwing Beetle,WoS,Monster,"Reward: Gain 3H.
+",,set10_cards.lua
+Deceitful Ghoul,Deceitful Ghoul,Deceitful Ghoul,WoS,Monster,"Reward: Gain 2H.
+",,set10_cards.lua
+Scavenger Ants,Scavenger Ants,Scavenger Ants,WoS,Monster,"Reward: Gain 4H.
+",,set10_cards.lua
+Emberwing Moth,Emberwing Moth,Emberwing Moth,WoS,Monster,"Reward: Gain 5H.
+",,set10_cards.lua
+Cavern Creeper,Cavern Creeper,Cavern Creeper,WoS,Monster,Reward: Gain 1H and 1R.,,set10_cards.lua
+Shade Viper,Shade Viper,Shade Viper,WoS,Monster,"Reward: Gain 2H.
+",,set10_cards.lua
+Light of False Hope,Light of False Hope,Light of False Hope,WoS,Monster,"Reward: Gain 4H.
+",,set10_cards.lua
+Lieutenant Duros,Lieutenant Duros,Lieutenant Duros,WoS,Monster,"Reward: Gain 4H.
+",,set10_cards.lua
+Legion of Aklys,Legion of Aklys,Legion of Aklys,WoS,Monster,"If all cards in the center row are NIGHT cards, ",,set10_cards.lua
+"Aklys, the Scourge","Aklys, the Scourge","Aklys, the Scourge",WoS,Monster,"Reward: Gain 6H.
+",,set10_cards.lua
+Dhartha's Trial,Dhartha's Trial,Dhartha's Trial,GotE,Event,"Once per turn, if you have played a Mystic or Heavy Infantry, draw a card.
+",,set11_cards.lua
+"Dhartha, Eternal Seer","Dhartha, Eternal Seer","Dhartha, Eternal Seer",GotE,Hero,Draw four cards.,,set11_cards.lua
+Radiant Aspirant,Radiant Aspirant,Radiant Aspirant,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Water Elemental,Water Elemental,Water Elemental,GotE,Hero,"Draw a card.
+",,set11_cards.lua
+Sister of the Wind,Sister of the Wind,Sister of the Wind,GotE,Hero,Banish Sister of the Wind and a card in your hand. ,,set11_cards.lua
+Yuk Tribe Outcast,Yuk Tribe Outcast,Yuk Tribe Outcast,GotE,Hero,"Draw a card.
+",,set11_cards.lua
+Thunder Templar,Thunder Templar,Thunder Templar,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Whirlwind Ascetic,Whirlwind Ascetic,Whirlwind Ascetic,GotE,Hero,"Draw three cards, then discard two cards. ",,set11_cards.lua
+Brother Laias,Brother Laias,Brother Laias,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+"Sonny, Lightwielder","Sonny, Lightwielder","Sonny, Lightwielder",GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Piercing Eye,Piercing Eye,Piercing Eye,GotE,Construct,"Once per turn, if you have defeated a Monster in the center row, ",,set11_cards.lua
+Temple of the Wind,Temple of the Wind,Temple of the Wind,GotE,Construct,"Once per turn, you may banish a card in your discard pile ",,set11_cards.lua
+Cetra's Trial,Cetra's Trial,Cetra's Trial,GotE,Event,"Heroes in the center row cost 1R less to acquire (to a minimum of 1R).
+",,set11_cards.lua
+"Cetra, Celestial Body","Cetra, Celestial Body","Cetra, Celestial Body",GotE,Hero,Gain H equal to the total H of all Heroes and Constructs in the center row.,,set11_cards.lua
+Keen-eyed Aspirant,Keen-eyed Aspirant,Keen-eyed Aspirant,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Thicket Familiar,Thicket Familiar,Thicket Familiar,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Verdant Elemental,Verdant Elemental,Verdant Elemental,GotE,Hero,"Gain 3H.
+",,set11_cards.lua
+Flourishing Druidess,Flourishing Druidess,Flourishing Druidess,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+"Kiri, Meadow Witch","Kiri, Meadow Witch","Kiri, Meadow Witch",GotE,Hero,"Draw a card.
+",,set11_cards.lua
+Hearthglow Clique,Hearthglow Clique,Hearthglow Clique,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Earthmender Pura,Earthmender Pura,Earthmender Pura,GotE,Hero,"Gain 3R.
+",,set11_cards.lua
+Wildbark Mail,Wildbark Mail,Wildbark Mail,GotE,Construct,"Once per turn, if you have defeated a Monster in the center row, gain 2H.",,set11_cards.lua
+Temple of Heroes,Temple of Heroes,Temple of Heroes,GotE,Construct,"Once per turn, if you have played a Lifebound Hero or Monster, gain 2H.",,set11_cards.lua
+Reysa's Trial,Reysa's Trial,Reysa's Trial,GotE,Event,"Constructs in the center row cost 1R less to acquire (to a minimum of 1R).
+",,set11_cards.lua
+Forgemother Reysa,Forgemother Reysa,Forgemother Reysa,GotE,Hero,Choose one: Draw a card OR acquire any number of Constructs ,,set11_cards.lua
+Innovative Aspirant,Innovative Aspirant,Innovative Aspirant,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Scrap Weaver,Scrap Weaver,Scrap Weaver,GotE,Hero,"Draw a card.
+",,set11_cards.lua
+Iron Elemental,Iron Elemental,Iron Elemental,GotE,Hero,"Gain 2R.
+",,set11_cards.lua
+Conduit Monk,Conduit Monk,Conduit Monk,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Elemental Projector,Elemental Projector,Elemental Projector,GotE,Construct,"Once per turn, if you control two or more Mechana Constructs, gain 2P.",,set11_cards.lua
+Processing Hub,Processing Hub,Processing Hub,GotE,Construct,"Once per turn, if you control three or more Mechana Constructs, gain 2R.",,set11_cards.lua
+Spire of Insight,Spire of Insight,Spire of Insight,GotE,Construct,"Once per turn, if you control four or more Mechana Constructs, you may draw two cards.",,set11_cards.lua
+Blast Goggles,Blast Goggles,Blast Goggles,GotE,Construct,"Once per turn, if you control five or more Mechana Constructs, gain 5H.",,set11_cards.lua
+Cell Block E,Cell Block E,Cell Block E,GotE,Construct,"When you defeat a Monster in the center row or play a Monster, ",,set11_cards.lua
+P.R.I.M.E. Directive,P.R.I.M.E. Directive,P.R.I.M.E. Directive,GotE,Construct,"If you control eight or more Mechana Constructs, you win the game.",,set11_cards.lua
+Emri's Trial,Emri's Trial,Emri's Trial,GotE,Event,"Monsters in the center row cost 1P less to defeat (to a minimum of 1P).
+",,set11_cards.lua
+"Emri, Born of Battle","Emri, Born of Battle","Emri, Born of Battle",GotE,Hero,"Gain 4P.
+",,set11_cards.lua
+Deranged Aspirant,Deranged Aspirant,Deranged Aspirant,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Shadow Elemental,Shadow Elemental,Shadow Elemental,GotE,Hero,"Gain 2P.
+",,set11_cards.lua
+Patient Assassin,Patient Assassin,Patient Assassin,GotE,Hero,"Gain 2P.
+",,set11_cards.lua
+Venom Priestess,Venom Priestess,Venom Priestess,GotE,Hero,"Gain 2P.
+",,set11_cards.lua
+Voidrift Stalker,Voidrift Stalker,Voidrift Stalker,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Grand-Arbiter Todd,Grand-Arbiter Todd,Grand-Arbiter Todd,GotE,Hero,"EMPOWER
+",,set11_cards.lua
+"Ulan, the Crusher","Ulan, the Crusher","Ulan, the Crusher",GotE,Hero,"EMPOWER
+",,set11_cards.lua
+Madness' Embrace,Madness' Embrace,Madness' Embrace,GotE,Construct,"Once per turn, if you have defeated a Monster in the center row, ",,set11_cards.lua
+Oblivion Blossoms,Oblivion Blossoms,Oblivion Blossoms,GotE,Construct,"Once per turn, gain 1P.
+",,set11_cards.lua
+Ulan's Fist,Ulan's Fist,Ulan's Fist,GotE,Construct,"Once per turn, gain 2P.
+",,set11_cards.lua
+Xeron's Trial,Xeron's Trial,Xeron's Trial,GotE,Event,"When you play a Monster, gain 2P.
+",,set11_cards.lua
+"Xeron, False Ally","Xeron, False Ally","Xeron, False Ally",GotE,Hero,"Gain 5R.
+",,set11_cards.lua
+Nom Tribe Gremlin,Nom Tribe Gremlin,Nom Tribe Gremlin,GotE,Monster,"Reward: Gain 1H.
+",,set11_cards.lua
+Yuk Tribe Gremlin,Yuk Tribe Gremlin,Yuk Tribe Gremlin,GotE,Monster,"Reward: Gain 1H.
+",,set11_cards.lua
+Bam Tribe Gremlins,Bam Tribe Gremlins,Bam Tribe Gremlins,GotE,Monster,"Reward: Gain 2H.
+",,set11_cards.lua
+Bramble Elemental,Bramble Elemental,Bramble Elemental,GotE,Monster,"Reward: Gain 5H.
+",,set11_cards.lua
+Wildfire Elemental,Wildfire Elemental,Wildfire Elemental,GotE,Monster,"Reward: Gain 4H.
+",,set11_cards.lua
+Unspeakable Doom,Unspeakable Doom,Unspeakable Doom,GotE,Monster,"Reward: Gain 5H.
+",,set11_cards.lua
+Tectonic Thrasher,Tectonic Thrasher,Tectonic Thrasher,GotE,Monster,"Reward: Gain 4H.
+",,set11_cards.lua
+Static Elemental,Static Elemental,Static Elemental,GotE,Monster,"Reward: Gain 5H.
+",,set11_cards.lua
+Eek Tribe Gremlin,Eek Tribe Gremlin,Eek Tribe Gremlin,GotE,Monster,"Reward: Gain 5H.
+",,set11_cards.lua
+"Yur, Eye of Chaos","Yur, Eye of Chaos","Yur, Eye of Chaos",GotE,Monster,"Reward: Gain 4H.
+",,set11_cards.lua
+Deluge Elemental,Deluge Elemental,Deluge Elemental,GotE,Monster,"Reward: Gain 6H.
+",,set11_cards.lua
+Temple of Life,Temple of Life,Temple of Life,VotA,Temple,1L: Gain control of the Temple of Immortality. Gain 2R.,,set12_cards.lua
+Temple of Death,Temple of Death,Temple of Death,VotA,Temple,1D: Gain control of the Temple of Immortality. ,,set12_cards.lua
+Temple of Immortality,Temple of Immortality,Temple of Immortality,VotA,Temple,"Once per turn, choose a faction. ",,set12_cards.lua
+Blind Seer,Blind Seer,Blind Seer,VotA,Hero,"Draw a card.
+",,set12_cards.lua
+Ominous Augur,Ominous Augur,Ominous Augur,VotA,Hero,"Acquire a Hero or Construct with cost 5R or less without paying its cost.
+",,set12_cards.lua
+Jubilant Monk,Jubilant Monk,Jubilant Monk,VotA,Hero,Reveal the top card of your deck and put it into your hand. ,,set12_cards.lua
+Keeper of Secrets,Keeper of Secrets,Keeper of Secrets,VotA,Hero,"Banish a card in your hand and replace it with a Mystic or Heavy Infantry.
+",,set12_cards.lua
+Fist of the Dragon,Fist of the Dragon,Fist of the Dragon,VotA,Hero,Draw a card. Banish a card in the center row. ,,set12_cards.lua
+Flanking Askara,Flanking Askara,Flanking Askara,VotA,Hero,"Draw a card.
+",,set12_cards.lua
+"Isla, Serene Prodigy","Isla, Serene Prodigy","Isla, Serene Prodigy",VotA,Hero,"Acquire a Hero or Construct in the center row without paying its cost.
+",,set12_cards.lua
+Sacred Pot,Sacred Pot,Sacred Pot,VotA,Construct,"Serenity: Once per turn, draw a card. ",,set12_cards.lua
+Templar Outpost,Templar Outpost,Templar Outpost,VotA,Construct,"Once per turn, defeat a Monster in the center row with cost 4P or less without paying its cost.",,set12_cards.lua
+Ancient Stag,Ancient Stag,Ancient Stag,VotA,Hero,"Gain 3H.
+",,set12_cards.lua
+Cheerful Consort,Cheerful Consort,Cheerful Consort,VotA,Hero,"Gain 1H.
+",,set12_cards.lua
+Alosyan Guide,Alosyan Guide,Alosyan Guide,VotA,Hero,"When you acquire this, if you have played a Lifebound Hero this turn, ",,set12_cards.lua
+Sirewood Elder,Sirewood Elder,Sirewood Elder,VotA,Hero,"Gain 2R.
+",,set12_cards.lua
+Burial Guardian,Burial Guardian,Burial Guardian,VotA,Hero,"Gain 2R.
+",,set12_cards.lua
+Qadim Stalker,Qadim Stalker,Qadim Stalker,VotA,Hero,"Gain 2R and 2P.
+",,set12_cards.lua
+Caretaker Zahral,Caretaker Zahral,Caretaker Zahral,VotA,Hero,"Gain 3R.
+",,set12_cards.lua
+"Asalas, the Impaler","Asalas, the Impaler","Asalas, the Impaler",VotA,Hero,"Gain 2R.
+",,set12_cards.lua
+Pathfinder's Totem,Pathfinder's Totem,Pathfinder's Totem,VotA,Construct,"Unite: Once per turn, gain 1R. ",,set12_cards.lua
+Resourceful Trader,Resourceful Trader,Resourceful Trader,VotA,Hero,"Draw a card.
+",,set12_cards.lua
+Brother Marius,Brother Marius,Brother Marius,VotA,Hero,"Gain 1R.
+",,set12_cards.lua
+Excavator Pilot,Excavator Pilot,Excavator Pilot,VotA,Hero,"Gain 2R.
+",,set12_cards.lua
+Salvagemaster Mila,Salvagemaster Mila,Salvagemaster Mila,VotA,Hero,"Gain 4R.
+",,set12_cards.lua
+Forgemaster's Suit,Forgemaster's Suit,Forgemaster's Suit,VotA,Construct,"Once per turn, when you play a Mechana Construct (including this one) ",,set12_cards.lua
+Stormsmith Anvil,Stormsmith Anvil,Stormsmith Anvil,VotA,Construct,"Once per turn, when you play a Mechana Construct (including this one) ",,set12_cards.lua
+Siegemaster's Ram,Siegemaster's Ram,Siegemaster's Ram,VotA,Construct,"Once per turn, when you play a Mechana Construct (including this one) ",,set12_cards.lua
+K-YL3 Repairbot,K-YL3 Repairbot,K-YL3 Repairbot,VotA,Construct,"Once per turn, when you play a Mechana Construct (including this one) ",,set12_cards.lua
+"Tyranyx, the Pillager","Tyranyx, the Pillager","Tyranyx, the Pillager",VotA,Construct,"You may spend P in addition to R to acquire this.
+",,set12_cards.lua
+Reckless Excavator,Reckless Excavator,Reckless Excavator,VotA,Construct,"Once per turn, when you play a Mechana Construct (including this one), gain 1L or 1D.",,set12_cards.lua
+Shadowridge Scout,Shadowridge Scout,Shadowridge Scout,VotA,Hero,"Gain 2P.
+",,set12_cards.lua
+Spiteful Gladiator,Spiteful Gladiator,Spiteful Gladiator,VotA,Hero,"Gain 2P.
+",,set12_cards.lua
+Excavation Sentry,Excavation Sentry,Excavation Sentry,VotA,Hero,"Gain 2P.
+",,set12_cards.lua
+Soulsnare Hunter,Soulsnare Hunter,Soulsnare Hunter,VotA,Hero,"Gain 2P.
+",,set12_cards.lua
+Silenced Prophet,Silenced Prophet,Silenced Prophet,VotA,Hero,"Draw a card.
+",,set12_cards.lua
+Endbringer Jora,Endbringer Jora,Endbringer Jora,VotA,Hero,"Gain 3P.
+",,set12_cards.lua
+"Randall, Umbral Sage","Randall, Umbral Sage","Randall, Umbral Sage",VotA,Hero,"Gain 3P.
+",,set12_cards.lua
+Beacon of the Lost,Beacon of the Lost,Beacon of the Lost,VotA,Construct,"Echo: Once per turn, gain 1P. ",,set12_cards.lua
+Deranged Dirge,Deranged Dirge,Deranged Dirge,VotA,Construct,"Once per turn, gain 1P.
+",,set12_cards.lua
+Cavern Horror,Cavern Horror,Cavern Horror,VotA,Monster,Reward: Gain 1H. You may shuffle your discard pile into your deck. ,,set12_cards.lua
+Hellfrost Imps,Hellfrost Imps,Hellfrost Imps,VotA,Monster,Reward: Gain 2H. You may defeat a Monster in the center row named Hellfrost Imps without paying its cost.,,set12_cards.lua
+Crypt Lurker,Crypt Lurker,Crypt Lurker,VotA,Monster,Reward: Gain 3H. Gain 1D.,,set12_cards.lua
+Starved Abomination,Starved Abomination,Starved Abomination,VotA,Monster,Reward: Gain 3H. Gain 1L.,,set12_cards.lua
+Death's Widow,Death's Widow,Death's Widow,VotA,Monster,Reward: Gain 2H. Each opponent must destroy a Construct they control. ,,set12_cards.lua
+Grave Golem,Grave Golem,Grave Golem,VotA,Monster,Reward: Gain 4H. Each opponent reveals the top card of their deck ,,set12_cards.lua
+Iku's Minions,Iku's Minions,Iku's Minions,VotA,Monster,"This costs 2 less to defeat if you control a Temple.
+",,set12_cards.lua
+Mutated Scavenger,Mutated Scavenger,Mutated Scavenger,VotA,Monster,Reward: Gain 4H. Gain 5R.,,set12_cards.lua
+"Kan'zir, the Ravager","Kan'zir, the Ravager","Kan'zir, the Ravager",VotA,Monster,Reward: Gain 5H. Each opponent loses control of all Temples and destroys all Constructs they control.,,set12_cards.lua
+"Hurras, Sea's Fury","Hurras, Sea's Fury","Hurras, Sea's Fury",VotA,Monster,Reward: Gain 4H. Gain 1L and 1D.,,set12_cards.lua
+"Iku, Valley Tyrant","Iku, Valley Tyrant","Iku, Valley Tyrant",VotA,Monster,"This costs 2P less to defeat for each Temple you control.
+",,set12_cards.lua
+Dreamscape Diviner,Dreamscape Diviner,Dreamscape Diviner,Del,Hero,Gain 2I.,Are you sure you want to know?,set13_cards.lua
+Dimension Monk,Dimension Monk,Dimension Monk,Del,Hero,"Draw a card.
+",,set13_cards.lua
+Aegis Knight,Aegis Knight,Aegis Knight,Del,Hero,Banish a card in your hand or discard pile. ,,set13_cards.lua
+Dream Dealer,Dream Dealer,Dream Dealer,Del,Hero,"Draw a card, then banish a card in the center row. ",,set13_cards.lua
+Templar General,Templar General,Templar General,Del,Hero,"Defeat a Monster with cost 4P or less without paying its cost.
+",,set13_cards.lua
+Divine Askara,Divine Askara,Divine Askara,Del,Hero,"Copy the effect of a Hero played this turn.
+",,set13_cards.lua
+"Loa, Dream Dragon","Loa, Dream Dragon","Loa, Dream Dragon",Del,Hero,Roll the Delirium Die.,"His spirit, manifest through the Dreamscape.",set13_cards.lua
+"Emri, Lightbringer","Emri, Lightbringer","Emri, Lightbringer",Del,Hero,Defeat a Monster in the center row or the void without paying its cost. ,,set13_cards.lua
+Dream Stone,Dream Stone,Dream Stone,Del,Construct,You may banish this to roll the Delirium Die.,Look upon what might have been and what may come to pass.,set13_cards.lua
+The Dragon's Eye,The Dragon's Eye,The Dragon's Eye,Del,Construct,"When you play this, gain 1I.
+",,set13_cards.lua
+Delirium Nymph,Delirium Nymph,Delirium Nymph,Del,Hero,"Gain 1R.
+",,set13_cards.lua
+Dreamscape Dryad,Dreamscape Dryad,Dreamscape Dryad,Del,Hero,"Gain 3H.
+",,set13_cards.lua
+Pollen Pixie,Pollen Pixie,Pollen Pixie,Del,Hero,Gain 2R and 1H.,You're going to feel a little funny at first...,set13_cards.lua
+Dream Guide,Dream Guide,Dream Guide,Del,Hero,Gain 2R and 1I.,"At the edge of the world, she is a guide to everything beyond.",set13_cards.lua
+Tuskrider,Tuskrider,Tuskrider,Del,Hero,"Draw a card.
+",Truffles and manflesh.,set13_cards.lua
+Vineweaver,Vineweaver,Vineweaver,Del,Hero,Gain 4H.,,set13_cards.lua
+"Kor, Worldbreaker","Kor, Worldbreaker","Kor, Worldbreaker",Del,Hero,"Gain 2R and draw a card.
+",,set13_cards.lua
+"Evvy, Ogo's Gift","Evvy, Ogo's Gift","Evvy, Ogo's Gift",Del,Hero,"Acquire a Hero without paying its cost and put it on top of your deck.
+",,set13_cards.lua
+Ogo War Tree,Ogo War Tree,Ogo War Tree,Del,Construct,"Once per turn, when you acquire a Hero in the center row, ",Safe travels!,set13_cards.lua
+Steelweaver,Steelweaver,Steelweaver,Del,Hero,Gain 1R. ,,set13_cards.lua
+Scrapbot Scrapper,Scrapbot Scrapper,Scrapbot Scrapper,Del,Hero,Gain 2P. ,One man's trash is another bot's weapon.,set13_cards.lua
+Inferna Templar,Inferna Templar,Inferna Templar,Del,Hero,"Draw a card.
+",,set13_cards.lua
+Emma Ironheart,Emma Ironheart,Emma Ironheart,Del,Hero,Gain 3R. ,,set13_cards.lua
+Clockwork Shield,Clockwork Shield,Clockwork Shield,Del,Construct,"Once per turn, when you play a Mechana Construct (including this one), ",,set13_cards.lua
+Clockwork Blade,Clockwork Blade,Clockwork Blade,Del,Construct,"Once per turn, when you play a Mechana Construct (including this one), ",,set13_cards.lua
+Clockwork Helm,Clockwork Helm,Clockwork Helm,Del,Construct,"Once per turn, when you play a Mechana Construct (including this one), ",,set13_cards.lua
+Clockwork Familiar,Clockwork Familiar,Clockwork Familiar,Del,Construct,"Once per turn, when you play a Mechana Construct (including this one), ",,set13_cards.lua
+Salvage Yard,Salvage Yard,Salvage Yard,Del,Construct,"At the start of your turn, return this to your hand.",Recycle. Rebuild. Reuse.,set13_cards.lua
+"Dhartha, Mechamonk","Dhartha, Mechamonk","Dhartha, Mechamonk",Del,Construct,"Once per turn, when you play a Mechana Construct (including this one), ",,set13_cards.lua
+Nihil Chemist,Nihil Chemist,Nihil Chemist,Del,Hero,Gain 1P. ,,set13_cards.lua
+Voidrager,Voidrager,Voidrager,Del,Hero,Gain 2P. ,,set13_cards.lua
+Shield Bearer,Shield Bearer,Shield Bearer,Del,Hero,"Draw a card.
+",,set13_cards.lua
+Voidspeaker,Voidspeaker,Voidspeaker,Del,Hero,"Gain 2P.
+",A ravenous appetite for human emotion.,set13_cards.lua
+Darktome Librarian,Darktome Librarian,Darktome Librarian,Del,Hero,"Gain 2I.
+","Be careful, page six bites.",set13_cards.lua
+"Naka, Shadeborn","Naka, Shadeborn","Naka, Shadeborn",Del,Hero,"Gain 3P.
+",,set13_cards.lua
+"Cetra, Voidmother","Cetra, Voidmother","Cetra, Voidmother",Del,Hero,"Gain 4P.
+",,set13_cards.lua
+Arbiter Circlet,Arbiter Circlet,Arbiter Circlet,Del,Construct,"Once per turn, gain 1P.",Demon bone and one hundred souls.,set13_cards.lua
+Nilhammer,Nilhammer,Nilhammer,Del,Construct,"Echo: Once per turn, gain 3P. ",Need something that breaks bones and spirits?,set13_cards.lua
+Demon Pups,Demon Pups,Demon Pups,Del,Monster,Reward: Gain 1H. ,I just wanted to pet one!,set13_cards.lua
+Dream Eater,Dream Eater,Dream Eater,Del,Monster,Reward: Gain 2H and 1I.,"The dream was painful, but the reality was torture.",set13_cards.lua
+Delirium Pixies,Delirium Pixies,Delirium Pixies,Del,Monster,Reward: Gain 2H and 3R.,Come play with us.,set13_cards.lua
+Mammoth Beetle,Mammoth Beetle,Mammoth Beetle,Del,Monster,Reward: Gain 3H. ,,set13_cards.lua
+Bleaktoad,Bleaktoad,Bleaktoad,Del,Monster,Reward: Gain 4H. ,,set13_cards.lua
+Dreadmare,Dreadmare,Dreadmare,Del,Monster,Reward: Gain 4H and 3I.,A soul a day keeps the Dreadmare away.,set13_cards.lua
+Oak of Souls,Oak of Souls,Oak of Souls,Del,Monster,Reward: Gain 3H. ,The result of conscious death in an unconscious world.,set13_cards.lua
+"Zis, Dreamreaper","Zis, Dreamreaper","Zis, Dreamreaper",Del,Monster,Reward: Gain 5H. ,"As many ways to die, as there are dreams to be dreamt.",set13_cards.lua
+Torment Legionary,Torment Legionary,Torment Legionary,Del,Monster,Reward: Gain 6H. ,"Boundless ambition, beyond death, beyond reality.",set13_cards.lua
+Karion,Karion,Karion,Del,Monster,Reward: Gain 5H and 10I.,"The Dreamscape gate is corrupt, a hellish wound on two worlds.",set13_cards.lua
+"Glover, Dream Titan","Glover, Dream Titan","Glover, Dream Titan",Del,Monster,Reward: Gain 7H. ,,set13_cards.lua
+Dreamseeker Start,Dreamseeker Start,Dreamseeker,Dlvr,Hero,Gain 1I and draw a card.,Dreams maketh and dreams breaketh.,set14_cards.lua
+"Pasythea, The Redeemed","Pasythea, The Redeemed","Pasythea, The Redeemed",Dlvr,Hero,"This Hero counts as all factions
+",,set14_cards.lua
+Pasythea's Cutlass,Pasythea's Cutlass,Pasythea's Cutlass,Dlvr,Construct,"This Construct counts as all factions.
+",,set14_cards.lua
+Pasythea's Katana,Pasythea's Katana,Pasythea's Katana,Dlvr,Construct,"This Construct counts as all factions.
+",,set14_cards.lua
+Pasythea's Mace,Pasythea's Mace,Pasythea's Mace,Dlvr,Construct,"This Construct counts as all factions.
+",,set14_cards.lua
+Pasythea's Scimitar,Pasythea's Scimitar,Pasythea's Scimitar,Dlvr,Construct,"This Construct counts as all factions.
+",,set14_cards.lua
+Dreamwalker,Dreamwalker,Dreamwalker,Dlvr,Hero,"Banish a card in the center row.
+",Are you sure you want to know?,set14_cards.lua
+Dream Chamber Disciples,Dream Chamber Disciples,Dream Chamber Disciples,Dlvr,Hero,"Draw a card.
+",The Arha teach us that in time all traditions,set14_cards.lua
+Azurite Channeler,Azurite Channeler,Azurite Channeler,Dlvr,Hero,"Banish a card in your hand and replace it with a Mystic or Heavy Infantry.
+",,set14_cards.lua
+Psyonic Apprentice,Psyonic Apprentice,Psyonic Apprentice,Dlvr,Hero,"While this is in your hand, you may pay 7I ",,set14_cards.lua
+Psyonic Paladin,Psyonic Paladin,Psyonic Paladin,Dlvr,Hero,Defeat a Monster in the center row,"As the armor is shaped by our thoughts,",set14_cards.lua
+Aether Warrior,Aether Warrior,Aether Warrior,Dlvr,Hero,"PHANTASM - While this is in the center row, ",My blade severs both flesh and soul.,set14_cards.lua
+Psyche Askara,Psyche Askara,Psyche Askara,Dlvr,Hero,Copy the effect of a Hero you have played this turn,The Arha teach us that in time all traditions,set14_cards.lua
+"Dhartha, Dream Master","Dhartha, Dream Master","Dhartha, Dream Master",Dlvr,Hero,"PHANTASM - While this is in the center row, ",,set14_cards.lua
+Dream Anchor,Dream Anchor,Dream Anchor,Dlvr,Construct,"PLUNDER - Once per turn, if you acquire a card AND defeat a Monster,",,set14_cards.lua
+Entrophantasm,Entrophantasm,Entrophantasm,Dlvr,Hero,"Gain 1R and 1I.
+",Are you sure you want to know?,set14_cards.lua
+Dreamscarred Hunter,Dreamscarred Hunter,Dreamscarred Hunter,Dlvr,Hero,"Draw a card.
+",Are you sure you want to know?,set14_cards.lua
+Faerie Commander,Faerie Commander,Faerie Commander,Dlvr,Hero,Gain 2R.,He was found dead in the forest a million little cuts.,set14_cards.lua
+Green Spritelings,Green Spritelings,Green Spritelings,Dlvr,Hero,"PHANTASM - While this is in the center row, ",Are you sure you want to know?,set14_cards.lua
+Wereboar,Wereboar,Wereboar,Dlvr,Hero,Gain 2P.,Are you sure you want to know?,set14_cards.lua
+Lychan Ranger,Lychan Ranger,Lychan Ranger,Dlvr,Hero,"While this is in your hand, you may pay 6I",,set14_cards.lua
+Lychan Beast,Lychan Beast,Lychan Beast,Dlvr,Hero,Gain 3R and 3P.,They'll never see me coming.,set14_cards.lua
+"Rut, Oaken Master","Rut, Oaken Master","Rut, Oaken Master",Dlvr,Hero,"Gain 3H and draw a card.
+",,set14_cards.lua
+Tree of Bounty,Tree of Bounty,Tree of Bounty,Dlvr,Construct,"PLUNDER - Once per turn, if you acquire a card AND defeat a Monster,",Are you sure you want to know?,set14_cards.lua
+Corite Mechanadon,Corite Mechanadon,Corite Mechanadon,Dlvr,Hero,"PHANTASM - While this is in the center row, ",,set14_cards.lua
+Controlsmith,Controlsmith,Controlsmith,Dlvr,Hero,Gain 2R.,,set14_cards.lua
+Stone Artificers,Stone Artificers,Stone Artificers,Dlvr,Hero,Gain 2R.,,set14_cards.lua
+Gearseer,Gearseer,Gearseer,Dlvr,Hero,"PHANTASM - While this is in the center row, ",The only difference between genius and madness is execution.,set14_cards.lua
+Teletransmitter Blueprint,Teletransmitter Blueprint,Teletransmitter Blueprint,Dlvr,Construct,You may pay 5I to transform this into Emma's Teletransmitter.,"It's like telepathy, but less effective.
+",set14_cards.lua
+Emma's Teletransmitter,Emma's Teletransmitter,Emma's Teletransmitter,Dlvr,Construct,"Once per turn, gain 1H for each Transformed Mechana Construct you contol.","""Why in the five hells would I be calling you",set14_cards.lua
+Mechannon Blueprint,Mechannon Blueprint,Mechannon Blueprint,Dlvr,Construct,You may pay 5I to transform this into Emma's Mechannon.,"""I wonder what kind of dent this thing is",set14_cards.lua
+Emma's Mechannon,Emma's Mechannon,Emma's Mechannon,Dlvr,Construct,"Once per turn, gain 1P for each Transformed Mechana Construct you contol.","""Did anyone see that? I put a hole",set14_cards.lua
+Voidcycler Blueprint,Voidcycler Blueprint,Voidcycler Blueprint,Dlvr,Construct,You may pay 5I to transform this into Emma's Voidcycler.,"""I wonder what kind of dent this thing is",set14_cards.lua
+Emma's Voidcycler,Emma's Voidcycler,Emma's Voidcycler,Dlvr,Construct,"Once per turn, gain 1R for each Transformed Mechana Construct you contol.","""This proves it.",set14_cards.lua
+Emma's Workshop,Emma's Workshop,Emma's Workshop,Dlvr,Construct,"Once per turn, you may transform a Mechana Construct","""This place is falling apart.",set14_cards.lua
+Ironheart Blueprint,Ironheart Blueprint,Ironheart Blueprint,Dlvr,Construct,"You may pay 15I to transform this into The Ironheart.
+",,set14_cards.lua
+The Ironheart,The Ironheart,The Ironheart,Dlvr,Construct,"Once per turn, gain 3R, 3P, and 3H.","""I don't care how many tentacles you have.",set14_cards.lua
+Blackwatch Dreamer,Blackwatch Dreamer,Blackwatch Dreamer,Dlvr,Hero,"PHANTASM - While this is in the center row,",,set14_cards.lua
+Void Amathyst Defender,Void Amathyst Defender,Void Amathyst Defender,Dlvr,Hero,"Gain 2P.
+",,set14_cards.lua
+Demon Hunter,Demon Hunter,Demon Hunter,Dlvr,Hero,"While this is in your hand, you may pay 8I",Good. Bad. Try the one with the sword.,set14_cards.lua
+Demon Master,Demon Master,Demon Master,Dlvr,Hero,Gain 5P.,"The job is tough, but the smell is worse.",set14_cards.lua
+Invokist,Invokist,Invokist,Dlvr,Hero,"PHANTASM - While this is in the center row,","Fear has a face.
+",set14_cards.lua
+Nihil Bomber,Nihil Bomber,Nihil Bomber,Dlvr,Hero,Draw a card.,"Fear has a face.
+",set14_cards.lua
+"Naka, Emri's Chosen","Naka, Emri's Chosen","Naka, Emri's Chosen",Dlvr,Hero,"Gain 4P.
+",,set14_cards.lua
+"Emri, Soulstealer","Emri, Soulstealer","Emri, Soulstealer",Dlvr,Hero,"Gain 5P. If there are 10 or more Monsters in the Void, gain 10P instead","Another day, another demigod.",set14_cards.lua
+Zinta's Bracers,Zinta's Bracers,Zinta's Bracers,Dlvr,Construct,"Once per turn, if you have gained 2I or more, gain 2P.",Zinta reached into the Void and from it pulled daggers.,set14_cards.lua
+Nightmarauders,Nightmarauders,Nightmarauders,Dlvr,Monster,Reward: Gain 1H and 1I.,They're everywhere!.,set14_cards.lua
+Terminites,Terminites,Terminites,Dlvr,Monster,Reward: Gain 3H. ,"They're just bugs, soldier. How big could they be?.",set14_cards.lua
+Warpdruid,Warpdruid,Warpdruid,Dlvr,Monster,Reward: Gain 2H. ,Bark split flesh as .,set14_cards.lua
+Dreadmage,Dreadmage,Dreadmage,Dlvr,Monster,Reward: Gain 2H and draw two cards. ,,set14_cards.lua
+Warprogue,Warprogue,Warprogue,Dlvr,Monster,Reward: Gain 3H.,Love is a dream. Love is a nightmare.,set14_cards.lua
+Dream Titan,Dream Titan,Dream Titan,Dlvr,Monster,Reward: Gain 6H.,"A gold giant, taller than the mountains",set14_cards.lua
+Obfusca Spirit,Obfusca Spirit,Obfusca Spirit,Dlvr,Monster,Reward: Gain 4H. ,Love is a dream. Love is a nightmare.,set14_cards.lua
+Dream Tyrant,Dream Tyrant,Dream Tyrant,Dlvr,Monster,Reward: Gain 5H and 5I.,"A gold giant, taller than the mountains",set14_cards.lua
+River Reaper,River Reaper,River Reaper,Dlvr,Monster,Reward: Gain 6H.,"A gold giant, taller than the mountains",set14_cards.lua
+"Caaro, Desert Breaker","Caaro, Desert Breaker","Caaro, Desert Breaker",Dlvr,Monster,Reward: Gain 4H.,"A gold giant, taller than the mountains",set14_cards.lua
+"Nilia, The Shattered","Nilia, The Shattered","Nilia, The Shattered",Dlvr,Monster,Reward: Gain 5H.,"A gold giant, taller than the mountains",set14_cards.lua
+"Rakar, Corrupt Askara","Rakar, Corrupt Askara","Rakar, Corrupt Askara",Dlvr,Monster,Reward: Gain 6H. ,Love is a dream. Love is a nightmare.,set14_cards.lua
+"Vezra'Tull, The Voidwyrm","Vezra'Tull, The Voidwyrm","Vezra'Tull, The Voidwyrm",promo,Hero,"You may spend P instead of H to acquire this.
+",Some Dragons horde gold. She hordes nightmares.,set14_cards.lua
+Boon: Master Dhartha,Boon: Master Dhartha,Boon: Master Dhartha,LGND,Hero,"Once this turn, draw a card.",,set17_cards.lua
+Boon - Master Dhartha,Boon - Master Dhartha,Boon: Master Dhartha,LGND,Boon,"Once this turn, draw a card.",,set17_cards.lua
+Boon - Ulu,Boon - Ulu,Boon: Ulu,LGND,Boon,"Once this turn, gain 1 renown in another faction.",,set17_cards.lua
+Legendary Boon - Enlightened,Legendary Boon - Enlightened,Legendary Boon: Enlightened,LGND,Boon,Acquire or defeat any Enlightened card from the Center Row without paying its cost.,,set17_cards.lua
+Boon: Cetra,Boon: Cetra,Boon: Cetra,LGND,Hero,"Once this turn, you may put a Hero from your discard pile on top of your deck.",,set17_cards.lua
+Boon - Cetra,Boon - Cetra,Boon: Cetra,LGND,Boon,"Once this turn, you may put a Hero from your discard pile on top of your deck.",,set17_cards.lua
+Boon - Naira,Boon - Naira,Boon: Naira,LGND,Boon,"Once this turn, gain 2H.",,set17_cards.lua
+Legendary Boon - Lifebound,Legendary Boon - Lifebound,Legendary Boon: Lifebound,LGND,Boon,Acquire or defeat any Lifebound card from the Center Row without paying its cost.,,set17_cards.lua
+Boon: Kor,Boon: Kor,Boon: Kor,LGND,Hero,"Once this turn, gain 2R.",,set17_cards.lua
+Boon - Kor,Boon - Kor,Boon: Kor,LGND,Boon,"Once this turn, gain 2R.",,set17_cards.lua
+Boon - P.R.I.M.E.,Boon - P.R.I.M.E.,Boon: P.R.I.M.E.,LGND,Boon,"Once this turn, you may return a Construct from your discard pile to your hand.",,set17_cards.lua
+Legendary Boon - Mechana,Legendary Boon - Mechana,Legendary Boon: Mechana,LGND,Boon,Acquire or defeat any Mechana card from the Center Row without paying its cost.,,set17_cards.lua
+Boon: Naka,Boon: Naka,Boon: Naka,LGND,Hero,"Once this turn, you may banish a card you played this turn.",,set17_cards.lua
+Boon - Naka,Boon - Naka,Boon: Naka,LGND,Boon,"Once this turn, you may banish a card you played this turn.",,set17_cards.lua
+Boon - Emri,Boon - Emri,Boon: Emri,LGND,Boon,"Once this turn, gain 2P.",,set17_cards.lua
+Legendary Boon - Void,Legendary Boon - Void,Legendary Boon: Void,LGND,Boon,Acquire or defeat any Void card from the Center Row without paying its cost.,,set17_cards.lua
+Arha Recruit,Arha Recruit,Arha Recruit,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+Askara of Judgement,Askara of Judgement,Askara of Judgement,LGND,Hero,Draw a card.,,set17_cards.lua
+Pathseeker Sensei,Pathseeker Sensei,Pathseeker Sensei,LGND,Hero,Defeat a monster of 4P or less without paying its cost.,,set17_cards.lua
+Arha Emissary,Arha Emissary,Arha Emissary,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+Mountain Seer,Mountain Seer,Mountain Seer,LGND,Hero,"Draw a card, then banish a card in the Center Row.",,set17_cards.lua
+Master Vaya,Master Vaya,Master Vaya,LGND,Hero,Draw two cards.,,set17_cards.lua
+Tablet of the Templar,Tablet of the Templar,Tablet of the Templar,LGND,Construct,You may destroy this to defeat a Monster of cost 4P or less without paying its cost.,,set17_cards.lua
+Mycelial Mage,Mycelial Mage,Mycelial Mage,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+Mushroom Druid,Mushroom Druid,Mushroom Druid,LGND,Hero,Gain 3H.,,set17_cards.lua
+Lycan Fang,Lycan Fang,Lycan Fang,LGND,Hero,Gain 2R.,,set17_cards.lua
+Forest Emissary,Forest Emissary,Forest Emissary,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+Snowstrider Lycan,Snowstrider Lycan,Snowstrider Lycan,LGND,Hero,"Gain 1R, 1H, 1P, and draw a card.",,set17_cards.lua
+Turtler Merchant,Turtler Merchant,Turtler Merchant,LGND,Hero,"Gain 5H.
+",,set17_cards.lua
+Landis' Potions & Pies,Landis' Potions & Pies,Landis' Potions & Pies,LGND,Construct,"Once per turn, gain 1H.
+",Are you sure you want to know?,set17_cards.lua
+Sablespark Sisters,Sablespark Sisters,Sablespark Sisters,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+Mecha Emissary,Mecha Emissary,Mecha Emissary,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+The Dreamscrape,The Dreamscrape,The Dreamscrape,LGND,Construct,"Once per turn, you may destroy another one of your Mechana Constructs to gain 2R.",,set17_cards.lua
+Korpse Maker,Korpse Maker,Korpse Maker,LGND,Construct,"Once per turn, when you play a Mechana Construct (including this one), gain 2P.",,set17_cards.lua
+Mechannihilator,Mechannihilator,Mechannihilator,LGND,Construct,"Once per turn, you may destroy another one of your Mechana Constructs to gain 3P.",,set17_cards.lua
+Ironheart Engine,Ironheart Engine,Ironheart Engine,LGND,Construct,"Once per turn, when you play a Mechana Construct (including this one), gain 3R.",,set17_cards.lua
+Mechaphoenix,Mechaphoenix,Mechaphoenix,LGND,Construct,"Once per turn, when you play a Mechana Construct (including this one),",,set17_cards.lua
+Bombcrafter,Bombcrafter,Bombcrafter,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+Shade Feather,Shade Feather,Shade Feather,LGND,Hero,Gain 1P.,,set17_cards.lua
+Void Emissary,Void Emissary,Void Emissary,LGND,Hero,"Draw a card.
+",,set17_cards.lua
+Shadow Mender,Shadow Mender,Shadow Mender,LGND,Hero,Gain 3P.,,set17_cards.lua
+Shadow Arbiter,Shadow Arbiter,Shadow Arbiter,LGND,Hero,Draw a card.,,set17_cards.lua
+"Raiyna, Riftwalker","Raiyna, Riftwalker","Raiyna, Riftwalker",LGND,Hero,"Gain 4P.
+",,set17_cards.lua
+Riftclaw,Riftclaw,Riftclaw,LGND,Construct,"Once per turn, gain 1P.",,set17_cards.lua
+Claws of Deoful,Claws of Deoful,Claws of Deoful,LGND,Monster,"Reward: Gain 4H.
+",,set17_cards.lua
+Hurricane Warlock,Hurricane Warlock,Hurricane Warlock,LGND,Monster,Reward: Gain 2H.,,set17_cards.lua
+Correction of Creation,Correction of Creation,Correction of Creation,LGND,Monster,Reward: Gain 2H.,,set17_cards.lua
+The Iron Seven,The Iron Seven,The Iron Seven,LGND,Monster,Reward: Gain 3H.,,set17_cards.lua
+Hellstring Blades,Hellstring Blades,Hellstring Blades,LGND,Monster,Reward: Gain 5H.,,set17_cards.lua
+MarrowWyrm Rider,MarrowWyrm Rider,MarrowWyrm Rider,LGND,Monster,Reward: Gain 3H.,,set17_cards.lua
+Muse of Malevolence,Muse of Malevolence,Muse of Malevolence,LGND,Monster,Reward: Gain 5H.,,set17_cards.lua
+Lifebound Remnant,Lifebound Remnant,Lifebound Remnant,LGND,Monster,"Reward: Gain 3H.
+",,set17_cards.lua
+Enlightened Remnant,Enlightened Remnant,Enlightened Remnant,LGND,Monster,"Reward: Gain 5H.
+",,set17_cards.lua
+Mechana Remnant,Mechana Remnant,Mechana Remnant,LGND,Monster,"Reward: Gain 4H.
+",,set17_cards.lua
+Void Remnant,Void Remnant,Void Remnant,LGND,Monster,"Reward: Gain 4H.
+",,set17_cards.lua
+Remnant of the Fallen,Remnant of the Fallen,Remnant of the Fallen,LGND,Monster,"Reward: Gain 5H.
+",,set17_cards.lua
+Monk of the Stone Circle,Monk of the Stone Circle,Monk of the Stone Circle,LGND,Hero,Acquire a Hero with cost 3R or less and put it into your hand.,,set17_cards.lua
+Psychic Amulet,Psychic Amulet,Psychic Amulet,LGND,Construct,"Once per turn, when you play a Mechana or Enlightened Construct (including this one), draw a card.",,set17_cards.lua
+Psionic Monk,Psionic Monk,Psionic Monk,LGND,Hero,"Draw 2 cards.
+",,set17_cards.lua
+Portal Ninja,Portal Ninja,Portal Ninja,LGND,Hero,"Gain 2R.
+",,set17_cards.lua
+Fallen Fae,Fallen Fae,Fallen Fae,LGND,Hero,"Gain 2P.
+",,set17_cards.lua
+Dark Monk,Dark Monk,Dark Monk,LGND,Hero,"Gain 2P.
+",,set17_cards.lua
+Shade Askara,Shade Askara,Shade Askara,LGND,Hero,"Gain 3P.
+",,set17_cards.lua
+The Chrome Circle,The Chrome Circle,The Chrome Circle,LGND,Construct,"Once per turn, when you play a Mechana or Lifebound Construct (including this one), gain 1R and 1H.",,set17_cards.lua
+Mecha Cetra,Mecha Cetra,Mecha Cetra,LGND,Hero,You may acquire a Hero or Construct from the Center Row,,set17_cards.lua
+Legend - Master Dhartha,Legend - Master Dhartha,Legend: Master Dhartha,LGND,Legend,"Once this turn, draw a card.",,set17_cards.lua
+Legend - Ulu,Legend - Ulu,Legend: Ulu,LGND,Legend,"Once this turn, gain 1 renown in another faction.",,set17_cards.lua
+Legend - Cetra,Legend - Cetra,Legend: Cetra,LGND,Legend,"Once this turn, you may put a Hero from your discard pile on top of your deck.",,set17_cards.lua
+Legend - Naira,Legend - Naira,Legend: Naira,LGND,Legend,"Once this turn, gain 2H.",,set17_cards.lua
+Legend - Kor,Legend - Kor,Legend: Kor,LGND,Legend,"Once this turn, gain 2R.",,set17_cards.lua
+Legend - P.R.I.M.E.,Legend - P.R.I.M.E.,Legend: P.R.I.M.E.,LGND,Legend,"Once this turn, you may return a Construct from your discard pile to your hand.",,set17_cards.lua
+Legend - Naka,Legend - Naka,Legend: Naka,LGND,Legend,"Once this turn, you may banish a card you played this turn.",,set17_cards.lua
+Legend - Emri,Legend - Emri,Legend: Emri,LGND,Legend,"Once this turn, gain 2P.",,set17_cards.lua
+Militia 10TH,Militia 10TH,Militia,,Hero,Gain 1P.,,set1_anniv_cards.lua
+Apprentice 10TH,Apprentice 10TH,Apprentice,,Hero,Gain 1R.,,set1_anniv_cards.lua
+Mystic 10TH,Mystic 10TH,Mystic,,Hero,Gain 2R.,,set1_anniv_cards.lua
+Heavy Infantry 10TH,Heavy Infantry 10TH,Heavy Infantry,,Hero,Gain 2P.,,set1_anniv_cards.lua
+Cultist 10TH,Cultist 10TH,Cultist,,Monster,Reward: Gain 1H.,,set1_anniv_cards.lua
+Arha Initiate 10TH,Arha Initiate 10TH,Arha Initiate,CotG10,Hero,Draw a card.,,set1_anniv_cards.lua
+Arha Templar 10TH,Arha Templar 10TH,Arha Templar,CotG10,Hero,Defeat a Monster that has P4 or less.,,set1_anniv_cards.lua
+Ascetic of the Lidless Eye 10TH,Ascetic of the Lidless Eye 10TH,Ascetic of the Lidless Eye,CotG10,Hero,Draw two cards.,,set1_anniv_cards.lua
+Master Dhartha 10TH,Master Dhartha 10TH,Master Dhartha,CotG10,Hero,Draw three cards.,,set1_anniv_cards.lua
+Oziah the Peerless 10TH,Oziah the Peerless 10TH,Oziah the Peerless,CotG10,Hero,Defeat a Monster that has P6 or less.,,set1_anniv_cards.lua
+Seer of the Forked Path 10TH,Seer of the Forked Path 10TH,Seer of the Forked Path,CotG10,Hero,Draw a card.  Then you may banish a card in the center row.,,set1_anniv_cards.lua
+Tablet of Time's Dawn 10TH,Tablet of Time's Dawn 10TH,Tablet of Time's Dawn,CotG10,Construct,Banish this Construct to take an additional turn after this one.,,set1_anniv_cards.lua
+Temple Librarian 10TH,Temple Librarian 10TH,Temple Librarian,CotG10,Hero,"Discard a card.  If you do, draw two cards.",,set1_anniv_cards.lua
+The All-Seeing Eye 10TH,The All-Seeing Eye 10TH,The All-Seeing Eye,CotG10,Construct,"Once per turn, you may draw a card.",,set1_anniv_cards.lua
+Twofold Askara 10TH,Twofold Askara 10TH,Twofold Askara,CotG10,Hero,Copy the effect of a Hero played this turn.,,set1_anniv_cards.lua
+"Cetra, Weaver of Stars 10TH","Cetra, Weaver of Stars 10TH","Cetra, Weaver of Stars",CotG10,Hero,Acquire any Hero.  Place it on top of your deck.,,set1_anniv_cards.lua
+Druids of the Stone Circle 10TH,Druids of the Stone Circle 10TH,Druids of the Stone Circle,CotG10,Hero,Acquire a Hero that costs R3 or less.  Place it on top of your deck.,,set1_anniv_cards.lua
+Flytrap Witch 10TH,Flytrap Witch 10TH,Flytrap Witch,CotG10,Hero,Gain 2H.  Draw a card.,,set1_anniv_cards.lua
+Landtalker 10TH,Landtalker 10TH,Landtalker,CotG10,Hero,Gain 3R.,,set1_anniv_cards.lua
+Lifebound Initiate 10TH,Lifebound Initiate 10TH,Lifebound Initiate,CotG10,Hero,Gain 1R and 1H.,,set1_anniv_cards.lua
+Runic Lycanthrope 10TH,Runic Lycanthrope 10TH,Runic Lycanthrope,CotG10,Hero,"Gain 2R.  If you've played a Lifebound Hero this turn, gain 2P.",,set1_anniv_cards.lua
+Snapdragon 10TH,Snapdragon 10TH,Snapdragon,CotG10,Construct,"Once per turn, gain 1R.  The first time you play a Lifebound Hero each turn, gain 1H.",,set1_anniv_cards.lua
+Wolf Shaman 10TH,Wolf Shaman 10TH,Wolf Shaman,CotG10,Hero,Gain 1R.  Draw a card.,,set1_anniv_cards.lua
+Yggdrasil Staff 10TH,Yggdrasil Staff 10TH,Yggdrasil Staff,CotG10,Construct,"Once per turn, gain 1P.
+Once per turn, you may spend 4R to gain 3H.",,set1_anniv_cards.lua
+Avatar Golem 10TH,Avatar Golem 10TH,Avatar Golem,CotG10,Hero,Gain 2P.  Gain 1H for each type of Construct you control.,,set1_anniv_cards.lua
+Burrower Mark II 10TH,Burrower Mark II 10TH,Burrower Mark II,CotG10,Construct,Draw a card the first time you put a Mechana construct into play each turn (including this one).,,set1_anniv_cards.lua
+Hedron Cannon 10TH,Hedron Cannon 10TH,Hedron Cannon,CotG10,Construct,"Once per turn, gain 1P for each Mechana Construct you control.",,set1_anniv_cards.lua
+Hedron Link Device 10TH,Hedron Link Device 10TH,Hedron Link Device,CotG10,Construct,You may treat all Constructs as Mechana Constructs.,,set1_anniv_cards.lua
+"Kor, the Ferromancer 10TH","Kor, the Ferromancer 10TH","Kor, the Ferromancer",CotG10,Hero,Gain 2P.  Draw a card if you control 2 or more Constructs.,,set1_anniv_cards.lua
+Mechana Initiate 10TH,Mechana Initiate 10TH,Mechana Initiate,CotG10,Hero,Gain 1R or 1P.,,set1_anniv_cards.lua
+Reactor Monk 10TH,Reactor Monk 10TH,Reactor Monk,CotG10,Hero,Gain 2R.  The next Construct you acquire this turn costs 1R less.,,set1_anniv_cards.lua
+Rocket Courier X-99 10TH,Rocket Courier X-99 10TH,Rocket Courier X-99,CotG10,Construct,"Once per turn, when you acquire another Mechana Construct, you may put it directly into play.",,set1_anniv_cards.lua
+The Grand Design 10TH,The Grand Design 10TH,The Grand Design,CotG10,Construct,"Once per turn, gain 2R.  You may spend it only to acquire Mechana Constructs.",,set1_anniv_cards.lua
+Watchmaker's Altar 10TH,Watchmaker's Altar 10TH,Watchmaker's Altar,CotG10,Construct,"Once per turn, gain 1R.  You may spend it only to acquire Mechana Constructs.",,set1_anniv_cards.lua
+Arbiter of the Precipice 10TH,Arbiter of the Precipice 10TH,Arbiter of the Precipice,CotG10,Hero,Draw two cards.  Then banish any card in your hand.,,set1_anniv_cards.lua
+Demon Slayer 10TH,Demon Slayer 10TH,Demon Slayer,CotG10,Hero,Gain 3P.,,set1_anniv_cards.lua
+"Emri, One with the Void 10TH","Emri, One with the Void 10TH","Emri, One with the Void",CotG10,Hero,Gain 4P.,,set1_anniv_cards.lua
+Muramasa 10TH,Muramasa 10TH,Muramasa,CotG10,Construct,"Once per turn, gain 3P.",,set1_anniv_cards.lua
+Shade of the Black Watch 10TH,Shade of the Black Watch 10TH,Shade of the Black Watch,CotG10,Hero,Gain 2P.  You may banish a card in your hand or discard pile.,,set1_anniv_cards.lua
+Shadow Star 10TH,Shadow Star 10TH,Shadow Star,CotG10,Construct,"Once per turn, gain 1P.",,set1_anniv_cards.lua
+Spike Vixen 10TH,Spike Vixen 10TH,Spike Vixen,CotG10,Hero,Gain 1P.  Draw a card.,,set1_anniv_cards.lua
+Void Initiate 10TH,Void Initiate 10TH,Void Initiate,CotG10,Hero,Gain 1R.  You may banish a card in your hand or discard pile.,,set1_anniv_cards.lua
+Voidthirster 10TH,Voidthirster 10TH,Voidthirster,CotG10,Construct,"Once per turn, gain 1P.  The first time you defeat a Monster in the center row each turn, gain 1H.",,set1_anniv_cards.lua
+Avatar of the Fallen 10TH,Avatar of the Fallen 10TH,Avatar of the Fallen,CotG10,Monster,"This Monster can't be banished unless defeated.
+Reward: Gain 4H.  Acquire or Defeat any other card in the center row.",,set1_anniv_cards.lua
+Corrosive Widow 10TH,Corrosive Widow 10TH,Corrosive Widow,CotG10,Monster,Reward: Gain 3H.  Each opponent must put a Construct he controls into his discard pile.,,set1_anniv_cards.lua
+Earth Tyrant 10TH,Earth Tyrant 10TH,Earth Tyrant,CotG10,Monster,Reward: Gain 5H.  Draw two cards.,,set1_anniv_cards.lua
+Mephit 10TH,Mephit 10TH,Mephit,CotG10,Monster,Reward: Gain 2H.  You may banish a card in the center row.,,set1_anniv_cards.lua
+Mistake of Creation 10TH,Mistake of Creation 10TH,Mistake of Creation,CotG10,Monster,Reward: Gain 4H.  You may banish a card in the center row and/or a card in your discard pile.,,set1_anniv_cards.lua
+Samael's Trickster 10TH,Samael's Trickster 10TH,Samael's Trickster,CotG10,Monster,Reward: Gain 1H.  Gain 1R.,,set1_anniv_cards.lua
+Sea Tyrant 10TH,Sea Tyrant 10TH,Sea Tyrant,CotG10,Monster,Reward: Gain 5H.  Each opponent must choose a Construct they control and put the rest into their discard pile.,,set1_anniv_cards.lua
+Tormented Soul 10TH,Tormented Soul 10TH,Tormented Soul,CotG10,Monster,Reward: Gain 1H.  Draw a card.,,set1_anniv_cards.lua
+Wind Tyrant 10TH,Wind Tyrant 10TH,Wind Tyrant,CotG10,Monster,Reward: Gain 3H.  Gain 3R.,,set1_anniv_cards.lua
+"Xeron, Duke of Lies 10TH","Xeron, Duke of Lies 10TH","Xeron, Duke of Lies",CotG10,Monster,Reward: Gain 3H.  Take a card at random from each opponent's hand and add that card to your hand.,,set1_anniv_cards.lua
+Militia,Militia,Militia,,Hero,Gain 1P.,,set1_cards.lua
+Apprentice,Apprentice,Apprentice,,Hero,Gain 1R.,,set1_cards.lua
+Mystic,Mystic,Mystic,,Hero,Gain 2R.,,set1_cards.lua
+Heavy Infantry,Heavy Infantry,Heavy Infantry,,Hero,Gain 2P.,,set1_cards.lua
+Cultist,Cultist,Cultist,,Monster,Reward: Gain 1H.,,set1_cards.lua
+Arha Initiate,Arha Initiate,Arha Initiate,CotG,Hero,Draw a card.,,set1_cards.lua
+Arha Templar,Arha Templar,Arha Templar,CotG,Hero,Defeat a Monster that has P4 or less.,,set1_cards.lua
+Ascetic of the Lidless Eye,Ascetic of the Lidless Eye,Ascetic of the Lidless Eye,CotG,Hero,Draw two cards.,,set1_cards.lua
+Master Dhartha,Master Dhartha,Master Dhartha,CotG,Hero,Draw three cards.,,set1_cards.lua
+Oziah the Peerless,Oziah the Peerless,Oziah the Peerless,CotG,Hero,Defeat a Monster that has P6 or less.,,set1_cards.lua
+Seer of the Forked Path,Seer of the Forked Path,Seer of the Forked Path,CotG,Hero,Draw a card.  Then you may banish a card in the center row.,,set1_cards.lua
+Tablet of Time's Dawn,Tablet of Time's Dawn,Tablet of Time's Dawn,CotG,Construct,Banish this Construct to take an additional turn after this one.,,set1_cards.lua
+Temple Librarian,Temple Librarian,Temple Librarian,CotG,Hero,"Discard a card.  If you do, draw two cards.",,set1_cards.lua
+The All-Seeing Eye,The All-Seeing Eye,The All-Seeing Eye,CotG,Construct,"Once per turn, you may draw a card.",,set1_cards.lua
+Twofold Askara,Twofold Askara,Twofold Askara,CotG,Hero,Copy the effect of a Hero played this turn.,,set1_cards.lua
+"Cetra, Weaver of Stars","Cetra, Weaver of Stars","Cetra, Weaver of Stars",CotG,Hero,Acquire any Hero.  Place it on top of your deck.,,set1_cards.lua
+Druids of the Stone Circle,Druids of the Stone Circle,Druids of the Stone Circle,CotG,Hero,Acquire a Hero that costs R3 or less.  Place it on top of your deck.,,set1_cards.lua
+Flytrap Witch,Flytrap Witch,Flytrap Witch,CotG,Hero,Gain 2H.  Draw a card.,,set1_cards.lua
+Landtalker,Landtalker,Landtalker,CotG,Hero,Gain 3R.,,set1_cards.lua
+Lifebound Initiate,Lifebound Initiate,Lifebound Initiate,CotG,Hero,Gain 1R and 1H.,,set1_cards.lua
+Runic Lycanthrope,Runic Lycanthrope,Runic Lycanthrope,CotG,Hero,"Gain 2R.  If you've played a Lifebound Hero this turn, gain 2P.",,set1_cards.lua
+Snapdragon,Snapdragon,Snapdragon,CotG,Construct,"Once per turn, gain 1R.  The first time you play a Lifebound Hero each turn, gain 1H.",,set1_cards.lua
+Wolf Shaman,Wolf Shaman,Wolf Shaman,CotG,Hero,Gain 1R.  Draw a card.,,set1_cards.lua
+Yggdrasil Staff,Yggdrasil Staff,Yggdrasil Staff,CotG,Construct,"Once per turn, gain 1P.
+Once per turn, you may spend 4R to gain 3H.",,set1_cards.lua
+Avatar Golem,Avatar Golem,Avatar Golem,CotG,Hero,Gain 2P.  Gain 1H for each type of Construct you control.,,set1_cards.lua
+Burrower Mark II,Burrower Mark II,Burrower Mark II,CotG,Construct,Draw a card the first time you put a Mechana construct into play each turn (including this one).,,set1_cards.lua
+Hedron Cannon,Hedron Cannon,Hedron Cannon,CotG,Construct,"Once per turn, gain 1P for each Mechana Construct you control.",,set1_cards.lua
+Hedron Link Device,Hedron Link Device,Hedron Link Device,CotG,Construct,You may treat all Constructs as Mechana Constructs.,,set1_cards.lua
+"Kor, the Ferromancer","Kor, the Ferromancer","Kor, the Ferromancer",CotG,Hero,Gain 2P.  Draw a card if you control 2 or more Constructs.,,set1_cards.lua
+Mechana Initiate,Mechana Initiate,Mechana Initiate,CotG,Hero,Gain 1R or 1P.,,set1_cards.lua
+Reactor Monk,Reactor Monk,Reactor Monk,CotG,Hero,Gain 2R.  The next Construct you acquire this turn costs 1R less.,,set1_cards.lua
+Rocket Courier X-99,Rocket Courier X-99,Rocket Courier X-99,CotG,Construct,"Once per turn, when you acquire another Mechana Construct, you may put it directly into play.",,set1_cards.lua
+The Grand Design,The Grand Design,The Grand Design,CotG,Construct,"Once per turn, gain 2R.  You may spend it only to acquire Mechana Constructs.",,set1_cards.lua
+Watchmaker's Altar,Watchmaker's Altar,Watchmaker's Altar,CotG,Construct,"Once per turn, gain 1R.  You may spend it only to acquire a Mechana Construct.",,set1_cards.lua
+Arbiter of the Precipice,Arbiter of the Precipice,Arbiter of the Precipice,CotG,Hero,Draw two cards.  Then banish any card in your hand.,,set1_cards.lua
+Demon Slayer,Demon Slayer,Demon Slayer,CotG,Hero,Gain 3P.,,set1_cards.lua
+"Emri, One with the Void","Emri, One with the Void","Emri, One with the Void",CotG,Hero,Gain 4P.,,set1_cards.lua
+Muramasa,Muramasa,Muramasa,CotG,Construct,"Once per turn, gain 3P.",,set1_cards.lua
+Shade of the Black Watch,Shade of the Black Watch,Shade of the Black Watch,CotG,Hero,Gain 2P.  You may banish a card in your hand or discard pile.,,set1_cards.lua
+Shadow Star,Shadow Star,Shadow Star,CotG,Construct,"Once per turn, gain 1P.",,set1_cards.lua
+Spike Vixen,Spike Vixen,Spike Vixen,CotG,Hero,Gain 1P.  Draw a card.,,set1_cards.lua
+Void Initiate,Void Initiate,Void Initiate,CotG,Hero,Gain 1R.  You may banish a card in your hand or discard pile.,,set1_cards.lua
+Voidthirster,Voidthirster,Voidthirster,CotG,Construct,"Once per turn, gain 1P.  The first time you defeat a Monster in the center row each turn, gain 1H.",,set1_cards.lua
+Avatar of the Fallen,Avatar of the Fallen,Avatar of the Fallen,CotG,Monster,"This Monster can't be banished unless defeated.
+Reward: Gain 4H.  Acquire or Defeat any other card in the center row.",,set1_cards.lua
+Corrosive Widow,Corrosive Widow,Corrosive Widow,CotG,Monster,Reward: Gain 3H.  Each opponent must put a Construct he controls into his discard pile.,,set1_cards.lua
+Earth Tyrant,Earth Tyrant,Earth Tyrant,CotG,Monster,Reward: Gain 5H.  Draw two cards.,,set1_cards.lua
+Mephit,Mephit,Mephit,CotG,Monster,Reward: Gain 2H.  You may banish a card in the center row.,,set1_cards.lua
+Mistake of Creation,Mistake of Creation,Mistake of Creation,CotG,Monster,Reward: Gain 4H.  You may banish a card in the center row and/or a card in your discard pile.,,set1_cards.lua
+Samael's Trickster,Samael's Trickster,Samael's Trickster,CotG,Monster,Reward: Gain 1H.  Gain 1R.,,set1_cards.lua
+Sea Tyrant,Sea Tyrant,Sea Tyrant,CotG,Monster,Reward: Gain 5H.  Each opponent must choose a Construct they control and put the rest into their discard pile.,,set1_cards.lua
+Tormented Soul,Tormented Soul,Tormented Soul,CotG,Monster,Reward: Gain 1H.  Draw a card.,,set1_cards.lua
+Wind Tyrant,Wind Tyrant,Wind Tyrant,CotG,Monster,Reward: Gain 3H.  Gain 3R.,,set1_cards.lua
+"Xeron, Duke of Lies","Xeron, Duke of Lies","Xeron, Duke of Lies",CotG,Monster,Reward: Gain 3H.  Take a card at random from each opponent's hand and add that card to your hand.,,set1_cards.lua
+Adayu the Omnipotent,Adayu the Omnipotent,"Adayu, the Chosen",RotF,Hero,Acquire or defeat any card in the center row.  (You do not have to pay Runes or Power).,,set2_cards.lua
+Arha Sensei,Arha Sensei,Arha Sensei,RotF,Hero,"Banish a card in your hand.  If you do, acquire a Mystic or Heavy Infantry.  Add it to your hand.",,set2_cards.lua
+Askara of Fate,Askara of Fate,Askara of Fate,RotF,Hero,"FATE: When this enters the center row, each player may draw a card.
+Draw two cards.  Each other player may draw a card.  Then you may banish a card in the center row.",,set2_cards.lua
+Dhartha's Retreat,Dhartha's Retreat,Dhartha's Retreat,RotF,Construct,"If you do not acquire or defeat a card on your turn, you may draw two additional cards at the end of your turn.",,set2_cards.lua
+Eternal Askara,Eternal Askara,Eternal Askara,RotF,Hero,"Banish a card in the center row.   If you banish a monster this way, gain 3H.",,set2_cards.lua
+Hectic Scribe,Hectic Scribe,Hectic Scribe,RotF,Hero,"Draw two cards, then discard two cards.",,set2_cards.lua
+"Nairi, Henge Queen","Nairi, Henge Queen","Nairi, Henge Queen",RotF,Hero,Gain 5H.,,set2_cards.lua
+Dandelion Witch,Dandelion Witch,Dandelion Witch,RotF,Hero,Draw a card.  Gain 1H for each Lifebound Hero you play or have played this turn (including this one).,,set2_cards.lua
+Great-Omen Raven,Great-Omen Raven,Great-Omen Raven,RotF,Hero,"Name a card.  Reveal the top card of your deck and put it into your hand.  If it is the named card, gain 3H.",,set2_cards.lua
+Lunar Stag,Lunar Stag,Lunar Stag,RotF,Hero,Gain 2R or 2H.,,set2_cards.lua
+Serpentcall,Serpentcall,Serpentcall,RotF,Construct,"Once per turn, gain 2R.
+Once per turn, you may acquire a hero from the Void by paying its Rune cost.",,set2_cards.lua
+Stone Circle,Stone Circle,Stone Circle,,Construct,"Once per turn, you may reveal the top card of your deck.  If it's a Lifebound Hero, draw it.
+Once per turn, you may spend 2R to gain 1H.",,set2_cards.lua
+Stone Circle,Stone Circle,Stone Circle,RotF,Construct,"FATE: When this enters the center row, each player may acquire a Mystic.  Put it on top of their deck.
+Once per turn, when you acquire a Hero, you may put it on top of your deck.",,set2_cards.lua
+Project Alpha,Project Alpha,Project Alpha,RotF,Construct,"Once per turn, you may acquire a Hero or Construct with cost less than or equal to the number of Mechana Constructs you control.",,set2_cards.lua
+Dimension Diver,Dimension Diver,Dimension Diver,RotF,Hero,Gain 2R.  You may treat all Constructs as Mechana Constructs this turn.,,set2_cards.lua
+Combustion Idol,Combustion Idol,Combustion Idol,RotF,Construct,"Once per turn, you may draw a card if you control three or more Mechana Constructs.",,set2_cards.lua
+Battery Monk,Battery Monk,Battery Monk,RotF,Hero,You may pay 1R less the next time you acquire a Construct this turn.  Draw a card.,,set2_cards.lua
+Reclamax,Reclamax,Reclamax,RotF,Construct,"FATE: When this enters the center row, each player may choose a Construct in their discard pile and put it in their hand.
+",,set2_cards.lua
+Socket Altar,Socket Altar,Socket Altar,RotF,Construct,"Once per turn, when you put a Mechana Construct into play (including this one), gain 2R.",,set2_cards.lua
+Ferromancer's Helper,Ferromancer's Helper,Ferromancer's Helper,,Hero,"Gain 2R.  You may put a Construct you control into your discard pile.  If you do, gain 2P.",,set2_cards.lua
+Arbiter of Fate,Arbiter of Fate,Arbiter of Fate,RotF,Hero,"FATE: When this enters the center row, each player may banish a card from their hand or discard pile.
+Draw a card. You may banish a card in your hand or discard pile.",,set2_cards.lua
+Guardian of Sadranis,Guardian of Sadranis,Guardian of Sadranis,RotF,Hero,"Gain 1P. The next time you defeat a Monster in the center row or the Void this turn, gain 2H.",,set2_cards.lua
+Black Hole,Black Hole,Black Hole,RotF,Construct,"Once per turn, you may banish a card in your hand.  If you do, gain 1P.",,set2_cards.lua
+Deathseeker,Deathseeker,Deathseeker,RotF,Hero,"Gain 2P.  If this is banished from your hand or discard pile, gain 3H.",,set2_cards.lua
+"Sadranis, Dark Emissary","Sadranis, Dark Emissary","Sadranis, Dark Emissary",RotF,Hero,Gain 3P. You may defeat a Monster from the Void by paying its Power cost. Put it on the bottom of the center deck.,,set2_cards.lua
+Black Watch Elite,Black Watch Elite,Black Watch Elite,RotF,Hero,Gain 3P.  You may banish a card in your hand or discard pile.,,set2_cards.lua
+"Bazu, Duke of Scorn","Bazu, Duke of Scorn","Bazu, Duke of Scorn",RotF,Monster,Reward: Gain 4H.  Each opponent either discards a card for each Construct they control or puts all Constructs into their discard pile.,,set2_cards.lua
+Doom Weeper,Doom Weeper,Doom Weeper,RotF,Monster,Reward: Gain 2H.  Gain 2R.,,set2_cards.lua
+Fire Tyrant,Fire Tyrant,Fire Tyrant,RotF,Monster,Reward: Gain 6H.  Each opponent must discard a card.,,set2_cards.lua
+Ravenous Gorph,Ravenous Gorph,Ravenous Gorph,RotF,Monster,"FATE: When this enters the center row, banish all cards adjacent to it.
+Reward: Gain 3H. You may banish a card that was adjacent to this.",,set2_cards.lua
+Samael the Fallen,Samael the Fallen,Samael the Fallen,RotF,Monster,"Unbanishable.
+Reward: Gain 8H.  Place this face up in front of you.  For the rest of the game, when you defeat a Monster in the center row, acquire it.  Monsters in your deck are considered Heroes that gain you Power equal to their cost.",,set2_cards.lua
+Sordid Asp,Sordid Asp,Sordid Asp,RotF,Monster,"Reward: Gain 1H, then steal 2H from an opponent with the most Honor if they have more than you.",,set2_cards.lua
+Vaultbreaker Wurm,Vaultbreaker Wurm,Vaultbreaker Wurm,RotF,Monster,Reward: Gain 4H.  Each other player must discard their highest cost Construct. (They choose in case of a tie).,,set2_cards.lua
+Militia SoS,Militia SoS,Militia,,Hero,Gain 1P.,,set3_cards.lua
+Apprentice SoS,Apprentice SoS,Apprentice,,Hero,Gain 1R.,,set3_cards.lua
+Mystic SoS,Mystic SoS,Mystic,,Hero,Gain 2R.,,set3_cards.lua
+Heavy Infantry SoS,Heavy Infantry SoS,Heavy Infantry,,Hero,Gain 2P.,,set3_cards.lua
+Cultist SoS,Cultist SoS,Cultist,,Monster,Reward: Gain 1H.,,set3_cards.lua
+Fanatic SoS,Fanatic SoS,Fanatic,SoS,Monster,"Reward: Gain 2H.
+",,set3_cards.lua
+Arha Rising,Arha Rising,Arha Rising,SoS,Event,"Once per turn, when a player discards any number of cards, they may return one of them to their hand.
+",,set3_cards.lua
+Dreamer's Glass,Dreamer's Glass,Dreamer's Glass,SoS,Construct,"Once per turn, you may put a card from your hand under this face up.
+",,set3_cards.lua
+Tower Askara,Tower Askara,Tower Askara,SoS,Hero,"Draw 3 cards.  Then, discard 2 cards or an Enlightened card.",,set3_cards.lua
+"Raj, Psionic Master","Raj, Psionic Master","Raj, Psionic Master",SoS,Hero,"Banish a Hero from your hand.
+",,set3_cards.lua
+Eye of Destiny,Eye of Destiny,Eye of Destiny,SoS,Construct,"Once per turn, when you acquire a Hero, you may put it into your hand.",,set3_cards.lua
+Elder Skeptic,Elder Skeptic,Elder Skeptic,SoS,Hero,"Draw 2 cards.  Then, discard a card.",,set3_cards.lua
+Elemental Adept,Elemental Adept,Elemental Adept,SoS,Hero,"Draw a card.
+",,set3_cards.lua
+Nook Hound,Nook Hound,Nook Hound,SoS,Hero,"FATE: When this enters the center row, each player may look at the top card of their deck.  They may put it into their discard pile.",,set3_cards.lua
+Prodigal,Prodigal,Prodigal,SoS,Hero,Defeat a monster with P3 or less.,,set3_cards.lua
+Treasures of the Study,Treasures of the Study,Treasures of the Study,SoS,Construct,"Once per turn, you may discard 2 cards.  If you do, gain 3H.",,set3_cards.lua
+Ogo Rising,Ogo Rising,Ogo Rising,SoS,Event,"The first Hero played this turn is also a Lifebound Hero.
+",,set3_cards.lua
+Starchild,Starchild,Starchild,SoS,Hero,"Gain 1R and 1H.  Then, draw a card.",,set3_cards.lua
+Granger,Granger,Granger,SoS,Hero,Gain 1R and 1H.  UNITE: Gain 1R and 1H.,,set3_cards.lua
+"Syril, Runic Alpha","Syril, Runic Alpha","Syril, Runic Alpha",SoS,Hero,Gain 3R.  UNITE: Gain 3P.,,set3_cards.lua
+Lionheart,Lionheart,Lionheart,SoS,Hero,Gain 3H.  UNITE: Draw a card.,,set3_cards.lua
+Everbloom,Everbloom,Everbloom,SoS,Construct,"Once per turn, gain 1 Honor.",,set3_cards.lua
+Snake Shaman,Snake Shaman,Snake Shaman,SoS,Hero,"Gain 1R.  If the Current Event is Lifebound, gain an additional 1R.
+",,set3_cards.lua
+Honey Siren,Honey Siren,Honey Siren,SoS,Hero,"FATE: When Honey Siren enters the center row, each player may put a Hero from their discard pile on top of their deck.
+",,set3_cards.lua
+Avatar of Aiyana,Avatar of Aiyana,Avatar of Aiyana,SoS,Hero,"Gain 2R.
+",,set3_cards.lua
+Aiyana's Messenger,Aiyana's Messenger,Aiyana's Messenger,SoS,Hero,Gain 1R.  You may pay 1 less Rune the next time you aquire a Hero this turn.,,set3_cards.lua
+Hedron Rising,Hedron Rising,Hedron Rising,SoS,Event,"All Constructs are also Mechana Constructs.
+",,set3_cards.lua
+Weapon 303-V,Weapon 303-V,Weapon 303-V,SoS,Construct,"Once per turn, when you play a Mechana Construct (including this one), you gain 3P.",,set3_cards.lua
+Scrap Flinger,Scrap Flinger,Scrap Flinger,SoS,Hero,"Gain 2P.  You may destroy a Construct you control.  If you do, gain an additional 2P.",,set3_cards.lua
+Dream Machine,Dream Machine,Dream Machine,SoS,Construct,"FATE: When Dream Machine enters the center row, each player may return a Construct they control to their hand.
+",,set3_cards.lua
+Brazer Drone,Brazer Drone,Brazer Drone,SoS,Hero,Gain 1R.  You may return a Construct from your discard pile to your hand.,,set3_cards.lua
+Autobuilder 5.0,Autobuilder 5.0,Autobuilder 5.0,SoS,Construct,You may destroy this to pay 2R less the next time you acquire a Mechana Construct this turn.,,set3_cards.lua
+P.R.I.M.E.,P.R.I.M.E.,P.R.I.M.E.,SoS,Hero,"Gain 3R or acquire a Construct in the center row.
+",,set3_cards.lua
+Personal Wormhole,Personal Wormhole,Personal Wormhole,SoS,Construct,"Once per turn, when you play a Mechana Construct (including this one), you may banish a card in your hand or discard pile.",,set3_cards.lua
+Cog Maw,Cog Maw,Cog Maw,SoS,Construct,"Once per turn, you may destroy a Mechana Construct you control to gain 1R.
+",,set3_cards.lua
+Synchronizer,Synchronizer,Synchronizer,SoS,Construct,"Once per turn, when you play a Mechana Construct (including this one), gain 1R.",,set3_cards.lua
+Grease Monk,Grease Monk,Grease Monk,SoS,Hero,Gain 1R.  You may pay 1 Rune less the next time you acquire a Construct this turn.,,set3_cards.lua
+Void Rising,Void Rising,Void Rising,SoS,Event,"Once per turn, when a player defeats a Monster in the Center Row, that player gains 1H.
+",,set3_cards.lua
+Void Militia,Void Militia,Void Militia,SoS,Hero,Gain 1P.  You may pay 1 Power less the next time you defeat a Monster in the center row this turn.,,set3_cards.lua
+Abolisher,Abolisher,Abolisher,SoS,Hero,"Gain 1R.  You may banish a card in you hand; if you do, gain an additional 1R.",,set3_cards.lua
+Nihilmancer,Nihilmancer,Nihilmancer,SoS,Hero,"Gain 2P.  You may banish a card in you hand; if you do, gain an additional 1P.",,set3_cards.lua
+Canopic Jar,Canopic Jar,Canopic Jar,SoS,Construct,"Once per turn, gain 1P.
+Once per turn, when you defeat a Monster in the center row, gain 1R.",,set3_cards.lua
+Soul Assassin,Soul Assassin,Soul Assassin,SoS,Hero,"Gain 2P. The next time you defeat a Monster in the center row, gain 2R.",,set3_cards.lua
+Shadowcaster,Shadowcaster,Shadowcaster,SoS,Hero,"Draw a card.
+You may banish a card from your hand; if you do, you may draw an additional 1 card.
+",,set3_cards.lua
+Penumbral Edge,Penumbral Edge,Penumbral Edge,SoS,Construct,"Once per turn, gain 2P.  Gain an additional 2P if you control Umbral Edge.",,set3_cards.lua
+Umbral Edge,Umbral Edge,Umbral Edge,SoS,Construct,"Once per turn, gain 2P.  Gain an additional 2P if you control Penumbral Edge.",,set3_cards.lua
+"Emri, Soulslayer","Emri, Soulslayer","Emri, Soulslayer",SoS,Hero,"FATE: Each player may banish 2 cards from their hand and/or discard pile.
+",,set3_cards.lua
+Rise of the Cult,Rise of the Cult,Rise of the Cult,SoS,Event,"Cultists and Fanatics have +1P and their rewards have +1P.
+",,set3_cards.lua
+Unchained Fates,Unchained Fates,Unchained Fates,SoS,Monster,Reward: 5H.  TROPHY: Draw 2 cards.,,set3_cards.lua
+Minotaur,Minotaur,Minotaur,SoS,Monster,Reward: 3H.  TROPHY: Draw 1 card.,,set3_cards.lua
+Hoarding Whelp,Hoarding Whelp,Hoarding Whelp,SoS,Monster,Reward: 2H.  TROPHY: Gain 1P.,,set3_cards.lua
+Hoarding Tyrant,Hoarding Tyrant,Hoarding Tyrant,SoS,Monster,Reward: 4H.  TROPHY: Gain 2R.,,set3_cards.lua
+Fettered Soul,Fettered Soul,Fettered Soul,SoS,Monster,Reward: Gain 2H.  You may banish a card in the center row.,,set3_cards.lua
+Vandal Soul,Vandal Soul,Vandal Soul,SoS,Monster,Reward: 3H.  Each opponent destroys the lowest cost construct they control.,,set3_cards.lua
+Polaris Demon,Polaris Demon,Polaris Demon,SoS,Monster,"Reward: 5H.  Choose one:
+",,set3_cards.lua
+Nemesis,Nemesis,Nemesis,SoS,Monster,"FATE: Banish the current event.
+",,set3_cards.lua
+"Tarik, the Trickster","Tarik, the Trickster","Tarik, the Trickster",SoS,Monster,Reward: 5H.  You may choose a Hero in the center row and copy its effect.,,set3_cards.lua
+Noxious Soul,Noxious Soul,Noxious Soul,SoS,Monster,Reward: 4H.  Each opponent must discard a card at random from their hand.,,set3_cards.lua
+Moment of Clarity,Moment of Clarity,Moment of Clarity,IH,Event,"When a player acquires an Enlightened card, that player may draw a card.
+",,set4_cards.lua
+"Aaron, the Godslayer","Aaron, the Godslayer","Aaron, the Godslayer",IH,Hero,Defeat a Monster without paying its cost.,,set4_cards.lua
+Arha Medium,Arha Medium,Arha Medium,IH,Hero,You may banish this to acquire a Mystic or Heavy Infantry without paying its cost.  Put it into your hand.,,set4_cards.lua
+Askara of Souls,Askara of Souls,Askara of Souls,IH,Hero,Gain a Soul Gem.,,set4_cards.lua
+"Elan, Soul Marshal","Elan, Soul Marshal","Elan, Soul Marshal",IH,Hero,Gain a Soul Gem.  Draw a card.,,set4_cards.lua
+Temple Guardian,Temple Guardian,Temple Guardian,IH,Hero,"Defeat a Monster with P5 or less without paying its cost.
+",,set4_cards.lua
+Wandering Askara,Wandering Askara,Wandering Askara,IH,Hero,"Draw a card, then you may banish a card in the center row.
+",,set4_cards.lua
+The Great Eclipse,The Great Eclipse,The Great Eclipse,IH,Event,"When a player acquires a Lifebound Hero, that player may put it on top of their deck.
+",,set4_cards.lua
+"Sabre, the Moonlit","Sabre, the Moonlit","Sabre, the Moonlit",IH,Hero,"Gain 1R. Gain 1P. Gain 1H. Draw a card. 
+",,set4_cards.lua
+Spider Witch,Spider Witch,Spider Witch,IH,Hero,Gain 2H.  UNITE: Gain a Soul Gem.,,set4_cards.lua
+Stone Circle Elder,Stone Circle Elder,Stone Circle Elder,IH,Hero,"Acquire a Hero that costs R5 or less without paying its cost.  Put it on top of your deck.
+",,set4_cards.lua
+Wolf Acolyte,Wolf Acolyte,Wolf Acolyte,IH,Hero,Gain 1R.  UNITE: Draw a card.,,set4_cards.lua
+Beast Staff,Beast Staff,Beast Staff,IH,Construct,"Once per turn, gain 1P.
+",,set4_cards.lua
+The World Tree,The World Tree,The World Tree,IH,Construct,"Once per turn, you may pay up to 5R to gain that much H. 
+",,set4_cards.lua
+Cosmic Protocol,Cosmic Protocol,Cosmic Protocol,IH,Event,"When a player acquires a Mechana Construct, that player may put it directly into play.
+",,set4_cards.lua
+Energy Monk,Energy Monk,Energy Monk,IH,Hero,Gain 2P.  You may return a Construct you control to your hand.,,set4_cards.lua
+Hedron Pyromaniac,Hedron Pyromaniac,Hedron Pyromaniac,IH,Hero,Gain 2R.  You may destroy a Construct you control to gain a Soul Gem.,,set4_cards.lua
+Astroblade TRX,Astroblade TRX,Astroblade TRX,IH,Construct,"Once per turn, when you play a Mechana Construct (including this one), gain 1H.",,set4_cards.lua
+Driller Mark IV,Driller Mark IV,Driller Mark IV,IH,Construct,"Once per turn, when you play a Mechana Construct (including this one), gain a Soul Gem.",,set4_cards.lua
+Recyclicrab,Recyclicrab,Recyclicrab,IH,Construct,"When you play a Mechana Construct, if this is in your discard pile you may return it to your hand.",,set4_cards.lua
+Repurposer,Repurposer,Repurposer,IH,Construct,"Once per turn, when you play a Mechana Construct (including this one), ",,set4_cards.lua
+Spark Sprayer,Spark Sprayer,Spark Sprayer,IH,Construct,"Once per turn, you may destroy a Mechana Construct you control to gain 1P.
+",,set4_cards.lua
+Annihilation,Annihilation,Annihilation,IH,Event,"When a player acquires a Void card, that player may banish a card in their hand or discard pile.
+",,set4_cards.lua
+"Belthar, Soul Collector","Belthar, Soul Collector","Belthar, Soul Collector",IH,Hero,"Gain 3P. The next time you defeat a Monster in the center row this turn, gain 3R.",,set4_cards.lua
+Deathsworn Warrior,Deathsworn Warrior,Deathsworn Warrior,IH,Hero,"FATE: Each player may banish a card from their hand or discard pile.
+",,set4_cards.lua
+Soulshaper,Soulshaper,Soulshaper,IH,Hero,"You may banish this or another card in your hand. 
+",,set4_cards.lua
+Trophy Hunter,Trophy Hunter,Trophy Hunter,IH,Hero,Gain 2P.  You pay 1P less the next time you defeat a Trophy Monster this turn.,,set4_cards.lua
+Void Avenger,Void Avenger,Void Avenger,IH,Hero,"Gain 3P. The next time you defeat a Monster in the center row, gain a Soul Gem.",,set4_cards.lua
+Orb of Nyx,Orb of Nyx,Orb of Nyx,IH,Construct,"Once per turn, gain 3P.
+When you defeat a Monster in the center row, gain a Soul Gem.",,set4_cards.lua
+Souls Unbound,Souls Unbound,Souls Unbound,IH,Event,"Monsters in the center row are Unbanishable.
+",,set4_cards.lua
+Acidic Crawler,Acidic Crawler,Acidic Crawler,IH,Monster,"Reward: 5H.  If an opponent controls the most Constructs, destroy all Constructs that player controls.",,set4_cards.lua
+"Akam, the Genie","Akam, the Genie","Akam, the Genie",IH,Monster,"Reward: 3H.  ONGOING TROPHY: Put three Wish counters on Akam. 
+",,set4_cards.lua
+Cackling Jackal,Cackling Jackal,Cackling Jackal,IH,Monster,Reward: 2H.  TROPHY: Banish this to gain 1R.,,set4_cards.lua
+Growmites,Growmites,Growmites,IH,Monster,"Reward: Gain 2H.  ONGOING TROPHY: When you defeat another Growmites, gain 2H.",,set4_cards.lua
+Nothing Man,Nothing Man,Nothing Man,IH,Monster,Reward: 3H.  TROPHY: Banish this to gain a Soul Gem.,,set4_cards.lua
+"Kythis, Rebel Godling","Kythis, Rebel Godling","Kythis, Rebel Godling",IH,Monster,"Reward: 8H.  ONGOING TROPHY: Once per turn, gain a Soul Gem.",,set4_cards.lua
+"Kythis, Rebel Godling v2","Kythis, Rebel Godling v2","Kythis, Rebel Godling v2",IH,Monster,"Reward: 8H.  ONGOING TROPHY: Once per turn, gain a Soul Gem.",,set4_cards.lua
+Soul Gem - Arha Initiate,Soul Gem - Arha Initiate,Arha Initiate,IH,Soul Gem,Draw a card.,,set4_soulgems.lua
+Soul Gem - Arha Templar,Soul Gem - Arha Templar,Arha Templar,IH,Soul Gem,Defeat a Monster that has P4 or less.,,set4_soulgems.lua
+Soul Gem - Ascetic of the Lidless Eye,Soul Gem - Ascetic of the Lidless Eye,Ascetic of the Lidless Eye,IH,Soul Gem,Draw two cards.,,set4_soulgems.lua
+Soul Gem - Askara of Fate,Soul Gem - Askara of Fate,Askara of Fate,IH,Soul Gem,Draw two cards.  Each other player may draw a card.  Then you may banish a card in the center row.,,set4_soulgems.lua
+Soul Gem - Master Dhartha,Soul Gem - Master Dhartha,Master Dhartha,IH,Soul Gem,Draw three cards.,,set4_soulgems.lua
+Soul Gem - Seer of the Forked Path,Soul Gem - Seer of the Forked Path,Seer of the Forked Path,IH,Soul Gem,Draw a card.  Then you may banish a card in the center row.,,set4_soulgems.lua
+Soul Gem - Druids of the Stone Circle,Soul Gem - Druids of the Stone Circle,Druids of the Stone Circle,IH,Soul Gem,Acquire a Hero that costs R3 or less.  Place it on top of your deck.,,set4_soulgems.lua
+Soul Gem - Great-Omen Raven,Soul Gem - Great-Omen Raven,Great-Omen Raven,IH,Soul Gem,"Name a card.  Reveal the top card of your deck and put it into your hand.  If it is the named card, gain 3H.",,set4_soulgems.lua
+Soul Gem - Landtalker,Soul Gem - Landtalker,Landtalker,IH,Soul Gem,Gain 3R.,,set4_soulgems.lua
+Soul Gem - Lifebound Initiate,Soul Gem - Lifebound Initiate,Lifebound Initiate,IH,Soul Gem,Gain 1R and 1H.,,set4_soulgems.lua
+Soul Gem - Runic Lycanthrope,Soul Gem - Runic Lycanthrope,Runic Lycanthrope,IH,Soul Gem,"Gain 2R.  If you've played a Lifebound Hero this turn, gain 2P.",,set4_soulgems.lua
+Soul Gem - Wolf Shaman,Soul Gem - Wolf Shaman,Wolf Shaman,IH,Soul Gem,Gain 1R.  Draw a card.,,set4_soulgems.lua
+Soul Gem - Avatar Golem,Soul Gem - Avatar Golem,Avatar Golem,IH,Soul Gem,Gain 2P.  Gain 1H for each type of Construct you control.,,set4_soulgems.lua
+Soul Gem - Dimension Diver,Soul Gem - Dimension Diver,Dimension Diver,IH,Soul Gem,Gain 2R.  You may treat all Constructs as Mechana Constructs this turn.,,set4_soulgems.lua
+Soul Gem - Mechana Initiate,Soul Gem - Mechana Initiate,Mechana Initiate,IH,Soul Gem,Gain 1R or 1P.,,set4_soulgems.lua
+Soul Gem - Reactor Monk,Soul Gem - Reactor Monk,Reactor Monk,IH,Soul Gem,Gain 2R.  The next Construct you acquire this turn costs 1R less.,,set4_soulgems.lua
+Soul Gem - Arbiter of Fate,Soul Gem - Arbiter of Fate,Arbiter of Fate,IH,Soul Gem,"FATE: When this enters the center row, each player may banish a card from their hand or discard pile.
+",,set4_soulgems.lua
+Soul Gem - Demon Slayer,Soul Gem - Demon Slayer,Demon Slayer,IH,Soul Gem,Gain 3P.,,set4_soulgems.lua
+Soul Gem - Shade of the Black Watch,Soul Gem - Shade of the Black Watch,Shade of the Black Watch,IH,Soul Gem,Gain 2P.  You may banish a card in your hand or discard pile.,,set4_soulgems.lua
+Soul Gem - Spike Vixen,Soul Gem - Spike Vixen,Spike Vixen,IH,Soul Gem,Gain 1P.  Draw a card.,,set4_soulgems.lua
+Soul Gem - Void Initiate,Soul Gem - Void Initiate,Void Initiate,IH,Soul Gem,Gain 1R.  You may banish a card in your hand or discard pile.,,set4_soulgems.lua
+Energy Shard Start,Energy Shard Start,Energy Shard,RoV,Treasure,Gain 1E. Draw a card.,,set5_cards.lua
+Energy Shard,Energy Shard,Energy Shard,RoV,Treasure,Gain 1E. Draw a card.,,set5_cards.lua
+Militia RoV,Militia RoV,Militia,RoV,Hero,Gain 1P.,,set5_cards.lua
+Apprentice RoV,Apprentice RoV,Apprentice,RoV,Hero,Gain 1R.,,set5_cards.lua
+Mystic RoV,Mystic RoV,Mystic,RoV,Hero,Gain 2R.,,set5_cards.lua
+Heavy Infantry RoV,Heavy Infantry RoV,Heavy Infantry,RoV,Hero,Gain 2P.,,set5_cards.lua
+Cultist RoV,Cultist RoV,Cultist,RoV,Monster,Reward: Gain 1H.,,set5_cards.lua
+Monastic Tutor,Monastic Tutor,Monastic Tutor,RoV,Hero,"Acquire a Mystic or Heavy Infantry without paying its cost.
+",,set5_cards.lua
+Monk of the Lidless Eye,Monk of the Lidless Eye,Monk of the Lidless Eye,RoV,Hero,"FATE: When this enters the center row, for each treasure under this, ",,set5_cards.lua
+"Oziah, Judge of Logos","Oziah, Judge of Logos","Oziah, Judge of Logos",RoV,Hero,"While this is in the center row, you may acquire this without paying its cost ",,set5_cards.lua
+Reality Sculptor,Reality Sculptor,Reality Sculptor,RoV,Hero,Copy the effect of a Hero played this turn with cost 3R or less.,,set5_cards.lua
+Righteous Templar,Righteous Templar,Righteous Templar,RoV,Hero,"Defeat a Monster that costs 4P or less without paying its cost.
+",,set5_cards.lua
+Tablet of the Dreamer,Tablet of the Dreamer,Tablet of the Dreamer,RoV,Construct,"ENERGIZE 4E: Once this turn, acquire or defeat any card ",,set5_cards.lua
+Temporal Eye,Temporal Eye,Temporal Eye,RoV,Construct,"When this enters play, draw a card.
+",,set5_cards.lua
+Truth Seeker,Truth Seeker,Truth Seeker,RoV,Hero,Draw a card. You may banish a card in the center row. ,,set5_cards.lua
+"Ulu, Askara Prince","Ulu, Askara Prince","Ulu, Askara Prince",RoV,Hero,"Copy the effect of a Hero played this turn. This effect cannot be copied.
+",,set5_cards.lua
+Beacon Shaman,Beacon Shaman,Beacon Shaman,RoV,Hero,Reveal the top card of your deck and put it in your hand. ,,set5_cards.lua
+Leotan's Familiar,Leotan's Familiar,Leotan's Familiar,RoV,Hero,"Gain 1R.
+",,set5_cards.lua
+Lifebound Muse,Lifebound Muse,Lifebound Muse,RoV,Hero,"Acquire a Hero with cost 4R or less without paying its cost.
+",,set5_cards.lua
+Loamspeaker Druid,Loamspeaker Druid,Loamspeaker Druid,RoV,Hero,"FATE: When this enters the center row, for each Treasure under this, ",,set5_cards.lua
+Ogo Demontrap,Ogo Demontrap,Ogo Demontrap,RoV,Construct,"Once per turn, gain 1P.
+",,set5_cards.lua
+"Oras, the Redeemer","Oras, the Redeemer","Oras, the Redeemer",RoV,Hero,"Gain 4R.
+",,set5_cards.lua
+Runic Honiskrot,Runic Honiskrot,Runic Honiskrot,RoV,Hero,"Gain 2R.
+",,set5_cards.lua
+Starcaller Leotan,Starcaller Leotan,Starcaller Leotan,RoV,Hero,"Gain 4H.
+",,set5_cards.lua
+Wildcall Staff,Wildcall Staff,Wildcall Staff,RoV,Construct,"Once per turn, you pay 2R less to acquire a card with Treasure under it.",,set5_cards.lua
+Cognition Courier,Cognition Courier,Cognition Courier,RoV,Hero,"Gain 2R.
+",,set5_cards.lua
+Foresight Monacle,Foresight Monacle,Foresight Monacle,RoV,Construct,"ENERGIZE 4E: Once this turn, gain 1R for each Mechana Construct you control.",,set5_cards.lua
+Magnet Monk,Magnet Monk,Magnet Monk,RoV,Hero,"Gain 2P.
+",,set5_cards.lua
+Omnicron,Omnicron,Omnicron,RoV,Construct,"FATE: When this enters the center row, for each Treasure under this, ",,set5_cards.lua
+Portabillet,Portabillet,Portabillet,RoV,Construct,"Once per turn, when you play a Mechana Construct (including this one), draw a card.
+",,set5_cards.lua
+Prototype CH32,Prototype CH32,Prototype CH32,RoV,Construct,"ENERGIZE 1E: Once this turn, when you acquire a Mechana Construct, ",,set5_cards.lua
+Reactor Shrine,Reactor Shrine,Reactor Shrine,RoV,Construct,"ENERGIZE 2E: Once this turn, gain 1H for each Mechana Construct you control.",,set5_cards.lua
+Skyrocket Drone,Skyrocket Drone,Skyrocket Drone,RoV,Hero,Gain 1R and an additional 1R if you control a Construct.,,set5_cards.lua
+Zeta Arsenal,Zeta Arsenal,Zeta Arsenal,RoV,Construct,"ENERGIZE 3E: Once this turn, gain 1P for each Mechana Construct you control.",,set5_cards.lua
+Blackwatch Vanquisher,Blackwatch Vanquisher,Blackwatch Vanquisher,RoV,Hero,"Gain 2P.
+",,set5_cards.lua
+Darkwalker,Darkwalker,Darkwalker,RoV,Hero,"Gain 2P.
+",,set5_cards.lua
+Illiya the Demonborn,Illiya the Demonborn,Illiya the Demonborn,RoV,Hero,"Gain 4P.
+",,set5_cards.lua
+Nyxian Spiritcaster,Nyxian Spiritcaster,Nyxian Spiritcaster,RoV,Hero,"Gain 3E.
+",,set5_cards.lua
+Spirit Merchant,Spirit Merchant,Spirit Merchant,RoV,Hero,"FATE: When this enters the center row, for each Treasure under this, ",,set5_cards.lua
+Tome of Erabus,Tome of Erabus,Tome of Erabus,RoV,Construct,"Once per turn, gain 1E.",,set5_cards.lua
+Treasure Hunter,Treasure Hunter,Treasure Hunter,RoV,Hero,"Gain 2P.
+",,set5_cards.lua
+Voidfeeder,Voidfeeder,Voidfeeder,RoV,Construct,"Once per turn, gain 1P.
+",,set5_cards.lua
+Deviant Fiend,Deviant Fiend,Deviant Fiend,RoV,Monster,"REWARD: Gain 3H.
+",,set5_cards.lua
+Firestorm Effigy,Firestorm Effigy,Firestorm Effigy,RoV,Monster,"REWARD: Gain 3H. You may banish a card in your hand or discard pile.
+",,set5_cards.lua
+Herald of Doom,Herald of Doom,Herald of Doom,RoV,Monster,"REWARD: Gain 6H. Acquire or defeat a card in the center row without paying its cost.
+",,set5_cards.lua
+Lagoon Troll,Lagoon Troll,Lagoon Troll,RoV,Monster,REWARD: Gain 2H. Draw a card.,,set5_cards.lua
+Mordant Widow,Mordant Widow,Mordant Widow,RoV,Monster,"REWARD: Gain 4H. For each opponent, you choose and destroy a Construct they control.",,set5_cards.lua
+Protean Sea Slug,Protean Sea Slug,Protean Sea Slug,RoV,Monster,REWARD: Gain 5H. Each opponent destroys all Constructs they control.,,set5_cards.lua
+Raging Ursine,Raging Ursine,Raging Ursine,RoV,Monster,"REWARD: Gain 3H.
+",,set5_cards.lua
+Serpent Siren,Serpent Siren,Serpent Siren,RoV,Monster,"REWARD: Gain 1H.
+",,set5_cards.lua
+"Terrus, Paragon of Strife","Terrus, Paragon of Strife","Terrus, Paragon of Strife",RoV,Monster,REWARD: Gain 5H. Each opponent discards a random card from their hand. ,,set5_cards.lua
+Twisted Tyrant,Twisted Tyrant,Twisted Tyrant,RoV,Monster,"REWARD: Gain 6H.
+",,set5_cards.lua
+Vault Sphinx,Vault Sphinx,Vault Sphinx,RoV,Monster,"REWARD: Gain 2H.
+",,set5_cards.lua
+Dark Energy Shard,Dark Energy Shard,Dark Energy Shard,DU,Treasure,"FATE: Each player may banish a card in their discard pile.
+",,set6_cards.lua
+Anointed Askara,Anointed Askara,Anointed Askara,DU,Hero,"Draw a card.
+",,set6_cards.lua
+Arha Mentor,Arha Mentor,Arha Mentor,DU,Hero,"ENERGIZE 2E: Draw a card.
+",,set6_cards.lua
+Shardfinder Compass,Shardfinder Compass,Shardfinder Compass,DU,Construct,You may banish this to acquire all of the Treasures in the center row.,,set6_cards.lua
+Valiant Ascetic,Valiant Ascetic,Valiant Ascetic,DU,Hero,You may banish this to defeat a Monster with cost 5P or less without paying its cost.,,set6_cards.lua
+"Veya, Handmaiden of Logos","Veya, Handmaiden of Logos","Veya, Handmaiden of Logos",DU,Hero,"Choose one: Acquire a Hero with cost 6R or less without paying its cost, ",,set6_cards.lua
+Gemcatcher Spirit,Gemcatcher Spirit,Gemcatcher Spirit,DU,Hero,ENERGIZE 2E: Transform this into Otherworldly Guide. ,,set6_cards.lua
+Otherworldly Guide,Otherworldly Guide,Otherworldly Guide,DU,Hero,Draw two cards.,,set6_cards.lua
+"Toric, Devoted Disciple","Toric, Devoted Disciple","Toric, Devoted Disciple",DU,Hero,"ENERGIZE 4E: Transform this into Toric, Ascendant. ",,set6_cards.lua
+"Toric, Ascendant","Toric, Ascendant","Toric, Ascendant",DU,Hero,Acquire a Hero without paying its cost and put it into your hand.,,set6_cards.lua
+Dendris the Gladewyrm,Dendris the Gladewyrm,Dendris the Gladewyrm,DU,Hero,"Gain 2R, 2P, and 2H.
+",,set6_cards.lua
+Gem-Eater Leprechaun,Gem-Eater Leprechaun,Gem-Eater Leprechaun,DU,Hero,Gain 2R and 2E.,,set6_cards.lua
+"Moken, the Huntmaster","Moken, the Huntmaster","Moken, the Huntmaster",DU,Hero,"Gain 5H.
+",,set6_cards.lua
+Mosaic Horn,Mosaic Horn,Mosaic Horn,DU,Construct,"ENERGIZE 2E: Once this turn, gain 2R.",,set6_cards.lua
+Raven Siren,Raven Siren,Raven Siren,DU,Hero,"Gain 1R.
+",,set6_cards.lua
+Honiskrot Tribesman,Honiskrot Tribesman,Honiskrot Tribesman,DU,Hero,ENERGIZE 2E: Transform this into Honiskrot Chieftain. ,,set6_cards.lua
+Honiskrot Chieftain,Honiskrot Chieftain,Honiskrot Chieftain,DU,Hero,Gain 3R.,,set6_cards.lua
+"Jakeb, Cobra Shaman","Jakeb, Cobra Shaman","Jakeb, Cobra Shaman",DU,Hero,"ENERGIZE 4E: Transform this into Jakeb, Cobra King. ",,set6_cards.lua
+"Jakeb, Cobra King","Jakeb, Cobra King","Jakeb, Cobra King",DU,Hero,"Gain 6H.
+",,set6_cards.lua
+Charging Chamber,Charging Chamber,Charging Chamber,DU,Construct,"Once per turn, when you play a Mechana Construct (including this one), gain 1E.",,set6_cards.lua
+Crystalline Monk,Crystalline Monk,Crystalline Monk,DU,Hero,"Gain 2R.
+",,set6_cards.lua
+Hedron Dredger,Hedron Dredger,Hedron Dredger,DU,Construct,"Once per turn, if you control three or more Mechana Constructs, ",,set6_cards.lua
+Replication Drone,Replication Drone,Replication Drone,DU,Construct,You are considered to control an additional Mechana Construct.,,set6_cards.lua
+Scrap Scrabbler,Scrap Scrabbler,Scrap Scrabbler,DU,Hero,ENERGIZE 2E: Transform this into Scrabbling Squad. ,,set6_cards.lua
+Scrabbling Squad,Scrabbling Squad,Scrabbling Squad,DU,Hero,Gain 2R and 2P.,,set6_cards.lua
+Yolothian Monolith,Yolothian Monolith,Yolothian Monolith,DU,Construct,"ENERGIZE 4E: Transform this into Yolocryx, the Guardian and put it into your hand.",,set6_cards.lua
+"Yolocryx, the Guardian","Yolocryx, the Guardian","Yolocryx, the Guardian",DU,Hero,"Gain 5P and an additional 1P for each Mechana Construct you control.
+",,set6_cards.lua
+Arbiter of the Lost,Arbiter of the Lost,Arbiter of the Lost,DU,Hero,"Gain 2E.
+",,set6_cards.lua
+Nightmare Sentinel,Nightmare Sentinel,Nightmare Sentinel,DU,Hero,"Gain 2P.
+",,set6_cards.lua
+Nyxian Ritualist,Nyxian Ritualist,Nyxian Ritualist,DU,Hero,Gain 3P and 3E.,,set6_cards.lua
+Riftwalker's Axe,Riftwalker's Axe,Riftwalker's Axe,DU,Construct,"ENERGIZE 2E: Once this turn, gain 2P.",,set6_cards.lua
+Voidsworn Warrior,Voidsworn Warrior,Voidsworn Warrior,DU,Hero,ENERGIZE 2E: Transform this into Voidsworn Champion. ,,set6_cards.lua
+Voidsworn Champion,Voidsworn Champion,Voidsworn Champion,DU,Hero,Gain 4P.,,set6_cards.lua
+Azerax of the Black Watch,Azerax of the Black Watch,Azerax of the Black Watch,DU,Hero,"ENERGIZE 4E: Transform this into Azerax, Nyx's Chosen. ",,set6_cards.lua
+"Azerax, Nyx's Chosen","Azerax, Nyx's Chosen","Azerax, Nyx's Chosen",DU,Hero,"Gain 6P.
+",,set6_cards.lua
+Cacklecast Wretch,Cacklecast Wretch,Cacklecast Wretch,DU,Monster,"If you have gained 4E or more this turn, you may defeat this without paying its cost.
+",,set6_cards.lua
+Oxipede,Oxipede,Oxipede,DU,Monster,"REWARD: Gain 2H.
+",,set6_cards.lua
+Phasefiend,Phasefiend,Phasefiend,DU,Monster,REWARD: Gain 1H. You may banish a card in your hand or discard pile.,,set6_cards.lua
+Plunder Devil,Plunder Devil,Plunder Devil,DU,Monster,"REWARD: Gain 5H. You may acquire a Hero or Construct with cost 3R or less without paying its cost.
+",,set6_cards.lua
+Smoke Tyrant,Smoke Tyrant,Smoke Tyrant,DU,Monster,REWARD: Gain 4H. Banish the top seven cards of the center deck. ,,set6_cards.lua
+Vault Lich,Vault Lich,Vault Lich,DU,Monster,"FATE: When this enters the center row, banish each card in the center row with Treasure under it.
+",,set6_cards.lua
+Webclaw,Webclaw,Webclaw,DU,Monster,REWARD: Gain 3H. Each opponent with three or more Constructs in play ,,set6_cards.lua
+"Erabus, the Exiled","Erabus, the Exiled","Erabus, the Exiled",DU,Monster,"If you have played a Dark Energy Shard this turn, ",,set6_cards.lua
+"Erabus, Son of Nyx","Erabus, Son of Nyx","Erabus, Son of Nyx",DU,Hero,Defeat a Monster in the Void without paying its cost ,,set6_cards.lua
+Militia RU,Militia RU,Militia,RU,Hero,Gain 1P.,,set7_cards.lua
+Apprentice RU,Apprentice RU,Apprentice,RU,Hero,Gain 1R.,,set7_cards.lua
+Mystic RU,Mystic RU,Mystic,RU,Hero,Gain 2R.,,set7_cards.lua
+Heavy Infantry RU,Heavy Infantry RU,Heavy Infantry,RU,Hero,Gain 2P.,,set7_cards.lua
+Cultist RU,Cultist RU,Cultist,RU,Monster,Reward: Gain 1H.,,set7_cards.lua
+"Dhartha, the Eternal","Dhartha, the Eternal","Dhartha, the Eternal",RU,Hero,Reveal the top card of the center deck. ,,set7_cards.lua
+Journeyman Outrider,Journeyman Outrider,Journeyman Outrider,RU,Hero,Acquire a Hero or Construct with cost 5R or less without paying its cost.,,set7_cards.lua
+Neophyte Mentor,Neophyte Mentor,Neophyte Mentor,RU,Hero,"Draw a card.
+",,set7_cards.lua
+Sage of Lucid Dreams,Sage of Lucid Dreams,Sage of Lucid Dreams,,Hero,"Once this turn, banish a card in your hand. ",,set7_cards.lua
+Oziah's Familiar,Oziah's Familiar,Oziah's Familiar,RU,Hero,"Defeat a Monster with cost 4P or less without paying its cost.
+",,set7_cards.lua
+Scryer of the Lidless Eye,Scryer of the Lidless Eye,Scryer of the Lidless Eye,RU,Hero,"Draw two card, then discard a card. ",,set7_cards.lua
+Disciple of Oziah,Disciple of Oziah,Disciple of Oziah,RU,Hero,"While this is in your hand, if you have played another Enlightened Hero this turn, ",,set7_cards.lua
+Scion of Oziah,Scion of Oziah,Scion of Oziah,RU,Hero,Defeat a Monster with cost 5P or less without paying its cost.,,set7_cards.lua
+"Vir, Ascetic Master","Vir, Ascetic Master","Vir, Ascetic Master",RU,Hero,"While this is in your hand, if you have played a Hero of every faction this turn, ",,set7_cards.lua
+"Vir, Ephemeral Guru","Vir, Ephemeral Guru","Vir, Ephemeral Guru",RU,Hero,Acquire all Heroes in the center row without paying their costs ,,set7_cards.lua
+Forgotten Scripture,Forgotten Scripture,Forgotten Scripture,RU,Construct,"If you have played two of more Enlightened Heroes this turn, ",,set7_cards.lua
+Mantra of True Sight,Mantra of True Sight,Mantra of True Sight,RU,Construct,"Once per turn, you may draw a card.",,set7_cards.lua
+Animus of the Wild,Animus of the Wild,Animus of the Wild,RU,Hero,"Gain 2R.
+",,set7_cards.lua
+"Cetra, Matron of Stars","Cetra, Matron of Stars","Cetra, Matron of Stars",RU,Hero,"Once this turn, acquire a Hero without paying its cost. ",,set7_cards.lua
+Everbloom Clique,Everbloom Clique,Everbloom Clique,RU,Hero,"Gain 2H.
+",,set7_cards.lua
+Snapdragon Witch,Snapdragon Witch,Snapdragon Witch,RU,Hero,"Gain 1H.
+",,set7_cards.lua
+Wolf Shaman RU,Wolf Shaman RU,Wolf Shaman,RU,Hero,"Gain 1R.
+",,set7_cards.lua
+Disciple of Cetra,Disciple of Cetra,Disciple of Cetra,RU,Hero,"While this is in your hand, if you have played another Lifebound Hero this turn, ",,set7_cards.lua
+Scion of Cetra,Scion of Cetra,Scion of Cetra,RU,Hero,Gain 2R and 2H.,,set7_cards.lua
+"Remus, Pack Guardian","Remus, Pack Guardian","Remus, Pack Guardian",RU,Hero,"While this is in your hand, if you have gained 3H or more this turn, ",,set7_cards.lua
+"Remus, Wild Emissary","Remus, Wild Emissary","Remus, Wild Emissary",RU,Hero,"Gain 3R.
+",,set7_cards.lua
+Druid's Wreath,Druid's Wreath,Druid's Wreath,RU,Construct,"If you have played two or more Lifebound Heroes this turn, ",,set7_cards.lua
+Verdant Crown,Verdant Crown,Verdant Crown,RU,Construct,"Once per turn, gain 2H.",,set7_cards.lua
+Air Support Squadron,Air Support Squadron,Air Support Squadron,RU,Construct,"Once per turn, when you acquire a Mechana card, you may put it in your hand.",,set7_cards.lua
+Defense Generator,Defense Generator,Defense Generator,RU,Construct,"Once per turn, when you acquire a Mechana card, gain 2P.",,set7_cards.lua
+Hedron Watchtower,Hedron Watchtower,Hedron Watchtower,RU,Construct,"Once per turn, when you acquire a Mechana card, gain H equal to that card's H value.",,set7_cards.lua
+Matron of Discovery,Matron of Discovery,Matron of Discovery,RU,Hero,"Gain 2R.
+",,set7_cards.lua
+Upgrade Foundry,Upgrade Foundry,Upgrade Foundry,RU,Construct,"Once per turn, when you acquire a Mechana card, draw two cards.",,set7_cards.lua
+Workshop Gargoyle,Workshop Gargoyle,Workshop Gargoyle,RU,Construct,"Once per turn, when you acquire a Mechana card, gain 1H.",,set7_cards.lua
+Disciple of Euloth,Disciple of Euloth,Disciple of Euloth,RU,Hero,"While this is in your hand, if you have played another Mechana Hero this turn, ",,set7_cards.lua
+Scion of Euloth,Scion of Euloth,Scion of Euloth,RU,Hero,Gain 2R and 2P.,,set7_cards.lua
+"Alset, Monk Prodigy","Alset, Monk Prodigy","Alset, Monk Prodigy",RU,Hero,"While this is in your hand, if you control 2 or more Constructs, ",,set7_cards.lua
+"Alset, Reactor Savant","Alset, Reactor Savant","Alset, Reactor Savant",RU,Hero,"Gain 4R.
+",,set7_cards.lua
+Secluded Laboratory,Secluded Laboratory,Secluded Laboratory,RU,Construct,"If you have played two or more Mechana Heroes, ",,set7_cards.lua
+Zero Point Reactor,Zero Point Reactor,Zero Point Reactor,RU,Construct,"Once per turn, gain 2R.",,set7_cards.lua
+Black Watch Exemplar,Black Watch Exemplar,Black Watch Exemplar,RU,Hero,"Gain 3P.
+",,set7_cards.lua
+Deathdealer Noble,Deathdealer Noble,Deathdealer Noble,RU,Hero,"Gain 2P.
+",,set7_cards.lua
+Shadow Stalker,Shadow Stalker,Shadow Stalker,RU,Hero,"You may banish a card in your discard pile.
+",,set7_cards.lua
+Spike Vixen RU,Spike Vixen RU,Spike Vixen,RU,Hero,"Gain 1P.
+",,set7_cards.lua
+Disciple of Emri,Disciple of Emri,Disciple of Emri,RU,Hero,"While this is in your hand, if you have played another Void Hero this turn, ",,set7_cards.lua
+Scion of Emri,Scion of Emri,Scion of Emri,RU,Hero,"Gain 3P.
+",,set7_cards.lua
+"Emri, the Unmaker","Emri, the Unmaker","Emri, the Unmaker",RU,Hero,"While this is in your hand, if there are 8 or more Monsters in the Void, ",,set7_cards.lua
+"Emri, Demonsbane","Emri, Demonsbane","Emri, Demonsbane",RU,Hero,"Gain 5P.
+",,set7_cards.lua
+Initiate's Gauntlets,Initiate's Gauntlets,Initiate's Gauntlets,RU,Construct,"If you have played two or more Void Heroes this turn, ",,set7_cards.lua
+Clutch of Darkness,Clutch of Darkness,Clutch of Darkness,RU,Construct,"Once per turn, gain 2P.",,set7_cards.lua
+Canon Templar,Canon Templar,Canon Templar,RU,Hero,"Gain 2R.
+",,set7_cards.lua
+Deathbound Druid,Deathbound Druid,Deathbound Druid,RU,Hero,"Gain 3H.
+",,set7_cards.lua
+Nightmare Delver,Nightmare Delver,Nightmare Delver,RU,Hero,"Gain 2R.
+",,set7_cards.lua
+Timestream Seer,Timestream Seer,Timestream Seer,RU,Hero,"Gain 2R.
+",,set7_cards.lua
+Voidforged Paladin,Voidforged Paladin,Voidforged Paladin,RU,Hero,"Gain 2P.
+",,set7_cards.lua
+Wildgear Druid,Wildgear Druid,Wildgear Druid,RU,Hero,"Gain 2R.
+",,set7_cards.lua
+Foundation Burrower,Foundation Burrower,Foundation Burrower,RU,Monster,REWARD: Gain 1H. You may banish a card in the center row.,,set7_cards.lua
+Sadistic Giant,Sadistic Giant,Sadistic Giant,RU,Monster,REWARD: Gain 5H.,,set7_cards.lua
+Sower of Betrayal,Sower of Betrayal,Sower of Betrayal,RU,Monster,REWARD: Gain 3H. Name a faction. ,,set7_cards.lua
+Sower of Discontent,Sower of Discontent,Sower of Discontent,RU,Monster,REWARD: Gain 2H. Name a faction. ,,set7_cards.lua
+Terrorizing Fiend,Terrorizing Fiend,Terrorizing Fiend,RU,Monster,REWARD: Gain 2H. Draw two cards.,,set7_cards.lua
+Wailing Spectre,Wailing Spectre,Wailing Spectre,RU,Monster,REWARD: Gain 4H. You may banish up to two cards in your discard pile.,,set7_cards.lua
+Borderland Nihilist,Borderland Nihilist,Borderland Nihilist,RU,Monster,REWARD: Transform this into Borderland Mercenary and acquire it.,,set7_cards.lua
+Borderland Mercenary,Borderland Mercenary,Borderland Mercenary,RU,Hero,"Draw a card.
+",,set7_cards.lua
+Adayu the Tormented,Adayu the Tormented,Adayu the Tormented,RU,Monster,REWARD: Transform this into Adayu the Serene and acquire it.,,set7_cards.lua
+Adayu the Serene,Adayu the Serene,Adayu the Serene,RU,Hero,"This Hero counts as all factions.
+",,set7_cards.lua
+Eye of Potential,Eye of Potential,Eye of Potential,,Construct,"Once per turn, you may banish a card in your hand. ",,set7_cards.lua
+"Cetra, Benefactor of All","Cetra, Benefactor of All","Cetra, Benefactor of All",,Hero,"Starting with you, and then going in turn order, ",,set7_cards.lua
+Nyxian Corruptor,Nyxian Corruptor,Nyxian Corruptor,,Hero,"Gain 3P.
+",,set7_cards.lua
+Sadistic Laboratory,Sadistic Laboratory,Sadistic Laboratory,,Hero,"Once per turn, gain 1P.
+",,set7_cards.lua
+Foul Replicant,Foul Replicant,Foul Replicant,,Monster,"REWARD: Gain 4H.
+",,set7_cards.lua
+Dhartha,Dhartha,Dhartha,DoC,Champion,"+1: Whenever you acquire or defeat an Enlightened card from the center row, gain 1rep.
+",,set8_cards.lua
+"Dhartha, Master of Sight","Dhartha, Master of Sight","Dhartha, Master of Sight",DoC,Hero,You may banish this or a card in your hand. ,,set8_cards.lua
+Nairi,Nairi,Nairi,DoC,Champion,"+1: Whenever you acquire or defeat an Lifebound card from the center row, gain 1rep.
+",,set8_cards.lua
+"Nairi, Wild Queen","Nairi, Wild Queen","Nairi, Wild Queen",DoC,Hero,"Gain 1H. Draw a card.
+",,set8_cards.lua
+Kor,Kor,Kor,DoC,Champion,"+1: Whenever you acquire or defeat an Mechana card from the center row, gain 1rep.
+",,set8_cards.lua
+"Kor, the Ironmind","Kor, the Ironmind","Kor, the Ironmind",DoC,Hero,"Gain 2R and 2P.
+",,set8_cards.lua
+Sadranis,Sadranis,Sadranis,DoC,Champion,"+1: Whenever you acquire or defeat an Void card from the center row, gain 1rep.
+",,set8_cards.lua
+"Sadranis, Dark Savant","Sadranis, Dark Savant","Sadranis, Dark Savant",DoC,Hero,"Draw two cards, then discard a card. ",,set8_cards.lua
+Seer of Days Past,Seer of Days Past,Seer of Days Past,DoC,Hero,"When you acquire this, Rally: Enlightened.
+",,set8_cards.lua
+Daybreak Askara,Daybreak Askara,Daybreak Askara,DoC,Hero,Copy the effect of a Hero play this turn. ,,set8_cards.lua
+Austere Sage,Austere Sage,Austere Sage,DoC,Hero,"Draw a card.
+",,set8_cards.lua
+Serene Ascetic,Serene Ascetic,Serene Ascetic,DoC,Hero,"When you acquire this, you may put it on top of your deck.
+",,set8_cards.lua
+"Surya, Light's Sword","Surya, Light's Sword","Surya, Light's Sword",DoC,Hero,Defeat a Monster in the center row without paying its cost.,,set8_cards.lua
+Mantra of Renewal,Mantra of Renewal,Mantra of Renewal,DoC,Construct,"Once per turn, if you have played two or more Enlightened cards (including this one), draw a card.",,set8_cards.lua
+Premonition Bell,Premonition Bell,Premonition Bell,DoC,Construct,You may destroy this to copy the effect of a Hero in the center row with cost 5R or less.,,set8_cards.lua
+Pack Leader,Pack Leader,Pack Leader,DoC,Hero,"When you acquire this, Rally: Lifebound.
+",,set8_cards.lua
+Ogo Courier,Ogo Courier,Ogo Courier,DoC,Hero,"Gain 2R.
+",,set8_cards.lua
+Moonveil Clique,Moonveil Clique,Moonveil Clique,DoC,Hero,"Gain 2R.
+",,set8_cards.lua
+Emissary of Dawn,Emissary of Dawn,Emissary of Dawn,DoC,Hero,Acquire a Hero without paying its cost. ,,set8_cards.lua
+Flytrap Staff,Flytrap Staff,Flytrap Staff,DoC,Construct,"Once per turn, if you have played two or more Lifebound cards (including this one), gain 2H.",,set8_cards.lua
+Starlight Sanctum,Starlight Sanctum,Starlight Sanctum,DoC,Construct,"Once per turn, gain 2R.
+",,set8_cards.lua
+Overhaul Cleric,Overhaul Cleric,Overhaul Cleric,DoC,Hero,"When you acquire this, Rally: Mechana.
+",,set8_cards.lua
+Prospector Scout,Prospector Scout,Prospector Scout,DoC,Hero,"Gain 2R.
+",,set8_cards.lua
+"Adam, Builder Adept","Adam, Builder Adept","Adam, Builder Adept",DoC,Hero,"When you acquire this, you may acquire a Construct in the center row without paying its cost.
+",,set8_cards.lua
+Spark Bug,Spark Bug,Spark Bug,DoC,Construct,"Once per turn, if you have played two or more Mechana cards (including this one), gain 2R.",,set8_cards.lua
+Gnome Repairbot,Gnome Repairbot,Gnome Repairbot,DoC,Construct,"Once per turn, you may put a Mechana Construct from your discard pile on top of your deck.",,set8_cards.lua
+Plasma Cannon,Plasma Cannon,Plasma Cannon,DoC,Construct,"Once per turn, if you control four or more Mechana Constructs, ",,set8_cards.lua
+Conversion Port,Conversion Port,Conversion Port,DoC,Construct,You may treat all Constructs as though they are all factions.,,set8_cards.lua
+Emri's Sting,Emri's Sting,Emri's Sting,DoC,Construct,"Once per turn, gain 2P.
+",,set8_cards.lua
+Undaunted Scout,Undaunted Scout,Undaunted Scout,DoC,Hero,"When you acquire this, Rally: Void.
+",,set8_cards.lua
+Maniacal Crusher,Maniacal Crusher,Maniacal Crusher,DoC,Hero,"Gain 2P.
+",,set8_cards.lua
+Riftgate Conjuror,Riftgate Conjuror,Riftgate Conjuror,DoC,Hero,"Gain 3P.
+",,set8_cards.lua
+Shade's Bargain,Shade's Bargain,Shade's Bargain,DoC,Construct,"Once per turn, if you have played two or more Void cards (including this one), gain 2P.",,set8_cards.lua
+Morbid Hammer,Morbid Hammer,Morbid Hammer,DoC,Construct,"Once per turn, gain 1P.
+",,set8_cards.lua
+Rootscryer,Rootscryer,Rootscryer,DoC,Hero,Reveal the top card of your deck and put it into your hand. ,,set8_cards.lua
+Canopy Sanctuary,Canopy Sanctuary,Canopy Sanctuary,DoC,Construct,"Once per turn, you may reveal the top card of your deck and put it in your hand. ",,set8_cards.lua
+Surge Protector,Surge Protector,Surge Protector,DoC,Hero,"Choose one: Acquire a Contruct with cost 5R or less without paying its cost, ",,set8_cards.lua
+Library Familiar,Library Familiar,Library Familiar,DoC,Construct,"Once per turn, when you play an Enlightened Construct or a Mechana Construct (including this one), ",,set8_cards.lua
+Guide of Lost Souls,Guide of Lost Souls,Guide of Lost Souls,DoC,Hero,You may banish a card in your hand or discard pile. ,,set8_cards.lua
+Riftdrake Rider,Riftdrake Rider,Riftdrake Rider,DoC,Hero,"Draw two cards.
+",,set8_cards.lua
+Wildgear Sower,Wildgear Sower,Wildgear Sower,DoC,Hero,"Gain 2R.
+",,set8_cards.lua
+Genesis Capsule,Genesis Capsule,Genesis Capsule,DoC,Construct,"Once per turn, when you acquire a Lifebound Hero or Mechana Construct, ",,set8_cards.lua
+Shepherd of the Lost,Shepherd of the Lost,Shepherd of the Lost,DoC,Hero,"Gain 2R.
+",,set8_cards.lua
+Muse of Rebirth,Muse of Rebirth,Muse of Rebirth,DoC,Hero,"Gain 2R.
+",,set8_cards.lua
+Clockwork Sentry,Clockwork Sentry,Clockwork Sentry,DoC,Hero,"Gain 2P.
+",,set8_cards.lua
+Riftwatch Turret,Riftwatch Turret,Riftwatch Turret,DoC,Construct,"Once per turn, gain 1P.
+",,set8_cards.lua
+Corrupted Sage,Corrupted Sage,Corrupted Sage,DoC,Monster,"REWARD: Gain 2H. Draw a card.
+",,set8_cards.lua
+Betrayed Templar,Betrayed Templar,Betrayed Templar,DoC,Monster,REWARD: Gain 5H. ,,set8_cards.lua
+Thorned Charger,Thorned Charger,Thorned Charger,DoC,Monster,REWARD: Gain 3H. ,,set8_cards.lua
+Cult of the False Circle,Cult of the False Circle,Cult of the False Circle,DoC,Monster,REWARD: Gain 5H. ,,set8_cards.lua
+Rejected Prototype,Rejected Prototype,Rejected Prototype,DoC,Monster,REWARD: Gain 3H. ,,set8_cards.lua
+Exhaust Lurker,Exhaust Lurker,Exhaust Lurker,DoC,Monster,REWARD: Gain 5H. ,,set8_cards.lua
+Deathfinder,Deathfinder,Deathfinder,DoC,Monster,REWARD: Gain 2H. ,,set8_cards.lua
+Wild Riftdrake,Wild Riftdrake,Wild Riftdrake,DoC,Monster,REWARD: Gain 4H. ,,set8_cards.lua
+"Aranyx, the Glutton","Aranyx, the Glutton","Aranyx, the Glutton",DoC,Monster,"REWARD: Gain 4H. Gain 7P.
+",,set8_cards.lua
+"Xeron, Lord of Deofol","Xeron, Lord of Deofol","Xeron, Lord of Deofol",DoC,Monster,"REWARD: Gain 6H.
+",,set8_cards.lua
+Ephemeral Monk,Ephemeral Monk,Ephemeral Monk,DS,Hero,"Draw 2 cards, then banish this.",,set9_cards.lua
+Auspicious Askara,Auspicious Askara,Auspicious Askara,DS,Hero,"Draw a card.
+",,set9_cards.lua
+Nocturnal Seer,Nocturnal Seer,Nocturnal Seer,DS,Hero,"Draw a card.
+",,set9_cards.lua
+Arha Sensei DS,Arha Sensei DS,Arha Sensei,DS,Hero,Banish a card in your hand. ,,set9_cards.lua
+Garden Attendant,Garden Attendant,Garden Attendant,DS,Hero,"Gain 1I.
+",,set9_cards.lua
+Templar Dragoon,Templar Dragoon,Templar Dragoon,DS,Hero,"Defeat a Monster with cost 4 or less without paying its cost, ",,set9_cards.lua
+Pasythea's Ward,Pasythea's Ward,Pasythea's Ward,DS,Construct,"Once per turn, gain 1I.",,set9_cards.lua
+"Loa, Sleeping Dragon","Loa, Sleeping Dragon","Loa, Sleeping Dragon",DS,Hero,"Gain 3I.
+",,set9_cards.lua
+Dreamshaper Jesse,Dreamshaper Jesse,Dreamshaper Jesse,DS,Hero,Acquire the top card of the Dream deck without paying its cost.,,set9_cards.lua
+Unbound Emissary,Unbound Emissary,Unbound Emissary,DS,Hero,"You may spend I as though it was R to acquire this.
+",,set9_cards.lua
+Ephemeral Druid,Ephemeral Druid,Ephemeral Druid,DS,Hero,"Gain 5H, then banish this.",,set9_cards.lua
+Alluring Shaman,Alluring Shaman,Alluring Shaman,DS,Hero,"Gain 1R.
+",,set9_cards.lua
+Verdant Hatchling,Verdant Hatchling,Verdant Hatchling,DS,Hero,"Gain 2H.
+",,set9_cards.lua
+Flytrap Fairy,Flytrap Fairy,Flytrap Fairy,DS,Hero,"Gain 1R, 1H, and 1I.",,set9_cards.lua
+Dreamwillow Druids,Dreamwillow Druids,Dreamwillow Druids,DS,Hero,Choose one: acquire a Hero with cost 5R or less without paying its cost; ,,set9_cards.lua
+Lunar Pack,Lunar Pack,Lunar Pack,DS,Hero,"Gain 2R.
+",,set9_cards.lua
+Dreamwillow,Dreamwillow,Dreamwillow,DS,Construct,"Once per turn, gain 1R.
+",,set9_cards.lua
+"Raka, Dreamtender","Raka, Dreamtender","Raka, Dreamtender",DS,Hero,"Gain 5H.
+",,set9_cards.lua
+"Verdagris, the Wild","Verdagris, the Wild","Verdagris, the Wild",DS,Hero,"Gain 4R.
+",,set9_cards.lua
+Ephemeral Inventor,Ephemeral Inventor,Ephemeral Inventor,DS,Hero,"Gain 3R, then banish this.",,set9_cards.lua
+Planar Aperture,Planar Aperture,Planar Aperture,DS,Construct,"When you acquire a Mechana Construct, ",,set9_cards.lua
+ID34 Detector,ID34 Detector,ID34 Detector,DS,Construct,"Once per turn, when you play a Mechana Construct ",,set9_cards.lua
+Synapse Spire,Synapse Spire,Synapse Spire,DS,Construct,"Once per turn, when you play a Mechana Construct (including this one), ",,set9_cards.lua
+Hedron Berserker,Hedron Berserker,Hedron Berserker,DS,Hero,Gain 3R or 3P. ,,set9_cards.lua
+Deluxe Capacitor,Deluxe Capacitor,Deluxe Capacitor,DS,Construct,"You may treat Dream Constructs as though they are Mechana Constructs.
+",,set9_cards.lua
+TH07 Tank,TH07 Tank,TH07 Tank,DS,Construct,"Once per turn, you may pay 1I to gain 3R. ",,set9_cards.lua
+Inquarry Hydra,Inquarry Hydra,Inquarry Hydra,DS,Construct,"Once per turn, gain 1I for each Mechana Contruct you control (including this one).",,set9_cards.lua
+Chaos Cannon,Chaos Cannon,Chaos Cannon,DS,Construct,"Once per turn, you may pay 5I to gain 10P. ",,set9_cards.lua
+Ephemeral Ritualist,Ephemeral Ritualist,Ephemeral Ritualist,DS,Hero,"Gain 4P, then banish this.",,set9_cards.lua
+Caustic Conjurer,Caustic Conjurer,Caustic Conjurer,DS,Hero,"Gain 1I.
+",,set9_cards.lua
+Dreamkiller,Dreamkiller,Dreamkiller,DS,Hero,Gain 2P and 1I.,,set9_cards.lua
+Loam Summoner,Loam Summoner,Loam Summoner,DS,Hero,"Add a card to your Dreamscape.
+",,set9_cards.lua
+Fear Wielder,Fear Wielder,Fear Wielder,DS,Hero,"Gain 3P.
+",,set9_cards.lua
+Fatality Blades,Fatality Blades,Fatality Blades,DS,Construct,"Once per turn, gain 1P.
+",,set9_cards.lua
+Nightmare Harvester,Nightmare Harvester,Nightmare Harvester,DS,Hero,Gain 4P. ,,set9_cards.lua
+"Emri, Shadowslayer","Emri, Shadowslayer","Emri, Shadowslayer",DS,Hero,"Gain 5P.
+",,set9_cards.lua
+Rust Gremlin,Rust Gremlin,Rust Gremlin,DS,Monster,REWARD: Gain 1H. Draw a card.,,set9_cards.lua
+Thieving Gryphon,Thieving Gryphon,Thieving Gryphon,DS,Monster,REWARD: Gain 2H. Gain 2R.,,set9_cards.lua
+Tidestalker,Tidestalker,Tidestalker,DS,Monster,REWARD: Gain 4H.,,set9_cards.lua
+Fen Maw,Fen Maw,Fen Maw,DS,Monster,REWARD: Gain 3H. Gain 2I.,,set9_cards.lua
+Trinket Harpy,Trinket Harpy,Trinket Harpy,DS,Monster,REWARD: Gain 3H. Add a card to your Dreamscape.,,set9_cards.lua
+Deluding Djinn,Deluding Djinn,Deluding Djinn,DS,Monster,"REWARD: Gain 5H.
+",,set9_cards.lua
+Hulking Crab,Hulking Crab,Hulking Crab,DS,Monster,REWARD: Gain 4H. ,,set9_cards.lua
+Puppetmaster,Puppetmaster,Puppetmaster,DS,Monster,REWARD: Gain 4H. ,,set9_cards.lua
+Fleeting Hope Djinn,Fleeting Hope Djinn,Fleeting Hope Djinn,DS,Monster,REWARD: Gain 5H. ,,set9_cards.lua
+Nightmare Tyrant,Nightmare Tyrant,Nightmare Tyrant,DS,Monster,REWARD: Gain 5H. ,,set9_cards.lua
+Engulfing Kraken,Engulfing Kraken,Engulfing Kraken,DS,Monster,REWARD: Gain 6H. ,,set9_cards.lua
+"Nilus, the Despair","Nilus, the Despair","Nilus, the Despair",DS,Monster,REWARD: Gain 7H. ,,set9_cards.lua
+Imaginative Matron,Imaginative Matron,Imaginative Matron,DS,Hero,"Draw a card, then discard a card.
+",,set9_cards.lua
+Reverie Muse,Reverie Muse,Reverie Muse,DS,Hero,"Gain 1R.
+",,set9_cards.lua
+Brainstorm Sentry,Brainstorm Sentry,Brainstorm Sentry,DS,Hero,Gain 1R and 1P for each Mechana Construct you control.,,set9_cards.lua
+Bringer of Despair,Bringer of Despair,Bringer of Despair,DS,Hero,"Gain 2P.
+",,set9_cards.lua
+"Pasythea, the Aegis","Pasythea, the Aegis","Pasythea, the Aegis",DS,Hero,This Hero counts as all factions. ,,set9_cards.lua
+Chronicle of Vigil,Chronicle of Vigil,Chronicle of Vigil,DS,Construct,"Once per turn, gain 1H for each faction among Constructs you control. ",,set9_cards.lua
+Vigil's Resolve,Vigil's Resolve,Vigil's Resolve,DS,Construct,"When you play a Mystic, gain 1R.
+",,set9_cards.lua
+Askaran Armor,Askaran Armor,Askaran Armor,DS,Construct,"Once per turn, when you acquire a card from your Dreamscape, ",,set9_cards.lua
+Yggdrasil Canopy,Yggdrasil Canopy,Yggdrasil Canopy,DS,Construct,"When you would gain H without defeating a Monster, ",,set9_cards.lua
+Dream Lab,Dream Lab,Dream Lab,DS,Construct,You may pay 1R less to acquire Constructs in the center row.,,set9_cards.lua
+Arbiter's Censer,Arbiter's Censer,Arbiter's Censer,DS,Construct,"When you defeat a Monster in the center row, gain 2H.",,set9_cards.lua
+Ashes to Ashes,Ashes to Ashes,Ashes to Ashes,DS,Vision,Banish all cards in the center row.,,set9_cards.lua
+Dust to Dust,Dust to Dust,Dust to Dust,DS,Vision,Destroy all Constructs your opponents control.,,set9_cards.lua
+Armistice,Armistice,Armistice,DS,Vision,Each player discards their hand and draws five cards.,,set9_cards.lua
+Wicked End,Wicked End,Wicked End,DS,Vision,Defeat a Monster in the center row without paying its cost.,,set9_cards.lua
+Test of Faith,Test of Faith,Test of Faith,DS,Vision,Reveal the top card of the center deck. ,,set9_cards.lua
+Aura of the Askara,Aura of the Askara,Aura of the Askara,DS,Vision,If you have played two Enlightened Heroes ,,set9_cards.lua
+Lunar Embrace,Lunar Embrace,Lunar Embrace,DS,Vision,This turn you may spend R as though it was P.,,set9_cards.lua
+Cetra's Respite,Cetra's Respite,Cetra's Respite,DS,Vision,Acquire a Hero in the center row without paying its cost.,,set9_cards.lua
+Nairi's Blessing,Nairi's Blessing,Nairi's Blessing,DS,Vision,"If you have played three or more Lifebound Heroes this turn, ",,set9_cards.lua
+Technological Leap,Technological Leap,Technological Leap,DS,Vision,Acquire all Constructs in the center row without paying their cost.,,set9_cards.lua
+Order of the Gear,Order of the Gear,Order of the Gear,DS,Vision,"If you control four or more Constructs, ",,set9_cards.lua
+Stalk the Shadows,Stalk the Shadows,Stalk the Shadows,DS,Vision,This turn you may defeat Monsters in the void ,,set9_cards.lua
+Call of Darkness,Call of Darkness,Call of Darkness,DS,Vision,Banish up to 5 cards in your hand or discard pile.,,set9_cards.lua
+Berserker Frenzy,Berserker Frenzy,Berserker Frenzy,DS,Vision,"If you have defeated three or more Monsters in the center row this turn, ",,set9_cards.lua

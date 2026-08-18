@@ -1,0 +1,324 @@
+key,en
+Key_2Players,2 Players
+Key_2_Players,2 Players:
+Key_3Players,3 Players
+Key_3_Players,3 Players:
+Key_4Players,4 Players
+Key_4_Players,4 Players:
+Key_AIDifficulty,AI Difficulty
+Key_AIOpponent,AI Opponent
+Key_AIPlayer,AI Player
+Key_AIPlayer1,AI Player 1
+Key_AIPlayer2,AI Player 2
+Key_AIPlayer3,AI Player 3
+Key_AIPlayer4,AI Player 4
+Key_Abbr_Hour,HR
+Key_Abbr_Hours,Hrs
+Key_Abbr_Minute,Min
+Key_Abbr_Second,Sec
+Key_Accept,Accept
+Key_AcceptInvite,Accept Invite
+Key_AccountCreateFailed,Account creation failed.
+Key_AccountCreateSuccess,Account Created.<br>Enter your Password to Login.
+Key_AccountError,Account error.
+Key_AccountNotActivatedEmail,Account is not yet activated. Please follow the account activation instructions that were sent to your e-mail.
+Key_Achievements,Achievements
+Key_AddComputerPlayer,Add Computer Player
+Key_AddFriend,Add Friend
+Key_AddFriendPrompt,Would you like to add this player to your friend list?
+Key_AddHumanPlayer,Add Human Player
+Key_AddProfile,Add Profile
+Key_Agree,I Agree
+Key_AmbientVolume,Ambient Volume
+Key_AndroidNotifications,Android Notifications
+Key_Animation_Speed,Animation Speed
+Key_Announcements,Announcements
+Key_AnyRating,Any Rating
+Key_AppStore,In-App Store
+Key_AudioLevels,Audio Levels
+Key_AutoPlay,Auto Play
+Key_Back,Back
+Key_Buy,Buy
+Key_Cancel,Cancel
+Key_CardGallery,Card Gallery
+Key_CheckYourEmail,Please check your email for your account information
+Key_ChooseEndTurn,<size=104>W</size><space=-.2em>atchmaker's Altar
+Key_ClearInvite,Clear Invite
+Key_ClearPurchases,Clear Purchases
+Key_Close,Close
+Key_Commit,Enhancements over x-50 model: <br>1.  Increased speed<br>2 . (BeTa)  - Steering
+Key_CommitDecision,For countless centuries in Ogo the order of the Stone Circle worked to deepen their connection to all living things.
+Key_Completed,Completed
+Key_CompletedListEmpty,You have no completed Games at this time.
+Key_Confirm,Confirm
+Key_ConfirmChange,Confirm Change
+Key_ConfirmExit,Are you sure you want to exit the game?
+Key_ConfirmPassword,Confirm Password
+Key_ConfirmProfileDelete,Are you sure you want to delete this profile?
+Key_ConfirmRevealed,Acquire a Hero that costs ${ICON_RUNE3} or less without paying its cost.  Place it on top of your deck.
+Key_ConfirmationPause,Confirmation Pause
+Key_ConnectFail,Failed to Connect to Server
+Key_Connecting,Connecting to Server
+Key_Continue,Continue
+Key_CreateAccount,Create Account
+Key_CreateGame,Create Game
+Key_CreateGameFail,Unable to create.
+Key_CreateGameFailTooMany,Unable to create.<br>Too many games created.
+Key_CreateGameFailUnknown,Unable to create.<br>Unknown error
+Key_CreateNewAccount,Create New Account
+Key_CreatedGameSuccess,Successfully Created Game!
+Key_CreatingGame,Creating Game . . .
+Key_CreatingNewAccount,Creating Account...
+Key_Credits,Credits
+Key_Day,Day
+Key_Days,Days
+Key_Delete,Delete
+Key_DeleteFriend,Delete Friend
+Key_DeleteGame,Delete Game
+Key_DeleteGameConfirm,Do you want to delete this game?
+Key_DeleteMatchmaking,Delete Matchmaking
+Key_Delete_Game,Delete Your Game
+Key_Details,Details
+Key_Disconnect,You have been Disconnected<br> from the Server
+Key_Dismiss,"Once per turn, when you acquire another Mechana Construct, you may put it directly into play."
+Key_Done,Done
+Key_DontShowWarning,Don't show this warning again
+Key_DoubleTapContinue,Double Tap to Continue…
+Key_DragProfiles,Drag a profile tab to the player slot
+Key_DragToAdd,Drag below to add
+Key_DuplicateProfile,A profile with this name already exists
+Key_Email,Email
+Key_EmailInUse,An account with this e-mail address is already in use
+Key_EmailNotifications,Email Notifications
+Key_EmailUser,Enter your Email or User Name
+Key_Empty,Empty
+Key_EndGame,End Game
+Key_EnterEmail,Enter Email
+Key_EnterName,Please enter a name
+Key_EnterPassword,Enter Password
+Key_EnterText,Enter text...
+Key_EnterUsername,Please enter a Username
+Key_EnterUsernameAlt,Enter Username
+Key_EnterValidEmail,Please enter a valid E-mail address
+Key_Error,Error
+Key_Exit,Exit
+Key_ExpireTimer,Expire Timer
+Key_FailConnect,Unable to connect to the server
+Key_Fast,Fast
+Key_FindGame,Find Game
+Key_FindGameListEmpty,There are no available Games at this time.<br>Use the Create Game Menu to create a new game.
+Key_FindGameSearching,Searching for Games . . .
+Key_Finish,Finish
+Key_Forfeit,Forfeit
+Key_ForfeitPrompt,Are you sure you want to forfeit this game?
+Key_ForfeitedOpponents,All opponents have forfeited. You win!
+Key_Forfeits,Forfeits
+Key_Forget,Forgot Login?
+Key_Fri,Fri
+Key_Friday,Friday
+Key_FriendAddSuccess,Successfully added\u00a0\
+Key_FriendAdding,Adding\u00a0\
+Key_FriendAlready,{0} is already your friend.
+Key_FriendNotFound,User\u00a0\
+Key_FriendRemoving,Removing \
+Key_FriendRequest,Friend Request
+Key_FriendRmvSuccess,Successfully removed friend.
+Key_Friends,Friends
+Key_FriendsList,Friends List
+Key_Fullscreen,Fullscreen
+Key_GameChat,Game Chat
+Key_GameCompleted,Game Completed
+Key_GameListEmpty,You have no active Games at this time.
+Key_GameLog,Game Log
+Key_GamePaused,Game Paused
+Key_GameStats,Game Stats
+Key_GameTimer,Game Timer
+Key_GameType,Game Type
+Key_Game_List,Game List
+Key_Game_Speed,Game Speed
+Key_HelpEnabled,Help Enabled
+Key_Hint_Buy,<size=104>A</size>vatar of the Fallen
+Key_Hint_Copy,<b>Unbanishable</b>.<br>${LABEL_REWARD} Gain ${ICON_HONOR4}. You may acquire or defeat any card in the center row without paying its cost.
+Key_Hint_Defend,"Each evening, the newcomer would climb the parapet and howl mournfully at the moon. On the third night, the moon howled back."
+Key_Hint_Delete,<size=104>V</size><space=-.1em>oid Initiate
+Key_Hint_Discard,Those who are still sane after the initiation rites are allowed to become watchers or arbiters.
+Key_Hint_Give,Gain ${ICON_HONOR2}.<br>Draw a card.
+Key_Hint_Play,${LABEL_REWARD} Gain ${ICON_HONOR5}.  Draw two cards.
+Key_Hint_Reveal,Gain ${ICON_RUNE1}.<br>You may banish a card in your hand or discard pile.
+Key_Hint_Select,<size=104>W</size><space=-.2em>olf Shaman
+Key_Hint_Target,Gain ${ICON_RUNE1}.<br>Draw a card.
+Key_Hint_Use,<size=104>F</size>lytrap Witch
+Key_Hour,Hour
+Key_Hours,Hours
+Key_Human,Human
+Key_InApp,In-App Store
+Key_In_Progress,In Progress
+Key_InvalidCharacters,Name contains invalid characters
+Key_InvalidEmail,Invalid Email
+Key_InvalidPassword,Invalid Password
+Key_InvalidUsername,Username already in use.
+Key_Invite,Invite
+Key_InviteFriend,Invite Friend
+Key_Invited,Invited
+Key_Join,Join
+Key_JoinFailConnect,Unable to join.<br>Lost connection to server.
+Key_JoinFailFull,Unable to join.<br>Game is full.
+Key_JoinFailNotExist,Unable to join.<br>Game no longer exists.
+Key_JoinFailUnknown,Unable to join.<br>Unknown error.
+Key_JoinGame,Join Game
+Key_JoinSuccess,Successfully Joined Game!
+Key_Joining,Joining Game . . .
+Key_KeyBindings,Key Bindings
+Key_Languages,Languages
+Key_Loading,<size=104>E</size>arth Tyrant
+Key_LoadingCards,Loading Cards
+Key_LoadingGame,Loading
+Key_Locked,Locked
+Key_LogOut,Log Out
+Key_Login,Login
+Key_LoginFailed,Login failed
+Key_LossesVS,Losses Versus
+Key_MainMenu,Main Menu
+Key_Medium,Medium
+Key_Menu,Menu
+Key_Minute,Minute
+Key_Minutes,Minutes
+Key_Mon,Mon
+Key_Monday,Monday
+Key_Moregames,More Games
+Key_Music_Volume,Music Volume
+Key_MustAcceptTerms,You must accept the Terms of Use Agreement before creating an account
+Key_NameEntry,Enter Name for Player
+Key_NetworkUpdate,An update is available.<br>Please download the latest<br>version to play online.
+Key_Newsletter,Playdek Newsletter
+Key_NoCardSelected,No Card Selected
+Key_NoCommit,<size=104>D</size><space=-.2em>ruids of the Stone Circle
+Key_NoPlayerData,No Player Data
+Key_None,None
+Key_NoticeExpiredTimer,"Once per turn, gain ${ICON_RUNE1}.  You may spend it only to acquire a Mechana Construct."
+Key_NoticeOpponentsForfeit,Penalty for InfRingEment:<br>1.  termination<br>2.  onversion to organic scrap.
+Key_Notifications,Notifications
+Key_OK,${LABEL_REWARD} Gain ${ICON_HONOR2}.  You may banish a card in the center row.
+Key_Offline,Offline
+Key_OfflineCreateGame,Offline Create Game
+Key_OfflineLobby,Offline Lobby
+Key_Offline_Game_List,Offline Game List
+Key_Offline_Record,Offline Record
+Key_OnTheWeb,On the Web
+Key_Online,Online
+Key_OnlineChat,Lobby Chat
+Key_OnlineCreateGame,Online Create Game
+Key_OnlineFailGameCenter,You must be logged<br>in to Game Center<br>to play online
+Key_OnlineLobby,Online Lobby
+Key_OnlineLogin,Online Login
+Key_Online_Game_List,Online Game List
+Key_Online_Record,Online Record
+Key_OpponentStats,Opponent Stats
+Key_Option_MayEndTurn,"She was guide to both would-be leaders, but only the Godslayer reached the other side of the swamp. His rival simply vanished."
+Key_Option_MustEndTurn,<size=104>M</size>ephit
+Key_Options,Options
+Key_Password,Password
+Key_PasswordMismatch,Passwords do not match
+Key_PasswordNoMatch,The Password and Confirmation fields do not match
+Key_PasswordNotVerified,Check your password again
+Key_PasswordRequired,You must provide a password
+Key_Pause,Pause
+Key_Play,Play
+Key_PlayOffline,Play Offline
+Key_PlayOnline,Play Online
+Key_Player1,Player 1
+Key_Player2,Player 2
+Key_Player3,Player 3
+Key_Player4,Player 4
+Key_Player5,Player 5
+Key_Playername,Player Name
+Key_PleaseWait,Please wait...
+Key_Pop_Ups,Confirmation Pop-ups
+Key_PressNewKey,Press the new key for
+Key_PrivacyPolicy,Privacy Policy
+Key_Profile,Profile
+Key_ProfileLoading,Retrieving Profile . . .
+Key_Profiles,Profiles
+Key_Purchase,Purchase
+Key_Purchased,Purchased
+Key_QuickMatch,Quick Match
+Key_QuickMatchDelete,Are you sure you want to delete this Quick Match request?
+Key_QuickMatchFailure,Creating this Quick Match failed.
+Key_QuickMatchProcess,Creating a Quick Match game...
+Key_QuickMatchRequest,Quick Match Request
+Key_QuickMatchTooMany,Creating this Quick Match failed.<br>Too many games open.
+Key_Rating,Rating
+Key_RatingDifference,Rating Difference
+Key_ReadyToStart,Ready to Start
+Key_Reject,Reject
+Key_Rematch,Rematch
+Key_Remember,Remember Password
+Key_RemotePlayer,Remote Player
+Key_RemoveFriend,Remove Friend
+Key_RemoveFriendPrompt,Would you like to remove this player from your friend list?
+Key_RemoveProfile,Remove Profile
+Key_RequestMatch,Request Match
+Key_Resolution,Resolution
+Key_ResolutionChange,Change resolution to {0}x{1}?
+Key_ResolutionKeep,Keep this resolution?
+Key_Resolutions,Resolutions
+Key_RestoreDefaults,Restore Defaults
+Key_RestorePurchases,Restore Purchases
+Key_Resume,Resume
+Key_ResumeGame,Resume Game
+Key_ReturnToLobby,Return to Lobby
+Key_Round,Round
+Key_Rulebook,Rulebook
+Key_Sat,Sat
+Key_Saturday,Saturday
+Key_Second,Second
+Key_Seconds,Seconds
+Key_SelectAvatar,Select your avatar
+Key_SelectLanguage,Select Language
+Key_SendInfo,Send Login Info
+Key_Settings,Settings
+Key_Setup,Setup
+Key_SlotClosed,(Closed)
+Key_SlotOpen,(Open)
+Key_Slow,Slow
+Key_Sound_Volume,Sound Volume
+Key_Start,Start
+Key_StartGame,Start Game
+Key_Start_Menu,Start Menu
+Key_Sun,Sun
+Key_Sunday,Sunday
+Key_TapContinue,Tap to Continue
+Key_TermsAgreement,Terms of Use Agreement
+Key_Theme,Theme Selection
+Key_Thurs,Thurs
+Key_Thursday,Thursday
+Key_TimerAny,Timer: Any
+Key_TitleGame,Game
+Key_TitleNew,New
+Key_Tues,Tues
+Key_Tuesday,Tuesday
+Key_Turn,Turn
+Key_Tutorial,Tutorial
+Key_TutorialPrompt,Would you like to play the Tutorial?
+Key_Tutorials,Tutorials
+Key_Undo,<size=104>R</size>ocket Courier X-99
+Key_User,User Name:
+Key_Username,Username
+Key_Verify,Verify:
+Key_View,View
+Key_ViewCards,View Cards
+Key_ViewGame,View Game
+Key_ViewOpponentProfile,Tap opponent  to view their profile
+Key_ViewingPlayer,Viewing Player
+Key_WaitForPlayer,Waiting for Player
+Key_WaitForPlayers,Waiting for Players
+Key_WaitForStart,Waiting for Start
+Key_Waiting,Waiting
+Key_Warning,Warning
+Key_Wed,Wed
+Key_Wednesday,Wednesday
+Key_WindowedMode,Windowed Mode
+Key_WinsVS,Wins Versus
+Key_Withdraw,Withdraw
+Key_WithdrawConfirm,Are you sure you want to withdraw from this game?
+Key_iOSNotifications,iOS Notifications

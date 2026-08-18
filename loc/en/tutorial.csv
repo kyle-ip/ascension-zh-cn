@@ -1,0 +1,104 @@
+TUTORIAL_TEXT_1,Ascension is a deck building game.<br><br>Each player begins the game with an identical deck of ten cards that they improve as the game progresses.
+TUTORIAL_TEXT_2,"In Ascension, each player starts with a deck of 8 Apprentice cards and 2 Militia cards.<br><br>These cards provide the two basic resources:<br>Runes <sprite=32> and Power <sprite=0>."
+TUTORIAL_TEXT_3,Each Apprentice provides 1 Rune which can be used to acquire additional cards for your deck.
+TUTORIAL_TEXT_4,Each Militia provides       1 Power which is used to defeat monsters and earn rewards.
+TUTORIAL_TEXT_5,Apprentices and Militia are both Heroes.  Heroes can be played from your hand to gain their effect.
+TUTORIAL_TEXT_6,Cards that can be played from your hand will be<br>surrounded by a white halo.<br><br>Try playing an Apprentice now.
+TUTORIAL_TEXT_7,The cards in the upper left corner of the play area are always available during the course of the game.
+TUTORIAL_TEXT_8,These cards can always be purchased to add to your deck or defeated for rewards during your turn.
+TUTORIAL_TEXT_10,The number in the upper right corner of a card is the cost to acquire or defeat that card.
+TUTORIAL_TEXT_11,"To acquire a Mystic, you must have 3 Runes to spend.<br><br>Play another Apprentice to gain a second Rune."
+TUTORIAL_TEXT_12,"To acquire a Mystic, you must have 3 Runes to spend.<br><br>Play your third Apprentice to gain another Rune."
+TUTORIAL_TEXT_13,You now have enough Runes<br>to acquire a Mystic.
+TUTORIAL_TEXT_14,"When you acquire a card, it goes to your discard pile and will be available to you the next time you go through your deck."
+TUTORIAL_TEXT_15,"When a card can be acquired, it will be surrounded by a green halo.<br><br>Try acquiring a Mystic now."
+TUTORIAL_TEXT_16,"To defeat a monster, you must spend Power  <sprite=0>.<br><br>Defeating the Cultist requires 2 Power."
+TUTORIAL_TEXT_17,"To defeat the Cultist, you must spend 2 Power.<br><br>Play a Militia from your hand to gain Power."
+TUTORIAL_TEXT_18,"To defeat the Cultist, you must spend 2 Power.<br><br>Play your other Militia to gain another Power."
+TUTORIAL_TEXT_19,"When you defeat a monster, it doesn't go into your deck.  Instead, you receive a reward for defeating it and then it is sent to the Void."
+TUTORIAL_TEXT_20,A card that is sent to the Void is removed from play.  The Cultist is unique in that he can be sent to the Void over and over again.
+TUTORIAL_TEXT_21,"When a card can be defeated, it will be surrounded by a red halo.  To defeat it, you must drag it onto the Void."
+TUTORIAL_TEXT_22,Your reward for defeating the Cultist is<br>1 Honor.   Honor <sprite=64> is the victory condition of the game.  The goal of the game is to end up with more Honor <sprite=64> than your opponents.
+TUTORIAL_TEXT_23,"Aside from earning Honor from defeating monsters, each card you acquire has an associated Honor amount shown in the bottom left corner."
+TUTORIAL_TEXT_24,You gain honor both from monster rewards and from cards you buy throughout the game.  The number at the bottom left corner of each card is how much honor it's worth at the end of the game.
+TUTORIAL_TEXT_25,The Honor you were awarded is added to the Honor total from all of the cards in your deck to determine your final score.
+TUTORIAL_TEXT_26,The game begins with a pool of Honor based on the number of players.  The depletion of the Honor pool signals that the game will come to a close.
+TUTORIAL_TEXT_27,"Whenever a player plays a card or earns a reward that grants Honor, that Honor is removed from the Honor pool."
+TUTORIAL_TEXT_28,"When the Honor pool is empty, each player up to the player who took the last turn in the first round can complete a turn before the game ends."
+TUTORIAL_TEXT_29,"Since this is a 2 player game, we begin with<br>60 Honor in the Honor pool."
+TUTORIAL_TEXT_30,"In addition to the cards that are always available, players can acquire and defeat cards from the Center Row."
+TUTORIAL_TEXT_31,"The Center Row consists of 6 cards that change throughout the game.  When a card is removed from the Center Row (usually by someone acquiring or defeating it), the space is immediately filled by a new card dealt from the Portal Deck."
+TUTORIAL_TEXT_32,"You draw five cards to start the game.  At the end of each turn, all of those cards go to your discard pile and you draw five new cards."
+TUTORIAL_TEXT_33,"You begin this game with 5 Apprentices, so you will have<br>5 Runes to spend."
+TUTORIAL_TEXT_34,You may spend your Runes however you wish.  There is no limit to the number of cards you can acquire on your turn as long as you have Runes to purchase them.
+TUTORIAL_TEXT_35,"The more expensive a card is, the better this card will generally be once it is added to your deck."
+TUTORIAL_TEXT_36,"With 5 runes, you can afford to acquire Snapdragon, which is an excellent card for your deck.  Drag the Snapdragon from the Center Row to acquire it."
+TUTORIAL_TEXT_37,"When you acquire the Snapdragon, the space in the Center Row is immediately filled with another card from the Portal Deck."
+TUTORIAL_TEXT_38,"You've used all of your available resources for this turn.  With nothing left to do, you must end your turn and allow your opponent to take a turn."
+TUTORIAL_TEXT_39,"At the end of your turn, any cards left in your hand and all of the Hero cards you played this turn go to your discard pile.  Then you draw 5 new cards."
+TUTORIAL_TEXT_40,Your opponent has 4 Apprentices and 1 Militia.
+TUTORIAL_TEXT_41,He uses 4 Runes to acquire Demon Slayer.
+TUTORIAL_TEXT_42,"Since there is nothing your opponent can defeat for 1 Power, his Militia card will be sent to his discard pile without being used."
+TUTORIAL_TEXT_43,Now it's your turn again.<br><br>Your hand contains 3 Runes and 2 Power.
+TUTORIAL_TEXT_44,"For 3 Runes, you can acquire Wolf Shaman.<br><br>Wolf Shaman complements your Snapdragon."
+TUTORIAL_TEXT_45,"Wolf Shaman is a Lifebound Hero.  When Snapdragon is in play, it will award you additional Honor <sprite=64> for playing Lifebound Heroes."
+TUTORIAL_TEXT_46,You need 3 Runes to acquire the Wolf Shaman.
+TUTORIAL_TEXT_47,Now you can acquire the Wolf Shaman.
+TUTORIAL_TEXT_48,"You still have 2 Power left, which you can<br>use to defeat the Cultist."
+TUTORIAL_TEXT_49,Defeating the Cultist will award you 1 Honor.
+TUTORIAL_TEXT_50,You're done with your turn.<br><br>All of the cards you played this turn will go into your discard pile and you will draw a new hand of 5 cards.
+TUTORIAL_TEXT_51,"Because there are no cards left in your deck to draw, your discard pile is shuffled and that becomes your new deck.  The cards you've acquired during the last couple of turns will now become available for play."
+TUTORIAL_TEXT_52,Your opponent once again drew 4 Apprentices and 1 Militia.
+TUTORIAL_TEXT_53,He acquires 2 Heavy Infantry with his 4 Runes.  His 1 Power will again go to waste as there is nothing he can defeat.
+TUTORIAL_TEXT_54,"The Snapdragon you've just drawn is a Construct.  Unlike Hero cards, which go into your discard pile at the end of your turn, Constructs stay in play and have unique effects each turn."
+TUTORIAL_TEXT_55,Snapdragon gives you 1 Rune each turn.<br><br>Put Snapdragon into play by dragging it to the Action Area.
+TUTORIAL_TEXT_56,Constructs that provide a fixed number of Runes or Power will trigger automatically<br>when they are in play.
+TUTORIAL_TEXT_57,"The Rune you gained from the Snapdragon has already been added to your Rune count,<br>so you have 1 Rune from Snapdragon and<br>3 Runes from your Apprentices."
+TUTORIAL_TEXT_58,"First, spend 1 Rune to acquire the Arha Initiate.  You can acquire as many cards as you have Runes for, so if a good card replaces the Arha Initiate in the Center Row, you may be able to acquire that as well."
+TUTORIAL_TEXT_59,"Emri, One with the Void is a good card, but you cannot afford it this turn."
+TUTORIAL_TEXT_60,You do not have enough Runes to acquire anything in the center row.<br>This is when the always available cards come in handy.
+TUTORIAL_TEXT_61,Use your remaining 3 Runes to<br>acquire a Mystic.
+TUTORIAL_TEXT_62,"You still have 1 Power remaining, but since there is nothing you can defeat for 1 Power, you must end your turn."
+TUTORIAL_TEXT_63,"Your opponent has drawn a Demon Slayer, a Militia,<br>and 3 Apprentices, so he has 4 Power and 3 Runes."
+TUTORIAL_TEXT_64,"He defeats the Mistake of Creation, which rewards him with 4 Honor and allows him to banish any card from the Center Row and another card from his discard pile as a reward."
+TUTORIAL_TEXT_65,Banishing a card means you send that card to the Void without having to actually defeat it.  Monsters do not grant their reward when banished.
+TUTORIAL_TEXT_66,"You should banish cards that you don't want your opponent to acquire or defeat, and then you will have access to a new card from the Portal Deck."
+TUTORIAL_TEXT_67,"Your opponent has chosen to banish Master Dhartha.  Since his deck is mostly based on Power cards, he chose to banish Master Dhartha to prevent you from acquiring it."
+TUTORIAL_TEXT_68,"Banishing Master Dhartha not only eliminated a card that you could have used, but also it was replaced by a card that your opponent wants for his deck."
+TUTORIAL_TEXT_69,Your opponent can now spend 3 Runes to acquire<br>the Shadow Star.
+TUTORIAL_TEXT_70,Your opponent is out of resources and ends his turn.
+TUTORIAL_TEXT_71,"Playing your Wolf Shaman gives you a Rune and allows you to draw an additional card from your deck.  Because Wolf Shaman is a Lifebound Hero, your Snapdragon gains you 1 Honor when Wolf Shaman is played."
+TUTORIAL_TEXT_72,"With the additional resources you've gained this turn,<br>you have 6 Runes and 1 Power."
+TUTORIAL_TEXT_73,"You have enough Runes to acquire Emri, One with the Void!"
+TUTORIAL_TEXT_74,"There is nothing you can defeat for 1 Power,<br>so your turn is now over."
+TUTORIAL_TEXT_75,"Your opponent has drawn a Heavy Infantry, a Militia, and<br>3 Apprentices, which gives him 3 Runes and 3 Power."
+TUTORIAL_TEXT_76,He begins by spending 3 Power to defeat Samael's Trickster.
+TUTORIAL_TEXT_77,"Defeating Samael's Trickster rewards your opponent with<br>1 Honor and 1 Rune, giving him a total of 4 Runes."
+TUTORIAL_TEXT_78,He uses those 4 Runes to acquire the Druids of the Stone Circle that was just revealed in the Center Row.
+TUTORIAL_TEXT_79,Now your opponent is out of resources and ends his turn.
+TUTORIAL_TEXT_80,The first thing you should do this turn is play your Arha Initiate which allows you to draw an additional card from your deck.
+TUTORIAL_TEXT_81,You generally want to play cards that add additional cards or resources early in your turn so you have more options.
+TUTORIAL_TEXT_82,The Arha Initiate has drawn Emri into your hand.<br>This is fortuitous as you now have 5 Power.
+TUTORIAL_TEXT_83,"You have enough Power to defeat the Wind Tyrant.<br><br>Play Emri, One with the Void from your hand."
+TUTORIAL_TEXT_84,Now defeat the Wind Tyrant to earn a reward of<br>3 Honor and 3 Runes.
+TUTORIAL_TEXT_85,You need 7 Runes to acquire the Muramasa.
+TUTORIAL_TEXT_86,You now have enough Runes to acquire Muramasa!
+TUTORIAL_TEXT_87,"You should now have enough knowledge to play through a game of Ascension!<br><br>Remember, the player with the most Honor at the end of the game is the winner."
+TUTORIAL_TEXT_88,"If you still need help, a detailed version of the rules, including a visual guide to the interface, is available by pressing the Menu button in bottom right corner."
+TUTORIAL_TEXT_89,"You may finish this game against the computer opponent, or you may use the Menu button to start a new game at any time."
+TUTORIAL_PROMPT_CONTINUE,${CLICK_C} to Continue
+TUTORIAL_PROMPT_ENDTURN,${CLICK_C} the End Turn button
+TUTORIAL_PROMPT_PLAYAPPRENTICE,Drag an Apprentice into the Action Area
+TUTORIAL_PROMPT_ACQUIREMYSTIC,Drag a Mystic to your Discard Pile
+TUTORIAL_PROMPT_PLAYMILITIA,Drag a Militia into the Action Area
+TUTORIAL_PROMPT_DEFEATCULTIST,Drag the Cultist to the Void
+TUTORIAL_PROMPT_ACQUIRESNAPDRAGON,Drag the Snapdragon to your Discard Pile
+TUTORIAL_PROMPT_ACQUIREWOLFSHAMAN,Drag the Wolf Shaman to your Discard Pile
+TUTORIAL_PROMPT_PLAYSNAPDRAGON,Drag Snapdragon to the Action Area
+TUTORIAL_PROMPT_ACQUIREARHAINITIATE,Drag Arha Initiate to your Discard Pile
+TUTORIAL_PROMPT_PLAYWOLFSHAMAN,Drag Wolf Shaman into the Action Area
+TUTORIAL_PROMPT_ACQUIREEMRI,Drag Emri to your Discard Pile
+TUTORIAL_PROMPT_PLAYARHAINITIATE,Drag Arha Initiate into the Action Area
+TUTORIAL_PROMPT_PLAYEMRI,"Drag Emri, One with the Void into the Action Area"
+TUTORIAL_PROMPT_DEFEATWINDTRYANT,Drag Wind Tyrant into the Void
+TUTORIAL_PROMPT_ACQUIREMURAMASA,Drag Muramasa to your Discard Pile

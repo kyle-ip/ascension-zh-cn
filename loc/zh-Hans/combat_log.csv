@@ -1,0 +1,15 @@
+en,zh
+%s gains %d runes\n,%s获得%d点符文\n
+%s gains %d power\n,%s获得%d点战力\n
+%s gains %d honor tokens\n,%s获得%d点荣誉\n
+%s gains %d honor tokens from %s\n,%s从%s获得%d点荣誉\n
+%s gains %d runes from %s\n,%s从%s获得%d点符文\n
+%s gains %d power from %s\n,%s从%s获得%d点战力\n
+%s loses %d honor tokens\n,%s失去%d点荣誉\n
+%s now has %d honor tokens\n,%s现在拥有%d点荣誉\n
+%d honor tokens remain in pool\n,荣誉池剩余%d点\n
+%s defeats %s\n,%s击败了%s\n
+%s discards %s from play\n,%s从战场弃掉%s\n
+Choose Rune or Power,选择符文或战力
+Choose Life or Death,选择生命或死亡
+You May Convert Runes To Honor,你可以将符文转化为荣誉
