@@ -1,0 +1,331 @@
+"""Build StreamingAssets overlay tables: loc-key and exact English -> Chinese."""
+
+from __future__ import annotations
+
+import csv
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "tools"))
+
+from translate import strip_drop_cap  # noqa: E402
+
+ZH = ROOT / "loc" / "zh-Hans"
+EN_SHEETS = ROOT / "loc" / "en" / "sheets"
+OUT = ZH / "overlay.tsv"
+
+TAG_RE = re.compile(r"</?(?:size|space|color|b|i|B|I|sprite)[^>]*>", re.I)
+
+
+def load_pairs(path: Path, key_col: str, val_col: str) -> dict[str, str]:
+    if not path.is_file():
+        return {}
+    with path.open(encoding="utf-8", newline="") as f:
+        return {
+            row[key_col]: row[val_col]
+            for row in csv.DictReader(f)
+            if row.get(key_col) and row.get(val_col)
+        }
+
+
+def load_two_col(path: Path) -> dict[str, str]:
+    if not path.is_file():
+        return {}
+    out: dict[str, str] = {}
+    with path.open(encoding="utf-8", newline="") as f:
+        for row in csv.reader(f):
+            if len(row) >= 2 and row[0] and row[0] not in {"key", "en"}:
+                out[row[0]] = row[1]
+    return out
+
+
+def strip_tags(text: str) -> str:
+    text = strip_drop_cap(text)
+    text = TAG_RE.sub("", text)
+    text = text.replace("<br>", "\n").replace("<BR>", "\n")
+    return re.sub(r"\s+", " ", text).strip()
+
+
+SKIP_EXACT = {
+    "Play",
+    "Buy",
+    "OK",
+    "Ok",
+    "Copy",
+    "Use",
+    "Give",
+    "Target",
+    "Select",
+    "Defend",
+    "Delete",
+    "Reveal",
+    "Discard",
+    "View",
+    "Join",
+    "Start",
+    "Back",
+    "Close",
+    "Done",
+    "Yes",
+    "No",
+    "Confirm",
+    "Commit",
+    "Dismiss",
+    "Undo",
+    "CLICK",
+    "Click",
+}
+
+ALLOW_SHORT = {
+    "Menu",
+    "Exit",
+    "VOID",
+    "Offline",
+    "Online",
+    "Back",
+    "Hero",
+    "LOG",
+    "Log",
+    "Easy",
+    "Hard",
+    "Continue",
+    "Cancel",
+    "Owned",
+}
+
+
+def put_exact(exact: dict[str, str], en: str, zh: str) -> None:
+    if not en or not zh or en == zh:
+        return
+    if "${CLICK" in en or "${CLICK" in zh:
+        return
+    if "CLICK" in en.upper() and "CONTINUE" in en.upper():
+        return
+
+    def add(src: str) -> None:
+        key = src.strip()
+        if not key or key == zh:
+            return
+        if key in SKIP_EXACT:
+            return
+        if len(key) <= 4 and key not in ALLOW_SHORT:
+            return
+        exact[src] = zh
+        if key != src:
+            exact[key] = zh
+
+    add(en)
+    stripped = strip_tags(en)
+    if stripped and stripped != zh:
+        add(stripped)
+    plain = strip_drop_cap(en)
+    if plain and plain != zh:
+        add(plain)
+
+
+def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
+    keys: dict[str, str] = {}
+    exact: dict[str, str] = {}
+
+    ui = load_pairs(ZH / "ui.csv", "key", "zh")
+    keys.update(ui)
+
+    cards = load_two_col(ZH / "cards.csv")
+    keys.update(cards)
+
+    tutorial = load_pairs(ZH / "tutorial.csv", "key", "zh")
+    if not tutorial:
+        tutorial = load_two_col(ZH / "tutorial.csv")
+    for key, zh in tutorial.items():
+        keys[key] = zh
+
+    for sheet in ("Common_Strings.csv", "Common_Ingame.csv", "Ascension_Cards.csv"):
+        en_map = load_two_col(EN_SHEETS / sheet)
+        for key, en in en_map.items():
+            zh = keys.get(key)
+            if zh and key.startswith("Key_"):
+                put_exact(exact, en, zh)
+
+    # Card name/effect exact maps cause a second TMP layer on top of
+    # LocalizationService text. Harmony GetTextByKey owns those strings.
+
+    combat = ZH / "combat_log.csv"
+    if combat.is_file():
+        with combat.open(encoding="utf-8", newline="") as f:
+            for row in csv.DictReader(f):
+                put_exact(exact, row.get("en") or "", row.get("zh") or "")
+
+    runtime = ZH / "ui_runtime.csv"
+    if runtime.is_file():
+        with runtime.open(encoding="utf-8", newline="") as f:
+            for row in csv.DictReader(f):
+                put_exact(exact, row.get("en") or "", row.get("zh") or "")
+
+    extras = {
+        "Menu": "菜单",
+        "Exit": "退出",
+        "Offline": "离线",
+        "Online": "在线",
+        "App Store": "应用商店",
+        "In-App Store": "应用商店",
+        "END TURN": "结束回合",
+        "End Turn": "结束回合",
+        "END\nTURN": "结束回合",
+        "End\nTurn": "结束回合",
+        "Continue": "继续",
+        "CONTINUE": "继续",
+        "Loading cards, please wait...": "正在加载卡牌，请稍候…",
+        "Loading Cards, please wait...": "正在加载卡牌，请稍候…",
+        "Loading cards, please wait": "正在加载卡牌，请稍候",
+        "Common": "中立",
+        "Reward: Gain 1H.": "奖励：获得1荣誉。",
+        "Reward: Gain 1 Honor.": "奖励：获得1荣誉。",
+        "Reward: 1 Honor": "奖励：1荣誉",
+        "The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.": "邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。",
+        "(The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.)": "（邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。）",
+        "Play Your Turn": "请出牌",
+        "Stone Blade Newsletter Sign-Up": "订阅 Stone Blade 通讯",
+        "Stone Blade Newsletter Sign-up": "订阅 Stone Blade 通讯",
+        "STONE BLADE NEWSLETTER SIGN-UP": "订阅 Stone Blade 通讯",
+        "STONE BLADE NEWSLETTER": "Stone Blade 通讯",
+        "Subscribe to Stone Blade Newsletter": "订阅 Stone Blade 通讯",
+        "Sign up to get the latest information and special deals direct to you.": "订阅即可获取最新资讯与优惠，直接发到你的邮箱。",
+        "Cancel": "取消",
+        "Owned": "已拥有",
+        "Coming Soon": "即将推出",
+        "Now Available": "现已推出",
+        "Downloadable Content": "可下载内容",
+        "Promo 7": "特典 7",
+        "Enlightened Monster": "启迪怪物",
+        "Lifebound Monster": "生命怪物",
+        "Mechana Monster": "机械怪物",
+        "Void Monster": "虚空怪物",
+        "Common Monster": "中立怪物",
+        "Offline Games": "离线对局",
+        "Offline Game List": "离线对局列表",
+        "Online Games": "在线对局",
+        "Back": "返回",
+        "LOG": "记录",
+        "Log": "记录",
+        "Music": "音乐",
+        "Sound Effects": "音效",
+        "Cultist Screams": "邪教徒惨叫",
+        "PLAY ALL": "全部打出",
+        "Play All": "全部打出",
+        "Lobby": "大厅",
+        "Version:": "版本：",
+        "Settings": "设置",
+        "Key Bindings": "按键绑定",
+        "VOID": "虚空",
+        "Void": "虚空区",
+        "Hero": "英雄",
+        "Construct": "神器",
+        "Monster": "怪物",
+        "Enlightened": "启迪",
+        "Lifebound": "生命",
+        "Mechana": "机械",
+        "Enlightened Hero": "启迪英雄",
+        "Enlightened Construct": "启迪神器",
+        "Lifebound Hero": "生命英雄",
+        "Lifebound Construct": "生命神器",
+        "Mechana Hero": "机械英雄",
+        "Mechana Construct": "机械神器",
+        "Void Hero": "虚空英雄",
+        "Void Construct": "虚空神器",
+        "Always Available": "始终可用",
+        "Always available": "始终可用",
+        "Center Row": "中央牌列",
+        "Honor": "荣誉",
+        "Runes": "符文",
+        "Power": "战力",
+        "Deck": "牌库",
+        "Discard": "弃牌堆",
+        "Hand": "手牌",
+        "Player": "玩家",
+        "Settings": "设置",
+        "Options": "选项",
+        "Play Your Turn": "请出牌",
+        "You May End Your Turn": "你可以结束回合",
+        "You Must End Your Turn": "你必须结束回合",
+        "Are you sure you want to end your turn?": "确定要结束你的回合吗？",
+        "Not a valid target": "不是有效目标",
+        "Confirm Revealed Cards": "确认已展示的卡牌",
+        "Commit Your Decision": "确认你的决定",
+        "Loading...": "加载中...",
+        "Chronicle of the Godslayer": "弑神编年史",
+        "Return of the Fallen": "邪神归来",
+        "Storm of Souls": "灵魂风暴",
+        "Immortal Heroes": "不朽英雄",
+        "Rise of Vigil": "祈夜崛起",
+        "Darkness Unleashed": "黑暗释放",
+        "Realms Unraveled": "领域解开",
+        "Dawn of Champions": "冠军黎明",
+        "Dreamscape": "梦境",
+        "War of Shadows": "暗影之战",
+        "Gift of the Elements": "元素的馈赠",
+        "Valley of the Ancients": "上古山谷",
+        "Delirium": "谵妄",
+        "Deliverance": "救赎",
+        "Legends": "史诗传奇",
+        "English": "英语",
+        "French": "法语",
+        "German": "德语",
+        "Spanish": "西班牙语",
+        "Italian": "意大利语",
+        "Portuguese": "葡萄牙语",
+        "Russian": "俄语",
+        "Japanese": "日语",
+        "Chinese": "中文",
+        "Simplified Chinese": "简体中文",
+        "Traditional Chinese": "繁体中文",
+        "Easy": "简单",
+        "Normal": "普通",
+        "Hard": "困难",
+        "Expert": "专家",
+        "Beginner": "入门",
+        "Honor Pool": "荣誉池",
+        "Always available": "始终可用",
+        "MULTI-UNITE": "多重联合",
+        "Ongoing Trophy": "持续战利品",
+        "Event Trophy": "事件战利品",
+        "You can get a closer view of any card by right clicking it.  A left click will then return it to the play field so you can resume play.": "右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。",
+        "You can get a closer view of any card by right clicking it. A left click will then return it to the play field so you can resume play.": "右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。",
+        "You can get a closer view of any card by double tapping it.  A single tap will then return it to the play field so you can resume play.": "双击任意卡牌可查看大图。单击即可回到牌局继续游戏。",
+    }
+    for en, zh in extras.items():
+        put_exact(exact, en, zh)
+
+    for n in range(1, 21):
+        put_exact(exact, f"Player {n}", f"玩家 {n}")
+        put_exact(exact, f"Round {n}", f"第 {n} 回合")
+        put_exact(exact, f"AI Player {n}", f"AI 玩家 {n}")
+
+    return keys, exact
+
+
+def escape(value: str) -> str:
+    return value.replace("\\", "\\\\").replace("\r\n", "\n").replace("\n", "\\n").replace("\t", "\\t")
+
+
+def write_overlay(dest: Path | None = None) -> Path:
+    keys, exact = build_overlay()
+    dest = dest or OUT
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    lines = ["# kind\tsrc\tzh"]
+    for key, zh in sorted(keys.items()):
+        lines.append(f"K\t{escape(key)}\t{escape(zh)}")
+    for en, zh in sorted(exact.items(), key=lambda x: (-len(x[0]), x[0])):
+        lines.append(f"E\t{escape(en)}\t{escape(zh)}")
+    dest.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"wrote {dest.name} ({len(keys)} keys, {len(exact)} exact)")
+    return dest
+
+
+def main() -> None:
+    write_overlay()
+
+
+if __name__ == "__main__":
+    main()

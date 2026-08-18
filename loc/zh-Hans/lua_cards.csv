@@ -1,560 +1,583 @@
 id,card_set,display_name,effect_text,flavor_text,source
-"Vedah, Sage of Swords",promo,"Vedah, Sage of Swords",Reveal the top 卡牌 of the center 牌库.  抽 it or defeat it.,,draft
-Giant Rat,promo,Giant Rat,"Any 卡牌 underneath Giant Rat cannot be acquired, banished, or defeated until Giant Rat is banished or defeated.
-奖励：获得1荣誉.",,draft
-Rat King,promo,Rat King,"When Rat King enters the 中央牌列, place a Giant Rat on top of each other 中央牌列 space.
-奖励：获得4荣誉 and defeat all Giant Rats in 打出.",,draft
-Pathwarden,promo,Pathwarden,获得2符文.  你可以spend R as though it was P 本回合.,,draft
-Deep Drone,promo,Deep Drone,获得2符文.  Put the next construct you acquire 本回合 directly 进入战场.,,draft
-Void Mesmer,promo,Void Mesmer,"获得2战力.  The next time you defeat a 怪物 本回合, 你可以acquire a 英雄 of equal 或更低er cost.",,draft
-"Kythis, the Gatekeeper",promo,"Kythis, the Gatekeeper","When Kythis enters the 中央牌列, take the top 卡牌 of the center 牌库 and place it face down underneath him.
-",,draft
-Journeyman Sage,promo,Journeyman Sage,"FATE: When this enters the 中央牌列, each player may banish a 英雄 in their 手牌 to acquire a 秘教士 or 重装步兵 and add it to their 手牌.
-",,draft
-Nethersnare,promo,Nethersnare,"每回合一次，if there is no 怪物 under this, 你可以put a 怪物 from the 中央牌列 under it.
-",,draft
-Askara of Fortune,promo,Askara of Fortune,Each player reveals the top 卡牌 of their 牌库. ,,draft
-Hedron Flare,promo,Hedron Flare,每回合一次，你可以acquire a 机械 英雄 在中央牌列 无需支付费用.,,draft
-"Cetra, Guide of Ogo",promo,"Cetra, Guide of Ogo",获取 all Heroes 在中央牌列 无需支付 their costs. ,,draft
-Ring of Life,promo,Ring of Life,"每回合一次，if you have played a 生命英雄, 获得1符文. ",,draft
-Ender of Days,promo,Ender of Days,奖励：获得10荣誉. Remove all 荣誉 from the 荣誉 Pool.,,draft
-Leprechaun,promo,Leprechaun,获得2符文.  获取一个Pot of Gold from the End of the Rainbow or from another player's control.,,draft
-Pot of Gold,promo,Pot of Gold,"When you 打出 this, 抽一张牌.  When you 打出 a Leprechaun, 获得1荣誉.",,draft
-"Miles, Golden Prodigy",promo,"Miles, Golden Prodigy","抽一张牌. Whenever you 打出 a 卡牌 of another faction 本回合, 抽一张牌. This only happens once per faction.",,draft
-Control Room,promo,Control Room,"每回合一次，你可以put a 机械神器 you control on top of the center 牌库.
-",,draft
-Soul Collector,promo,Soul Collector,"每回合一次，add a Soul counter to this if you've defeated a 怪物 在中央牌列.
-",,draft
-Arha Sanctuary,promo,Arha Sanctuary,"When this enters 打出, put the top 卡牌 of your 牌库 under this face up.
-",,draft
-Moon Staff,promo,Moon Staff,每回合一次，你可以spend 4符文 to double your power.,,draft
-Constricting Horror,promo,Constricting Horror,奖励：获得4荣誉. Reveal cards from the center 牌库 until you reveal a 英雄. ,,draft
-Big Bad Bunny,promo,Big Bad Bunny,FATE: Place a 卡牌 from the center 牌库 facedown under this and each other 卡牌 在中央牌列. ,,draft
-Lotus Siren,promo,Lotus Siren,"获得2符文.
-",,draft
-Aether Channeler,promo,Aether Channeler,放逐一张卡牌 from your 手牌.  Replace it with a random hero and put it 在你的手牌中.,,draft
-Spirit of the Ancients,promo,Spirit of the Ancients,Choose a 生命英雄 that hasn't been chosen with this before. This 卡牌 counts as a copy of that 英雄.,,draft
-Temporal Excavator,promo,Temporal Excavator,:  Add one 卡牌 and if it is already there then banish it and replace it.,,draft
-Eternal Tormentor,promo,Eternal Tormentor,击败一个random 怪物 in the void 无需支付费用s and put it on the bottom of the center 牌库.,,draft
-Explosive Swarm,promo,Explosive Swarm,"奖励：获得4荣誉. When an adjacent non-怪物 卡牌 would be replaced,",,draft
-Portal,promo,Portal,This is any hero or construct that could be found in the center 牌库 of any Ascension set. ,,draft
-Aether Curator,promo,Aether Curator,"放逐一张卡牌 在中央牌列. Replace it with a Portal.
-",,draft
-Aetherspring Witch,promo,Aetherspring Witch,"Choose one: 获得3荣誉, or acquire a Portal 在中央牌列 无需支付费用.",,draft
-Destroyer's Gate,promo,Destroyer's Gate,"After a certain amount of time, this transforms into something awesome!",,draft
-Aether Ritualist,promo,Aether Ritualist,"获得2战力.
-",,draft
-Tollmaster Ky'lek,promo,Tollmaster Ky'lek,"FATE: 放逐 all other cards 在中央牌列 and replace them with Portals.
-",,draft
-Defender of Vigil,promo,Defender of Vigil,"获得2符文 and 2战力.
-",,draft
-"David, Prophetic Guide",promo,"David, Prophetic Guide","抽 three 卡牌, then put two cards from your 手牌 放到你的牌库顶 in any order.",,draft
-Eye of Potential,promo,Eye of Potential,每回合一次，你可以banish a 卡牌 在你的手牌中. ,,draft
-"Forrest, Beastwarden",promo,"Forrest, Beastwarden","获得2符文.
-",,draft
-Lunar Matriarch,promo,Lunar Matriarch,"获得5荣誉.
-",,draft
+"Vedah, Sage of Swords",promo,剑贤维达,展示传送门牌库顶的卡牌. 抽起它或击败它.,,machine
+Giant Rat,promo,巨鼠,"置于其下的任何卡牌巨人Rat不能被获取、放逐或击败直到巨鼠被放逐或击败.
+奖励：获得1荣誉.",,machine
+Rat King,promo,鼠王,"当Rat王进入中央牌列, 放置一张巨鼠在 顶部的 每个其他中央牌列space.
+奖励：获得4荣誉和 击败所有巨人Rats在打出.",,machine
+Pathwarden,promo,巡路者,获得2符文. 你可以花费R视为P本回合.,,machine
+Deep Drone,promo,深潜无人机,获得2符文. 放置下一神器你 获取本回合直接进入战场.,,machine
+Void Mesmer,promo,虚空催眠师,"获得2战力. 下次你击败一个怪物本回合, 你可以获取一个英雄的 相等或更低er费用.",,machine
+"Kythis, the Gatekeeper",promo,守门人凯西斯,"当凯西斯进入中央牌列, 拿取传送门牌库顶的卡牌和 放置它 面朝下置于其下他.",,machine
+Journeyman Sage,promo,旅者贤者,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐英雄在其手牌中以 获取秘教士或 重装步兵和 加入其手牌.",,machine
+Nethersnare,promo,冥界陷阱,"每回合一次，若此牌下没有怪物，你可以将中央牌列的一个怪物置于其下。
+你可以击败怪物其下此 视为在中央牌列.
+若此 离开打出, 放置任意怪物其下此 在顶部的 传送门牌库.",,machine
+Askara of Fortune,promo,幸运阿斯卡拉,每位玩家展示顶部卡牌的 其牌库. 选择一个英雄已展示以此方式和 复制其效果.,,machine
+Hedron Flare,promo,多面体闪耀,每回合一次，你可以获取机械英雄在中央牌列无需支付费用.,,machine
+"Cetra, Guide of Ogo",promo,奥戈向导塞特拉,获取所有英雄在中央牌列无需支付费用. 放置它们放到你的牌库顶在 任意秩序.,,machine
+Ring of Life,promo,生命之环,"每回合一次，若你 拥有打出过生命英雄, 获得1符文. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也生命英雄.",,machine
+Ender of Days,promo,终日者,奖励：获得10荣誉. Remove所有荣誉从 荣誉池.,,machine
+Leprechaun,promo,小矮妖,获得2符文. 获取一个罐的 金从彩虹尽头或 从另一名玩家的控制.,,machine
+Pot of Gold,promo,金罐,"当你 打出此, 抽一张牌. 当你 打出小矮妖, 获得1荣誉.",,machine
+"Miles, Golden Prodigy",promo,黄金神童迈尔斯,"抽一张牌. 每当你 打出卡牌的 另一派系本回合, 抽一张牌. 每个派系仅触发一次.",,machine
+Control Room,promo,控制室,"每回合一次，你可以放置机械神器你控制的在 顶部的 传送门牌库.
+若你如此做，获取机械神器在中央牌列和 将它放置在你的手牌中.",,machine
+Soul Collector,promo,集魂者,"每回合一次，加入灵魂指示物以 此若you've被击败怪物在中央牌列.
+每回合一次，获得战力相等以 数量为灵魂指示物在 此.",,machine
+Arha Sanctuary,promo,亚哈圣所,"当此牌进入战场时, 放置你牌库顶的卡牌其下此 面朝上.
+每回合一次，你可以swap卡牌在你的手牌中以 卡牌其下Arha圣所.
+当Arha圣所离开打出的 游戏结束, 放置卡牌其下它 置入你的弃牌堆.",,machine
+Moon Staff,promo,月杖,每回合一次，你可以花费 4符文以 使你的战力翻倍.,,machine
+Constricting Horror,promo,绞杀恐魔,奖励：获得4荣誉. 展示卡牌从中央牌库直到你 展示英雄. 获取该 英雄无需支付费用和 放逐每个其他卡牌已展示以此方式.,,machine
+Big Bad Bunny,promo,大坏兔子,天命： 放置卡牌从中央牌库facedown其下此 和每个其他卡牌在中央牌列.,,machine
+Lotus Siren,promo,莲花海妖,"获得2符文.
+每当你 获取一个英雄或 宝藏卡牌从中央牌列本回合, 获得1荣誉. (获得荣誉以 每个卡牌已获取.)",,machine
+Aether Channeler,promo,以太引导者,放逐一张卡牌从你的手牌. Replace它以 随机hero和将它放置在你的手牌中.,,machine
+Spirit of the Ancients,promo,上古之灵,选择生命英雄该 尚未被选择以 此before. 此卡牌视为复制的 该英雄.,,machine
+Temporal Excavator,promo,时光发掘者,: 加入一卡牌和 若它 为already那里然后放逐它 和将它替换.,,machine
+Eternal Tormentor,promo,永恒折磨者,击败一个随机怪物在 虚空区无需支付费用s和将它放置置于其底： 传送门牌库.,,machine
+Explosive Swarm,promo,爆裂虫群,"奖励：获得4荣誉. 当相邻non-怪物卡牌会 是被替换,将它替换以 复制的 此怪物改为",,machine
+Portal,promo,传送门,此为 任意hero或神器该 能够是 发现在 传送门牌库的 任意Ascension set. 你从不知道什么you're going以get!,,machine
+Aether Curator,promo,以太策展者,放逐一张卡牌在中央牌列. Replace它以 传送门.,,machine
+Aetherspring Witch,promo,以太泉女巫,"选择一项： 获得3荣誉, 或获取传送门在中央牌列无需支付费用.",,machine
+Destroyer's Gate,promo,毁灭者之门,经过一段时间后，此牌会转化成某种很厉害的东西！,,machine
+Aether Ritualist,promo,以太祭仪师,"获得2战力.
+下次你击败一个怪物在中央牌列本回合, 你可以获取传送门无需支付费用.",,machine
+Tollmaster Ky'lek,promo,税吏凯莱克,天命： 放逐所有其他卡牌在中央牌列和 将它们替换以 传送门.,,machine
+Defender of Vigil,promo,防御者祈夜,"获得2符文和 2战力.
+获得1符文以 每个学徒你 打出或 拥有打出过本回合.
+获得1战力以 每个民兵你 打出或 拥有打出过本回合.",,machine
+"David, Prophetic Guide",promo,大卫·预言向导,"抽三 卡牌, 然后放置两 卡牌从你的手牌放到你的牌库顶在 任意秩序.",,machine
+Eye of Potential,promo,潜能之眼,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
+"Forrest, Beastwarden",promo,福雷斯特·兽卫,"获得2符文.
+一次本回合, 你可以获取一个英雄在 虚空区视为在中央牌列.",,machine
+Lunar Matriarch,promo,月女族长,"获得5荣誉.
+一次本回合, 你可以支付至多 5符文以 获得该等量的H.",,machine
 N.I.N.E.,promo,N.I.N.E.,"获得2符文.
-",,draft
-Tinkering Monk,promo,Tinkering Monk,"获得2符文.
-",,draft
-Ethereal Huntress,promo,Ethereal Huntress,"获得3战力.
-",,draft
-Chaos Rider,promo,Chaos Rider,"获得3战力.
-",,draft
-"Nova, Born of Chaos",promo,"Nova, Born of Chaos",奖励：All players return all 荣誉点数 to the honor pool. ,,draft
-Stone Blade Templar,promo,Stone Blade Templar,"Reveal and banish the top 卡牌 of the Center Deck. If its faction is:
-",,draft
-Spire of the Wind,promo,Spire of the Wind,每回合一次，你可以discard 卡牌 from your 手牌 to 抽一张牌.,,draft
-Seed of the World,promo,Seed of the World,"每回合一次，when you acquire a 英雄 in the 中央牌列,",,draft
-Chaotic Cannon,promo,Chaotic Cannon,每回合一次，discard the top 卡牌 of your 牌库 to 获得Power equal to its 荣誉 value.,,draft
-The Aethermourne,promo,The Aethermourne,每回合一次，获得Power equal to the number of Monsters in the 中央牌列.,,draft
-Puggageddon,promo,Puggageddon,奖励：获得2 荣誉. Put this into another player's 弃牌堆. ,,draft
-Twilight Scout,WoS,Twilight Scout,"抽一张牌.
-",,draft
-Inspired Templar,WoS,Inspired Templar,"击败一个怪物 with cost 4战力 或更低 无需支付费用.
-",,draft
-Pillar of Resolve,WoS,Pillar of Resolve,"每回合一次，if you have played a 秘教士 and a 重装步兵, 抽两张牌.",,draft
-"Ta'hyr, the Sun",WoS,"Ta'hyr, the Sun","If all cards 在中央牌列 are DAY cards, ",,draft
-Shrine Attendant,WoS,Shrine Attendant,Add a 秘教士 or 重装步兵 to your 手牌.,,draft
-Searing Askara,WoS,Searing Askara,放逐一张卡牌 在中央牌列. ,,draft
-Arha Historian,WoS,Arha Historian,抽一张牌. ,,draft
-Bringer of Hope,WoS,Bringer of Hope,放逐一张卡牌 在你的手牌中. ,,draft
-Sunstreak Courier,WoS,Sunstreak Courier,获得1符文 and 1战力.,,draft
-Everbloom Witch,WoS,Everbloom Witch,"获得3荣誉.
-",,draft
-Marsh Ranger,WoS,Marsh Ranger,"获得1符文 and 1荣誉. 抽一张牌.
-",,draft
-"Vyrak, the First",WoS,"Vyrak, the First","你可以spend P as R to acquire this.
-",,draft
-Lunar Guardian,WoS,Lunar Guardian,"获得2符文.
-",,draft
-Verdant Chanter,WoS,Verdant Chanter,"获得2符文.
-",,draft
-Map of the Stars,WoS,Map of the Stars,每回合一次，获得1符文 and 1战力.,,draft
-"Luro, the Hunter",WoS,"Luro, the Hunter","获得3符文.
-",,draft
-Solar Sentry,WoS,Solar Sentry,"获得2符文.
-",,draft
-Sureshot Tracker,WoS,Sureshot Tracker,"获得2战力.
-",,draft
-Foundry Hound,WoS,Foundry Hound,每回合一次，if you 打出 a 机械 Contruct ,,draft
-Watchtower Golem,WoS,Watchtower Golem,每回合一次，if you 打出 a 机械 Contruct ,,draft
-Wrecklamax,WoS,Wrecklamax,每回合一次，if you 打出 a 机械 Contruct ,,draft
-Illuminator,WoS,Illuminator,DAY: 每回合一次，获得1符文 and 1战力 ,,draft
-Flare Tracker,WoS,Flare Tracker,"获得2符文.
-",,draft
-Rescuebot 505,WoS,Rescuebot 505,"When you acquire this and it is Day, put it directly 进入战场.
-",,draft
-Shade Converter,WoS,Shade Converter,"If you control three 或更高 机械神器s, ",,draft
-Dogs of War,WoS,Dogs of War,"获得1战力.
-",,draft
-Riftwatch Outpost,WoS,Riftwatch Outpost,"每回合一次，获得1战力.
-",,draft
-Deadeye Assassin,WoS,Deadeye Assassin,"获得3战力.
-",,draft
-Dark Gladiator,WoS,Dark Gladiator,"获得2战力.
-",,draft
-Dread Conjurer,WoS,Dread Conjurer,"抽一张牌.
-",,draft
-Wartorn Arbiter,WoS,Wartorn Arbiter,获得1战力. ,,draft
-Shade of Sadranis,WoS,Shade of Sadranis,"获得4战力.
-",,draft
-"Isha, the Pursuer",WoS,"Isha, the Pursuer","获得3战力.
-",,draft
-Shardwing Beetle,WoS,Shardwing Beetle,"奖励：获得3荣誉.
-",,draft
-Deceitful Ghoul,WoS,Deceitful Ghoul,"奖励：获得2荣誉.
-",,draft
-Scavenger Ants,WoS,Scavenger Ants,"奖励：获得4荣誉.
-",,draft
-Emberwing Moth,WoS,Emberwing Moth,"奖励：获得5荣誉.
-",,draft
-Cavern Creeper,WoS,Cavern Creeper,奖励：获得1荣誉 and 1符文.,,draft
-Shade Viper,WoS,Shade Viper,"奖励：获得2荣誉.
-",,draft
-Light of False Hope,WoS,Light of False Hope,"奖励：获得4荣誉.
-",,draft
-Lieutenant Duros,WoS,Lieutenant Duros,"奖励：获得4荣誉.
-",,draft
-Legion of Aklys,WoS,Legion of Aklys,"If all cards 在中央牌列 are NIGHT cards, ",,draft
-"Aklys, the Scourge",WoS,"Aklys, the Scourge","奖励：获得6荣誉.
-",,draft
-Dhartha's Trial,GotE,Dhartha's Trial,"每回合一次，if you have played a 秘教士 or 重装步兵, 抽一张牌.
-",,draft
-"Dhartha, Eternal Seer",GotE,"Dhartha, Eternal Seer",抽 four cards.,,draft
-Radiant Aspirant,GotE,Radiant Aspirant,"EMPOWER
-",,draft
-Water Elemental,GotE,Water Elemental,"抽一张牌.
-",,draft
-Sister of the Wind,GotE,Sister of the Wind,放逐 Sister of the Wind and a 卡牌 在你的手牌中. ,,draft
-Yuk Tribe Outcast,GotE,Yuk Tribe Outcast,"抽一张牌.
-",,draft
-Thunder Templar,GotE,Thunder Templar,"EMPOWER
-",,draft
-Whirlwind Ascetic,GotE,Whirlwind Ascetic,"抽三张牌, then discard two cards. ",,draft
-Brother Laias,GotE,Brother Laias,"EMPOWER
-",,draft
-"Sonny, Lightwielder",GotE,"Sonny, Lightwielder","EMPOWER
-",,draft
-Piercing Eye,GotE,Piercing Eye,"每回合一次，if you have defeated a 怪物 在中央牌列, ",,draft
-Temple of the Wind,GotE,Temple of the Wind,每回合一次，你可以banish a 卡牌 在你的弃牌堆 ,,draft
-Cetra's Trial,GotE,Cetra's Trial,"Heroes 在中央牌列 cost 1符文 less to acquire (to a minimum of 1符文).
-",,draft
-"Cetra, Celestial Body",GotE,"Cetra, Celestial Body",获得H equal to the total H of all Heroes and Constructs 在中央牌列.,,draft
-Keen-eyed Aspirant,GotE,Keen-eyed Aspirant,"EMPOWER
-",,draft
-Thicket Familiar,GotE,Thicket Familiar,"EMPOWER
-",,draft
-Verdant Elemental,GotE,Verdant Elemental,"获得3荣誉.
-",,draft
-Flourishing Druidess,GotE,Flourishing Druidess,"EMPOWER
-",,draft
-"Kiri, Meadow Witch",GotE,"Kiri, Meadow Witch","抽一张牌.
-",,draft
-Hearthglow Clique,GotE,Hearthglow Clique,"EMPOWER
-",,draft
-Earthmender Pura,GotE,Earthmender Pura,"获得3符文.
-",,draft
-Wildbark Mail,GotE,Wildbark Mail,"每回合一次，if you have defeated a 怪物 在中央牌列, 获得2荣誉.",,draft
-Temple of Heroes,GotE,Temple of Heroes,"每回合一次，if you have played a 生命英雄 or 怪物, 获得2荣誉.",,draft
-Reysa's Trial,GotE,Reysa's Trial,"Constructs 在中央牌列 cost 1符文 less to acquire (to a minimum of 1符文).
-",,draft
-Forgemother Reysa,GotE,Forgemother Reysa,Choose one: 抽一张牌 OR acquire any number of Constructs ,,draft
-Innovative Aspirant,GotE,Innovative Aspirant,"EMPOWER
-",,draft
-Scrap Weaver,GotE,Scrap Weaver,"抽一张牌.
-",,draft
-Iron Elemental,GotE,Iron Elemental,"获得2符文.
-",,draft
-Conduit Monk,GotE,Conduit Monk,"EMPOWER
-",,draft
-Elemental Projector,GotE,Elemental Projector,"每回合一次，if you control two 或更高 机械神器s, 获得2战力.",,draft
-Processing Hub,GotE,Processing Hub,"每回合一次，if you control three 或更高 机械神器s, 获得2符文.",,draft
-Spire of Insight,GotE,Spire of Insight,"每回合一次，if you control four 或更高 机械神器s, 你可以抽两张牌.",,draft
-Blast Goggles,GotE,Blast Goggles,"每回合一次，if you control five 或更高 机械神器s, 获得5荣誉.",,draft
-Cell Block E,GotE,Cell Block E,"When you defeat a 怪物 在中央牌列 or 打出 a 怪物, ",,draft
-P.R.I.M.E. Directive,GotE,P.R.I.M.E. Directive,"If you control eight 或更高 机械神器s, you win the game.",,draft
-Emri's Trial,GotE,Emri's Trial,"Monsters 在中央牌列 cost 1战力 less to defeat (to a minimum of 1战力).
-",,draft
-"Emri, Born of Battle",GotE,"Emri, Born of Battle","获得4战力.
-",,draft
-Deranged Aspirant,GotE,Deranged Aspirant,"EMPOWER
-",,draft
-Shadow Elemental,GotE,Shadow Elemental,"获得2战力.
-",,draft
-Patient Assassin,GotE,Patient Assassin,"获得2战力.
-",,draft
-Venom Priestess,GotE,Venom Priestess,"获得2战力.
-",,draft
-Voidrift Stalker,GotE,Voidrift Stalker,"EMPOWER
-",,draft
-Grand-Arbiter Todd,GotE,Grand-Arbiter Todd,"EMPOWER
-",,draft
-"Ulan, the Crusher",GotE,"Ulan, the Crusher","EMPOWER
-",,draft
-Madness' Embrace,GotE,Madness' Embrace,"每回合一次，if you have defeated a 怪物 在中央牌列, ",,draft
-Oblivion Blossoms,GotE,Oblivion Blossoms,"每回合一次，获得1战力.
-",,draft
-Ulan's Fist,GotE,Ulan's Fist,"每回合一次，获得2战力.
-",,draft
-Xeron's Trial,GotE,Xeron's Trial,"When you 打出 a 怪物, 获得2战力.
-",,draft
-"Xeron, False Ally",GotE,"Xeron, False Ally","获得5符文.
-",,draft
-Nom Tribe Gremlin,GotE,Nom Tribe Gremlin,"奖励：获得1荣誉.
-",,draft
-Yuk Tribe Gremlin,GotE,Yuk Tribe Gremlin,"奖励：获得1荣誉.
-",,draft
-Bam Tribe Gremlins,GotE,Bam Tribe Gremlins,"奖励：获得2荣誉.
-",,draft
-Bramble Elemental,GotE,Bramble Elemental,"奖励：获得5荣誉.
-",,draft
-Wildfire Elemental,GotE,Wildfire Elemental,"奖励：获得4荣誉.
-",,draft
-Unspeakable Doom,GotE,Unspeakable Doom,"奖励：获得5荣誉.
-",,draft
-Tectonic Thrasher,GotE,Tectonic Thrasher,"奖励：获得4荣誉.
-",,draft
-Static Elemental,GotE,Static Elemental,"奖励：获得5荣誉.
-",,draft
-Eek Tribe Gremlin,GotE,Eek Tribe Gremlin,"奖励：获得5荣誉.
-",,draft
-"Yur, Eye of Chaos",GotE,"Yur, Eye of Chaos","奖励：获得4荣誉.
-",,draft
-Deluge Elemental,GotE,Deluge Elemental,"奖励：获得6荣誉.
-",,draft
-Temple of Life,VotA,Temple of Life,1L: 获得control of the Temple of Immortality. 获得2符文.,,draft
-Temple of Death,VotA,Temple of Death,1D: 获得control of the Temple of Immortality. ,,draft
-Temple of Immortality,VotA,Temple of Immortality,每回合一次，choose a faction. ,,draft
-Blind Seer,VotA,Blind Seer,"抽一张牌.
-",,draft
-Ominous Augur,VotA,Ominous Augur,"获取一个英雄 or 神器 with cost 5符文 或更低 无需支付费用.
-",,draft
-Jubilant Monk,VotA,Jubilant Monk,Reveal the top 卡牌 of your 牌库 and put it into your 手牌. ,,draft
-Keeper of Secrets,VotA,Keeper of Secrets,"放逐一张卡牌 在你的手牌中 and replace it with a 秘教士 or 重装步兵.
-",,draft
-Fist of the Dragon,VotA,Fist of the Dragon,抽一张牌. 放逐一张卡牌 在中央牌列. ,,draft
-Flanking Askara,VotA,Flanking Askara,"抽一张牌.
-",,draft
-"Isla, Serene Prodigy",VotA,"Isla, Serene Prodigy","获取一个英雄 or 神器 在中央牌列 无需支付费用.
-",,draft
-Sacred Pot,VotA,Sacred Pot,宁静: 每回合一次，抽一张牌. ,,draft
-Templar Outpost,VotA,Templar Outpost,每回合一次，defeat a 怪物 在中央牌列 with cost 4战力 或更低 无需支付费用.,,draft
-Ancient Stag,VotA,Ancient Stag,"获得3荣誉.
-",,draft
-Cheerful Consort,VotA,Cheerful Consort,"获得1荣誉.
-",,draft
-Alosyan Guide,VotA,Alosyan Guide,"When you acquire this, if you have played a 生命英雄 本回合, ",,draft
-Sirewood Elder,VotA,Sirewood Elder,"获得2符文.
-",,draft
-Burial Guardian,VotA,Burial Guardian,"获得2符文.
-",,draft
-Qadim Stalker,VotA,Qadim Stalker,"获得2符文 and 2战力.
-",,draft
-Caretaker Zahral,VotA,Caretaker Zahral,"获得3符文.
-",,draft
-"Asalas, the Impaler",VotA,"Asalas, the Impaler","获得2符文.
-",,draft
-Pathfinder's Totem,VotA,Pathfinder's Totem,联合: 每回合一次，获得1符文. ,,draft
-Resourceful Trader,VotA,Resourceful Trader,"抽一张牌.
-",,draft
-Brother Marius,VotA,Brother Marius,"获得1符文.
-",,draft
-Excavator Pilot,VotA,Excavator Pilot,"获得2符文.
-",,draft
-Salvagemaster Mila,VotA,Salvagemaster Mila,"获得4符文.
-",,draft
-Forgemaster's Suit,VotA,Forgemaster's Suit,每回合一次，when you 打出 a 机械神器 (including this one) ,,draft
-Stormsmith Anvil,VotA,Stormsmith Anvil,每回合一次，when you 打出 a 机械神器 (including this one) ,,draft
-Siegemaster's Ram,VotA,Siegemaster's Ram,每回合一次，when you 打出 a 机械神器 (including this one) ,,draft
-K-YL3 Repairbot,VotA,K-YL3 Repairbot,每回合一次，when you 打出 a 机械神器 (including this one) ,,draft
-"Tyranyx, the Pillager",VotA,"Tyranyx, the Pillager","你可以spend P in addition to R to acquire this.
-",,draft
-Reckless Excavator,VotA,Reckless Excavator,"每回合一次，when you 打出 a 机械神器 (including this one), 获得1L or 1D.",,draft
-Shadowridge Scout,VotA,Shadowridge Scout,"获得2战力.
-",,draft
-Spiteful Gladiator,VotA,Spiteful Gladiator,"获得2战力.
-",,draft
-Excavation Sentry,VotA,Excavation Sentry,"获得2战力.
-",,draft
-Soulsnare Hunter,VotA,Soulsnare Hunter,"获得2战力.
-",,draft
-Silenced Prophet,VotA,Silenced Prophet,"抽一张牌.
-",,draft
-Endbringer Jora,VotA,Endbringer Jora,"获得3战力.
-",,draft
-"Randall, Umbral Sage",VotA,"Randall, Umbral Sage","获得3战力.
-",,draft
-Beacon of the Lost,VotA,Beacon of the Lost,回响: 每回合一次，获得1战力. ,,draft
-Deranged Dirge,VotA,Deranged Dirge,"每回合一次，获得1战力.
-",,draft
-Cavern Horror,VotA,Cavern Horror,奖励：获得1荣誉. 你可以shuffle your 弃牌堆 into your 牌库. ,,draft
-Hellfrost Imps,VotA,Hellfrost Imps,奖励：获得2荣誉. 你可以defeat a 怪物 在中央牌列 named Hellfrost Imps 无需支付费用.,,draft
-Crypt Lurker,VotA,Crypt Lurker,奖励：获得3荣誉. 获得1D.,,draft
-Starved Abomination,VotA,Starved Abomination,奖励：获得3荣誉. 获得1L.,,draft
-Death's Widow,VotA,Death's Widow,奖励：获得2荣誉. Each opponent must destroy a 神器 they control. ,,draft
-Grave Golem,VotA,Grave Golem,奖励：获得4荣誉. Each opponent reveals the top 卡牌 of their 牌库 ,,draft
-Iku's Minions,VotA,Iku's Minions,"This costs 2 less to defeat if you control a Temple.
-",,draft
-Mutated Scavenger,VotA,Mutated Scavenger,奖励：获得4荣誉. 获得5符文.,,draft
-"Kan'zir, the Ravager",VotA,"Kan'zir, the Ravager",奖励：获得5荣誉. Each opponent loses control of all Temples and destroys all Constructs they control.,,draft
-"Hurras, Sea's Fury",VotA,"Hurras, Sea's Fury",奖励：获得4荣誉. 获得1L and 1D.,,draft
-"Iku, Valley Tyrant",VotA,"Iku, Valley Tyrant","This costs 2战力 less to defeat for each Temple you control.
-",,draft
-Dreamscape Diviner,Del,Dreamscape Diviner,获得2洞察.,,draft
-Dimension Monk,Del,Dimension Monk,"抽一张牌.
-",,draft
-Aegis Knight,Del,Aegis Knight,放逐一张卡牌 在你的手牌或弃牌堆. ,,draft
-Dream Dealer,Del,Dream Dealer,"抽一张牌, then banish a 卡牌 在中央牌列. ",,draft
-Templar General,Del,Templar General,"击败一个怪物 with cost 4战力 或更低 无需支付费用.
-",,draft
-Divine Askara,Del,Divine Askara,"Copy the effect of a 英雄 played 本回合.
-",,draft
-"Loa, Dream Dragon",Del,"Loa, Dream Dragon",Roll the 谵妄 Die.,,draft
-"Emri, Lightbringer",Del,"Emri, Lightbringer",击败一个怪物 在中央牌列 or the void 无需支付费用. ,,draft
-Dream Stone,Del,Dream Stone,你可以banish this to roll the 谵妄 Die.,,draft
-The Dragon's Eye,Del,The Dragon's Eye,"When you 打出 this, 获得1洞察.
-",,draft
-Delirium Nymph,Del,Delirium Nymph,"获得1符文.
-",,draft
-Dreamscape Dryad,Del,Dreamscape Dryad,"获得3荣誉.
-",,draft
-Pollen Pixie,Del,Pollen Pixie,获得2符文 and 1荣誉.,,draft
-Dream Guide,Del,Dream Guide,获得2符文 and 1洞察.,,draft
-Tuskrider,Del,Tuskrider,"抽一张牌.
-",,draft
-Vineweaver,Del,Vineweaver,获得4荣誉.,,draft
-"Kor, Worldbreaker",Del,"Kor, Worldbreaker","获得2符文 and 抽一张牌.
-",,draft
-"Evvy, Ogo's Gift",Del,"Evvy, Ogo's Gift","获取一个英雄 无需支付费用 and put it 放到你的牌库顶.
-",,draft
-Ogo War Tree,Del,Ogo War Tree,"每回合一次，when you acquire a 英雄 在中央牌列, ",,draft
-Steelweaver,Del,Steelweaver,获得1符文. ,,draft
-Scrapbot Scrapper,Del,Scrapbot Scrapper,获得2战力. ,,draft
-Inferna Templar,Del,Inferna Templar,"抽一张牌.
-",,draft
-Emma Ironheart,Del,Emma Ironheart,获得3符文. ,,draft
-Clockwork Shield,Del,Clockwork Shield,"每回合一次，when you 打出 a 机械神器 (including this one), ",,draft
-Clockwork Blade,Del,Clockwork Blade,"每回合一次，when you 打出 a 机械神器 (including this one), ",,draft
-Clockwork Helm,Del,Clockwork Helm,"每回合一次，when you 打出 a 机械神器 (including this one), ",,draft
-Clockwork Familiar,Del,Clockwork Familiar,"每回合一次，when you 打出 a 机械神器 (including this one), ",,draft
-Salvage Yard,Del,Salvage Yard,"At the start of your turn, return this to your 手牌.",,draft
-"Dhartha, Mechamonk",Del,"Dhartha, Mechamonk","每回合一次，when you 打出 a 机械神器 (including this one), ",,draft
-Nihil Chemist,Del,Nihil Chemist,获得1战力. ,,draft
-Voidrager,Del,Voidrager,获得2战力. ,,draft
-Shield Bearer,Del,Shield Bearer,"抽一张牌.
-",,draft
-Voidspeaker,Del,Voidspeaker,"获得2战力.
-",,draft
-Darktome Librarian,Del,Darktome Librarian,"获得2洞察.
-",,draft
-"Naka, Shadeborn",Del,"Naka, Shadeborn","获得3战力.
-",,draft
-"Cetra, Voidmother",Del,"Cetra, Voidmother","获得4战力.
-",,draft
-Arbiter Circlet,Del,Arbiter Circlet,每回合一次，获得1战力.,,draft
-Nilhammer,Del,Nilhammer,回响: 每回合一次，获得3战力. ,,draft
-Demon Pups,Del,Demon Pups,奖励：获得1荣誉. ,,draft
-Dream Eater,Del,Dream Eater,奖励：获得2荣誉 and 1洞察.,,draft
-Delirium Pixies,Del,Delirium Pixies,奖励：获得2荣誉 and 3符文.,,draft
-Mammoth Beetle,Del,Mammoth Beetle,奖励：获得3荣誉. ,,draft
-Bleaktoad,Del,Bleaktoad,奖励：获得4荣誉. ,,draft
-Dreadmare,Del,Dreadmare,奖励：获得4荣誉 and 3洞察.,,draft
-Oak of Souls,Del,Oak of Souls,奖励：获得3荣誉. ,,draft
-"Zis, Dreamreaper",Del,"Zis, Dreamreaper",奖励：获得5荣誉. ,,draft
-Torment Legionary,Del,Torment Legionary,奖励：获得6荣誉. ,,draft
-Karion,Del,Karion,奖励：获得5荣誉 and 10洞察.,,draft
-"Glover, Dream Titan",Del,"Glover, Dream Titan",奖励：获得7荣誉. ,,draft
-Dreamseeker Start,Dlvr,Dreamseeker,获得1洞察 and 抽一张牌.,,draft
-"Pasythea, The Redeemed",Dlvr,"Pasythea, The Redeemed","This 英雄 counts as all factions
-",,draft
-Pasythea's Cutlass,Dlvr,Pasythea's Cutlass,"This 神器 counts as all factions.
-",,draft
-Pasythea's Katana,Dlvr,Pasythea's Katana,"This 神器 counts as all factions.
-",,draft
-Pasythea's Mace,Dlvr,Pasythea's Mace,"This 神器 counts as all factions.
-",,draft
-Pasythea's Scimitar,Dlvr,Pasythea's Scimitar,"This 神器 counts as all factions.
-",,draft
-Dreamwalker,Dlvr,Dreamwalker,"放逐一张卡牌 在中央牌列.
-",,draft
-Dream Chamber Disciples,Dlvr,Dream Chamber Disciples,"抽一张牌.
-",,draft
-Azurite Channeler,Dlvr,Azurite Channeler,"放逐一张卡牌 在你的手牌中 and replace it with a 秘教士 or 重装步兵.
-",,draft
-Psyonic Apprentice,Dlvr,Psyonic Apprentice,"While this is 在你的手牌中, 你可以pay 7洞察 ",,draft
-Psyonic Paladin,Dlvr,Psyonic Paladin,击败一个怪物 在中央牌列,,draft
-Aether Warrior,Dlvr,Aether Warrior,"PHANTASM - While this is 在中央牌列, ",,draft
-Psyche Askara,Dlvr,Psyche Askara,Copy the effect of a 英雄 you have played 本回合,,draft
-"Dhartha, Dream Master",Dlvr,"Dhartha, Dream Master","PHANTASM - While this is 在中央牌列, ",,draft
-Dream Anchor,Dlvr,Dream Anchor,"PLUNDER - 每回合一次，if you acquire a 卡牌 AND defeat a 怪物,",,draft
-Entrophantasm,Dlvr,Entrophantasm,"获得1符文 and 1洞察.
-",,draft
-Dreamscarred Hunter,Dlvr,Dreamscarred Hunter,"抽一张牌.
-",,draft
-Faerie Commander,Dlvr,Faerie Commander,获得2符文.,,draft
-Green Spritelings,Dlvr,Green Spritelings,"PHANTASM - While this is 在中央牌列, ",,draft
-Wereboar,Dlvr,Wereboar,获得2战力.,,draft
-Lychan Ranger,Dlvr,Lychan Ranger,"While this is 在你的手牌中, 你可以pay 6洞察",,draft
-Lychan Beast,Dlvr,Lychan Beast,获得3符文 and 3战力.,,draft
-"Rut, Oaken Master",Dlvr,"Rut, Oaken Master","获得3荣誉 and 抽一张牌.
-",,draft
-Tree of Bounty,Dlvr,Tree of Bounty,"PLUNDER - 每回合一次，if you acquire a 卡牌 AND defeat a 怪物,",,draft
-Corite Mechanadon,Dlvr,Corite Mechanadon,"PHANTASM - While this is 在中央牌列, ",,draft
-Controlsmith,Dlvr,Controlsmith,获得2符文.,,draft
-Stone Artificers,Dlvr,Stone Artificers,获得2符文.,,draft
-Gearseer,Dlvr,Gearseer,"PHANTASM - While this is 在中央牌列, ",,draft
-Teletransmitter Blueprint,Dlvr,Teletransmitter Blueprint,你可以pay 5洞察 to transform this into Emma's Teletransmitter.,,draft
-Emma's Teletransmitter,Dlvr,Emma's Teletransmitter,每回合一次，获得1荣誉 for each Transformed 机械神器 you contol.,,draft
-Mechannon Blueprint,Dlvr,Mechannon Blueprint,你可以pay 5洞察 to transform this into Emma's Mechannon.,,draft
-Emma's Mechannon,Dlvr,Emma's Mechannon,每回合一次，获得1战力 for each Transformed 机械神器 you contol.,,draft
-Voidcycler Blueprint,Dlvr,Voidcycler Blueprint,你可以pay 5洞察 to transform this into Emma's Voidcycler.,,draft
-Emma's Voidcycler,Dlvr,Emma's Voidcycler,每回合一次，获得1符文 for each Transformed 机械神器 you contol.,,draft
-Emma's Workshop,Dlvr,Emma's Workshop,每回合一次，你可以transform a 机械神器,,draft
-Ironheart Blueprint,Dlvr,Ironheart Blueprint,"你可以pay 15洞察 to transform this into The Ironheart.
-",,draft
-The Ironheart,Dlvr,The Ironheart,"每回合一次，获得3符文, 3战力, and 3荣誉.",,draft
-Blackwatch Dreamer,Dlvr,Blackwatch Dreamer,"PHANTASM - While this is 在中央牌列,",,draft
-Void Amathyst Defender,Dlvr,Void Amathyst Defender,"获得2战力.
-",,draft
-Demon Hunter,Dlvr,Demon Hunter,"While this is 在你的手牌中, 你可以pay 8洞察",,draft
-Demon Master,Dlvr,Demon Master,获得5战力.,,draft
-Invokist,Dlvr,Invokist,"PHANTASM - While this is 在中央牌列,",,draft
-Nihil Bomber,Dlvr,Nihil Bomber,抽一张牌.,,draft
-"Naka, Emri's Chosen",Dlvr,"Naka, Emri's Chosen","获得4战力.
-",,draft
-"Emri, Soulstealer",Dlvr,"Emri, Soulstealer","获得5战力. If there are 10 或更高 Monsters in the 虚空区, 获得10战力 instead",,draft
-Zinta's Bracers,Dlvr,Zinta's Bracers,"每回合一次，if you have gained 2洞察 或更高, 获得2战力.",,draft
-Nightmarauders,Dlvr,Nightmarauders,奖励：获得1荣誉 and 1洞察.,,draft
-Terminites,Dlvr,Terminites,奖励：获得3荣誉. ,,draft
-Warpdruid,Dlvr,Warpdruid,奖励：获得2荣誉. ,,draft
-Dreadmage,Dlvr,Dreadmage,奖励：获得2荣誉 and 抽两张牌. ,,draft
-Warprogue,Dlvr,Warprogue,奖励：获得3荣誉.,,draft
-Dream Titan,Dlvr,Dream Titan,奖励：获得6荣誉.,,draft
-Obfusca Spirit,Dlvr,Obfusca Spirit,奖励：获得4荣誉. ,,draft
-Dream Tyrant,Dlvr,Dream Tyrant,奖励：获得5荣誉 and 5洞察.,,draft
-River Reaper,Dlvr,River Reaper,奖励：获得6荣誉.,,draft
-"Caaro, Desert Breaker",Dlvr,"Caaro, Desert Breaker",奖励：获得4荣誉.,,draft
-"Nilia, The Shattered",Dlvr,"Nilia, The Shattered",奖励：获得5荣誉.,,draft
-"Rakar, Corrupt Askara",Dlvr,"Rakar, Corrupt Askara",奖励：获得6荣誉. ,,draft
-"Vezra'Tull, The Voidwyrm",promo,"Vezra'Tull, The Voidwyrm","你可以spend P instead of H to acquire this.
-",,draft
-Boon: Master Dhartha,LGND,Boon: Master Dhartha,"Once 本回合, 抽一张牌.",,draft
-Boon - Master Dhartha,LGND,Boon: Master Dhartha,"Once 本回合, 抽一张牌.",,draft
-Boon - Ulu,LGND,Boon: Ulu,"Once 本回合, 获得1 renown in another faction.",,draft
-Legendary Boon - Enlightened,LGND,Legendary Boon: Enlightened,获取 or defeat any 启迪 卡牌 from the 中央牌列 无需支付费用.,,draft
-Boon: Cetra,LGND,Boon: Cetra,"Once 本回合, 你可以put a 英雄 from your 弃牌堆 放到你的牌库顶.",,draft
-Boon - Cetra,LGND,Boon: Cetra,"Once 本回合, 你可以put a 英雄 from your 弃牌堆 放到你的牌库顶.",,draft
-Boon - Naira,LGND,Boon: Naira,"Once 本回合, 获得2荣誉.",,draft
-Legendary Boon - Lifebound,LGND,Legendary Boon: Lifebound,获取 or defeat any 生命 卡牌 from the 中央牌列 无需支付费用.,,draft
-Boon: Kor,LGND,Boon: Kor,"Once 本回合, 获得2符文.",,draft
-Boon - Kor,LGND,Boon: Kor,"Once 本回合, 获得2符文.",,draft
-Boon - P.R.I.M.E.,LGND,Boon: P.R.I.M.E.,"Once 本回合, 你可以return a 神器 from your 弃牌堆 to your 手牌.",,draft
-Legendary Boon - Mechana,LGND,Legendary Boon: Mechana,获取 or defeat any 机械 卡牌 from the 中央牌列 无需支付费用.,,draft
-Boon: Naka,LGND,Boon: Naka,"Once 本回合, 你可以banish a 卡牌 you played 本回合.",,draft
-Boon - Naka,LGND,Boon: Naka,"Once 本回合, 你可以banish a 卡牌 you played 本回合.",,draft
-Boon - Emri,LGND,Boon: Emri,"Once 本回合, 获得2战力.",,draft
-Legendary Boon - Void,LGND,Legendary Boon: Void,获取 or defeat any 虚空区 卡牌 from the 中央牌列 无需支付费用.,,draft
-Arha Recruit,LGND,Arha Recruit,"抽一张牌.
-",,draft
-Askara of Judgement,LGND,Askara of Judgement,抽一张牌.,,draft
-Pathseeker Sensei,LGND,Pathseeker Sensei,击败一个monster of 4战力 或更低 无需支付费用.,,draft
-Arha Emissary,LGND,Arha Emissary,"抽一张牌.
-",,draft
-Mountain Seer,LGND,Mountain Seer,"抽一张牌, then banish a 卡牌 in the 中央牌列.",,draft
-Master Vaya,LGND,Master Vaya,抽两张牌.,,draft
-Tablet of the Templar,LGND,Tablet of the Templar,你可以destroy this to defeat a 怪物 of cost 4战力 或更低 无需支付费用.,,draft
-Mycelial Mage,LGND,Mycelial Mage,"抽一张牌.
-",,draft
-Mushroom Druid,LGND,Mushroom Druid,获得3荣誉.,,draft
-Lycan Fang,LGND,Lycan Fang,获得2符文.,,draft
-Forest Emissary,LGND,Forest Emissary,"抽一张牌.
-",,draft
-Snowstrider Lycan,LGND,Snowstrider Lycan,"获得1符文, 1荣誉, 1战力, and 抽一张牌.",,draft
-Turtler Merchant,LGND,Turtler Merchant,"获得5荣誉.
-",,draft
-Landis' Potions & Pies,LGND,Landis' Potions & Pies,"每回合一次，获得1荣誉.
-",,draft
-Sablespark Sisters,LGND,Sablespark Sisters,"抽一张牌.
-",,draft
-Mecha Emissary,LGND,Mecha Emissary,"抽一张牌.
-",,draft
-The Dreamscrape,LGND,The Dreamscrape,每回合一次，你可以destroy another one of your 机械神器s to 获得2符文.,,draft
-Korpse Maker,LGND,Korpse Maker,"每回合一次，when you 打出 a 机械神器 (including this one), 获得2战力.",,draft
-Mechannihilator,LGND,Mechannihilator,每回合一次，你可以destroy another one of your 机械神器s to 获得3战力.,,draft
-Ironheart Engine,LGND,Ironheart Engine,"每回合一次，when you 打出 a 机械神器 (including this one), 获得3符文.",,draft
-Mechaphoenix,LGND,Mechaphoenix,"每回合一次，when you 打出 a 机械神器 (including this one),",,draft
-Bombcrafter,LGND,Bombcrafter,"抽一张牌.
-",,draft
-Shade Feather,LGND,Shade Feather,获得1战力.,,draft
-Void Emissary,LGND,Void Emissary,"抽一张牌.
-",,draft
-Shadow Mender,LGND,Shadow Mender,获得3战力.,,draft
-Shadow Arbiter,LGND,Shadow Arbiter,抽一张牌.,,draft
-"Raiyna, Riftwalker",LGND,"Raiyna, Riftwalker","获得4战力.
-",,draft
-Riftclaw,LGND,Riftclaw,每回合一次，获得1战力.,,draft
-Claws of Deoful,LGND,Claws of Deoful,"奖励：获得4荣誉.
-",,draft
-Hurricane Warlock,LGND,Hurricane Warlock,奖励：获得2荣誉.,,draft
-Correction of Creation,LGND,Correction of Creation,奖励：获得2荣誉.,,draft
-The Iron Seven,LGND,The Iron Seven,奖励：获得3荣誉.,,draft
-Hellstring Blades,LGND,Hellstring Blades,奖励：获得5荣誉.,,draft
-MarrowWyrm Rider,LGND,MarrowWyrm Rider,奖励：获得3荣誉.,,draft
-Muse of Malevolence,LGND,Muse of Malevolence,奖励：获得5荣誉.,,draft
-Lifebound Remnant,LGND,Lifebound Remnant,"奖励：获得3荣誉.
-",,draft
-Enlightened Remnant,LGND,Enlightened Remnant,"奖励：获得5荣誉.
-",,draft
-Mechana Remnant,LGND,Mechana Remnant,"奖励：获得4荣誉.
-",,draft
-Void Remnant,LGND,Void Remnant,"奖励：获得4荣誉.
-",,draft
-Remnant of the Fallen,LGND,Remnant of the Fallen,"奖励：获得5荣誉.
-",,draft
-Monk of the Stone Circle,LGND,Monk of the Stone Circle,获取一个英雄 with cost 3符文 或更低 and put it into your 手牌.,,draft
-Psychic Amulet,LGND,Psychic Amulet,"每回合一次，when you 打出 a 机械 or 启迪 神器 (including this one), 抽一张牌.",,draft
-Psionic Monk,LGND,Psionic Monk,"抽 2 cards.
-",,draft
-Portal Ninja,LGND,Portal Ninja,"获得2符文.
-",,draft
-Fallen Fae,LGND,Fallen Fae,"获得2战力.
-",,draft
-Dark Monk,LGND,Dark Monk,"获得2战力.
-",,draft
-Shade Askara,LGND,Shade Askara,"获得3战力.
-",,draft
-The Chrome Circle,LGND,The Chrome Circle,"每回合一次，when you 打出 a 机械 or 生命 神器 (including this one), 获得1符文 and 1荣誉.",,draft
-Mecha Cetra,LGND,Mecha Cetra,你可以acquire a 英雄 or 神器 from the 中央牌列,,draft
-Legend - Master Dhartha,LGND,Legend: Master Dhartha,"Once 本回合, 抽一张牌.",,draft
-Legend - Ulu,LGND,Legend: Ulu,"Once 本回合, 获得1 renown in another faction.",,draft
-Legend - Cetra,LGND,Legend: Cetra,"Once 本回合, 你可以put a 英雄 from your 弃牌堆 放到你的牌库顶.",,draft
-Legend - Naira,LGND,Legend: Naira,"Once 本回合, 获得2荣誉.",,draft
-Legend - Kor,LGND,Legend: Kor,"Once 本回合, 获得2符文.",,draft
-Legend - P.R.I.M.E.,LGND,Legend: P.R.I.M.E.,"Once 本回合, 你可以return a 神器 from your 弃牌堆 to your 手牌.",,draft
-Legend - Naka,LGND,Legend: Naka,"Once 本回合, 你可以banish a 卡牌 you played 本回合.",,draft
-Legend - Emri,LGND,Legend: Emri,"Once 本回合, 获得2战力.",,draft
+当你 打出机械神器, 你可以将此牌返回从 你的弃牌堆以 你的手牌. (卡牌打出过在期间你的回合不 进入以 你的弃牌堆直到结束时回合.)",,machine
+Tinkering Monk,promo,摆弄僧侣,"获得2符文.
+你可以拥有每位玩家获得H相等以 数量为机械神器其控制的.",,machine
+Ethereal Huntress,promo,空灵女猎手,"获得3战力.
+你可以放置怪物从虚空区在 顶部的 传送门牌库.",,machine
+Chaos Rider,promo,混沌骑手,"获得3战力.
+你可以返回虚空卡牌从 你的弃牌堆以 你的手牌.",,machine
+"Nova, Born of Chaos",promo,诺娃·混沌所生,"奖励：万民玩家返回所有荣誉点数以 荣誉池. 若游戏会 结束此round, 它does不结束.
+获得10荣誉.",,machine
+Stone Blade Templar,promo,石刃圣殿武士,"展示和 放逐顶部卡牌的 传送门牌库. 若其 派系为:
+启迪: 抽两张牌.
+生命: 获得3 荣誉.
+机械: 获得2 符文.
+虚空: 获得2 战力.
+无派系： 选择一 的效果上方.",,machine
+Spire of the Wind,promo,尖塔风,"每回合一次，你可以弃掉卡牌从你的手牌以 抽一张牌.若它 为秘教士或 重装步兵, 抽 2 卡牌改为.",,machine
+Seed of the World,promo,种子世界,"每回合一次，当你 获取一个英雄在 中央牌列,获得荣誉相等以 其荣誉值.",,machine
+Chaotic Cannon,promo,混沌加农,"每回合一次，弃掉你牌库顶的卡牌以 获得战力相等以 其荣誉值.若它 为机械神器, 将它放置在你的手牌中改为.",,machine
+The Aethermourne,promo,以太哀歌,每回合一次，获得战力相等以 数量为怪物在 中央牌列.,,machine
+Puggageddon,promo,巴哥末日,"奖励：获得2 荣誉. 放置此 置入另一玩家之弃牌堆. 当此 为打出过从你的手牌, 获得1 荣誉和 将它放置置入另一玩家之弃牌堆.",,machine
+Twilight Scout,WoS,暮光斥候,抽一张牌.,,machine
+Inspired Templar,WoS,受启圣殿武士,击败一个怪物以 费用 4战力或更低无需支付费用.,,machine
+Pillar of Resolve,WoS,柱决意,"每回合一次，若你 拥有打出过秘教士和 重装步兵, 抽两张牌.",,machine
+"Ta'hyr, the Sun",WoS,塔希尔·太阳,"若所有卡牌在中央牌列为DAY卡牌,",,machine
+Shrine Attendant,WoS,神龛侍从,加入秘教士或 重装步兵以 你的手牌.,,machine
+Searing Askara,WoS,灼热阿斯卡拉,放逐一张卡牌在中央牌列. 然后你可以获取卡牌以 费用 3符文或更低无需支付费用.,,machine
+Arha Historian,WoS,亚哈史官,"抽一张牌. 若你 打出或 拥有打出过秘教士或 重装步兵本回合, 抽额外的卡牌.",,machine
+Bringer of Hope,WoS,带来者希望,放逐一张卡牌在你的手牌中. 若你如此做，加入秘教士和 重装步兵以 你的手牌.,,machine
+Sunstreak Courier,WoS,日迹信使,获得1符文和 1战力.,,machine
+Everbloom Witch,WoS,永绽女巫,"获得3荣誉.
+联合： 获得3荣誉.",,machine
+Marsh Ranger,WoS,沼泽游侠,"获得1符文和 1荣誉. 抽一张牌.
+联合： 获得1符文和 1荣誉. 抽一张牌.",,machine
+"Vyrak, the First",WoS,维拉卡·初代,"你可以花费P作为R以获取此.
+获得10荣誉.",,machine
+Lunar Guardian,WoS,月守卫,获得2符文.,,machine
+Verdant Chanter,WoS,翠绿咏者,获得2符文.,,machine
+Map of the Stars,WoS,星图,每回合一次，获得1符文和 1战力.,,machine
+"Luro, the Hunter",WoS,卢罗·猎手,获得3符文.,,machine
+Solar Sentry,WoS,日哨兵,获得2符文.,,machine
+Sureshot Tracker,WoS,神射追踪者,"获得2战力.
+若你 打出或 拥有打出过闪光追踪者本回合, 抽一张牌.",,machine
+Foundry Hound,WoS,铸造厂猎犬,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 获得2符文.",,machine
+Watchtower Golem,WoS,瞭望塔魔像,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 获得2战力.",,machine
+Wrecklamax,WoS,回收残机,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 抽一张牌.",,machine
+Illuminator,WoS,照明者,DAY: 每回合一次，获得1符文和 1战力,,machine
+Flare Tracker,WoS,闪光追踪者,"获得2符文.
+若你 打出或 拥有打出过神射追踪者本回合, 抽一张牌.",,machine
+Rescuebot 505,WoS,救援机505,"当你 获取此 和它 为昼, 将其直接进入战场.
+当你 获取机械神器, 将其直接进入战场.",,machine
+Shade Converter,WoS,暗影转化者,"若你控制的三 或更高机械神器, 你可以视为你的回合作为昼.",,machine
+Dogs of War,WoS,犬战争,"获得1战力.
+你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，获得额外的 1战力.",,machine
+Riftwatch Outpost,WoS,裂隙守望前哨,"每回合一次，获得1战力.
+你可以摧毁此 以获得1战力.",,machine
+Deadeye Assassin,WoS,死眼刺客,"获得3战力.
+获得额外的 1战力以 每个虚空卡牌在你的弃牌堆.",,machine
+Dark Gladiator,WoS,黑暗角斗士,获得2战力.,,machine
+Dread Conjurer,WoS,恐惧咒术师,抽一张牌.,,machine
+Wartorn Arbiter,WoS,战创仲裁者,获得1战力.,,machine
+Shade of Sadranis,WoS,暗影萨德拉尼斯,获得4战力.,,machine
+"Isha, the Pursuer",WoS,伊莎·追猎者,"获得3战力.
+下次你击败一个怪物本回合, 获得R相等以 被击败怪物之P费用.",,machine
+Shardwing Beetle,WoS,晶翼甲虫,"奖励：获得3荣誉.
+当你 击败此, 你可以支付 3符文以 获得额外的 3荣誉.",,machine
+Deceitful Ghoul,WoS,欺诈食尸鬼,奖励：获得2荣誉.,,machine
+Scavenger Ants,WoS,拾荒者蚁群,奖励：获得4荣誉.,,machine
+Emberwing Moth,WoS,烬翼蛾,奖励：获得5荣誉.,,machine
+Cavern Creeper,WoS,洞穴爬行者,奖励：获得1荣誉和 1符文.,,machine
+Shade Viper,WoS,暗影毒蛇,奖励：获得2荣誉.,,machine
+Light of False Hope,WoS,光虚假希望,奖励：获得4荣誉.,,machine
+Lieutenant Duros,WoS,副官杜洛斯,奖励：获得4荣誉.,,machine
+Legion of Aklys,WoS,军团阿克里斯,"若所有卡牌在中央牌列为NIGHT卡牌,",,machine
+"Aklys, the Scourge",WoS,阿克里斯·灾祸,奖励：获得6荣誉.,,machine
+Dhartha's Trial,GotE,达萨的试炼,"每回合一次，若你 拥有打出过秘教士或 重装步兵, 抽一张牌.
+支付 8符文: 将此牌转化为达萨, 永恒预言者和 获取它.",,machine
+"Dhartha, Eternal Seer",GotE,达萨·永恒预言者,抽四 卡牌.,,machine
+Radiant Aspirant,GotE,辉耀追求者,"EMPOWER
+抽一张牌.",,machine
+Water Elemental,GotE,水元素,"抽一张牌.
+若此 为被放逐从 任意处在期间你的回合, 抽两张牌.",,machine
+Sister of the Wind,GotE,姐妹风,放逐姐妹的 风和 卡牌在你的手牌中. 若你如此做，加入秘教士和/或重装步兵以 你的手牌.,,machine
+Yuk Tribe Outcast,GotE,尤克部落放逐者,"抽一张牌.
+放逐一张卡牌在中央牌列. 然后你可以放逐尤克部落放逐者或 尤克部落小妖在你的手牌中以 获取或 击败卡牌在中央牌列无需支付费用.",,machine
+Thunder Templar,GotE,雷圣殿武士,"EMPOWER
+击败一个怪物以 费用 5战力或更低无需支付费用.",,machine
+Whirlwind Ascetic,GotE,旋风苦行僧,"抽三张牌, 然后弃掉两 卡牌. 你可以返回秘教士和 重装步兵已弃掉以此方式以 你的手牌.",,machine
+Brother Laias,GotE,修士莱亚斯,"EMPOWER
+当你 获取修士莱亚斯, 将它放置置入你的手牌若 你拥有打出过秘教士本回合.
+抽两张牌.",,machine
+"Sonny, Lightwielder",GotE,桑尼·持光者,"EMPOWER
+击败一个怪物无需支付费用. 若该 怪物会 进入以 虚空区, 你可以支付将它放置置入玩家之弃牌堆改为.",,machine
+Piercing Eye,GotE,贯穿之眼,"每回合一次，若你 拥有被击败怪物在中央牌列, 你可以抽一张牌.",,machine
+Temple of the Wind,GotE,风之神殿,每回合一次，你可以放逐一张卡牌在你的弃牌堆和 将它替换以 秘教士或 重装步兵.,,machine
+Cetra's Trial,GotE,塞特拉的试炼,"英雄在中央牌列费用 1符文更低以 获取 (以最少的 1符文).
+支付 8符文: 将此牌转化为天体塞特拉和 获取它.",,machine
+"Cetra, Celestial Body",GotE,天体塞特拉,获得H相等以total H的所有英雄和 神器s在中央牌列.,,machine
+Keen-eyed Aspirant,GotE,锐眼追求者,"EMPOWER
+获得1符文和 1荣誉.",,machine
+Thicket Familiar,GotE,灌木丛使魔,"EMPOWER
+展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为卡牌以 赋力, 获得2荣誉.",,machine
+Verdant Elemental,GotE,翠绿元素,"获得3荣誉.
+若此 为被放逐从 任意处在期间你的回合, 获得3荣誉.",,machine
+Flourishing Druidess,GotE,繁盛女德鲁伊,"EMPOWER
+获得2符文. 若你 拥有更多H于每个其他玩家, 获得额外的 1符文.",,machine
+"Kiri, Meadow Witch",GotE,基莉·草地女巫,"抽一张牌.
+联合： 获得5荣誉.",,machine
+Hearthglow Clique,GotE,炉辉小圈子,"EMPOWER
+获得2符文和 2荣誉.
+联合： 抽一张牌.",,machine
+Earthmender Pura,GotE,愈地者普拉,"获得3符文.
+你可以放置怪物从你的手牌或 弃牌堆置入对手之弃牌堆.",,machine
+Wildbark Mail,GotE,野树皮甲胄,"每回合一次，若你 拥有被击败怪物在中央牌列, 获得2荣誉.",,machine
+Temple of Heroes,GotE,英雄神殿,"每回合一次，若你 拥有打出过生命英雄或 怪物, 获得2荣誉.",,machine
+Reysa's Trial,GotE,雷萨的试炼,"神器s在中央牌列费用 1符文更低以 获取 (以最少的 1符文).
+支付 8符文: 将此牌转化为锻母雷萨和 获取它.",,machine
+Forgemother Reysa,GotE,锻母雷萨,选择一项： 抽一张牌OR获取任意数量的 神器s在中央牌列无需支付其 费用.,,machine
+Innovative Aspirant,GotE,创新追求者,"EMPOWER
+获得1符文和 1战力.",,machine
+Scrap Weaver,GotE,废料编织者,"抽一张牌.
+你可以放置下一神器你 获取本回合直接进入战场.",,machine
+Iron Elemental,GotE,铁元素,"获得2符文.
+若此 为被放逐从anyhere在期间你的回合, 获得2符文.",,machine
+Conduit Monk,GotE,导管僧侣,"EMPOWER
+获得3符文.
+你为 视为以 控制两 额外的机械神器本回合.",,machine
+Elemental Projector,GotE,元素投射器,"每回合一次，若你控制的两 或更高机械神器, 获得2战力.",,machine
+Processing Hub,GotE,处理枢纽,"每回合一次，若你控制的三 或更高机械神器, 获得2符文.",,machine
+Spire of Insight,GotE,尖塔洞察,"每回合一次，若你控制的四 或更高机械神器, 你可以抽两张牌.",,machine
+Blast Goggles,GotE,爆破护目镜,"每回合一次，若你控制的五 或更高机械神器, 获得5荣誉.",,machine
+Cell Block E,GotE,牢房E区,"当你 击败一个怪物在中央牌列或 打出怪物, 你可以将其直接进入战场和 视为它作为机械神器.",,machine
+P.R.I.M.E. Directive,GotE,P.R.I.M.E.指令,"若你控制的eight或更高机械神器, 你win游戏.",,machine
+Emri's Trial,GotE,艾姆瑞的试炼,"怪物在中央牌列费用 1战力更低以 击败 (以最少的 1战力).
+支付 8符文: 将此牌转化为战生艾姆瑞和 获取它.",,machine
+"Emri, Born of Battle",GotE,战生艾姆瑞,"获得4战力.
+每回合一次，当你 击败一个怪物在中央牌列, 拿取2荣誉从 每个其他玩家.",,machine
+Deranged Aspirant,GotE,发狂追求者,"EMPOWER
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Shadow Elemental,GotE,暗影元素,"获得2战力.
+若此 为被放逐从 任意处在期间你的回合, 获得2战力.",,machine
+Patient Assassin,GotE,耐心刺客,"获得2战力.
+若存在虚空卡牌在你的弃牌堆, 获得额外的 1战力.",,machine
+Venom Priestess,GotE,毒液女祭司,"获得2战力.
+你可以放逐一张卡牌你 拥有打出过本回合或 在你的弃牌堆.",,machine
+Voidrift Stalker,GotE,虚空裂隙潜行者,"EMPOWER
+获得3战力.
+若存在虚空卡牌在你的弃牌堆, 抽一张牌.",,machine
+Grand-Arbiter Todd,GotE,大仲裁者托德,"EMPOWER
+抽两张牌.
+放逐一张卡牌在你的手牌中. 若你 被放逐怪物以此方式, 抽额外的卡牌.",,machine
+"Ulan, the Crusher",GotE,乌兰·粉碎者,"EMPOWER
+获得4战力.
+若你控制的乌兰的拳, 抽一张牌.",,machine
+Madness' Embrace,GotE,疯狂之拥,"每回合一次，若你 拥有被击败怪物在中央牌列, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Oblivion Blossoms,GotE,湮灭花,"每回合一次，获得1战力.
+每回合一次，若你 拥有被放逐卡牌, 获得1荣誉.",,machine
+Ulan's Fist,GotE,乌兰的拳,"每回合一次，获得2战力.
+每回合一次，若你 拥有打出过乌兰, 粉碎者, 获得额外的 2战力.",,machine
+Xeron's Trial,GotE,泽伦的试炼,"当你 打出怪物, 获得2战力.
+支付 8符文: 将此牌转化为泽伦, 伪盟者和 获取它.",,machine
+"Xeron, False Ally",GotE,泽伦·伪盟者,"获得5符文.
+获得额外的 2符文以 每个怪物你 打出或 拥有打出过本回合.",,machine
+Nom Tribe Gremlin,GotE,诺姆部落小妖,"奖励：获得1荣誉.
+INFEST: 当你 击败诺姆部落小妖, 你可以将它放置置入玩家之弃牌堆.
+当你 打出诺姆部落小妖, 你可以将它放置置入另一玩家之弃牌堆.",,machine
+Yuk Tribe Gremlin,GotE,尤克部落小妖,"奖励：获得1荣誉.
+INFEST: 当你 击败尤克部落小妖, 你可以将它放置置入玩家之弃牌堆.",,machine
+Bam Tribe Gremlins,GotE,巴姆部落小妖们,"奖励：获得2荣誉.
+INFEST: 当你 击败巴姆部落小妖们, 你可以将它放置置入玩家之弃牌堆.",,machine
+Bramble Elemental,GotE,荆棘元素,"奖励：获得5荣誉.
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Wildfire Elemental,GotE,野火元素,"奖励：获得4荣誉.
+选择至多两 卡牌在中央牌列和 放逐它们.",,machine
+Unspeakable Doom,GotE,不可名状末日,"奖励：获得5荣誉.
+每位对手展示其 手牌. 获得额外的 2荣誉以 每个怪物已展示以此方式.",,machine
+Tectonic Thrasher,GotE,地壳鞭笞者,"奖励：获得4荣誉.
+每位对手须选择和 摧毁两 神器s其控制的.",,machine
+Static Elemental,GotE,静电元素,"奖励：获得5荣誉.
+每位对手放置所有神器s其控制的在 顶部的 其牌库在 随机秩序.",,machine
+Eek Tribe Gremlin,GotE,伊克部落小妖,"奖励：获得5荣誉.
+放置怪物从 虚空区置入玩家之弃牌堆. INFEST: 当你 击败伊克部落小妖, 你可以将它放置置入玩家之弃牌堆.",,machine
+"Yur, Eye of Chaos",GotE,尤尔·之眼混沌,"奖励：获得4荣誉.
+抽三张牌.",,machine
+Deluge Elemental,GotE,洪水元素,"奖励：获得6荣誉.
+你可以放逐至多四 卡牌在你的手牌中, 牌库, 弃牌堆, 和/或卡牌打出过本回合. 若你如此做，洗牌你的牌库.",,machine
+Temple of Life,VotA,生命神殿,1L: 获得对以下的控制： 不朽神殿. 获得2符文.,,machine
+Temple of Death,VotA,死亡神殿,1D: 获得对以下的控制： 不朽神殿. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+Temple of Immortality,VotA,不朽神殿,"每回合一次，选择派系. 当你 获取卡牌的 该派系, 若下一卡牌以 进入中央牌列为 也该 派系, 获取它 无需支付费用.",,machine
+Blind Seer,VotA,盲预言者,"抽一张牌.
+宁静: 获得1L. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
+Ominous Augur,VotA,不祥占兆者,"获取一个英雄或 神器以 费用 5符文或更低无需支付费用.
+宁静: 放置所获取的卡牌在你的手牌中. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
+Jubilant Monk,VotA,欢庆僧侣,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或启迪卡牌.",,machine
+Keeper of Secrets,VotA,看守秘密,"放逐一张卡牌在你的手牌中和 将它替换以 秘教士或 重装步兵.
+若你 打出或 拥有打出过秘教士和 重装步兵本回合, 获得1D.",,machine
+Fist of the Dragon,VotA,拳龙,"抽一张牌. 放逐一张卡牌在中央牌列. 若下一卡牌以 进入中央牌列为 怪物, 击败它 无需支付费用.",,machine
+Flanking Askara,VotA,侧击阿斯卡拉,"抽一张牌.
+复制效果的 下一英雄你 打出本回合以 费用 3符文或更低.",,machine
+"Isla, Serene Prodigy",VotA,伊斯拉·宁静神童,"获取一个英雄或 神器在中央牌列无需支付费用.
+Shuffle伊斯拉, 宁静神童和 你的弃牌堆置入你的牌库.",,machine
+Sacred Pot,VotA,神圣罐,宁静: 每回合一次，抽一张牌. (获得此效果若 那里为 没有卡牌在你的弃牌堆.),,machine
+Templar Outpost,VotA,圣殿武士前哨,每回合一次，击败一个怪物在中央牌列以 费用 4战力或更低无需支付费用.,,machine
+Ancient Stag,VotA,上古鹿,"获得3荣誉.
+联合: 获得1L.",,machine
+Cheerful Consort,VotA,欢快伴侣,"获得1荣誉.
+抽一张牌.",,machine
+Alosyan Guide,VotA,阿洛西亚向导,"当你 获取此, 若你 拥有打出过生命英雄本回合, 放置此 直接置入你的手牌.
+获得3荣誉.",,machine
+Sirewood Elder,VotA,父木长老,"获得2符文.
+联合: 抽一张牌.",,machine
+Burial Guardian,VotA,埋葬守卫,"获得2符文.
+下次你获取生命卡牌本回合, 获得1D.",,machine
+Qadim Stalker,VotA,卡迪姆潜行者,"获得2符文和 2战力.
+联合: 获得2荣誉.",,machine
+Caretaker Zahral,VotA,看护者扎拉尔,"获得3符文.
+下次你获取一个英雄本回合, 你可以将它放置放到你的牌库顶.",,machine
+"Asalas, the Impaler",VotA,阿萨拉斯·穿刺者,"获得2符文.
+下次你获取一个英雄本回合, 获得P相等以 已获取英雄之R费用.",,machine
+Pathfinder's Totem,VotA,探路者的图腾,联合: 每回合一次，获得1符文. (获得此效果若 你拥有打出过生命英雄本回合.),,machine
+Resourceful Trader,VotA,机智商人,"抽一张牌.
+下次你获取神器本回合, 获得1D.",,machine
+Brother Marius,VotA,修士马里乌斯,"获得1符文.
+获得额外的 1符文以 每个派系在你控制的神器之中.",,machine
+Excavator Pilot,VotA,挖掘机驾驶员,"获得2符文.
+若你控制的两 或更高神器s, 获得1L.",,machine
+Salvagemaster Mila,VotA,打捞大师米拉,"获得4符文.
+你可以放置任意神器s你获取本回合直接进入战场.",,machine
+Forgemaster's Suit,VotA,锻主的套装,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得1荣誉.",,machine
+Stormsmith Anvil,VotA,风暴匠铁砧,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得1符文.",,machine
+Siegemaster's Ram,VotA,攻城主的攻城槌,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得2战力.",,machine
+K-YL3 Repairbot,VotA,K-YL3修理机,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 抽一张牌.",,machine
+"Tyranyx, the Pillager",VotA,泰兰尼克斯·劫掠者,"你可以花费P此外还R以获取此.
+你可以花费P此外还R以获取机械神器.",,machine
+Reckless Excavator,VotA,鲁莽挖掘机,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1L或 1D.",,machine
+Shadowridge Scout,VotA,影脊斥候,"获得2战力.
+Echo: 获得1D. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",,machine
+Spiteful Gladiator,VotA,怨毒角斗士,"获得2战力.
+Echo: 获得额外的 2战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",,machine
+Excavation Sentry,VotA,发掘哨兵,"获得2战力.
+放置你牌库顶的卡牌置入你的弃牌堆, 然后你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Soulsnare Hunter,VotA,魂阱猎手,"获得2战力.
+下次你击败一个怪物在中央牌列本回合, 获得1L.",,machine
+Silenced Prophet,VotA,噤声先知,"抽一张牌.
+放置你牌库顶的卡牌置入你的弃牌堆, 然后你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Endbringer Jora,VotA,终末使者乔拉,"获得3战力.
+每当你 击败一个怪物在中央牌列本回合, 获得2符文.",,machine
+"Randall, Umbral Sage",VotA,兰德尔·暗影贤者,"获得3战力.
+放置所有卡牌从 你的牌库置入你的弃牌堆, 然后返回虚空卡牌在你的弃牌堆以 你的手牌.",,machine
+Beacon of the Lost,VotA,信标迷失,Echo: 每回合一次，获得1战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.),,machine
+Deranged Dirge,VotA,发狂挽歌,"每回合一次，获得1战力.
+你可以摧毁此 以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Cavern Horror,VotA,洞穴恐魔,奖励：获得1荣誉. 你可以洗牌你的弃牌堆置入你的牌库. (卡牌打出过本回合不 进入以 你的弃牌堆直到结束时回合.),,machine
+Hellfrost Imps,VotA,狱霜小恶魔,奖励：获得2荣誉. 你可以击败一个怪物在中央牌列被命名为狱霜小恶魔无需支付费用.,,machine
+Crypt Lurker,VotA,地穴潜伏者,奖励：获得3荣誉. 获得1D.,,machine
+Starved Abomination,VotA,饥馑憎恶,奖励：获得3荣誉. 获得1L.,,machine
+Death's Widow,VotA,死亡寡妇,奖励：获得2荣誉. 每位对手须摧毁一个神器其控制的. 抽一张牌以 每位对手该 做了不 摧毁一个神器以此方式.,,machine
+Grave Golem,VotA,坟墓魔像,奖励：获得4荣誉. 每位对手展示顶部卡牌的 其牌库和 放置它 置入其弃牌堆. 选择一个英雄已展示以此方式和 复制其效果.,,machine
+Iku's Minions,VotA,伊库的爪牙,"此费用为 2 更低以 击败若 你控制的神殿.
+奖励：获得4荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Mutated Scavenger,VotA,突变拾荒者,奖励：获得4荣誉. 获得5符文.,,machine
+"Kan'zir, the Ravager",VotA,坎齐尔·毁灭者,奖励：获得5荣誉. 每位对手loses控制的 所有Temples和摧毁所有神器s其控制的.,,machine
+"Hurras, Sea's Fury",VotA,胡拉斯·海之狂怒,奖励：获得4荣誉. 获得1L和 1D.,,machine
+"Iku, Valley Tyrant",VotA,山谷暴君伊库,"此费用为 2战力更低以 击败以 每个神殿你控制的.
+奖励：获得8荣誉.",,machine
+Dreamscape Diviner,Del,梦境占卜者,获得2洞察.,Are你sure你want以知道?,machine
+Dimension Monk,Del,维度僧侣,"抽一张牌.
+你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
+Aegis Knight,Del,神盾骑士,放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,machine
+Dream Dealer,Del,梦交易者,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在启迪, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.",,machine
+Templar General,Del,圣殿武士将军,"击败一个怪物以 费用 4战力或更低无需支付费用.
+宁静: 当你 获取此, 将它放置在你的手牌中.",,machine
+Divine Askara,Del,神圣阿斯卡拉,"复制本回合打出的一张英雄的效果。
+你可以支付 3洞察以 复制所选效果两次改为.
+此效果不能是 被复制.",,machine
+"Loa, Dream Dragon",Del,洛阿·梦龙,掷谵妄骰。,"他的spirit, manifest穿过梦境.",machine
+"Emri, Lightbringer",Del,携光者艾姆瑞,击败一个怪物在中央牌列或 虚空区无需支付费用. 放置该 怪物置于其底： 传送门牌库.,,machine
+Dream Stone,Del,梦石,你可以放逐此牌以 掷谵妄骰.,Look upon什么might拥有已经和 什么可以来 以pass.,machine
+The Dragon's Eye,Del,龙之眼,"当你 打出此, 获得1洞察.
+宁静: 每回合一次，获得1洞察. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
+Delirium Nymph,Del,谵妄宁芙,"获得1符文.
+联合： 抽 2 卡牌. (获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)",,machine
+Dreamscape Dryad,Del,梦境树灵,"获得3荣誉.
+你可以支付 3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
+Pollen Pixie,Del,花粉小仙,获得2符文和 1荣誉.,You're going以feel little funny在首先。.,machine
+Dream Guide,Del,梦向导,获得2符文和 1洞察.,"At edge的世界, 她为guide以一切beyond.",machine
+Tuskrider,Del,牙骑手,"抽一张牌.
+联合： 获得4战力.",Truffles和manflesh.,machine
+Vineweaver,Del,织藤者,获得4荣誉.,,machine
+"Kor, Worldbreaker",Del,科尔·碎界者,"获得2符文和 抽一张牌.
+若你 打出或 拥有打出过在least两其他生命英雄本回合, 获得6战力.",,machine
+"Evvy, Ogo's Gift",Del,艾薇·奥戈的馈赠,"获取一个英雄无需支付费用和 将它放置放到你的牌库顶.
+你可以3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
+Ogo War Tree,Del,奥戈战争树,"每回合一次，当你 获取一个英雄在中央牌列, 你可以将它放置放到你的牌库顶.",一路平安！,machine
+Steelweaver,Del,织钢者,"获得1符文. 一次本回合, 当你 获取神器, 将其直接进入战场.
+你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
+Scrapbot Scrapper,Del,废料机拆解者,获得2战力. 你可以返回神器你控制的以 你的手牌.,One man之trash为另一bot之weapon.,machine
+Inferna Templar,Del,炼狱圣殿武士,"抽一张牌.
+若你控制的两 或更高神器s, 抽额外的卡牌.",,machine
+Emma Ironheart,Del,艾玛铁之心,"获得3符文. 若你控制的两 或更高神器s, 获得3战力.
+你可以支付 3洞察以 再次发生.",,machine
+Clockwork Shield,Del,发条盾,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1荣誉以 每个机械神器你的控制.",,machine
+Clockwork Blade,Del,发条刃,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力以 每个机械神器你的控制.",,machine
+Clockwork Helm,Del,发条盔,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1洞察以 每个机械神器你的控制.",,machine
+Clockwork Familiar,Del,发条使魔,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1符文以 每个机械神器你的控制.",,machine
+Salvage Yard,Del,打捞场,"At start的你的回合, 将此牌返回以 你的手牌.",回收。重建。再利用。,machine
+"Dhartha, Mechamonk",Del,达萨·机械僧,"每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌以 每个机械神器你的控制.",,machine
+Nihil Chemist,Del,虚无药剂师,"获得1战力. 你可以放逐一张卡牌在你的手牌中的 弃牌堆.
+你可以支付 2洞察以 再次发生. (获得效果列出的额外的次. 你可以只再次发生一次.)",,machine
+Voidrager,Del,虚空狂怒者,"获得2战力. 下次你击败一个怪物在中央牌列本回合, 获得1洞察.",,machine
+Shield Bearer,Del,盾持有者,"抽一张牌.
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Voidspeaker,Del,虚空语者,"获得2战力.
+Echo: 获得3符文. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",ravenous appetite以human emotion.,machine
+Darktome Librarian,Del,暗典图书管理员,"获得2洞察.
+你可以放逐一张卡牌在你的手牌或弃牌堆.","Be careful, page六bites.",machine
+"Naka, Shadeborn",Del,纳卡·影生,"获得3战力.
+你可以返回虚空卡牌在你的弃牌堆以 你的手牌.
+你可以支付 3洞察以 再次发生.",,machine
+"Cetra, Voidmother",Del,虚空之母塞特拉,"获得4战力.
+下次你击败一个怪物在中央牌列本回合, 你可以获取一个英雄无需支付费用和 将它放置放到你的牌库顶.",,machine
+Arbiter Circlet,Del,仲裁者头环,每回合一次，获得1战力.,恶魔bone和一hundred souls.,machine
+Nilhammer,Del,虚无锤,Echo: 每回合一次，获得3战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.),Need something该breaks bones和spirits?,machine
+Demon Pups,Del,恶魔幼崽,"奖励：获得1荣誉. 抽一张牌. 然后, 你可以支付 1洞察以 抽额外的卡牌.",I只是wanted以pet一!,machine
+Dream Eater,Del,梦吞噬者,奖励：获得2荣誉和 1洞察.,"dream曾是painful, 但reality曾是torture.",machine
+Delirium Pixies,Del,谵妄小仙,奖励：获得2荣誉和 3符文.,Come打出以 我们.,machine
+Mammoth Beetle,Del,巨甲虫,奖励：获得3荣誉. 每位对手摧毁神器其控制的. 你可以支付 1洞察以 拥有每位对手摧毁额外的神器其控制的.,,machine
+Bleaktoad,Del,荒蟾,奖励：获得4荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆. 你可以支付 2洞察以 放逐额外的卡牌在你的手牌或弃牌堆.,,machine
+Dreadmare,Del,惧马,奖励：获得4荣誉和 3洞察.,soul day keeps惧马away.,machine
+Oak of Souls,Del,橡灵魂,奖励：获得3荣誉. 掷谵妄骰。,result的conscious死亡在unconscious世界.,machine
+"Zis, Dreamreaper",Del,齐斯·刈梦者,奖励：获得5荣誉. 拿取2洞察从 每位对手.,"作为许多ways以die, 作为那里为dreams以是dreamt.",machine
+Torment Legionary,Del,折磨军团兵,奖励：获得6荣誉. 获取一个梦生卡牌在中央牌列无需支付费用.,"Boundless ambition, beyond死亡, beyond reality.",machine
+Karion,Del,卡里昂,奖励：获得5荣誉和 10洞察.,"梦境gate为corrupt, hellish wound在两worlds.",machine
+"Glover, Dream Titan",Del,格洛弗·梦泰坦,奖励：获得7荣誉. 选择一名玩家和 拿取所有的 其I和随机卡牌从其手牌. 加入该卡牌以 你的手牌.,,machine
+Dreamseeker Start,Dlvr,寻梦者,获得1洞察和 抽一张牌.,诸梦maketh和dreams breaketh.,machine
+"Pasythea, The Redeemed",Dlvr,帕西提亚·救赎者,"此英雄视为作为所有派系
+当你 获取此, 它goes直接以 你的手牌.
+获得2符文, 2战力, 2荣誉和 抽一张牌.",,machine
+Pasythea's Cutlass,Dlvr,帕西提亚的弯刀,"此神器视为作为所有派系.
+当你 打出此, 获得2战力.
+帕西提亚费用为你 4洞察更低以 获取.",,machine
+Pasythea's Katana,Dlvr,帕西提亚的刀,"此神器视为作为所有派系.
+当你 打出此, 抽一张牌.
+帕西提亚费用为你 4洞察更低以 获取.",,machine
+Pasythea's Mace,Dlvr,帕西提亚的锤矛,"此神器视为作为所有派系.
+当你 打出此, 获得2符文.
+帕西提亚费用为你 4洞察更低以 获取.",,machine
+Pasythea's Scimitar,Dlvr,帕西提亚的弯刀,"此神器视为作为所有派系.
+当你 打出此, 获得2荣誉.
+帕西提亚费用为你 4洞察更低以 获取.",,machine
+Dreamwalker,Dlvr,梦行者,"放逐一张卡牌在中央牌列.
+若它 为被替换被 怪物, 获得2洞察.
+若它 为被替换被 英雄, 获得2荣誉.
+若它 为被替换被 神器, 抽 2 卡牌.",Are你sure你want以知道?,machine
+Dream Chamber Disciples,Dlvr,梦室门徒们,"抽一张牌.
+SERENITY: 获得2洞察. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",Arha teach我们该 在次 所有traditions break其下weight的principle.,machine
+Azurite Channeler,Dlvr,蓝铜引导者,"放逐一张卡牌在你的手牌中和 将它替换以 秘教士或 重装步兵.
+掠夺 - 此回合, 若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得2洞察.",,machine
+Psyonic Apprentice,Dlvr,心灵学徒,"当此 为在你的手牌中, 你可以支付 7洞察以 转化它 置入心灵圣骑士.
+击败一个怪物以 费用 4战力或更低无需支付费用.",,machine
+Psyonic Paladin,Dlvr,心灵圣骑士,击败一个怪物在中央牌列无需支付费用.,"作为armor为shaped被我们的thoughts, sword为directed被我们的将.",machine
+Aether Warrior,Dlvr,以太战士,"幻象 - 当此 为在中央牌列, 你可以支付 5洞察以 放逐和 打出此.
+抽两张牌.",My blade severs两者flesh和soul.,machine
+Psyche Askara,Dlvr,心灵阿斯卡拉,复制效果的 英雄你 拥有打出过本回合或 怪物奖励你 拥有已获得本回合.,Arha teach我们该 在次 所有traditions break其下weight的principle.,machine
+"Dhartha, Dream Master",Dlvr,达萨·梦大师,"幻象 - 当此 为在中央牌列, 你可以支付 9洞察以 放逐和 打出此.
+获取一个卡牌在中央牌列无需支付费用和 将它放置在你的手牌中.",,machine
+Dream Anchor,Dlvr,梦锚,"掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得2洞察.",,machine
+Entrophantasm,Dlvr,熵幻象,"获得1符文和 1洞察.
+联合： 抽一张牌.(获得此效果若 你打出或 拥有打出过另一生命英雄本回合.)",Are你sure你want以知道?,machine
+Dreamscarred Hunter,Dlvr,梦痕猎手,"抽一张牌.
+掠夺 - 此回合, 若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得3荣誉.",Are你sure你want以知道?,machine
+Faerie Commander,Dlvr,仙灵指挥官,"获得2符文. 下次你获取一个英雄在中央牌列本回合, 获得2战力.",他曾是发现dead在forest million little cuts.,machine
+Green Spritelings,Dlvr,绿小精灵,"幻象 - 当此 为在中央牌列, 你可以支付 4洞察以 放逐和 打出此.
+获得3荣誉.",Are你sure你want以知道?,machine
+Wereboar,Dlvr,野猪人,获得2战力.联合： 获得3符文.,Are你sure你want以知道?,machine
+Lychan Ranger,Dlvr,狼化游侠,"当此 为在你的手牌中, 你可以支付 6洞察以 转化它 置入狼化野兽.
+获得2符文和 2战力.",,machine
+Lychan Beast,Dlvr,狼化野兽,获得3符文和 3战力.,They'll从不看见我coming.,machine
+"Rut, Oaken Master",Dlvr,橡木大师鲁特,"获得3荣誉和 抽一张牌.
+掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得额外的 3荣誉.",,machine
+Tree of Bounty,Dlvr,树丰饶,"掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得3荣誉.",Are你sure你want以知道?,machine
+Corite Mechanadon,Dlvr,刚玉机械兽,"幻象 - 当此 为在中央牌列, 你可以支付 2洞察以 放逐和 打出此.
+获得1符文和 1战力.",,machine
+Controlsmith,Dlvr,控术匠,"获得2符文. 若你控制的已转化Constuct, 抽一张牌.",,machine
+Stone Artificers,Dlvr,石神器师,获得2符文. 你可以放置下一神器你 获取本回合直接进入战场.,,machine
+Gearseer,Dlvr,齿轮预言者,"幻象 - 当此 为在中央牌列, 你可以支付 6洞察以 放逐和 打出此.
+获得3符文.",只difference between genius和madness为execution.,machine
+Teletransmitter Blueprint,Dlvr,远传器蓝图,你可以支付 5洞察以 将此牌转化为艾玛的远传器.,"它是like telepathy, 但更低effective.
+- 艾玛铁之心",machine
+Emma's Teletransmitter,Dlvr,艾玛的远传器,每回合一次，获得1荣誉以 每个已转化机械神器你 控制.,"""Why在五hells会I是calling你若I didn't需要help?"" - 艾玛铁之心",machine
+Mechannon Blueprint,Dlvr,机加农蓝图,你可以支付 5洞察以 将此牌转化为艾玛的机加农.,"""I wonder什么kind的dent此thing为going以make."" - 艾玛铁之心",machine
+Emma's Mechannon,Dlvr,艾玛的机加农,每回合一次，获得1战力以 每个已转化机械神器你 控制.,"""Did anyone看见该? I放置hole在该mountain!"" - 艾玛铁之心",machine
+Voidcycler Blueprint,Dlvr,虚空循环器蓝图,你可以支付 5洞察以 将此牌转化为艾玛的虚空循环器.,"""I wonder什么kind的dent此thing为going以make."" - 艾玛铁之心",machine
+Emma's Voidcycler,Dlvr,艾玛的虚空循环器,每回合一次，获得1符文以 每个已转化机械神器你 控制.,"""此proves它. 艾玛, you're genius."" - 艾玛铁之心",machine
+Emma's Workshop,Dlvr,艾玛的工坊,每回合一次，你可以转化机械神器无需支付费用.,"""此放置为falling apart. 它是perfect."" - 艾玛铁之心",machine
+Ironheart Blueprint,Dlvr,铁之心蓝图,"你可以支付 15洞察以 将此牌转化为铁之心.
+每回合一次，获得1洞察以 每个机械神器你 控制.",,machine
+The Ironheart,Dlvr,铁之心,"每回合一次，获得3符文, 3战力, 和 3荣誉.","""I不care how许多tentacles你拥有. I拥有airship!"" - 艾玛铁之心",machine
+Blackwatch Dreamer,Dlvr,黑卫梦者,"幻象 - 当此 为在中央牌列, 你可以支付 2洞察以 放逐和 打出此.
+获得1战力. 你可以放逐一张卡牌在你的手牌中的 弃牌堆.",,machine
+Void Amathyst Defender,Dlvr,虚空紫晶防御者,"获得2战力.
+ECHO: 获得2洞察.(获得此效果若 存在虚空卡牌在你的弃牌堆.)",,machine
+Demon Hunter,Dlvr,恶魔猎手,"当此 为在你的手牌中, 你可以支付 8洞察以 转化它 置入恶魔大师.
+获得2战力.",Good. Bad. Try一以sword.,machine
+Demon Master,Dlvr,恶魔大师,获得5战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,"job为tough, 但smell为worse.",machine
+Invokist,Dlvr,祈唤师,"幻象 - 当此 为在中央牌列, 你可以支付 4洞察以 放逐和 打出此.
+获得3战力.","恐惧具有face.
+Allow我以show它以 你.",machine
+Nihil Bomber,Dlvr,虚无投弹者,抽一张牌. 你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，获得1洞察.,恐惧具有face.,machine
+"Naka, Emri's Chosen",Dlvr,纳卡·艾姆瑞的天选者,"获得4战力.
+此回合, 你可以支付 0洞察以 梦缚费用为.",,machine
+"Emri, Soulstealer",Dlvr,窃魂者艾姆瑞,"获得5战力. 若那里为 10 或更高怪物在 虚空区, 获得10战力改为","Another day, 另一demigod.",machine
+Zinta's Bracers,Dlvr,辛塔的护腕,"每回合一次，若你 拥有已获得 2洞察或更高, 获得2战力.",辛塔reached置入虚空和 从它pulled daggers.,machine
+Nightmarauders,Dlvr,梦魇掠夺者,奖励：获得1荣誉和 1洞察.,They're everywhere!.,machine
+Terminites,Dlvr,终末蚁,奖励：获得3荣誉. 每位对手摧毁最低费用神器其控制的.,"They're只是bugs, soldier. How big能够他们是?.",machine
+Warpdruid,Dlvr,扭曲德鲁伊,"奖励：获得2荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.
+DREAMBIND: 1洞察.",Bark split flesh作为.,machine
+Dreadmage,Dlvr,恐惧法师,"奖励：获得2荣誉和 抽两张牌. DREAMBIND: 4洞察.(当你 击败此, 你可以支付其 梦缚费用. 若你如此做，放置此 在你的弃牌堆. 当你 打出此, 获得其奖励.)",,machine
+Warprogue,Dlvr,扭曲游荡者,奖励：获得3荣誉. 拿取1洞察从 对手. DREAMBIND: 3洞察.,Love为dream. Love为nightmare.,machine
+Dream Titan,Dlvr,梦泰坦,奖励：获得6荣誉.,"gold giant, taller于mountains和silent作为sea.",machine
+Obfusca Spirit,Dlvr,朦胧精魂,"奖励：获得4荣誉. 选择一名对手以 弃掉卡牌随机从其手牌.
+DREAMBIND: 4洞察.",Love为dream. Love为nightmare.,machine
+Dream Tyrant,Dlvr,梦境暴君,奖励：获得5荣誉和 5洞察.,"gold giant, taller于mountains",machine
+River Reaper,Dlvr,河收割者,奖励：获得6荣誉. 每位对手摧毁只留一个，其余神器其控制的.,"gold giant, taller于mountains",machine
+"Caaro, Desert Breaker",Dlvr,卡罗·沙漠破碎者,"奖励：获得4荣誉. 以每位对手, 你选择和 摧毁一个神器其控制的.DREAMBIND: 2洞察.","gold giant, taller于mountains",machine
+"Nilia, The Shattered",Dlvr,尼莉亚·破碎,奖励：获得5荣誉. 拿取一张卡牌随机从 对手之手牌和 将该卡牌加入以 你的手牌.DREAMBIND: 7洞察.,"gold giant, taller于mountains",machine
+"Rakar, Corrupt Askara",Dlvr,拉卡尔·腐化阿斯卡拉,奖励：获得6荣誉. 加入梦缚怪物在 虚空区以 你的手牌.,Love为dream. Love为nightmare.,machine
+"Vezra'Tull, The Voidwyrm",promo,虚空巨虫维兹拉图尔,"你可以花费P而非H以获取此.
+获得1战力以 每个怪物在 虚空区.",Some Dragons horde gold. 她hordes nightmares.,machine
+Boon: Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,machine
+Boon - Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,machine
+Boon - Ulu,LGND,恩赐：乌鲁,"一次本回合, 获得1 renown在另一派系.",,machine
+Legendary Boon - Enlightened,LGND,传奇恩赐：启迪,获取或 击败任意启迪卡牌从 中央牌列无需支付费用.,,machine
+Boon: Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
+Boon - Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
+Boon - Naira,LGND,恩赐：奈拉,"一次本回合, 获得2荣誉.",,machine
+Legendary Boon - Lifebound,LGND,传奇恩赐：生命,获取或 击败任意生命卡牌从 中央牌列无需支付费用.,,machine
+Boon: Kor,LGND,恩赐：科尔,"一次本回合, 获得2符文.",,machine
+Boon - Kor,LGND,恩赐：科尔,"一次本回合, 获得2符文.",,machine
+Boon - P.R.I.M.E.,LGND,恩赐：P.R.I.M.E.,"一次本回合, 你可以返回神器从 你的弃牌堆以 你的手牌.",,machine
+Legendary Boon - Mechana,LGND,传奇恩赐：机械,获取或 击败任意机械卡牌从 中央牌列无需支付费用.,,machine
+Boon: Naka,LGND,恩赐：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,machine
+Boon - Naka,LGND,恩赐：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,machine
+Boon - Emri,LGND,恩赐：艾姆瑞,"一次本回合, 获得2战力.",,machine
+Legendary Boon - Void,LGND,传奇恩赐：虚空,获取或 击败任意虚空卡牌从 中央牌列无需支付费用.,,machine
+Arha Recruit,LGND,亚哈新兵,"抽一张牌.
+获得1 renown, 然后放逐此牌.",,machine
+Askara of Judgement,LGND,审判阿斯卡拉,抽一张牌.,,machine
+Pathseeker Sensei,LGND,寻路者导师,击败一个怪物的 4战力或更低无需支付费用.,,machine
+Arha Emissary,LGND,亚哈使者,"抽一张牌.
+若你 打出或 拥有打出过使者的 每个Faction本回合, 你win游戏.",,machine
+Mountain Seer,LGND,山预言者,"抽一张牌, 然后放逐一张卡牌在 中央牌列. 然后, 获得1 renown在每个的 派系(s) 该被替换被放逐卡牌.",,machine
+Master Vaya,LGND,大师瓦娅,抽两张牌.,,machine
+Tablet of the Templar,LGND,石板圣殿武士,你可以摧毁此 以击败一个怪物的 费用 4战力或更低无需支付费用.,,machine
+Mycelial Mage,LGND,菌丝法师,"抽一张牌.
+获得3荣誉, 然后放逐此牌.",,machine
+Mushroom Druid,LGND,蘑菇德鲁伊,获得3荣誉.,,machine
+Lycan Fang,LGND,狼化人牙,获得2符文.,,machine
+Forest Emissary,LGND,森林使者,"抽一张牌.
+联合-使者: 获得2荣誉. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,machine
+Snowstrider Lycan,LGND,踏雪者狼化人,"获得1符文, 1荣誉, 1战力, 和抽一张牌.",,machine
+Turtler Merchant,LGND,龟商商人,"获得5荣誉.
+你可以返回H以池 相等以H的英雄或 神器在 中央牌列. 若你如此做，获取它.",,machine
+Landis' Potions & Pies,LGND,兰迪斯的药剂与馅饼,"每回合一次，获得1荣誉.
+联合: 获得1符文.",Are你sure你want以知道?,machine
+Sablespark Sisters,LGND,黑火花姐妹,"抽一张牌.
+获得1符文, 然后放逐此牌.",,machine
+Mecha Emissary,LGND,机甲使者,"抽一张牌.
+联合-使者: 获得2符文. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,machine
+The Dreamscrape,LGND,刮梦者,每回合一次，你可以摧毁另一一 的你的机械神器以 获得2符文.,,machine
+Korpse Maker,LGND,尸科尔制造者,"每回合一次，当你 打出机械神器 (包括此牌一), 获得2战力.",,machine
+Mechannihilator,LGND,机歼灭者,每回合一次，你可以摧毁另一一 的你的机械神器以 获得3战力.,,machine
+Ironheart Engine,LGND,铁之心引擎,"每回合一次，当你 打出机械神器 (包括此牌一), 获得3符文.",,machine
+Mechaphoenix,LGND,机凤凰,"每回合一次，当你 打出机械神器 (包括此牌一), 获取或 击败卡牌以 费用相等以 或低于其R费用.",,machine
+Bombcrafter,LGND,炸弹匠,"抽一张牌.
+获得2战力, 然后放逐此牌.",,machine
+Shade Feather,LGND,暗影羽,获得1战力.你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+Void Emissary,LGND,虚空使者,"抽一张牌.
+联合-使者: 获得2战力. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,machine
+Shadow Mender,LGND,暗影修复者,获得3战力.,,machine
+Shadow Arbiter,LGND,暗影仲裁者,抽一张牌. 你可以放逐一张卡牌在你的手牌中以 获得2战力.,,machine
+"Raiyna, Riftwalker",LGND,蕾娜·裂隙行者,"获得4战力.
+下次你击败一个怪物在 中央牌列本回合, 获得其non-荣誉奖励两次.",,machine
+Riftclaw,LGND,裂隙爪,每回合一次，获得1战力.,,machine
+Claws of Deoful,LGND,爪迪奥福尔,"奖励：获得4荣誉.
+获得1 Renown在任意派系.",,machine
+Hurricane Warlock,LGND,飓风术士,奖励：获得2荣誉. 抽一张牌.,,machine
+Correction of Creation,LGND,校正造物,奖励：获得2荣誉. 你可以放逐一张卡牌从你的手牌或 弃牌堆.,,machine
+The Iron Seven,LGND,钢铁七人,"奖励：获得3荣誉. 选择aand摧毁至多一 神器在 打出, 或返回神器从 你的弃牌堆以 你的手牌.",,machine
+Hellstring Blades,LGND,狱弦双刃,奖励：获得5荣誉. 选择和 摧毁至多两 神器s在打出.,,machine
+MarrowWyrm Rider,LGND,髓虫骑手,奖励：获得3荣誉. 你可以获取一个英雄以 费用 5符文或更低无需支付费用.,,machine
+Muse of Malevolence,LGND,缪斯恶意,奖励：获得5荣誉. 获得2 Renown在任意派系.,,machine
+Lifebound Remnant,LGND,生命残响,"奖励：获得3荣誉.
+若你打出过或 已获取生命卡牌本回合, 获得额外的 2荣誉.",,machine
+Enlightened Remnant,LGND,启迪残响,"奖励：获得5荣誉.
+若你打出过或 已获取启迪卡牌本回合, 抽两张牌.",,machine
+Mechana Remnant,LGND,机械残响,"奖励：获得4荣誉.
+若你打出过或 已获取机械卡牌本回合, 获得2符文.",,machine
+Void Remnant,LGND,虚空残响,"奖励：获得4荣誉.
+若你打出过或 已获取虚空卡牌本回合, 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.",,machine
+Remnant of the Fallen,LGND,残响·堕落者,"奖励：获得5荣誉.
+获得1 Renown的每个派系.
+你可以获取或 击败任意卡牌在 中央牌列无需支付费用.",,machine
+Monk of the Stone Circle,LGND,僧侣石环,获取一个英雄以 费用 3符文或更低和 将它放置置入你的手牌.,,machine
+Psychic Amulet,LGND,心灵护符,"每回合一次，当你 打出机械或 启迪神器 (包括此牌一), 抽一张牌.",,machine
+Psionic Monk,LGND,灵能僧侣,"抽 2 卡牌.
+获得1荣誉以 每个派系之中神器你控制的.",,machine
+Portal Ninja,LGND,传送门忍者,"获得2符文.
+联合: 你可以放逐一张卡牌你 打出过本回合.",,machine
+Fallen Fae,LGND,堕落者仙灵,"获得2战力.
+联合: 获得1荣誉.",,machine
+Dark Monk,LGND,黑暗僧侣,"获得2战力.
+联合: 抽一张牌.",,machine
+Shade Askara,LGND,暗影阿斯卡拉,"获得3战力.
+若你 拥有启迪或 虚空卡牌在你的弃牌堆, 抽一张牌.",,machine
+The Chrome Circle,LGND,铬环,"每回合一次，当你 打出机械或 生命神器 (包括此牌一), 获得1符文和 1荣誉.",,machine
+Mecha Cetra,LGND,机甲塞特拉,你可以获取一个英雄或 神器从 中央牌列无需支付费用和 将它放置放到你的牌库顶.,,machine
+Legend - Master Dhartha,LGND,传奇：达萨大师,"一次本回合, 抽一张牌.",,machine
+Legend - Ulu,LGND,传奇：乌鲁,"一次本回合, 获得1 renown在另一派系.",,machine
+Legend - Cetra,LGND,传奇：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
+Legend - Naira,LGND,传奇：奈拉,"一次本回合, 获得2荣誉.",,machine
+Legend - Kor,LGND,传奇：科尔,"一次本回合, 获得2符文.",,machine
+Legend - P.R.I.M.E.,LGND,传奇：P.R.I.M.E.,"一次本回合, 你可以返回神器从 你的弃牌堆以 你的手牌.",,machine
+Legend - Naka,LGND,传奇：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,machine
+Legend - Emri,LGND,传奇：艾姆瑞,"一次本回合, 获得2战力.",,machine
 Militia 10TH,,民兵,获得1战力。,,official-anshashen+variant
 Apprentice 10TH,,学徒,获得1符文。,,official-anshashen+variant
 Mystic 10TH,,秘教士,获得2符文。,,official-anshashen+variant
@@ -565,7 +588,7 @@ Arha Templar 10TH,CotG10,亚哈圣殿武士,击败一个战力值不高于4的�
 Ascetic of the Lidless Eye 10TH,CotG10,无目之眼苦行僧,抽两张牌。,,official-anshashen+variant
 Master Dhartha 10TH,CotG10,达萨大师,抽三张牌。,,official-anshashen+variant
 Oziah the Peerless 10TH,CotG10,无双的奥齐亚,击败一个战力值不高于6的怪物。,,community+variant
-Seer of the Forked Path 10TH,CotG10,歧路预言者,抽一张牌。你可以放逐一张手牌。,,community+variant
+Seer of the Forked Path 10TH,CotG10,歧路预言者,抽一张牌。然后你可以放逐中央牌列中的一张卡牌。,,community+variant
 Tablet of Time's Dawn 10TH,CotG10,时晓石板,放逐此神器，然后在本回合后再进行一个额外回合。,,community+variant
 Temple Librarian 10TH,CotG10,神殿图书管理员,弃一张牌。若你如此做，抽两张牌。,,official-anshashen+variant
 The All-Seeing Eye 10TH,CotG10,全视之眼,每回合一次，你可以抽一张牌。,,community+variant
@@ -576,38 +599,38 @@ Flytrap Witch 10TH,CotG10,捕蝇草女巫,获得2荣誉。抽一张牌。,,offic
 Landtalker 10TH,CotG10,大地说书人,获得3符文。,,official-anshashen+variant
 Lifebound Initiate 10TH,CotG10,生命新兵,获得1符文和1荣誉。,,official-anshashen+variant
 Runic Lycanthrope 10TH,CotG10,符文狼化人,获得2符文。若你本回合打出过生命英雄，获得2战力。,,official-anshashen+variant
-Snapdragon 10TH,CotG10,金鱼草,获得1符文。你可以放逐一张手牌或弃牌堆中的卡牌。,,community+variant
+Snapdragon 10TH,CotG10,金鱼草,每回合一次，获得1符文。每回合你首次打出生命英雄时，获得1荣誉。,,official-anshashen+variant
 Wolf Shaman 10TH,CotG10,狼萨满,获得1符文。抽一张牌。,,official-anshashen+variant
 Yggdrasil Staff 10TH,CotG10,世界树法杖,每回合一次，获得1战力。若你本回合打出过生命英雄，获得2荣誉。,,community+variant
 Avatar Golem 10TH,CotG10,化身魔像,获得2战力。你每控制一种神器，获得1荣誉。,,community+variant
-Burrower Mark II 10TH,CotG10,Burrower Mark II,抽一张牌 the first time you put a 机械 construct 进入战场 each turn (including this one).,,draft
-Hedron Cannon 10TH,CotG10,Hedron Cannon,每回合一次，获得1战力 for each 机械神器 you control.,,draft
+Burrower Mark II 10TH,CotG10,钻地机II型,每回合你首次将机械神器进入战场时（包括此牌），抽一张牌。,,community+variant
+Hedron Cannon 10TH,CotG10,多面体加农,每回合一次，你每控制一个机械神器，获得1战力。,,community+variant
 Hedron Link Device 10TH,CotG10,多面体连接装置,你可以将所有神器视为机械神器。,,community+variant
-"Kor, the Ferromancer 10TH",CotG10,"Kor, the Ferromancer",获得2战力.  抽一张牌 if you control 2 或更高 Constructs.,,draft
+"Kor, the Ferromancer 10TH",CotG10,铁术师科尔,获得2战力. 抽一张牌若 你控制的 2 或更高神器s.,,machine
 Mechana Initiate 10TH,CotG10,机械新兵,获得1符文或1战力。,,official-anshashen+variant
-Reactor Monk 10TH,CotG10,Reactor Monk,获得2符文.  The next 神器 you acquire 本回合 costs 1符文 less.,,draft
+Reactor Monk 10TH,CotG10,反应堆僧侣,获得2符文。你本回合下一张获取的神器费用减少1符文。,,community+variant
 Rocket Courier X-99 10TH,CotG10,火箭信使X-99,每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。,,official-anshashen+variant
-The Grand Design 10TH,CotG10,The Grand Design,每回合一次，获得2符文.  你可以spend it only to acquire 机械神器s.,,draft
+The Grand Design 10TH,CotG10,宏伟设计,每回合一次，获得2符文。你只能用它来获取机械神器。,,community+variant
 Watchmaker's Altar 10TH,CotG10,制表师祭坛,每回合一次，获得1符文。你只能用它来获取机械神器。,,official-anshashen+variant
-Arbiter of the Precipice 10TH,CotG10,Arbiter of the Precipice,抽两张牌.  Then banish any 卡牌 在你的手牌中.,,draft
-Demon Slayer 10TH,CotG10,Demon Slayer,获得3战力.,,draft
-"Emri, One with the Void 10TH",CotG10,"Emri, One with the Void",获得4战力.,,draft
-Muramasa 10TH,CotG10,Muramasa,每回合一次，获得3战力.,,draft
-Shade of the Black Watch 10TH,CotG10,黑卫之影,击败一个战力值不高于3的怪物。你可以放逐一张手牌或弃牌堆中的卡牌。,,community+variant
-Shadow Star 10TH,CotG10,Shadow Star,每回合一次，获得1战力.,,draft
-Spike Vixen 10TH,CotG10,Spike Vixen,获得1战力.  抽一张牌.,,draft
+Arbiter of the Precipice 10TH,CotG10,悬崖仲裁者,抽两张牌。然后放逐你手牌中的一张卡牌。,,community+variant
+Demon Slayer 10TH,CotG10,恶魔杀手,获得3战力。,,official-anshashen+variant
+"Emri, One with the Void 10TH",CotG10,与虚空合一的艾姆瑞,获得4战力。,,official-anshashen+variant
+Muramasa 10TH,CotG10,村正,每回合一次，获得3战力。,,community+variant
+Shade of the Black Watch 10TH,CotG10,黑卫之影,获得2战力。你可以放逐一张手牌或弃牌堆中的卡牌。,,community+variant
+Shadow Star 10TH,CotG10,暗影之星,每回合一次，获得1战力。,,community+variant
+Spike Vixen 10TH,CotG10,尖刺雌狐,获得1战力。抽一张牌。,,community+variant
 Void Initiate 10TH,CotG10,虚空新兵,获得1符文。你可以放逐一张手牌或弃牌堆中的卡牌。,,official-anshashen+variant
 Voidthirster 10TH,CotG10,渴虚者,每回合一次，获得1战力。每回合你首次击败中央牌列中的怪物时，获得1荣誉。,,community+variant
 Avatar of the Fallen 10TH,CotG10,堕落者化身,除非被击败，否则此怪物不可被放逐。奖励：获得4荣誉。你可以无需支付费用获取或击败中央牌列中的任意一张卡牌。,,official-anshashen+variant
 Corrosive Widow 10TH,CotG10,腐蚀寡妇,奖励：获得3荣誉。每位对手须将其控制的一张神器置入弃牌堆。,,community+variant
 Earth Tyrant 10TH,CotG10,大地暴君,奖励：获得5荣誉。抽两张牌。,,official-anshashen+variant
 Mephit 10TH,CotG10,恶臭精,奖励：获得2荣誉。你可以放逐中央牌列中的一张卡牌。,,official-anshashen+variant
-Mistake of Creation 10TH,CotG10,Mistake of Creation,奖励：获得4荣誉.  你可以banish a 卡牌 在中央牌列 and/or a 卡牌 在你的弃牌堆.,,draft
+Mistake of Creation 10TH,CotG10,造物之误,奖励：获得4荣誉。你可以放逐中央牌列和/或你弃牌堆中的一张卡牌。,,community+variant
 Samael's Trickster 10TH,CotG10,萨麦尔的诡术师,奖励：获得1荣誉。获得1符文。,,community+variant
 Sea Tyrant 10TH,CotG10,海中暴君,奖励：获得5荣誉。每位对手须选择一张其控制的神器，将其余神器置入弃牌堆。,,community+variant
-Tormented Soul 10TH,CotG10,Tormented Soul,奖励：获得1荣誉.  抽一张牌.,,draft
-Wind Tyrant 10TH,CotG10,Wind Tyrant,奖励：获得3荣誉.  获得3符文.,,draft
-"Xeron, Duke of Lies 10TH",CotG10,"Xeron, Duke of Lies",奖励：获得3荣誉.  Take a 卡牌 at random from each opponent's 手牌 and add that 卡牌 to your 手牌.,,draft
+Tormented Soul 10TH,CotG10,受折磨的灵魂,奖励：获得1荣誉。抽一张牌。,,community+variant
+Wind Tyrant 10TH,CotG10,风之暴君,奖励：获得3荣誉。获得3符文。,,community+variant
+"Xeron, Duke of Lies 10TH",CotG10,谎言之公爵泽伦,奖励：获得3荣誉. 拿取一张卡牌随机从 每位对手之手牌和 将该卡牌加入以 你的手牌.,,machine
 Militia,,民兵,获得1战力。,,official-anshashen
 Apprentice,,学徒,获得1符文。,,official-anshashen
 Mystic,,秘教士,获得2符文。,,official-anshashen
@@ -618,7 +641,7 @@ Arha Templar,CotG,亚哈圣殿武士,击败一个战力值不高于4的怪物。
 Ascetic of the Lidless Eye,CotG,无目之眼苦行僧,抽两张牌。,,official-anshashen
 Master Dhartha,CotG,达萨大师,抽三张牌。,,official-anshashen
 Oziah the Peerless,CotG,无双的奥齐亚,击败一个战力值不高于6的怪物。,,community
-Seer of the Forked Path,CotG,歧路预言者,抽一张牌。你可以放逐一张手牌。,,community
+Seer of the Forked Path,CotG,歧路预言者,抽一张牌。然后你可以放逐中央牌列中的一张卡牌。,,community
 Tablet of Time's Dawn,CotG,时晓石板,放逐此神器，然后在本回合后再进行一个额外回合。,,community
 Temple Librarian,CotG,神殿图书管理员,弃一张牌。若你如此做，抽两张牌。,,official-anshashen
 The All-Seeing Eye,CotG,全视之眼,每回合一次，你可以抽一张牌。,,community
@@ -629,644 +652,666 @@ Flytrap Witch,CotG,捕蝇草女巫,获得2荣誉。抽一张牌。,,official-ans
 Landtalker,CotG,大地说书人,获得3符文。,,official-anshashen
 Lifebound Initiate,CotG,生命新兵,获得1符文和1荣誉。,,official-anshashen
 Runic Lycanthrope,CotG,符文狼化人,获得2符文。若你本回合打出过生命英雄，获得2战力。,,official-anshashen
-Snapdragon,CotG,金鱼草,获得1符文。你可以放逐一张手牌或弃牌堆中的卡牌。,,community
+Snapdragon,CotG,金鱼草,每回合一次，获得1符文。每回合你首次打出生命英雄时，获得1荣誉。,,official-anshashen
 Wolf Shaman,CotG,狼萨满,获得1符文。抽一张牌。,,official-anshashen
 Yggdrasil Staff,CotG,世界树法杖,每回合一次，获得1战力。若你本回合打出过生命英雄，获得2荣誉。,,community
 Avatar Golem,CotG,化身魔像,获得2战力。你每控制一种神器，获得1荣誉。,,community
-Burrower Mark II,CotG,Burrower Mark II,抽一张牌 the first time you put a 机械 construct 进入战场 each turn (including this one).,,draft
-Hedron Cannon,CotG,Hedron Cannon,每回合一次，获得1战力 for each 机械神器 you control.,,draft
+Burrower Mark II,CotG,钻地机II型,每回合你首次将机械神器进入战场时（包括此牌），抽一张牌。,,community
+Hedron Cannon,CotG,多面体加农,每回合一次，你每控制一个机械神器，获得1战力。,,community
 Hedron Link Device,CotG,多面体连接装置,你可以将所有神器视为机械神器。,,community
-"Kor, the Ferromancer",CotG,"Kor, the Ferromancer",获得2战力.  抽一张牌 if you control 2 或更高 Constructs.,,draft
+"Kor, the Ferromancer",CotG,铁术师科尔,获得2战力. 抽一张牌若 你控制的 2 或更高神器s.,,machine
 Mechana Initiate,CotG,机械新兵,获得1符文或1战力。,,official-anshashen
-Reactor Monk,CotG,Reactor Monk,获得2符文.  The next 神器 you acquire 本回合 costs 1符文 less.,,draft
+Reactor Monk,CotG,反应堆僧侣,获得2符文。你本回合下一张获取的神器费用减少1符文。,,community
 Rocket Courier X-99,CotG,火箭信使X-99,每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。,,official-anshashen
-The Grand Design,CotG,The Grand Design,每回合一次，获得2符文.  你可以spend it only to acquire 机械神器s.,,draft
+The Grand Design,CotG,宏伟设计,每回合一次，获得2符文。你只能用它来获取机械神器。,,community
 Watchmaker's Altar,CotG,制表师祭坛,每回合一次，获得1符文。你只能用它来获取机械神器。,,official-anshashen
-Arbiter of the Precipice,CotG,Arbiter of the Precipice,抽两张牌.  Then banish any 卡牌 在你的手牌中.,,draft
-Demon Slayer,CotG,Demon Slayer,获得3战力.,,draft
-"Emri, One with the Void",CotG,"Emri, One with the Void",获得4战力.,,draft
-Muramasa,CotG,Muramasa,每回合一次，获得3战力.,,draft
-Shade of the Black Watch,CotG,黑卫之影,击败一个战力值不高于3的怪物。你可以放逐一张手牌或弃牌堆中的卡牌。,,community
-Shadow Star,CotG,Shadow Star,每回合一次，获得1战力.,,draft
-Spike Vixen,CotG,Spike Vixen,获得1战力.  抽一张牌.,,draft
+Arbiter of the Precipice,CotG,悬崖仲裁者,抽两张牌。然后放逐你手牌中的一张卡牌。,,community
+Demon Slayer,CotG,恶魔杀手,获得3战力。,,official-anshashen
+"Emri, One with the Void",CotG,与虚空合一的艾姆瑞,获得4战力。,,official-anshashen
+Muramasa,CotG,村正,每回合一次，获得3战力。,,community
+Shade of the Black Watch,CotG,黑卫之影,获得2战力。你可以放逐一张手牌或弃牌堆中的卡牌。,,community
+Shadow Star,CotG,暗影之星,每回合一次，获得1战力。,,community
+Spike Vixen,CotG,尖刺雌狐,获得1战力。抽一张牌。,,community
 Void Initiate,CotG,虚空新兵,获得1符文。你可以放逐一张手牌或弃牌堆中的卡牌。,,official-anshashen
 Voidthirster,CotG,渴虚者,每回合一次，获得1战力。每回合你首次击败中央牌列中的怪物时，获得1荣誉。,,community
 Avatar of the Fallen,CotG,堕落者化身,除非被击败，否则此怪物不可被放逐。奖励：获得4荣誉。你可以无需支付费用获取或击败中央牌列中的任意一张卡牌。,,official-anshashen
 Corrosive Widow,CotG,腐蚀寡妇,奖励：获得3荣誉。每位对手须将其控制的一张神器置入弃牌堆。,,community
 Earth Tyrant,CotG,大地暴君,奖励：获得5荣誉。抽两张牌。,,official-anshashen
 Mephit,CotG,恶臭精,奖励：获得2荣誉。你可以放逐中央牌列中的一张卡牌。,,official-anshashen
-Mistake of Creation,CotG,Mistake of Creation,奖励：获得4荣誉.  你可以banish a 卡牌 在中央牌列 and/or a 卡牌 在你的弃牌堆.,,draft
+Mistake of Creation,CotG,造物之误,奖励：获得4荣誉。你可以放逐中央牌列和/或你弃牌堆中的一张卡牌。,,community
 Samael's Trickster,CotG,萨麦尔的诡术师,奖励：获得1荣誉。获得1符文。,,community
 Sea Tyrant,CotG,海中暴君,奖励：获得5荣誉。每位对手须选择一张其控制的神器，将其余神器置入弃牌堆。,,community
-Tormented Soul,CotG,Tormented Soul,奖励：获得1荣誉.  抽一张牌.,,draft
-Wind Tyrant,CotG,Wind Tyrant,奖励：获得3荣誉.  获得3符文.,,draft
-"Xeron, Duke of Lies",CotG,"Xeron, Duke of Lies",奖励：获得3荣誉.  Take a 卡牌 at random from each opponent's 手牌 and add that 卡牌 to your 手牌.,,draft
-Adayu the Omnipotent,RotF,"Adayu, the Chosen",获取 or defeat any 卡牌 在中央牌列.  (You do not have to pay Runes or 战力).,,draft
-Arha Sensei,RotF,Arha Sensei,"放逐一张卡牌 在你的手牌中.  If you do, acquire a 秘教士 or 重装步兵.  Add it to your 手牌.",,draft
-Askara of Fate,RotF,Askara of Fate,"FATE: When this enters the 中央牌列, each player may 抽一张牌.
-抽两张牌.  Each other player may 抽一张牌.  Then 你可以banish a 卡牌 在中央牌列.",,draft
-Dhartha's Retreat,RotF,Dhartha's Retreat,"If you do not acquire or defeat a 卡牌 on your turn, 你可以draw two additional cards at the end of your turn.",,draft
-Eternal Askara,RotF,Eternal Askara,"放逐一张卡牌 在中央牌列.   If you banish a monster this way, 获得3荣誉.",,draft
-Hectic Scribe,RotF,Hectic Scribe,"抽两张牌, then discard two cards.",,draft
-"Nairi, Henge Queen",RotF,"Nairi, Henge Queen",获得5荣誉.,,draft
-Dandelion Witch,RotF,Dandelion Witch,抽一张牌.  获得1荣誉 for each 生命英雄 you 打出 or have played 本回合 (including this one).,,draft
-Great-Omen Raven,RotF,Great-Omen Raven,"Name a 卡牌.  Reveal the top 卡牌 of your 牌库 and put it into your 手牌.  If it is the named 卡牌, 获得3荣誉.",,draft
-Lunar Stag,RotF,Lunar Stag,获得2符文 or 2荣誉.,,draft
-Serpentcall,RotF,Serpentcall,"每回合一次，获得2符文.
-每回合一次，你可以acquire a hero from the 虚空区 by paying its 符文 cost.",,draft
-Stone Circle,,Stone Circle,"每回合一次，你可以reveal the top 卡牌 of your 牌库.  If it's a 生命英雄, draw it.
-每回合一次，你可以spend 2符文 to 获得1荣誉.",,draft
-Stone Circle,RotF,Stone Circle,"FATE: When this enters the 中央牌列, each player may acquire a 秘教士.  Put it on top of their 牌库.
-每回合一次，when you acquire a 英雄, 你可以put it 放到你的牌库顶.",,draft
-Project Alpha,RotF,Project Alpha,每回合一次，你可以acquire a 英雄 or 神器 with cost less than or equal to the number of 机械神器s you control.,,draft
-Dimension Diver,RotF,Dimension Diver,获得2符文.  你可以treat all Constructs as 机械神器s 本回合.,,draft
-Combustion Idol,RotF,Combustion Idol,每回合一次，你可以抽一张牌 if you control three 或更高 机械神器s.,,draft
-Battery Monk,RotF,Battery Monk,你可以pay 1符文 less the next time you acquire a 神器 本回合.  抽一张牌.,,draft
-Reclamax,RotF,Reclamax,"FATE: When this enters the 中央牌列, each player may choose a 神器 in their 弃牌堆 and put it in their 手牌.
-",,draft
-Socket Altar,RotF,Socket Altar,"每回合一次，when you put a 机械神器 进入战场 (including this one), 获得2符文.",,draft
-Ferromancer's Helper,,Ferromancer's Helper,"获得2符文.  你可以put a 神器 you control 置入你的弃牌堆.  If you do, 获得2战力.",,draft
-Arbiter of Fate,RotF,Arbiter of Fate,"FATE: When this enters the 中央牌列, each player may banish a 卡牌 from their 手牌 or 弃牌堆.
-抽一张牌. 你可以banish a 卡牌 在你的手牌或弃牌堆.",,draft
-Guardian of Sadranis,RotF,Guardian of Sadranis,"获得1战力. The next time you defeat a 怪物 在中央牌列 or the 虚空区 本回合, 获得2荣誉.",,draft
-Black Hole,RotF,Black Hole,"每回合一次，你可以banish a 卡牌 在你的手牌中.  If you do, 获得1战力.",,draft
-Deathseeker,RotF,Deathseeker,"获得2战力.  If this is banished from your 手牌 or 弃牌堆, 获得3荣誉.",,draft
-"Sadranis, Dark Emissary",RotF,"Sadranis, Dark Emissary",获得3战力. 你可以defeat a 怪物 from the 虚空区 by paying its 战力 cost. Put it on the bottom of the center 牌库.,,draft
-Black Watch Elite,RotF,Black Watch Elite,获得3战力.  你可以banish a 卡牌 在你的手牌或弃牌堆.,,draft
-"Bazu, Duke of Scorn",RotF,"Bazu, Duke of Scorn",奖励：获得4荣誉.  Each opponent either discards a 卡牌 for each 神器 they control or puts all Constructs into their 弃牌堆.,,draft
-Doom Weeper,RotF,Doom Weeper,奖励：获得2荣誉.  获得2符文.,,draft
-Fire Tyrant,RotF,Fire Tyrant,奖励：获得6荣誉.  Each opponent must discard a 卡牌.,,draft
-Ravenous Gorph,RotF,Ravenous Gorph,"FATE: When this enters the 中央牌列, banish all cards adjacent to it.
-奖励：获得3荣誉. 你可以banish a 卡牌 that was adjacent to this.",,draft
+Tormented Soul,CotG,受折磨的灵魂,奖励：获得1荣誉。抽一张牌。,,community
+Wind Tyrant,CotG,风之暴君,奖励：获得3荣誉。获得3符文。,,community
+"Xeron, Duke of Lies",CotG,谎言之公爵泽伦,奖励：获得3荣誉. 拿取一张卡牌随机从 每位对手之手牌和 将该卡牌加入以 你的手牌.,,machine
+Adayu the Omnipotent,RotF,天选者阿达尤,获取或 击败任意卡牌在中央牌列. (你无需支付符文或 战力).,,machine
+Arha Sensei,RotF,亚哈导师,放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵. 加入它以 你的手牌.,,machine
+Askara of Fate,RotF,命运阿斯卡拉,"天命： 当此牌进入中央牌列时, 每位玩家可以抽一张牌.
+抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.",,machine
+Dhartha's Retreat,RotF,达萨的隐修处,"若你如此做，不获取或 击败卡牌在 你的回合, 你可以抽两 额外的卡牌在 结束时你的回合.",,machine
+Eternal Askara,RotF,永恒阿斯卡拉,"放逐一张卡牌在中央牌列. 若你 放逐怪物以此方式, 获得3荣誉.",,machine
+Hectic Scribe,RotF,忙乱书记,"抽两张牌, 然后弃掉两 卡牌.",,machine
+"Nairi, Henge Queen",RotF,环石女王奈莉,获得5荣誉.,,machine
+Dandelion Witch,RotF,蒲公英女巫,抽一张牌. 获得1荣誉以 每个生命英雄你 打出或 拥有打出过本回合 (包括此牌一).,,machine
+Great-Omen Raven,RotF,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,machine
+Lunar Stag,RotF,月鹿,获得2符文或 2荣誉.,,machine
+Serpentcall,RotF,唤蛇,"每回合一次，获得2符文.
+每回合一次，你可以获取hero从虚空区被 支付其 符文费用.",,machine
+Stone Circle,,石环,"每回合一次，你可以展示你牌库顶的卡牌. 若它是生命英雄, 抽它.
+每回合一次，你可以花费 2符文以 获得1荣誉.",,machine
+Stone Circle,RotF,石环,"天命： 当此牌进入中央牌列时, 每位玩家可以获取秘教士. 将它放置在 顶部的 其牌库.
+每回合一次，当你 获取一个英雄, 你可以将它放置放到你的牌库顶.",,machine
+Project Alpha,RotF,阿尔法计划,每回合一次，你可以获取一个英雄或 神器以 费用低于或 相等以 数量为机械神器你控制的.,,machine
+Dimension Diver,RotF,维度潜者,获得2符文. 你可以将所有神器s作为机械神器本回合.,,machine
+Combustion Idol,RotF,燃烧偶像,每回合一次，你可以抽一张牌若 你控制的三 或更高机械神器.,,machine
+Battery Monk,RotF,电池僧侣,你可以支付 1符文更低下次你获取神器本回合. 抽一张牌.,,machine
+Reclamax,RotF,回收机,"天命： 当此牌进入中央牌列时, 每位玩家可以选择神器在 其弃牌堆和 将它放置在其手牌中.",,machine
+Socket Altar,RotF,嵌口祭坛,"每回合一次，当你 放置机械神器进入战场 (包括此牌一), 获得2符文.",,machine
+Ferromancer's Helper,,铁术师助手,获得2符文. 你可以放置神器你控制的置入你的弃牌堆. 若你如此做，获得2战力.,,machine
+Arbiter of Fate,RotF,仲裁者天命,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.
+抽一张牌. 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Guardian of Sadranis,RotF,守卫萨德拉尼斯,"获得1战力. 下次你击败一个怪物在中央牌列或 虚空区本回合, 获得2荣誉.",,machine
+Black Hole,RotF,黑洞,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获得1战力.,,machine
+Deathseeker,RotF,寻死者,"获得2战力. 若此 为被放逐从你的手牌或 弃牌堆, 获得3荣誉.",,machine
+"Sadranis, Dark Emissary",RotF,黑暗使者萨德拉尼斯,获得3战力. 你可以击败一个怪物从虚空区被 支付其 战力费用. 将它放置置于其底： 传送门牌库.,,machine
+Black Watch Elite,RotF,黑卫精锐,获得3战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+"Bazu, Duke of Scorn",RotF,轻蔑公爵巴祖,奖励：获得4荣誉. 每位对手要么弃掉卡牌以 每个神器其控制的要么放置所有神器s置入其弃牌堆.,,machine
+Doom Weeper,RotF,末日哀泣者,奖励：获得2荣誉. 获得2符文.,,machine
+Fire Tyrant,RotF,火焰暴君,奖励：获得6荣誉. 每位对手须弃掉卡牌.,,machine
+Ravenous Gorph,RotF,贪婪戈尔夫,"天命： 当此牌进入中央牌列时, 放逐所有卡牌相邻以 它.
+奖励：获得3荣誉. 你可以放逐一张卡牌该 曾是相邻以 此.",,machine
 Samael the Fallen,RotF,堕落之神萨麦尔,不可放逐。,,official-anshashen
-Sordid Asp,RotF,Sordid Asp,"奖励：获得1荣誉, then steal 2荣誉 from an opponent with the most 荣誉 if they have more than you.",,draft
-Vaultbreaker Wurm,RotF,Vaultbreaker Wurm,奖励：获得4荣誉.  Each other player must discard their highest cost 神器. (They choose in case of a tie).,,draft
+Sordid Asp,RotF,污秽蝮蛇,"奖励：获得1荣誉, 然后偷取 2荣誉从 对手以 最多的荣誉若 其拥有超过你.",,machine
+Vaultbreaker Wurm,RotF,破库巨虫,奖励：获得4荣誉. 每位其他玩家须弃掉其 最高费用神器. (他们选择在 情况的 平局).,,machine
 Militia SoS,,民兵,获得1战力。,,official-anshashen+variant
 Apprentice SoS,,学徒,获得1符文。,,official-anshashen+variant
 Mystic SoS,,秘教士,获得2符文。,,official-anshashen+variant
 Heavy Infantry SoS,,重装步兵,获得2战力。,,official-anshashen+variant
 Cultist SoS,,邪教徒,奖励：获得1荣誉。,,official-anshashen+variant
 Fanatic SoS,SoS,狂信者,奖励：获得2荣誉。,,community+variant
-Arha Rising,SoS,Arha Rising,"每回合一次，when a player discards any number of cards, they may return one of them to their 手牌.
-",,draft
-Dreamer's Glass,SoS,Dreamer's Glass,"每回合一次，你可以put a 卡牌 from your 手牌 under this face up.
-",,draft
-Tower Askara,SoS,Tower Askara,"抽 3 cards.  Then, discard 2 cards or an 启迪 卡牌.",,draft
-"Raj, Psionic Master",SoS,"Raj, Psionic Master","放逐一个Hero from your 手牌.
-",,draft
-Eye of Destiny,SoS,Eye of Destiny,"每回合一次，when you acquire a 英雄, 你可以put it into your 手牌.",,draft
-Elder Skeptic,SoS,Elder Skeptic,"抽 2 cards.  Then, discard a 卡牌.",,draft
-Elemental Adept,SoS,Elemental Adept,"抽一张牌.
-",,draft
-Nook Hound,SoS,Nook Hound,"FATE: When this enters the 中央牌列, each player may look at the top 卡牌 of their 牌库.  They may put it into their 弃牌堆.",,draft
-Prodigal,SoS,Prodigal,击败一个monster with P3 或更低.,,draft
-Treasures of the Study,SoS,Treasures of the Study,"每回合一次，你可以discard 2 cards.  If you do, 获得3荣誉.",,draft
-Ogo Rising,SoS,Ogo Rising,"The first 英雄 played 本回合 is also a 生命英雄.
-",,draft
-Starchild,SoS,Starchild,"获得1符文 and 1荣誉.  Then, 抽一张牌.",,draft
-Granger,SoS,Granger,获得1符文 and 1荣誉.  UNITE: 获得1符文 and 1荣誉.,,draft
-"Syril, Runic Alpha",SoS,"Syril, Runic Alpha",获得3符文.  UNITE: 获得3战力.,,draft
-Lionheart,SoS,Lionheart,获得3荣誉.  UNITE: 抽一张牌.,,draft
-Everbloom,SoS,Everbloom,每回合一次，获得1 荣誉.,,draft
-Snake Shaman,SoS,Snake Shaman,"获得1符文.  If the Current Event is 生命, 获得an additional 1符文.
-",,draft
-Honey Siren,SoS,Honey Siren,"FATE: When Honey Siren enters the 中央牌列, each player may put a 英雄 from their 弃牌堆 on top of their 牌库.
-",,draft
-Avatar of Aiyana,SoS,Avatar of Aiyana,"获得2符文.
-",,draft
-Aiyana's Messenger,SoS,Aiyana's Messenger,获得1符文.  你可以pay 1 less 符文 the next time you aquire a 英雄 本回合.,,draft
-Hedron Rising,SoS,Hedron Rising,"All Constructs are also 机械神器s.
-",,draft
-Weapon 303-V,SoS,Weapon 303-V,"每回合一次，when you 打出 a 机械神器 (including this one), you 获得3战力.",,draft
-Scrap Flinger,SoS,Scrap Flinger,"获得2战力.  你可以destroy a 神器 you control.  If you do, 获得an additional 2战力.",,draft
-Dream Machine,SoS,Dream Machine,"FATE: When Dream Machine enters the 中央牌列, each player may return a 神器 they control to their 手牌.
-",,draft
-Brazer Drone,SoS,Brazer Drone,获得1符文.  你可以return a 神器 from your 弃牌堆 to your 手牌.,,draft
-Autobuilder 5.0,SoS,Autobuilder 5.0,你可以destroy this to pay 2符文 less the next time you acquire a 机械神器 本回合.,,draft
-P.R.I.M.E.,SoS,P.R.I.M.E.,"获得3符文 or acquire a 神器 在中央牌列.
-",,draft
-Personal Wormhole,SoS,Personal Wormhole,"每回合一次，when you 打出 a 机械神器 (including this one), 你可以banish a 卡牌 在你的手牌或弃牌堆.",,draft
-Cog Maw,SoS,Cog Maw,"每回合一次，你可以destroy a 机械神器 you control to 获得1符文.
-",,draft
-Synchronizer,SoS,Synchronizer,"每回合一次，when you 打出 a 机械神器 (including this one), 获得1符文.",,draft
-Grease Monk,SoS,Grease Monk,获得1符文.  你可以pay 1 符文 less the next time you acquire a 神器 本回合.,,draft
-Void Rising,SoS,Void Rising,"每回合一次，when a player defeats a 怪物 in the 中央牌列, that player gains 1荣誉.
-",,draft
-Void Militia,SoS,Void Militia,获得1战力.  你可以pay 1 战力 less the next time you defeat a 怪物 在中央牌列 本回合.,,draft
-Abolisher,SoS,Abolisher,"获得1符文.  你可以banish a 卡牌 in you 手牌; if you do, 获得an additional 1符文.",,draft
-Nihilmancer,SoS,Nihilmancer,"获得2战力.  你可以banish a 卡牌 in you 手牌; if you do, 获得an additional 1战力.",,draft
-Canopic Jar,SoS,Canopic Jar,"每回合一次，获得1战力.
-每回合一次，when you defeat a 怪物 在中央牌列, 获得1符文.",,draft
-Soul Assassin,SoS,Soul Assassin,"获得2战力. The next time you defeat a 怪物 在中央牌列, 获得2符文.",,draft
-Shadowcaster,SoS,Shadowcaster,"抽一张牌.
-你可以banish a 卡牌 from your 手牌; if you do, 你可以draw an additional 1 卡牌.
-",,draft
-Penumbral Edge,SoS,Penumbral Edge,每回合一次，获得2战力.  获得an additional 2战力 if you control Umbral Edge.,,draft
-Umbral Edge,SoS,Umbral Edge,每回合一次，获得2战力.  获得an additional 2战力 if you control Penumbral Edge.,,draft
-"Emri, Soulslayer",SoS,"Emri, Soulslayer","FATE: Each player may banish 2 cards from their 手牌 and/or 弃牌堆.
-",,draft
-Rise of the Cult,SoS,Rise of the Cult,"Cultists and Fanatics have +1战力 and their rewards have +1战力.
-",,draft
-Unchained Fates,SoS,Unchained Fates,奖励：5荣誉.  TROPHY: 抽 2 cards.,,draft
-Minotaur,SoS,Minotaur,奖励：3荣誉.  TROPHY: 抽 1 卡牌.,,draft
-Hoarding Whelp,SoS,Hoarding Whelp,奖励：2荣誉.  TROPHY: 获得1战力.,,draft
-Hoarding Tyrant,SoS,Hoarding Tyrant,奖励：4荣誉.  TROPHY: 获得2符文.,,draft
-Fettered Soul,SoS,Fettered Soul,奖励：获得2荣誉.  你可以banish a 卡牌 在中央牌列.,,draft
-Vandal Soul,SoS,Vandal Soul,奖励：3荣誉.  Each opponent destroys the lowest cost construct they control.,,draft
-Polaris Demon,SoS,Polaris Demon,"奖励：5荣誉.  Choose one:
-",,draft
-Nemesis,SoS,Nemesis,"FATE: 放逐 the current event.
-",,draft
-"Tarik, the Trickster",SoS,"Tarik, the Trickster",奖励：5荣誉.  你可以choose a 英雄 在中央牌列 and copy its effect.,,draft
-Noxious Soul,SoS,Noxious Soul,奖励：4荣誉.  Each opponent must discard a 卡牌 at random from their 手牌.,,draft
-Moment of Clarity,IH,Moment of Clarity,"When a player acquires an 启迪 卡牌, that player may 抽一张牌.
-",,draft
-"Aaron, the Godslayer",IH,"Aaron, the Godslayer",击败一个怪物 无需支付费用.,,draft
-Arha Medium,IH,Arha Medium,你可以banish this to acquire a 秘教士 or 重装步兵 无需支付费用.  Put it into your 手牌.,,draft
-Askara of Souls,IH,Askara of Souls,获得a Soul Gem.,,draft
-"Elan, Soul Marshal",IH,"Elan, Soul Marshal",获得a Soul Gem.  抽一张牌.,,draft
-Temple Guardian,IH,Temple Guardian,"击败一个怪物 with P5 或更低 无需支付费用.
-",,draft
-Wandering Askara,IH,Wandering Askara,"抽一张牌, then 你可以banish a 卡牌 在中央牌列.
-",,draft
-The Great Eclipse,IH,The Great Eclipse,"When a player acquires a 生命英雄, that player may put it on top of their 牌库.
-",,draft
-"Sabre, the Moonlit",IH,"Sabre, the Moonlit","获得1符文. 获得1战力. 获得1荣誉. 抽一张牌. 
-",,draft
-Spider Witch,IH,Spider Witch,获得2荣誉.  UNITE: 获得a Soul Gem.,,draft
-Stone Circle Elder,IH,Stone Circle Elder,"获取一个英雄 that costs R5 或更低 无需支付费用.  Put it 放到你的牌库顶.
-",,draft
-Wolf Acolyte,IH,Wolf Acolyte,获得1符文.  UNITE: 抽一张牌.,,draft
-Beast Staff,IH,Beast Staff,"每回合一次，获得1战力.
-",,draft
-The World Tree,IH,The World Tree,"每回合一次，你可以pay up to 5符文 to 获得that much H. 
-",,draft
-Cosmic Protocol,IH,Cosmic Protocol,"When a player acquires a 机械神器, that player may put it directly 进入战场.
-",,draft
-Energy Monk,IH,Energy Monk,获得2战力.  你可以return a 神器 you control to your 手牌.,,draft
-Hedron Pyromaniac,IH,Hedron Pyromaniac,获得2符文.  你可以destroy a 神器 you control to 获得a Soul Gem.,,draft
-Astroblade TRX,IH,Astroblade TRX,"每回合一次，when you 打出 a 机械神器 (including this one), 获得1荣誉.",,draft
-Driller Mark IV,IH,Driller Mark IV,"每回合一次，when you 打出 a 机械神器 (including this one), 获得a Soul Gem.",,draft
-Recyclicrab,IH,Recyclicrab,"When you 打出 a 机械神器, if this is 在你的弃牌堆 你可以return it to your 手牌.",,draft
-Repurposer,IH,Repurposer,"每回合一次，when you 打出 a 机械神器 (including this one), ",,draft
-Spark Sprayer,IH,Spark Sprayer,"每回合一次，你可以destroy a 机械神器 you control to 获得1战力.
-",,draft
-Annihilation,IH,Annihilation,"When a player acquires a 虚空区 卡牌, that player may banish a 卡牌 in their 手牌 or 弃牌堆.
-",,draft
-"Belthar, Soul Collector",IH,"Belthar, Soul Collector","获得3战力. The next time you defeat a 怪物 在中央牌列 本回合, 获得3符文.",,draft
-Deathsworn Warrior,IH,Deathsworn Warrior,"FATE: Each player may banish a 卡牌 from their 手牌 or 弃牌堆.
-",,draft
-Soulshaper,IH,Soulshaper,"你可以banish this or another 卡牌 在你的手牌中. 
-",,draft
-Trophy Hunter,IH,Trophy Hunter,获得2战力.  You pay 1战力 less the next time you defeat a 战利品 怪物 本回合.,,draft
-Void Avenger,IH,Void Avenger,"获得3战力. The next time you defeat a 怪物 在中央牌列, 获得a Soul Gem.",,draft
-Orb of Nyx,IH,Orb of Nyx,"每回合一次，获得3战力.
-When you defeat a 怪物 在中央牌列, 获得a Soul Gem.",,draft
-Souls Unbound,IH,Souls Unbound,"Monsters 在中央牌列 are Unbanishable.
-",,draft
-Acidic Crawler,IH,Acidic Crawler,"奖励：5荣誉.  If an opponent controls the most Constructs, destroy all Constructs that player controls.",,draft
-"Akam, the Genie",IH,"Akam, the Genie","奖励：3荣誉.  ONGOING TROPHY: Put three Wish counters on Akam. 
-",,draft
-Cackling Jackal,IH,Cackling Jackal,奖励：2荣誉.  TROPHY: 放逐 this to 获得1符文.,,draft
-Growmites,IH,Growmites,"奖励：获得2荣誉.  ONGOING TROPHY: When you defeat another Growmites, 获得2荣誉.",,draft
-Nothing Man,IH,Nothing Man,奖励：3荣誉.  TROPHY: 放逐 this to 获得a Soul Gem.,,draft
-"Kythis, Rebel Godling",IH,"Kythis, Rebel Godling",奖励：8荣誉.  ONGOING TROPHY: 每回合一次，获得a Soul Gem.,,draft
-"Kythis, Rebel Godling v2",IH,"Kythis, Rebel Godling v2",奖励：8荣誉.  ONGOING TROPHY: 每回合一次，获得a Soul Gem.,,draft
-Soul Gem - Arha Initiate,IH,Arha Initiate,抽一张牌.,,draft
-Soul Gem - Arha Templar,IH,Arha Templar,击败一个怪物 战力值不高于4 或更低.,,draft
-Soul Gem - Ascetic of the Lidless Eye,IH,Ascetic of the Lidless Eye,抽两张牌.,,draft
-Soul Gem - Askara of Fate,IH,Askara of Fate,抽两张牌.  Each other player may 抽一张牌.  Then 你可以banish a 卡牌 在中央牌列.,,draft
-Soul Gem - Master Dhartha,IH,Master Dhartha,抽三张牌.,,draft
-Soul Gem - Seer of the Forked Path,IH,Seer of the Forked Path,抽一张牌.  Then 你可以banish a 卡牌 在中央牌列.,,draft
-Soul Gem - Druids of the Stone Circle,IH,Druids of the Stone Circle,获取一个英雄 that costs R3 或更低.  Place it 放到你的牌库顶.,,draft
-Soul Gem - Great-Omen Raven,IH,Great-Omen Raven,"Name a 卡牌.  Reveal the top 卡牌 of your 牌库 and put it into your 手牌.  If it is the named 卡牌, 获得3荣誉.",,draft
-Soul Gem - Landtalker,IH,Landtalker,获得3符文.,,draft
-Soul Gem - Lifebound Initiate,IH,Lifebound Initiate,获得1符文 and 1荣誉.,,draft
-Soul Gem - Runic Lycanthrope,IH,Runic Lycanthrope,"获得2符文.  If you've played a 生命英雄 本回合, 获得2战力.",,draft
-Soul Gem - Wolf Shaman,IH,Wolf Shaman,获得1符文.  抽一张牌.,,draft
-Soul Gem - Avatar Golem,IH,Avatar Golem,获得2战力.  获得1荣誉 for each type of 神器 you control.,,draft
-Soul Gem - Dimension Diver,IH,Dimension Diver,获得2符文.  你可以treat all Constructs as 机械神器s 本回合.,,draft
-Soul Gem - Mechana Initiate,IH,Mechana Initiate,获得1符文 or 1战力.,,draft
-Soul Gem - Reactor Monk,IH,Reactor Monk,获得2符文.  The next 神器 you acquire 本回合 costs 1符文 less.,,draft
-Soul Gem - Arbiter of Fate,IH,Arbiter of Fate,"FATE: When this enters the 中央牌列, each player may banish a 卡牌 from their 手牌 or 弃牌堆.
-",,draft
-Soul Gem - Demon Slayer,IH,Demon Slayer,获得3战力.,,draft
-Soul Gem - Shade of the Black Watch,IH,Shade of the Black Watch,获得2战力.  你可以banish a 卡牌 在你的手牌或弃牌堆.,,draft
-Soul Gem - Spike Vixen,IH,Spike Vixen,获得1战力.  抽一张牌.,,draft
-Soul Gem - Void Initiate,IH,Void Initiate,获得1符文.  你可以banish a 卡牌 在你的手牌或弃牌堆.,,draft
-Energy Shard Start,RoV,Energy Shard,获得1E. 抽一张牌.,,draft
-Energy Shard,RoV,Energy Shard,获得1E. 抽一张牌.,,draft
+Arha Rising,SoS,亚哈崛起,"每回合一次，当玩家弃掉任意数量的 卡牌, 他们可以返回一 的它们以 其手牌.
+EVENT战利品： 抽一张牌.",,machine
+Dreamer's Glass,SoS,梦者琉璃,"每回合一次，你可以放置卡牌从你的手牌其下此 面朝上.
+若你如此做，抽一张牌.
+当梦者琉璃离开打出或 游戏结束, 放置所有卡牌其下它 置入你的弃牌堆.",,machine
+Tower Askara,SoS,高塔阿斯卡拉,"抽 3 卡牌. 然后, 弃掉 2 卡牌或 启迪卡牌.",,machine
+"Raj, Psionic Master",SoS,灵能大师拉吉,"放逐一个英雄从你的手牌.
+若你如此做，获取一个英雄以 荣誉至多两 超过该 的被放逐卡牌和 将它放置置入你的手牌.",,machine
+Eye of Destiny,SoS,命运之眼,"每回合一次，当你 获取一个英雄, 你可以将它放置置入你的手牌.",,machine
+Elder Skeptic,SoS,长老怀疑者,"抽 2 卡牌. 然后, 弃掉卡牌.",,machine
+Elemental Adept,SoS,元素能手,"抽一张牌.
+若当前事件为 启迪, 抽额外的 1 卡牌.
+你可以放逐一张卡牌在中央牌列.",,machine
+Nook Hound,SoS,角落猎犬,"天命： 当此牌进入中央牌列时, 每位玩家可以查看牌库顶卡牌的 其牌库. 他们可以将它放置置入其弃牌堆.",,machine
+Prodigal,SoS,浪子,击败一个怪物以P3 或更低.,,machine
+Treasures of the Study,SoS,宝藏书房,每回合一次，你可以弃掉 2 卡牌. 若你如此做，获得3荣誉.,,machine
+Ogo Rising,SoS,奥戈崛起,"首先英雄打出过本回合为 也生命英雄.
+ EVENT战利品： 获得1符文.",,machine
+Starchild,SoS,星之子,"获得1符文和 1荣誉. 然后, 抽一张牌.",,machine
+Granger,SoS,农夫,获得1符文和 1荣誉. 联合： 获得1符文和 1荣誉.,,machine
+"Syril, Runic Alpha",SoS,符文首领西里尔,获得3符文. 联合： 获得3战力.,,machine
+Lionheart,SoS,狮心,获得3荣誉. 联合： 抽一张牌.,,machine
+Everbloom,SoS,永绽,每回合一次，获得1 荣誉.,,machine
+Snake Shaman,SoS,蛇萨满,"获得1符文. 若当前事件为 生命, 获得额外的 1符文.
+一次本回合, 你可以花费至多 4符文以 获得该等量的荣誉.",,machine
+Honey Siren,SoS,蜜海妖,"天命： 当蜜 海妖进入中央牌列, 每位玩家可以放置英雄从 其弃牌堆在 顶部的 其牌库.",,machine
+Avatar of Aiyana,SoS,化身·艾雅娜,"获得2符文.
+此回合, 你可以获取英雄在中央牌列被 支付符文相等以 其荣誉而非支付其 符文费用.",,machine
+Aiyana's Messenger,SoS,艾雅娜的信使,获得1符文. 你可以支付 1 更低符文下次你获取英雄本回合.,,machine
+Hedron Rising,SoS,多面体崛起,"万民神器s为也 机械神器.
+EVENT战利品： 当神器你控制的会 是摧毁ed, 你可以防止它 从被 摧毁ed.",,machine
+Weapon 303-V,SoS,武器303-V,"每回合一次，当你 打出机械神器 (包括此牌一), 你获得3战力.",,machine
+Scrap Flinger,SoS,废料投掷者,获得2战力. 你可以摧毁一个神器你控制的. 若你如此做，获得额外的 2战力.,,machine
+Dream Machine,SoS,梦机器,"天命： 当梦 机器进入中央牌列, 每位玩家可以返回神器其控制的以 其手牌.",,machine
+Brazer Drone,SoS,铜匠无人机,获得1符文. 你可以返回神器从 你的弃牌堆以 你的手牌.,,machine
+Autobuilder 5.0,SoS,自动建造机5.0,你可以摧毁此 以支付 2符文更低下次你获取机械神器本回合.,,machine
+P.R.I.M.E.,SoS,P.R.I.M.E.,"获得3符文或 获取神器在中央牌列.
+当你 打出机械神器, 你可以返回P.R.I.M.E. 从你的弃牌堆以 你的手牌.",,machine
+Personal Wormhole,SoS,私人虫洞,"每回合一次，当你 打出机械神器 (包括此牌一), 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Cog Maw,SoS,齿轮巨口,"每回合一次，你可以摧毁机械神器你控制的以 获得1符文.
+若当前事件为 机械, 获得额外的 1符文.",,machine
+Synchronizer,SoS,同步者,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1符文.",,machine
+Grease Monk,SoS,油污僧侣,获得1符文. 你可以支付 1 符文更低下次你获取神器本回合.,,machine
+Void Rising,SoS,虚空崛起,"每回合一次，当玩家击败怪物在 中央牌列, 该玩家获得 1荣誉.
+EVENT战利品： 放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Void Militia,SoS,虚空民兵,获得1战力. 你可以支付 1 战力更低下次你击败一个怪物在中央牌列本回合.,,machine
+Abolisher,SoS,废除者,"获得1符文. 你可以放逐一张卡牌在 你手牌; 若你 做, 获得额外的 1符文.",,machine
+Nihilmancer,SoS,虚无法师,"获得2战力. 你可以放逐一张卡牌在 你手牌; 若你 做, 获得额外的 1战力.",,machine
+Canopic Jar,SoS,卡诺皮克罐,"每回合一次，获得1战力.
+每回合一次，当你 击败一个怪物在中央牌列, 获得1符文.",,machine
+Soul Assassin,SoS,灵魂刺客,"获得2战力. 下次你击败一个怪物在中央牌列, 获得2符文.",,machine
+Shadowcaster,SoS,影咏者,"抽一张牌.
+你可以放逐一张卡牌从你的手牌; 若你 做, 你可以抽额外的 1 卡牌.
+若当前事件为 虚空, 你可以放逐一张卡牌在你的弃牌堆.",,machine
+Penumbral Edge,SoS,半影刃锋,每回合一次，获得2战力. 获得额外的 2战力若 你控制的暗影刃锋.,,machine
+Umbral Edge,SoS,暗影刃锋,每回合一次，获得2战力. 获得额外的 2战力若 你控制的半影刃锋.,,machine
+"Emri, Soulslayer",SoS,斩魂者艾姆瑞,天命： 每位玩家可以放逐 2 卡牌从其手牌和/或弃牌堆.,,machine
+Rise of the Cult,SoS,邪教崛起,"邪教徒和 狂信者拥有+1战力和 其奖励拥有+1战力.
+EVENT战利品： 获得1荣誉.",,machine
+Unchained Fates,SoS,挣脱的命运,奖励：5荣誉. 战利品： 抽 2 卡牌.,,machine
+Minotaur,SoS,牛头人,奖励：3荣誉. 战利品： 抽 1 卡牌.,,machine
+Hoarding Whelp,SoS,囤积幼龙,奖励：2荣誉. 战利品： 获得1战力.,,machine
+Hoarding Tyrant,SoS,囤积暴君,奖励：4荣誉. 战利品： 获得2符文.,,machine
+Fettered Soul,SoS,枷锁灵魂,奖励：获得2荣誉. 你可以放逐一张卡牌在中央牌列.,,machine
+Vandal Soul,SoS,破坏灵魂,奖励：3荣誉. 每位对手摧毁最低费用神器其控制的.,,machine
+Polaris Demon,SoS,北极星恶魔,"奖励：5荣誉. 选择一项：
+摧毁所有偶数费用神器s对手控制OR摧毁所有奇数费用神器s对手控制.",,machine
+Nemesis,SoS,宿敌,天命： 放逐当前事件.,,machine
+"Tarik, the Trickster",SoS,诡术师塔里克,奖励：5荣誉. 你可以选择英雄在中央牌列和 复制其效果.,,machine
+Noxious Soul,SoS,毒害灵魂,奖励：4荣誉. 每位对手须弃掉卡牌随机从其手牌.,,machine
+Moment of Clarity,IH,片刻澄明,"当玩家获取启迪卡牌, 该玩家可以抽一张牌.
+ EVENT战利品： 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.",,machine
+"Aaron, the Godslayer",IH,亚伦·弑神者,击败一个怪物无需支付费用.,,machine
+Arha Medium,IH,亚哈灵媒,你可以放逐此牌以 获取秘教士或 重装步兵无需支付费用. 将它放置置入你的手牌.,,machine
+Askara of Souls,IH,灵魂阿斯卡拉,获得灵魂宝石.,,machine
+"Elan, Soul Marshal",IH,埃兰·灵魂元帅,获得灵魂宝石. 抽一张牌.,,machine
+Temple Guardian,IH,神殿守卫,"击败一个怪物以P5 或更低无需支付费用.
+若当前事件为 启迪, 抽一张牌.",,machine
+Wandering Askara,IH,流浪阿斯卡拉,"抽一张牌, 然后你可以放逐一张卡牌在中央牌列.
+若你打出过另一流浪阿斯卡拉本回合, 你可以放逐两者卡牌以 拿取另一回合在此之后.",,machine
+The Great Eclipse,IH,大日食,"当玩家获取生命英雄, 该玩家可以将它放置在 顶部的 其牌库.
+ EVENT战利品： 命名英雄. 该英雄为 也生命本回合.",,machine
+"Sabre, the Moonlit",IH,军刀·月下,"获得1符文. 获得1战力. 获得1荣誉. 抽一张牌. 
+联合： 获得1符文. 获得1战力. 获得1荣誉. 抽一张牌.",,machine
+Spider Witch,IH,蜘蛛女巫,获得2荣誉. 联合： 获得灵魂宝石.,,machine
+Stone Circle Elder,IH,石环长老,"获取一个英雄费用不高于5 或更低无需支付费用. 将它放置放到你的牌库顶.
+若当前事件为 生命, 抽一张牌.",,machine
+Wolf Acolyte,IH,狼侍僧,获得1符文. 联合： 抽一张牌.,,machine
+Beast Staff,IH,野兽法杖,"每回合一次，获得1战力.
+每回合一次，你可以支付 1符文以 展示顶部卡牌的 你牌库. 获得荣誉相等以 其荣誉Value.",,machine
+The World Tree,IH,世界树,"每回合一次，你可以支付至多 5符文以 获得该等量的H. 
+当你 打出生命英雄, 获得1符文.",,machine
+Cosmic Protocol,IH,宇宙协议,"当玩家获取机械神器, 该玩家可以将其直接进入战场.
+ EVENT战利品： 你支付 2符文更低以 获取你的下一机械神器本回合.",,machine
+Energy Monk,IH,能量僧侣,获得2战力. 你可以返回神器你控制的以 你的手牌.,,machine
+Hedron Pyromaniac,IH,多面体纵火狂,获得2符文. 你可以摧毁一个神器你控制的以 获得灵魂宝石.,,machine
+Astroblade TRX,IH,星刃TRX,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1荣誉.",,machine
+Driller Mark IV,IH,钻机型号IV,"每回合一次，当你 打出机械神器 (包括此牌一), 获得灵魂宝石.",,machine
+Recyclicrab,IH,循环蟹,"当你 打出机械神器, 若此 为在你的弃牌堆你可以返回它 以你的手牌.",,machine
+Repurposer,IH,再造者,"每回合一次，当你 打出机械神器 (包括此牌一), 你可以返回神器从 你的弃牌堆以 你的手牌.",,machine
+Spark Sprayer,IH,火花喷射器,"每回合一次，你可以摧毁机械神器你控制的以 获得1战力.
+ 若当前事件为 机械, 获得额外的 1战力.",,machine
+Annihilation,IH,歼灭,"当玩家获取虚空卡牌, 该玩家可以放逐一张卡牌在其手牌中或 弃牌堆.
+ EVENT战利品： 获得1战力.",,machine
+"Belthar, Soul Collector",IH,贝尔萨·集魂者,"获得3战力. 下次你击败一个怪物在中央牌列本回合, 获得3符文.",,machine
+Deathsworn Warrior,IH,誓死战士,天命： 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.,,machine
+Soulshaper,IH,塑魂者,"你可以放逐此牌或 另一卡牌在你的手牌中. 
+若你如此做，获得灵魂宝石. 若当前事件为 虚空, 你可以放逐一张卡牌在你的弃牌堆以 获得灵魂宝石改为.",,machine
+Trophy Hunter,IH,战利品猎手,获得2战力. 你支付 1战力更低下次你击败战利品怪物本回合.,,machine
+Void Avenger,IH,虚空复仇者,"获得3战力. 下次你击败一个怪物在中央牌列, 获得灵魂宝石.",,machine
+Orb of Nyx,IH,宝珠尼克斯,"每回合一次，获得3战力.
+当你 击败一个怪物在中央牌列, 获得灵魂宝石.",,machine
+Souls Unbound,IH,灵魂解缚,"怪物在中央牌列为 不可放逐.
+ EVENT战利品： 弃掉卡牌. 若你如此做，获得灵魂宝石.",,machine
+Acidic Crawler,IH,酸性爬行者,"奖励：5荣誉. 若对手控制最多的神器s, 摧毁所有神器s该玩家控制.",,machine
+"Akam, the Genie",IH,阿卡姆·灯神,奖励：3荣誉. ONGOING战利品： 放置三 愿望指示物在 阿卡姆.,,machine
+Cackling Jackal,IH,狂笑豺狼,奖励：2荣誉. 战利品： 放逐此 以获得1符文.,,machine
+Growmites,IH,增生螨,"奖励：获得2荣誉. ONGOING战利品： 当你 击败另一增生螨, 获得2荣誉.",,machine
+Nothing Man,IH,虚无之人,奖励：3荣誉. 战利品： 放逐此 以获得灵魂宝石.,,machine
+"Kythis, Rebel Godling",IH,凯西斯·反叛神子,奖励：8荣誉. ONGOING战利品： 每回合一次，获得灵魂宝石.,,machine
+"Kythis, Rebel Godling v2",IH,叛神子凯西斯,奖励：8荣誉. ONGOING战利品： 每回合一次，获得灵魂宝石.,,machine
+Soul Gem - Arha Initiate,IH,亚哈新兵,抽一张牌.,,machine
+Soul Gem - Arha Templar,IH,亚哈圣殿武士,击败一个怪物战力值不高于4 或更低.,,machine
+Soul Gem - Ascetic of the Lidless Eye,IH,无目之眼苦行僧,抽两张牌.,,machine
+Soul Gem - Askara of Fate,IH,命运阿斯卡拉,抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.,,machine
+Soul Gem - Master Dhartha,IH,达萨大师,抽三张牌.,,machine
+Soul Gem - Seer of the Forked Path,IH,歧路预言者,抽一张牌. 然后你可以放逐一张卡牌在中央牌列.,,machine
+Soul Gem - Druids of the Stone Circle,IH,石环德鲁伊,获取一个英雄费用不高于3 或更低. 将它放到你的牌库顶.,,machine
+Soul Gem - Great-Omen Raven,IH,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,machine
+Soul Gem - Landtalker,IH,大地说书人,获得3符文.,,machine
+Soul Gem - Lifebound Initiate,IH,生命新兵,获得1符文和 1荣誉.,,machine
+Soul Gem - Runic Lycanthrope,IH,符文狼化人,"获得2符文. 若你打出过生命英雄本回合, 获得2战力.",,machine
+Soul Gem - Wolf Shaman,IH,狼萨满,获得1符文. 抽一张牌.,,machine
+Soul Gem - Avatar Golem,IH,化身魔像,获得2战力. 获得1荣誉以 每个type的神器你控制的.,,machine
+Soul Gem - Dimension Diver,IH,维度潜者,获得2符文. 你可以将所有神器s作为机械神器本回合.,,machine
+Soul Gem - Mechana Initiate,IH,机械新兵,获得1符文或 1战力.,,machine
+Soul Gem - Reactor Monk,IH,反应堆僧侣,获得2符文. 下一神器你 获取本回合费用为 1符文更低.,,machine
+Soul Gem - Arbiter of Fate,IH,仲裁者天命,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.",,machine
+Soul Gem - Demon Slayer,IH,恶魔杀手,获得3战力.,,machine
+Soul Gem - Shade of the Black Watch,IH,黑卫之影,获得2战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+Soul Gem - Spike Vixen,IH,尖刺雌狐,获得1战力. 抽一张牌.,,machine
+Soul Gem - Void Initiate,IH,虚空新兵,获得1符文. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+Energy Shard Start,RoV,能量碎片,获得1E. 抽一张牌.,,machine
+Energy Shard,RoV,能量碎片,获得1E. 抽一张牌.,,machine
 Militia RoV,RoV,民兵,获得1战力。,,official-anshashen+variant
 Apprentice RoV,RoV,学徒,获得1符文。,,official-anshashen+variant
 Mystic RoV,RoV,秘教士,获得2符文。,,official-anshashen+variant
 Heavy Infantry RoV,RoV,重装步兵,获得2战力。,,official-anshashen+variant
 Cultist RoV,RoV,邪教徒,奖励：获得1荣誉。,,official-anshashen+variant
-Monastic Tutor,RoV,Monastic Tutor,"获取一个Mystic or 重装步兵 无需支付费用.
-",,draft
-Monk of the Lidless Eye,RoV,Monk of the Lidless Eye,"FATE: When this enters the 中央牌列, for each treasure under this, ",,draft
-"Oziah, Judge of Logos",RoV,"Oziah, Judge of Logos","While this is 在中央牌列, 你可以acquire this 无需支付费用 ",,draft
-Reality Sculptor,RoV,Reality Sculptor,Copy the effect of a 英雄 played 本回合 with cost 3符文 或更低.,,draft
-Righteous Templar,RoV,Righteous Templar,"击败一个怪物 that costs 4战力 或更低 无需支付费用.
-",,draft
-Tablet of the Dreamer,RoV,Tablet of the Dreamer,"ENERGIZE 4E: Once 本回合, acquire or defeat any 卡牌 ",,draft
-Temporal Eye,RoV,Temporal Eye,"When this enters 打出, 抽一张牌.
-",,draft
-Truth Seeker,RoV,Truth Seeker,抽一张牌. 你可以banish a 卡牌 在中央牌列. ,,draft
-"Ulu, Askara Prince",RoV,"Ulu, Askara Prince","Copy the effect of a 英雄 played 本回合. This effect cannot be copied.
-",,draft
-Beacon Shaman,RoV,Beacon Shaman,Reveal the top 卡牌 of your 牌库 and put it 在你的手牌中. ,,draft
-Leotan's Familiar,RoV,Leotan's Familiar,"获得1符文.
-",,draft
-Lifebound Muse,RoV,Lifebound Muse,"获取一个英雄 with cost 4符文 或更低 无需支付费用.
-",,draft
-Loamspeaker Druid,RoV,Loamspeaker Druid,"FATE: When this enters the 中央牌列, for each Treasure under this, ",,draft
-Ogo Demontrap,RoV,Ogo Demontrap,"每回合一次，获得1战力.
-",,draft
-"Oras, the Redeemer",RoV,"Oras, the Redeemer","获得4符文.
-",,draft
-Runic Honiskrot,RoV,Runic Honiskrot,"获得2符文.
-",,draft
-Starcaller Leotan,RoV,Starcaller Leotan,"获得4荣誉.
-",,draft
-Wildcall Staff,RoV,Wildcall Staff,每回合一次，you pay 2符文 less to acquire a 卡牌 with Treasure under it.,,draft
-Cognition Courier,RoV,Cognition Courier,"获得2符文.
-",,draft
-Foresight Monacle,RoV,Foresight Monacle,"ENERGIZE 4E: Once 本回合, 获得1符文 for each 机械神器 you control.",,draft
-Magnet Monk,RoV,Magnet Monk,"获得2战力.
-",,draft
-Omnicron,RoV,Omnicron,"FATE: When this enters the 中央牌列, for each Treasure under this, ",,draft
-Portabillet,RoV,Portabillet,"每回合一次，when you 打出 a 机械神器 (including this one), 抽一张牌.
-",,draft
-Prototype CH32,RoV,Prototype CH32,"ENERGIZE 1E: Once 本回合, when you acquire a 机械神器, ",,draft
-Reactor Shrine,RoV,Reactor Shrine,"ENERGIZE 2E: Once 本回合, 获得1荣誉 for each 机械神器 you control.",,draft
-Skyrocket Drone,RoV,Skyrocket Drone,获得1符文 and an additional 1符文 if you control a 神器.,,draft
-Zeta Arsenal,RoV,Zeta Arsenal,"ENERGIZE 3E: Once 本回合, 获得1战力 for each 机械神器 you control.",,draft
-Blackwatch Vanquisher,RoV,Blackwatch Vanquisher,"获得2战力.
-",,draft
-Darkwalker,RoV,Darkwalker,"获得2战力.
-",,draft
-Illiya the Demonborn,RoV,Illiya the Demonborn,"获得4战力.
-",,draft
-Nyxian Spiritcaster,RoV,Nyxian Spiritcaster,"获得3E.
-",,draft
-Spirit Merchant,RoV,Spirit Merchant,"FATE: When this enters the 中央牌列, for each Treasure under this, ",,draft
-Tome of Erabus,RoV,Tome of Erabus,每回合一次，获得1E.,,draft
-Treasure Hunter,RoV,Treasure Hunter,"获得2战力.
-",,draft
-Voidfeeder,RoV,Voidfeeder,"每回合一次，获得1战力.
-",,draft
-Deviant Fiend,RoV,Deviant Fiend,"REWARD: 获得3荣誉.
-",,draft
-Firestorm Effigy,RoV,Firestorm Effigy,"REWARD: 获得3荣誉. 你可以banish a 卡牌 在你的手牌或弃牌堆.
-",,draft
-Herald of Doom,RoV,Herald of Doom,"REWARD: 获得6荣誉. 获取 or defeat a 卡牌 在中央牌列 无需支付费用.
-",,draft
-Lagoon Troll,RoV,Lagoon Troll,REWARD: 获得2荣誉. 抽一张牌.,,draft
-Mordant Widow,RoV,Mordant Widow,"REWARD: 获得4荣誉. For each opponent, you choose and destroy a 神器 they control.",,draft
-Protean Sea Slug,RoV,Protean Sea Slug,REWARD: 获得5荣誉. Each opponent destroys all Constructs they control.,,draft
-Raging Ursine,RoV,Raging Ursine,"REWARD: 获得3荣誉.
-",,draft
-Serpent Siren,RoV,Serpent Siren,"REWARD: 获得1荣誉.
-",,draft
-"Terrus, Paragon of Strife",RoV,"Terrus, Paragon of Strife",REWARD: 获得5荣誉. Each opponent discards a random 卡牌 from their 手牌. ,,draft
-Twisted Tyrant,RoV,Twisted Tyrant,"REWARD: 获得6荣誉.
-",,draft
-Vault Sphinx,RoV,Vault Sphinx,"REWARD: 获得2荣誉.
-",,draft
-Dark Energy Shard,DU,Dark Energy Shard,"FATE: Each player may banish a 卡牌 in their 弃牌堆.
-",,draft
-Anointed Askara,DU,Anointed Askara,"抽一张牌.
-",,draft
-Arha Mentor,DU,Arha Mentor,"ENERGIZE 2E: 抽一张牌.
-",,draft
-Shardfinder Compass,DU,Shardfinder Compass,你可以banish this to acquire all of the Treasures 在中央牌列.,,draft
-Valiant Ascetic,DU,Valiant Ascetic,你可以banish this to defeat a 怪物 with cost 5战力 或更低 无需支付费用.,,draft
-"Veya, Handmaiden of Logos",DU,"Veya, Handmaiden of Logos","Choose one: 获取一个英雄 with cost 6符文 或更低 无需支付费用, ",,draft
-Gemcatcher Spirit,DU,Gemcatcher Spirit,ENERGIZE 2E: 转化 this into Otherworldly Guide. ,,draft
-Otherworldly Guide,DU,Otherworldly Guide,抽两张牌.,,draft
-"Toric, Devoted Disciple",DU,"Toric, Devoted Disciple","ENERGIZE 4E: 转化 this into Toric, Ascendant. ",,draft
-"Toric, Ascendant",DU,"Toric, Ascendant",获取一个英雄 无需支付费用 and put it into your 手牌.,,draft
-Dendris the Gladewyrm,DU,Dendris the Gladewyrm,"获得2符文, 2战力, and 2荣誉.
-",,draft
-Gem-Eater Leprechaun,DU,Gem-Eater Leprechaun,获得2符文 and 2E.,,draft
-"Moken, the Huntmaster",DU,"Moken, the Huntmaster","获得5荣誉.
-",,draft
-Mosaic Horn,DU,Mosaic Horn,"ENERGIZE 2E: Once 本回合, 获得2符文.",,draft
-Raven Siren,DU,Raven Siren,"获得1符文.
-",,draft
-Honiskrot Tribesman,DU,Honiskrot Tribesman,ENERGIZE 2E: 转化 this into Honiskrot Chieftain. ,,draft
-Honiskrot Chieftain,DU,Honiskrot Chieftain,获得3符文.,,draft
-"Jakeb, Cobra Shaman",DU,"Jakeb, Cobra Shaman","ENERGIZE 4E: 转化 this into Jakeb, Cobra King. ",,draft
-"Jakeb, Cobra King",DU,"Jakeb, Cobra King","获得6荣誉.
-",,draft
-Charging Chamber,DU,Charging Chamber,"每回合一次，when you 打出 a 机械神器 (including this one), 获得1E.",,draft
-Crystalline Monk,DU,Crystalline Monk,"获得2符文.
-",,draft
-Hedron Dredger,DU,Hedron Dredger,"每回合一次，if you control three 或更高 机械神器s, ",,draft
-Replication Drone,DU,Replication Drone,You are considered to control an additional 机械神器.,,draft
-Scrap Scrabbler,DU,Scrap Scrabbler,ENERGIZE 2E: 转化 this into Scrabbling Squad. ,,draft
-Scrabbling Squad,DU,Scrabbling Squad,获得2符文 and 2战力.,,draft
-Yolothian Monolith,DU,Yolothian Monolith,"ENERGIZE 4E: 转化 this into Yolocryx, the Guardian and put it into your 手牌.",,draft
-"Yolocryx, the Guardian",DU,"Yolocryx, the Guardian","获得5战力 and an additional 1战力 for each 机械神器 you control.
-",,draft
-Arbiter of the Lost,DU,Arbiter of the Lost,"获得2E.
-",,draft
-Nightmare Sentinel,DU,Nightmare Sentinel,"获得2战力.
-",,draft
-Nyxian Ritualist,DU,Nyxian Ritualist,获得3战力 and 3E.,,draft
-Riftwalker's Axe,DU,Riftwalker's Axe,"ENERGIZE 2E: Once 本回合, 获得2战力.",,draft
-Voidsworn Warrior,DU,Voidsworn Warrior,ENERGIZE 2E: 转化 this into Voidsworn Champion. ,,draft
-Voidsworn Champion,DU,Voidsworn Champion,获得4战力.,,draft
-Azerax of the Black Watch,DU,Azerax of the Black Watch,"ENERGIZE 4E: 转化 this into Azerax, Nyx's Chosen. ",,draft
-"Azerax, Nyx's Chosen",DU,"Azerax, Nyx's Chosen","获得6战力.
-",,draft
-Cacklecast Wretch,DU,Cacklecast Wretch,"If you have gained 4E 或更高 本回合, 你可以defeat this 无需支付费用.
-",,draft
-Oxipede,DU,Oxipede,"REWARD: 获得2荣誉.
-",,draft
-Phasefiend,DU,Phasefiend,REWARD: 获得1荣誉. 你可以banish a 卡牌 在你的手牌或弃牌堆.,,draft
-Plunder Devil,DU,Plunder Devil,"REWARD: 获得5荣誉. 你可以acquire a 英雄 or 神器 with cost 3符文 或更低 无需支付费用.
-",,draft
-Smoke Tyrant,DU,Smoke Tyrant,REWARD: 获得4荣誉. 放逐 the top seven cards of the center 牌库. ,,draft
-Vault Lich,DU,Vault Lich,"FATE: When this enters the 中央牌列, banish each 卡牌 在中央牌列 with Treasure under it.
-",,draft
-Webclaw,DU,Webclaw,REWARD: 获得3荣誉. Each opponent with three 或更高 Constructs in 打出 ,,draft
-"Erabus, the Exiled",DU,"Erabus, the Exiled","If you have played a Dark Energy Shard 本回合, ",,draft
-"Erabus, Son of Nyx",DU,"Erabus, Son of Nyx",击败一个怪物 in the 虚空区 无需支付费用 ,,draft
+Monastic Tutor,RoV,寺院导师,"获取一个秘教士或 重装步兵无需支付费用.
+ENERGIZE 1E: 放置所获取的卡牌置入你的手牌.",,machine
+Monk of the Lidless Eye,RoV,无目之眼僧侣,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
+"Oziah, Judge of Logos",RoV,逻各斯审判者奥齐亚,"当此 为在中央牌列, 你可以获取此 无需支付费用若 你拥有已获得 7E或更高本回合.
+击败所有怪物在中央牌列无需支付费用.",,machine
+Reality Sculptor,RoV,现实塑造者,复制效果的 英雄打出过本回合以 费用 3符文或更低.,,machine
+Righteous Templar,RoV,正义圣殿武士,"击败一个怪物费用为4战力或更低无需支付费用.
+ENERGIZE 3E: 改为， 击败任意怪物无需支付费用.",,machine
+Tablet of the Dreamer,RoV,石板梦者,"ENERGIZE 4E: 一次本回合, 获取或 击败任意卡牌在中央牌列无需支付费用.",,machine
+Temporal Eye,RoV,时光之眼,"当此牌进入战场时, 抽一张牌.
+你可以放逐此牌和 另一时光之眼你控制的以 拿取额外回合.",,machine
+Truth Seeker,RoV,真理追寻者,"抽一张牌. 你可以放逐一张卡牌在中央牌列. 若下一卡牌以 进入中央牌列为 宝藏, 获取它.",,machine
+"Ulu, Askara Prince",RoV,乌鲁·阿斯卡拉王子,"复制本回合打出的一张英雄的效果。 此效果不能是 被复制.
+ENERGIZE 2E: 复制所选效果额外的次.",,machine
+Beacon Shaman,RoV,信标萨满,"展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为宝藏, 获得3荣誉.",,machine
+Leotan's Familiar,RoV,莱奥坦的使魔,"获得1符文.
+ENERGIZE 1E: 获得2荣誉.",,machine
+Lifebound Muse,RoV,生命缪斯,"获取一个英雄以 费用 4符文或更低无需支付费用.
+ENERGIZE 2E: 改为， 获取任意英雄无需支付费用.",,machine
+Loamspeaker Druid,RoV,沃土语者德鲁伊,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
+Ogo Demontrap,RoV,奥戈捕魔阱,"每回合一次，获得1战力.
+ENERGIZE 4E: 一次本回合, 获得3荣誉.",,machine
+"Oras, the Redeemer",RoV,奥拉斯·救赎者,"获得4符文.
+每位次 你获取一个英雄从中央牌列本回合, 获得荣誉相等以 其荣誉值.",,machine
+Runic Honiskrot,RoV,符文霍尼斯克洛特,"获得2符文.
+ENERGIZE 3E: 获得2战力.",,machine
+Starcaller Leotan,RoV,唤星者莱奥坦,"获得4荣誉.
+充能： 获得额外的 1荣誉以 每个 1E你拥有已获得本回合.",,machine
+Wildcall Staff,RoV,野性呼唤法杖,每回合一次，你支付 2符文更低以 获取卡牌以 宝藏其下它.,,machine
+Cognition Courier,RoV,认知信使,"获得2符文.
+充能： 你支付 1符文更低下次你获取神器本回合以 每个 1E你拥有已获得本回合.",,machine
+Foresight Monacle,RoV,预见单片镜,"ENERGIZE 4E: 一次本回合, 获得1符文以 每个机械神器你控制的.",,machine
+Magnet Monk,RoV,磁僧侣,"获得2战力.
+获得1E以每个派系在你控制的神器之中.",,machine
+Omnicron,RoV,全时者,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
+Portabillet,RoV,便携弹,"每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌.
+ENERGIZE 5E: 一次本回合, 抽一张牌.",,machine
+Prototype CH32,RoV,原型CH32,"ENERGIZE 1E: 一次本回合, 当你 获取机械神器, 你可以将其直接进入战场.",,machine
+Reactor Shrine,RoV,反应堆神龛,"ENERGIZE 2E: 一次本回合, 获得1荣誉以 每个机械神器你控制的.",,machine
+Skyrocket Drone,RoV,冲天无人机,获得1符文和 额外的 1符文若 你控制的神器.,,machine
+Zeta Arsenal,RoV,泽塔武库,"ENERGIZE 3E: 一次本回合, 获得1战力以 每个机械神器你控制的.",,machine
+Blackwatch Vanquisher,RoV,黑卫征服者,"获得2战力.
+ENERGIZE 3E: 获得额外的 2战力.",,machine
+Darkwalker,RoV,暗行者,"获得2战力.
+ENERGIZE 1E: 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Illiya the Demonborn,RoV,伊利亚魔生,"获得4战力.
+充能： 获得额外的 1战力以 每个 1E你拥有已获得本回合.",,machine
+Nyxian Spiritcaster,RoV,尼克斯魂咏者,"获得3E.
+抽一张牌.",,machine
+Spirit Merchant,RoV,精魂商人,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
+Tome of Erabus,RoV,典籍埃拉布斯,每回合一次，获得1E.,,machine
+Treasure Hunter,RoV,宝藏猎手,"获得2战力.
+你可以支付 1战力更低下次你击败一个怪物以 宝藏其下它 本回合.",,machine
+Voidfeeder,RoV,饲虚者,"每回合一次，获得1战力.
+ENERGIZE 2E: 一次本回合, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Deviant Fiend,RoV,畸变邪魔,"奖励： 获得3荣誉.
+充能： 获得额外的 1荣誉以 每个 1E你拥有已获得本回合.",,machine
+Firestorm Effigy,RoV,火暴偶像,"奖励： 获得3荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.
+ENERGIZE 1E: 你可以放逐额外的卡牌在你的手牌或弃牌堆.",,machine
+Herald of Doom,RoV,先驱末日,"奖励： 获得6荣誉. 获取或 击败卡牌在中央牌列无需支付费用.
+ENERGIZE 7E: 改为， 获取和 击败所有卡牌在中央牌列无需支付费用.",,machine
+Lagoon Troll,RoV,潟湖巨魔,奖励： 获得2荣誉. 抽一张牌.,,machine
+Mordant Widow,RoV,蚀骨寡妇,"奖励： 获得4荣誉. 以每位对手, 你选择和 摧毁一个神器其控制的.",,machine
+Protean Sea Slug,RoV,多变海蛞蝓,奖励： 获得5荣誉. 每位对手摧毁所有神器s其控制的.,,machine
+Raging Ursine,RoV,暴怒熊,"奖励： 获得3荣誉.
+ENERGIZE 2E: 获得2符文.",,machine
+Serpent Siren,RoV,巨蛇海妖,奖励： 获得1荣誉.,,machine
+"Terrus, Paragon of Strife",RoV,特鲁斯·争斗典范,奖励： 获得5荣誉. 每位对手弃掉随机卡牌从其手牌. 你可以选择卡牌已弃掉以此方式和 将它放置在你的手牌中.,,machine
+Twisted Tyrant,RoV,扭曲暴君,"奖励： 获得6荣誉.
+ENERGIZE 3E: 抽三张牌.",,machine
+Vault Sphinx,RoV,宝库狮身人面,奖励： 获得2荣誉.,,machine
+Dark Energy Shard,DU,黑暗能量碎片,天命： 每位玩家可以放逐一张卡牌在 其弃牌堆.,,machine
+Anointed Askara,DU,涂油阿斯卡拉,"抽一张牌.
+一次本回合, 当你 获取一个英雄或 神器从中央牌列, 将它放置置入你的手牌.",,machine
+Arha Mentor,DU,亚哈导师,"ENERGIZE 2E: 抽一张牌.
+你可以放逐一张卡牌从你的手牌. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置置入你的手牌.",,machine
+Shardfinder Compass,DU,寻晶者罗盘,你可以放逐此牌以 获取所有的 宝藏s在中央牌列.,,machine
+Valiant Ascetic,DU,勇毅苦行僧,你可以放逐此牌以 击败一个怪物以 费用 5战力或更低无需支付费用.,,machine
+"Veya, Handmaiden of Logos",DU,维雅·逻各斯侍女,"选择一项： 获取一个英雄以 费用 6符文或更低无需支付费用, 或击败一个怪物以 费用 6战力或更低无需支付费用.
+ENERGIZE 2E: 改为， 你可以选择两者.",,machine
+Gemcatcher Spirit,DU,捕晶者精魂,"ENERGIZE 2E: 将此牌转化为异界向导. (忽略此牌的其余卡牌之效果.)
+抽一张牌.",,machine
+Otherworldly Guide,DU,异界向导,抽两张牌.,,machine
+"Toric, Devoted Disciple",DU,托里克·虔诚门徒,"ENERGIZE 4E: 将此牌转化为托里克, 飞升者. (忽略此牌的其余卡牌之效果.)
+复制效果的 英雄在中央牌列.",,machine
+"Toric, Ascendant",DU,托里克·飞升者,获取一个英雄无需支付费用和 将它放置置入你的手牌.,,machine
+Dendris the Gladewyrm,DU,登德里斯林间巨虫,"获得2符文, 2战力, 和 2荣誉.
+ENERGIZE 3E: 获得额外的 2符文, 2战力, 和 2荣誉.",,machine
+Gem-Eater Leprechaun,DU,噬晶小矮妖,获得2符文和 2E.,,machine
+"Moken, the Huntmaster",DU,莫肯·猎主,"获得5荣誉.
+At结束时游戏, 莫肯, 猎主之荣誉值 为相等以 数量为宝藏卡牌在 你的牌库.",,machine
+Mosaic Horn,DU,镶嵌号角,"ENERGIZE 2E: 一次本回合, 获得2符文.",,machine
+Raven Siren,DU,乌鸦海妖,"获得1符文.
+充能： 你支付 1符文更低以 每个 1E你拥有已获得本回合下次你获取一个英雄本回合.",,machine
+Honiskrot Tribesman,DU,霍尼斯克洛特部族人,"ENERGIZE 2E: 将此牌转化为霍尼斯克洛特酋长. (忽略此牌的其余卡牌之效果.)
+获得1符文.",,machine
+Honiskrot Chieftain,DU,霍尼斯克洛特酋长,获得3符文.,,machine
+"Jakeb, Cobra Shaman",DU,杰克布·眼镜蛇萨满,"ENERGIZE 4E: 将此牌转化为杰克布, 眼镜蛇王. (忽略此牌的其余卡牌之效果.)
+获得3荣誉.",,machine
+"Jakeb, Cobra King",DU,杰克布·眼镜蛇王,"获得6荣誉.
+当你 获得荣誉从 另一卡牌本回合, 获得两次该 等量的荣誉改为.",,machine
+Charging Chamber,DU,充能室,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1E.",,machine
+Crystalline Monk,DU,水晶僧侣,"获得2符文.
+你可以move宝藏从 其下卡牌在中央牌列以 另一卡牌在中央牌列.",,machine
+Hedron Dredger,DU,多面体挖掘者,"每回合一次，若你控制的三 或更高机械神器, 你可以充能神器你控制的.",,machine
+Replication Drone,DU,复制无人机,你为 视为以 控制额外的机械神器.,,machine
+Scrap Scrabbler,DU,废料翻捡者,"ENERGIZE 2E: 将此牌转化为翻捡小队. (忽略此牌的其余卡牌之效果.)
+获得1符文和 1战力.",,machine
+Scrabbling Squad,DU,翻捡小队,获得2符文和 2战力.,,machine
+Yolothian Monolith,DU,约洛斯巨石,"ENERGIZE 4E: 将此牌转化为约洛克瑞克斯, 守卫和 将它放置置入你的手牌.",,machine
+"Yolocryx, the Guardian",DU,约洛克瑞克斯·守卫,"获得5战力和 额外的 1战力以 每个机械神器你控制的.
+当你 打出机械神器, 你可以将此牌返回从 你的弃牌堆以 你的手牌.",,machine
+Arbiter of the Lost,DU,仲裁者迷失,"获得2E.
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Nightmare Sentinel,DU,梦魇哨卫,"获得2战力.
+下次你击败一个怪物在中央牌列本回合, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Nyxian Ritualist,DU,尼克斯祭仪师,获得3战力和 3E.,,machine
+Riftwalker's Axe,DU,裂隙行者的斧,"ENERGIZE 2E: 一次本回合, 获得2战力.",,machine
+Voidsworn Warrior,DU,誓虚战士,"ENERGIZE 2E: 将此牌转化为誓虚冠军. (忽略此牌的其余卡牌之效果.)
+获得1战力.",,machine
+Voidsworn Champion,DU,誓虚冠军,获得4战力.,,machine
+Azerax of the Black Watch,DU,阿泽拉克斯黑卫,"ENERGIZE 4E: 将此牌转化为阿泽拉克斯, 尼克斯的天选者. (忽略此牌的其余卡牌之效果.)
+获得4战力.
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+"Azerax, Nyx's Chosen",DU,阿泽拉克斯·尼克斯的天选者,"获得6战力.
+你可以放逐任意数量的 卡牌在你的手牌中和/或弃牌堆.",,machine
+Cacklecast Wretch,DU,狂笑施法可怜虫,"若你 拥有已获得 4E或更高本回合, 你可以击败此 无需支付费用.
+奖励： 获得4荣誉.",,machine
+Oxipede,DU,牛蜈,"奖励： 获得2荣誉.
+ENERGIZE 2E: 获得2荣誉.",,machine
+Phasefiend,DU,相位邪魔,奖励： 获得1荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+Plunder Devil,DU,掠夺恶魔,"奖励： 获得5荣誉. 你可以获取一个英雄或 神器以 费用 3符文或更低无需支付费用.
+ENERGIZE 2E: 改为， 你可以获取一个英雄或 神器以 费用 6符文或更低无需支付费用.",,machine
+Smoke Tyrant,DU,烟雾暴君,奖励： 获得4荣誉. 放逐顶部七张卡牌的 传送门牌库.,,machine
+Vault Lich,DU,宝库巫妖,"天命： 当此牌进入中央牌列时, 放逐每个卡牌在中央牌列以 宝藏其下它.",,machine
+Webclaw,DU,网爪,"奖励： 获得3荣誉. 每位对手以 三或更高神器s在打出desroys神器其控制的.
+ENERGIZE 3E: 改为， 每位对手摧毁神器其控制的.",,machine
+"Erabus, the Exiled",DU,埃拉布斯·流放者,"若你打出过黑暗能量碎片本回合, 你支付 2战力更低以 击败此.
+奖励： 将此牌转化为埃拉布斯, 之子的 尼克斯和 将它放置置入你的手牌.",,machine
+"Erabus, Son of Nyx",DU,埃拉布斯·之子尼克斯,击败一个怪物在 虚空区无需支付费用和 将它放置置于其底： 传送门牌库.,,machine
 Militia RU,RU,民兵,获得1战力。,,official-anshashen+variant
 Apprentice RU,RU,学徒,获得1符文。,,official-anshashen+variant
 Mystic RU,RU,秘教士,获得2符文。,,official-anshashen+variant
 Heavy Infantry RU,RU,重装步兵,获得2战力。,,official-anshashen+variant
 Cultist RU,RU,邪教徒,奖励：获得1荣誉。,,official-anshashen+variant
-"Dhartha, the Eternal",RU,"Dhartha, the Eternal",Reveal the top 卡牌 of the center 牌库. ,,draft
-Journeyman Outrider,RU,Journeyman Outrider,获取一个英雄 or 神器 with cost 5符文 或更低 无需支付费用.,,draft
-Neophyte Mentor,RU,Neophyte Mentor,"抽一张牌.
-",,draft
-Sage of Lucid Dreams,,Sage of Lucid Dreams,"Once 本回合, banish a 卡牌 在你的手牌中. ",,draft
-Oziah's Familiar,RU,Oziah's Familiar,"击败一个怪物 with cost 4战力 或更低 无需支付费用.
-",,draft
-Scryer of the Lidless Eye,RU,Scryer of the Lidless Eye,"抽 two 卡牌, then discard a 卡牌. ",,draft
-Disciple of Oziah,RU,Disciple of Oziah,"While this is 在你的手牌中, if you have played another 启迪英雄 本回合, ",,draft
-Scion of Oziah,RU,Scion of Oziah,击败一个怪物 with cost 5战力 或更低 无需支付费用.,,draft
-"Vir, Ascetic Master",RU,"Vir, Ascetic Master","While this is 在你的手牌中, if you have played a 英雄 of every faction 本回合, ",,draft
-"Vir, Ephemeral Guru",RU,"Vir, Ephemeral Guru",获取 all Heroes 在中央牌列 无需支付 their costs ,,draft
-Forgotten Scripture,RU,Forgotten Scripture,"If you have played two of more 启迪英雄es 本回合, ",,draft
-Mantra of True Sight,RU,Mantra of True Sight,每回合一次，你可以抽一张牌.,,draft
-Animus of the Wild,RU,Animus of the Wild,"获得2符文.
-",,draft
-"Cetra, Matron of Stars",RU,"Cetra, Matron of Stars","Once 本回合, acquire a 英雄 无需支付费用. ",,draft
-Everbloom Clique,RU,Everbloom Clique,"获得2荣誉.
-",,draft
-Snapdragon Witch,RU,Snapdragon Witch,"获得1荣誉.
-",,draft
+"Dhartha, the Eternal",RU,达萨·永恒,"展示传送门牌库顶的卡牌. 获取或 击败该 卡牌无需支付费用.
+多重联合： 你可以重复此.",,machine
+Journeyman Outrider,RU,旅者先驱骑手,获取一个英雄或 神器以 费用 5符文或更低无需支付费用.,,machine
+Neophyte Mentor,RU,新入门者导师,"抽一张牌.
+ 下一秘教士或 重装步兵你 打出本回合视为作为派系的 你的choice.",,machine
+Sage of Lucid Dreams,,贤者清明诸梦,"一次本回合, 放逐一张卡牌在你的手牌中. 若你如此做，获取一个英雄以H值至多一 超过该 的被放逐卡牌和 将它放置在你的手牌中.
+多重联合： 你可以重复此.",,machine
+Oziah's Familiar,RU,奥齐亚的使魔,"击败一个怪物以 费用 4战力或更低无需支付费用.
+多重联合： 重复此效果.",,machine
+Scryer of the Lidless Eye,RU,无目之眼占卜者,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 启迪, 返回它 以你的手牌.",,machine
+Disciple of Oziah,RU,之徒·奥齐亚,"当此 为在你的手牌中, 若你 拥有打出过另一启迪英雄本回合, 将此牌转化为后裔· 奥齐亚.
+击败一个怪物以 费用 3战力或更低无需支付费用.",,machine
+Scion of Oziah,RU,后裔·奥齐亚,击败一个怪物以 费用 5战力或更低无需支付费用.,,machine
+"Vir, Ascetic Master",RU,维尔·苦行僧大师,"当此 为在你的手牌中, 若你 拥有打出过英雄的 每个派系本回合, 将此牌转化为维尔, 昙花古鲁.
+获取一个英雄在中央牌列无需支付费用和 将它放置在你的手牌中.",,machine
+"Vir, Ephemeral Guru",RU,维尔·昙花古鲁,获取所有英雄在中央牌列无需支付费用和 放置它们在你的手牌中.,,machine
+Forgotten Scripture,RU,遗忘经文,"若你打出过两 的更多启迪英雄本回合, 将此牌转化为真言的 真正视界.",,machine
+Mantra of True Sight,RU,真言真正视界,每回合一次，你可以抽一张牌.,,machine
+Animus of the Wild,RU,魂魄荒野,"获得2符文.
+你支付 1符文更低下次你获取一个英雄本回合.",,machine
+"Cetra, Matron of Stars",RU,星辰主母塞特拉,"一次本回合, 获取一个英雄无需支付费用. 将它放置放到你的牌库顶.
+多重联合： 你可以重复此.",,machine
+Everbloom Clique,RU,永绽小圈子,"获得2荣誉.
+多重联合： 获得1荣誉.",,machine
+Snapdragon Witch,RU,金鱼草女巫,"获得1荣誉.
+抽一张牌.
+若你 拥有更多H于每个其他玩家, 抽额外的卡牌.",,machine
 Wolf Shaman RU,RU,狼萨满,获得1符文。抽一张牌。,,official-anshashen+variant
-Disciple of Cetra,RU,Disciple of Cetra,"While this is 在你的手牌中, if you have played another 生命英雄 本回合, ",,draft
-Scion of Cetra,RU,Scion of Cetra,获得2符文 and 2荣誉.,,draft
-"Remus, Pack Guardian",RU,"Remus, Pack Guardian","While this is 在你的手牌中, if you have gained 3荣誉 或更高 本回合, ",,draft
-"Remus, Wild Emissary",RU,"Remus, Wild Emissary","获得3符文.
-",,draft
-Druid's Wreath,RU,Druid's Wreath,"If you have played two 或更高 生命英雄es 本回合, ",,draft
-Verdant Crown,RU,Verdant Crown,每回合一次，获得2荣誉.,,draft
-Air Support Squadron,RU,Air Support Squadron,"每回合一次，when you acquire a 机械 卡牌, 你可以put it 在你的手牌中.",,draft
-Defense Generator,RU,Defense Generator,"每回合一次，when you acquire a 机械 卡牌, 获得2战力.",,draft
-Hedron Watchtower,RU,Hedron Watchtower,"每回合一次，when you acquire a 机械 卡牌, 获得H equal to that 卡牌's H value.",,draft
-Matron of Discovery,RU,Matron of Discovery,"获得2符文.
-",,draft
-Upgrade Foundry,RU,Upgrade Foundry,"每回合一次，when you acquire a 机械 卡牌, 抽两张牌.",,draft
-Workshop Gargoyle,RU,Workshop Gargoyle,"每回合一次，when you acquire a 机械 卡牌, 获得1荣誉.",,draft
-Disciple of Euloth,RU,Disciple of Euloth,"While this is 在你的手牌中, if you have played another 机械 英雄 本回合, ",,draft
-Scion of Euloth,RU,Scion of Euloth,获得2符文 and 2战力.,,draft
-"Alset, Monk Prodigy",RU,"Alset, Monk Prodigy","While this is 在你的手牌中, if you control 2 或更高 Constructs, ",,draft
-"Alset, Reactor Savant",RU,"Alset, Reactor Savant","获得4符文.
-",,draft
-Secluded Laboratory,RU,Secluded Laboratory,"If you have played two 或更高 机械 Heroes, ",,draft
-Zero Point Reactor,RU,Zero Point Reactor,每回合一次，获得2符文.,,draft
-Black Watch Exemplar,RU,Black Watch Exemplar,"获得3战力.
-",,draft
-Deathdealer Noble,RU,Deathdealer Noble,"获得2战力.
-",,draft
-Shadow Stalker,RU,Shadow Stalker,"你可以banish a 卡牌 在你的弃牌堆.
-",,draft
-Spike Vixen RU,RU,Spike Vixen,"获得1战力.
-",,draft
-Disciple of Emri,RU,Disciple of Emri,"While this is 在你的手牌中, if you have played another 虚空英雄 本回合, ",,draft
-Scion of Emri,RU,Scion of Emri,"获得3战力.
-",,draft
-"Emri, the Unmaker",RU,"Emri, the Unmaker","While this is 在你的手牌中, if there are 8 或更高 Monsters in the 虚空区, ",,draft
-"Emri, Demonsbane",RU,"Emri, Demonsbane","获得5战力.
-",,draft
-Initiate's Gauntlets,RU,Initiate's Gauntlets,"If you have played two 或更高 虚空英雄es 本回合, ",,draft
-Clutch of Darkness,RU,Clutch of Darkness,每回合一次，获得2战力.,,draft
-Canon Templar,RU,Canon Templar,"获得2符文.
-",,draft
-Deathbound Druid,RU,Deathbound Druid,"获得3荣誉.
-",,draft
-Nightmare Delver,RU,Nightmare Delver,"获得2符文.
-",,draft
-Timestream Seer,RU,Timestream Seer,"获得2符文.
-",,draft
-Voidforged Paladin,RU,Voidforged Paladin,"获得2战力.
-",,draft
-Wildgear Druid,RU,Wildgear Druid,"获得2符文.
-",,draft
-Foundation Burrower,RU,Foundation Burrower,REWARD: 获得1荣誉. 你可以banish a 卡牌 在中央牌列.,,draft
-Sadistic Giant,RU,Sadistic Giant,REWARD: 获得5荣誉.,,draft
-Sower of Betrayal,RU,Sower of Betrayal,REWARD: 获得3荣誉. Name a faction. ,,draft
-Sower of Discontent,RU,Sower of Discontent,REWARD: 获得2荣誉. Name a faction. ,,draft
-Terrorizing Fiend,RU,Terrorizing Fiend,REWARD: 获得2荣誉. 抽两张牌.,,draft
-Wailing Spectre,RU,Wailing Spectre,REWARD: 获得4荣誉. 你可以banish up to two cards 在你的弃牌堆.,,draft
-Borderland Nihilist,RU,Borderland Nihilist,REWARD: 转化 this into Borderland Mercenary and acquire it.,,draft
-Borderland Mercenary,RU,Borderland Mercenary,"抽一张牌.
-",,draft
-Adayu the Tormented,RU,Adayu the Tormented,REWARD: 转化 this into Adayu the Serene and acquire it.,,draft
-Adayu the Serene,RU,Adayu the Serene,"This 英雄 counts as all factions.
-",,draft
-Eye of Potential,,Eye of Potential,每回合一次，你可以banish a 卡牌 在你的手牌中. ,,draft
-"Cetra, Benefactor of All",,"Cetra, Benefactor of All","Starting with you, and then going in turn order, ",,draft
-Nyxian Corruptor,,Nyxian Corruptor,"获得3战力.
-",,draft
-Sadistic Laboratory,,Sadistic Laboratory,"每回合一次，获得1战力.
-",,draft
-Foul Replicant,,Foul Replicant,"REWARD: 获得4荣誉.
-",,draft
-Dhartha,DoC,Dhartha,"+1: Whenever you acquire or defeat an 启迪 卡牌 from the 中央牌列, 获得1rep.
-",,draft
-"Dhartha, Master of Sight",DoC,"Dhartha, Master of Sight",你可以banish this or a 卡牌 在你的手牌中. ,,draft
-Nairi,DoC,Nairi,"+1: Whenever you acquire or defeat an 生命 卡牌 from the 中央牌列, 获得1rep.
-",,draft
-"Nairi, Wild Queen",DoC,"Nairi, Wild Queen","获得1荣誉. 抽一张牌.
-",,draft
-Kor,DoC,Kor,"+1: Whenever you acquire or defeat an 机械 卡牌 from the 中央牌列, 获得1rep.
-",,draft
-"Kor, the Ironmind",DoC,"Kor, the Ironmind","获得2符文 and 2战力.
-",,draft
-Sadranis,DoC,Sadranis,"+1: Whenever you acquire or defeat an 虚空区 卡牌 from the 中央牌列, 获得1rep.
-",,draft
-"Sadranis, Dark Savant",DoC,"Sadranis, Dark Savant","抽两张牌, then discard a 卡牌. ",,draft
-Seer of Days Past,DoC,Seer of Days Past,"When you acquire this, 集结: 启迪.
-",,draft
-Daybreak Askara,DoC,Daybreak Askara,Copy the effect of a 英雄 打出 本回合. ,,draft
-Austere Sage,DoC,Austere Sage,"抽一张牌.
-",,draft
-Serene Ascetic,DoC,Serene Ascetic,"When you acquire this, 你可以put it 放到你的牌库顶.
-",,draft
-"Surya, Light's Sword",DoC,"Surya, Light's Sword",击败一个怪物 在中央牌列 无需支付费用.,,draft
-Mantra of Renewal,DoC,Mantra of Renewal,"每回合一次，if you have played two 或更高 启迪 cards (including this one), 抽一张牌.",,draft
-Premonition Bell,DoC,Premonition Bell,你可以destroy this to copy the effect of a 英雄 在中央牌列 with cost 5符文 或更低.,,draft
-Pack Leader,DoC,Pack Leader,"When you acquire this, 集结: 生命.
-",,draft
-Ogo Courier,DoC,Ogo Courier,"获得2符文.
-",,draft
-Moonveil Clique,DoC,Moonveil Clique,"获得2符文.
-",,draft
-Emissary of Dawn,DoC,Emissary of Dawn,获取一个英雄 无需支付费用. ,,draft
-Flytrap Staff,DoC,Flytrap Staff,"每回合一次，if you have played two 或更高 生命 cards (including this one), 获得2荣誉.",,draft
-Starlight Sanctum,DoC,Starlight Sanctum,"每回合一次，获得2符文.
-",,draft
-Overhaul Cleric,DoC,Overhaul Cleric,"When you acquire this, 集结: 机械.
-",,draft
-Prospector Scout,DoC,Prospector Scout,"获得2符文.
-",,draft
-"Adam, Builder Adept",DoC,"Adam, Builder Adept","When you acquire this, 你可以acquire a 神器 在中央牌列 无需支付费用.
-",,draft
-Spark Bug,DoC,Spark Bug,"每回合一次，if you have played two 或更高 机械 cards (including this one), 获得2符文.",,draft
-Gnome Repairbot,DoC,Gnome Repairbot,每回合一次，你可以put a 机械神器 from your 弃牌堆 放到你的牌库顶.,,draft
-Plasma Cannon,DoC,Plasma Cannon,"每回合一次，if you control four 或更高 机械神器s, ",,draft
-Conversion Port,DoC,Conversion Port,你可以treat all Constructs as though they are all factions.,,draft
-Emri's Sting,DoC,Emri's Sting,"每回合一次，获得2战力.
-",,draft
-Undaunted Scout,DoC,Undaunted Scout,"When you acquire this, 集结: 虚空区.
-",,draft
-Maniacal Crusher,DoC,Maniacal Crusher,"获得2战力.
-",,draft
-Riftgate Conjuror,DoC,Riftgate Conjuror,"获得3战力.
-",,draft
-Shade's Bargain,DoC,Shade's Bargain,"每回合一次，if you have played two 或更高 虚空区 cards (including this one), 获得2战力.",,draft
-Morbid Hammer,DoC,Morbid Hammer,"每回合一次，获得1战力.
-",,draft
-Rootscryer,DoC,Rootscryer,Reveal the top 卡牌 of your 牌库 and put it into your 手牌. ,,draft
-Canopy Sanctuary,DoC,Canopy Sanctuary,每回合一次，你可以reveal the top 卡牌 of your 牌库 and put it 在你的手牌中. ,,draft
-Surge Protector,DoC,Surge Protector,"Choose one: 获取一个Contruct with cost 5符文 或更低 无需支付费用, ",,draft
-Library Familiar,DoC,Library Familiar,"每回合一次，when you 打出 an 启迪 神器 or a 机械神器 (including this one), ",,draft
-Guide of Lost Souls,DoC,Guide of Lost Souls,你可以banish a 卡牌 在你的手牌或弃牌堆. ,,draft
-Riftdrake Rider,DoC,Riftdrake Rider,"抽两张牌.
-",,draft
-Wildgear Sower,DoC,Wildgear Sower,"获得2符文.
-",,draft
-Genesis Capsule,DoC,Genesis Capsule,"每回合一次，when you acquire a 生命英雄 or 机械神器, ",,draft
-Shepherd of the Lost,DoC,Shepherd of the Lost,"获得2符文.
-",,draft
-Muse of Rebirth,DoC,Muse of Rebirth,"获得2符文.
-",,draft
-Clockwork Sentry,DoC,Clockwork Sentry,"获得2战力.
-",,draft
-Riftwatch Turret,DoC,Riftwatch Turret,"每回合一次，获得1战力.
-",,draft
-Corrupted Sage,DoC,Corrupted Sage,"REWARD: 获得2荣誉. 抽一张牌.
-",,draft
-Betrayed Templar,DoC,Betrayed Templar,REWARD: 获得5荣誉. ,,draft
-Thorned Charger,DoC,Thorned Charger,REWARD: 获得3荣誉. ,,draft
-Cult of the False Circle,DoC,Cult of the False Circle,REWARD: 获得5荣誉. ,,draft
-Rejected Prototype,DoC,Rejected Prototype,REWARD: 获得3荣誉. ,,draft
-Exhaust Lurker,DoC,Exhaust Lurker,REWARD: 获得5荣誉. ,,draft
-Deathfinder,DoC,Deathfinder,REWARD: 获得2荣誉. ,,draft
-Wild Riftdrake,DoC,Wild Riftdrake,REWARD: 获得4荣誉. ,,draft
-"Aranyx, the Glutton",DoC,"Aranyx, the Glutton","REWARD: 获得4荣誉. 获得7战力.
-",,draft
-"Xeron, Lord of Deofol",DoC,"Xeron, Lord of Deofol","REWARD: 获得6荣誉.
-",,draft
-Ephemeral Monk,DS,Ephemeral Monk,"抽 2 cards, then banish this.",,draft
-Auspicious Askara,DS,Auspicious Askara,"抽一张牌.
-",,draft
-Nocturnal Seer,DS,Nocturnal Seer,"抽一张牌.
-",,draft
-Arha Sensei DS,DS,Arha Sensei,放逐一张卡牌 在你的手牌中. ,,draft
-Garden Attendant,DS,Garden Attendant,"获得1洞察.
-",,draft
-Templar Dragoon,DS,Templar Dragoon,"击败一个怪物 with cost 4 或更低 无需支付费用, ",,draft
-Pasythea's Ward,DS,Pasythea's Ward,每回合一次，获得1洞察.,,draft
-"Loa, Sleeping Dragon",DS,"Loa, Sleeping Dragon","获得3洞察.
-",,draft
-Dreamshaper Jesse,DS,Dreamshaper Jesse,获取 the top 卡牌 of the Dream 牌库 无需支付费用.,,draft
-Unbound Emissary,DS,Unbound Emissary,"你可以spend I as though it was R to acquire this.
-",,draft
-Ephemeral Druid,DS,Ephemeral Druid,"获得5荣誉, then banish this.",,draft
-Alluring Shaman,DS,Alluring Shaman,"获得1符文.
-",,draft
-Verdant Hatchling,DS,Verdant Hatchling,"获得2荣誉.
-",,draft
-Flytrap Fairy,DS,Flytrap Fairy,"获得1符文, 1荣誉, and 1洞察.",,draft
-Dreamwillow Druids,DS,Dreamwillow Druids,Choose one: acquire a 英雄 with cost 5符文 或更低 无需支付费用; ,,draft
-Lunar Pack,DS,Lunar Pack,"获得2符文.
-",,draft
-Dreamwillow,DS,Dreamwillow,"每回合一次，获得1符文.
-",,draft
-"Raka, Dreamtender",DS,"Raka, Dreamtender","获得5荣誉.
-",,draft
-"Verdagris, the Wild",DS,"Verdagris, the Wild","获得4符文.
-",,draft
-Ephemeral Inventor,DS,Ephemeral Inventor,"获得3符文, then banish this.",,draft
-Planar Aperture,DS,Planar Aperture,"When you acquire a 机械神器, ",,draft
-ID34 Detector,DS,ID34 Detector,每回合一次，when you 打出 a 机械神器 ,,draft
-Synapse Spire,DS,Synapse Spire,"每回合一次，when you 打出 a 机械神器 (including this one), ",,draft
-Hedron Berserker,DS,Hedron Berserker,获得3符文 or 3战力. ,,draft
-Deluxe Capacitor,DS,Deluxe Capacitor,"你可以treat Dream Constructs as though they are 机械神器s.
-",,draft
-TH07 Tank,DS,TH07 Tank,每回合一次，你可以pay 1洞察 to 获得3符文. ,,draft
-Inquarry Hydra,DS,Inquarry Hydra,每回合一次，获得1洞察 for each 机械 Contruct you control (including this one).,,draft
-Chaos Cannon,DS,Chaos Cannon,每回合一次，你可以pay 5洞察 to 获得10战力. ,,draft
-Ephemeral Ritualist,DS,Ephemeral Ritualist,"获得4战力, then banish this.",,draft
-Caustic Conjurer,DS,Caustic Conjurer,"获得1洞察.
-",,draft
-Dreamkiller,DS,Dreamkiller,获得2战力 and 1洞察.,,draft
-Loam Summoner,DS,Loam Summoner,"Add a 卡牌 to your 梦境.
-",,draft
-Fear Wielder,DS,Fear Wielder,"获得3战力.
-",,draft
-Fatality Blades,DS,Fatality Blades,"每回合一次，获得1战力.
-",,draft
-Nightmare Harvester,DS,Nightmare Harvester,获得4战力. ,,draft
-"Emri, Shadowslayer",DS,"Emri, Shadowslayer","获得5战力.
-",,draft
-Rust Gremlin,DS,Rust Gremlin,REWARD: 获得1荣誉. 抽一张牌.,,draft
-Thieving Gryphon,DS,Thieving Gryphon,REWARD: 获得2荣誉. 获得2符文.,,draft
-Tidestalker,DS,Tidestalker,REWARD: 获得4荣誉.,,draft
-Fen Maw,DS,Fen Maw,REWARD: 获得3荣誉. 获得2洞察.,,draft
-Trinket Harpy,DS,Trinket Harpy,REWARD: 获得3荣誉. Add a 卡牌 to your 梦境.,,draft
-Deluding Djinn,DS,Deluding Djinn,"REWARD: 获得5荣誉.
-",,draft
-Hulking Crab,DS,Hulking Crab,REWARD: 获得4荣誉. ,,draft
-Puppetmaster,DS,Puppetmaster,REWARD: 获得4荣誉. ,,draft
-Fleeting Hope Djinn,DS,Fleeting Hope Djinn,REWARD: 获得5荣誉. ,,draft
-Nightmare Tyrant,DS,Nightmare Tyrant,REWARD: 获得5荣誉. ,,draft
-Engulfing Kraken,DS,Engulfing Kraken,REWARD: 获得6荣誉. ,,draft
-"Nilus, the Despair",DS,"Nilus, the Despair",REWARD: 获得7荣誉. ,,draft
-Imaginative Matron,DS,Imaginative Matron,"抽一张牌, then discard a 卡牌.
-",,draft
-Reverie Muse,DS,Reverie Muse,"获得1符文.
-",,draft
-Brainstorm Sentry,DS,Brainstorm Sentry,获得1符文 and 1战力 for each 机械神器 you control.,,draft
-Bringer of Despair,DS,Bringer of Despair,"获得2战力.
-",,draft
-"Pasythea, the Aegis",DS,"Pasythea, the Aegis",This 英雄 counts as all factions. ,,draft
-Chronicle of Vigil,DS,Chronicle of Vigil,每回合一次，获得1荣誉 for each faction among Constructs you control. ,,draft
-Vigil's Resolve,DS,Vigil's Resolve,"When you 打出 a 秘教士, 获得1符文.
-",,draft
-Askaran Armor,DS,Askaran Armor,"每回合一次，when you acquire a 卡牌 from your 梦境, ",,draft
-Yggdrasil Canopy,DS,Yggdrasil Canopy,"When you would 获得H without defeating a 怪物, ",,draft
-Dream Lab,DS,Dream Lab,你可以pay 1符文 less to acquire Constructs 在中央牌列.,,draft
-Arbiter's Censer,DS,Arbiter's Censer,"When you defeat a 怪物 在中央牌列, 获得2荣誉.",,draft
-Ashes to Ashes,DS,Ashes to Ashes,放逐 all cards 在中央牌列.,,draft
-Dust to Dust,DS,Dust to Dust,Destroy all Constructs your opponents control.,,draft
-Armistice,DS,Armistice,Each player discards their 手牌 and draws five cards.,,draft
-Wicked End,DS,Wicked End,击败一个怪物 在中央牌列 无需支付费用.,,draft
-Test of Faith,DS,Test of Faith,Reveal the top 卡牌 of the center 牌库. ,,draft
-Aura of the Askara,DS,Aura of the Askara,If you have played two 启迪英雄es ,,draft
-Lunar Embrace,DS,Lunar Embrace,This turn 你可以spend R as though it was P.,,draft
-Cetra's Respite,DS,Cetra's Respite,获取一个英雄 在中央牌列 无需支付费用.,,draft
-Nairi's Blessing,DS,Nairi's Blessing,"If you have played three 或更高 生命英雄es 本回合, ",,draft
-Technological Leap,DS,Technological Leap,获取 all Constructs 在中央牌列 无需支付 their cost.,,draft
-Order of the Gear,DS,Order of the Gear,"If you control four 或更高 Constructs, ",,draft
-Stalk the Shadows,DS,Stalk the Shadows,This turn 你可以defeat Monsters in the void ,,draft
-Call of Darkness,DS,Call of Darkness,放逐 up to 5 cards 在你的手牌或弃牌堆.,,draft
-Berserker Frenzy,DS,Berserker Frenzy,"If you have defeated three 或更高 Monsters 在中央牌列 本回合, ",,draft
+Disciple of Cetra,RU,之徒·塞特拉,"当此 为在你的手牌中, 若你 拥有打出过另一生命英雄本回合, 将此牌转化为后裔· 塞特拉.
+获得1符文和 1荣誉.",,machine
+Scion of Cetra,RU,后裔·塞特拉,获得2符文和 2荣誉.,,machine
+"Remus, Pack Guardian",RU,雷穆斯·兽群守卫,"当此 为在你的手牌中, 若你 拥有已获得 3荣誉或更高本回合, 将此牌转化为雷穆斯, 荒野使者.
+获得3符文.",,machine
+"Remus, Wild Emissary",RU,雷穆斯·荒野使者,"获得3符文.
+你可以花费R作为穿过它 曾是P本回合.",,machine
+Druid's Wreath,RU,德鲁伊花环,"若你打出过两 或更高生命英雄本回合, 将此牌转化为翠绿冠冕.",,machine
+Verdant Crown,RU,翠绿冠冕,每回合一次，获得2荣誉.,,machine
+Air Support Squadron,RU,空中支援中队,"每回合一次，当你 获取机械卡牌, 你可以将它放置在你的手牌中.",,machine
+Defense Generator,RU,防御发生器,"每回合一次，当你 获取机械卡牌, 获得2战力.",,machine
+Hedron Watchtower,RU,多面体瞭望塔,"每回合一次，当你 获取机械卡牌, 获得H相等以 该卡牌之H值.",,machine
+Matron of Discovery,RU,发现主母,"获得2符文.
+多重联合： 获得1符文.",,machine
+Upgrade Foundry,RU,升级铸造厂,"每回合一次，当你 获取机械卡牌, 抽两张牌.",,machine
+Workshop Gargoyle,RU,工坊石像鬼,"每回合一次，当你 获取机械卡牌, 获得1荣誉.",,machine
+Disciple of Euloth,RU,之徒·尤洛斯,"当此 为在你的手牌中, 若你 拥有打出过另一机械英雄本回合, 将此牌转化为后裔· 尤洛斯.
+获得1符文和 1战力.",,machine
+Scion of Euloth,RU,后裔·尤洛斯,获得2符文和 2战力.,,machine
+"Alset, Monk Prodigy",RU,阿尔塞特·僧侣神童,"当此 为在你的手牌中, 若你控制的 2 或更高神器s, 将此牌转化为阿尔塞特, 反应堆学者.
+获得3符文.",,machine
+"Alset, Reactor Savant",RU,阿尔塞特·反应堆学者,"获得4符文.
+当你 获取神器本回合, 你可以将它放置进入战场.",,machine
+Secluded Laboratory,RU,隐秘实验室,"若你打出过两 或更高机械英雄, 将此牌转化为零 点反应堆.",,machine
+Zero Point Reactor,RU,零点反应堆,每回合一次，获得2符文.,,machine
+Black Watch Exemplar,RU,黑卫典范,"获得3战力.
+多重联合： 你可以放逐一张卡牌在你的弃牌堆.",,machine
+Deathdealer Noble,RU,死神贵族,"获得2战力.
+多重联合： 获得1战力.",,machine
+Shadow Stalker,RU,暗影潜行者,"你可以放逐一张卡牌在你的弃牌堆.
+抽一张牌.",,machine
+Spike Vixen RU,RU,尖刺雌狐,获得1战力。抽一张牌。,,community+variant
+Disciple of Emri,RU,之徒·艾姆瑞,"当此 为在你的手牌中, 若你 拥有打出过另一虚空英雄本回合, 将此牌转化为后裔· 艾姆瑞.
+获得1战力.
+你可以放逐一张卡牌在你的弃牌堆.",,machine
+Scion of Emri,RU,后裔·艾姆瑞,"获得3战力.
+你可以放逐一张卡牌在你的弃牌堆.",,machine
+"Emri, the Unmaker",RU,解构者艾姆瑞,"当此 为在你的手牌中, 若那里为 8 或更高怪物在 虚空区, 将此牌转化为恶魔克星艾姆瑞.
+获得4战力.",,machine
+"Emri, Demonsbane",RU,恶魔克星艾姆瑞,"获得5战力.
+此回合, 你可以击败怪物在 虚空区作为穿过他们处于在中央牌列. 放置怪物被击败以此方式置于其底： 传送门牌库.",,machine
+Initiate's Gauntlets,RU,新兵的护手,"若你打出过两 或更高虚空英雄本回合, 将此牌转化为黑暗之握.",,machine
+Clutch of Darkness,RU,黑暗之握,每回合一次，获得2战力.,,machine
+Canon Templar,RU,圣典圣殿武士,"获得2符文.
+你可以击败一个怪物以P费用低于或 相等以R费用的 神器你控制的.",,machine
+Deathbound Druid,RU,缚死德鲁伊,"获得3荣誉.
+你可以放逐一张卡牌在你的弃牌堆.",,machine
+Nightmare Delver,RU,梦魇深掘者,"获得2符文.
+若你控制的两 或更高神器s, 你可以放逐一张卡牌在你的弃牌堆.",,machine
+Timestream Seer,RU,时流预言者,"获得2符文.
+你可以放逐一张卡牌在中央牌列.",,machine
+Voidforged Paladin,RU,虚空锻圣骑士,"获得2战力.
+ 首先次 你击败一个怪物在中央牌列本回合, 抽两张牌.",,machine
+Wildgear Druid,RU,野性齿轮德鲁伊,"获得2符文.
+若你控制的两 或更高神器s, 获得2荣誉.",,machine
+Foundation Burrower,RU,根基钻地者,奖励： 获得1荣誉. 你可以放逐一张卡牌在中央牌列.,,machine
+Sadistic Giant,RU,虐杀巨人,奖励： 获得5荣誉.,,machine
+Sower of Betrayal,RU,播种者背叛,奖励： 获得3荣誉. 命名派系. 获得额外的 2荣誉以 每个英雄的 该派系你 拥有打出过本回合.,,machine
+Sower of Discontent,RU,播种者不满,奖励： 获得2荣誉. 命名派系. 获得额外的 1荣誉以 每个英雄的 该派系你 拥有打出过本回合.,,machine
+Terrorizing Fiend,RU,威吓邪魔,奖励： 获得2荣誉. 抽两张牌.,,machine
+Wailing Spectre,RU,哀嚎幽灵,奖励： 获得4荣誉. 你可以放逐至多两 卡牌在你的弃牌堆.,,machine
+Borderland Nihilist,RU,边地虚无者,奖励： 将此牌转化为边地佣兵和 获取它.,,machine
+Borderland Mercenary,RU,边地佣兵,"抽一张牌.
+命名派系. 此英雄视为作为该 派系本回合.",,machine
+Adayu the Tormented,RU,阿达尤受折磨,奖励： 将此牌转化为阿达尤宁静和 获取它.,,machine
+Adayu the Serene,RU,阿达尤宁静,"此英雄视为作为所有派系.
+获得1符文, 1战力和 1荣誉. 抽一张牌.
+多重联合： 获得1符文以 每个机械英雄, 1战力以 每个虚空英雄,1荣誉以 每个生命英雄, 和抽一张牌以 每个启迪英雄你 打出或 拥有打出过本回合.",,machine
+Eye of Potential,,潜能之眼,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
+"Cetra, Benefactor of All",,万民之恩塞特拉,"从你开始, 和然后going在回合秩序, 每位玩家获取英雄无需支付费用. 英雄已获取以此方式为 放置在 顶部的 其拥有者' decks.",,machine
+Nyxian Corruptor,,尼克斯腐蚀者,"获得3战力.
+你可以花费R视为P本回合.",,machine
+Sadistic Laboratory,,虐杀实验室,"每回合一次，获得1战力.
+当你 击败一个怪物在 中央牌列, 放逐任意怪物其下此 和放置被击败怪物其下此. 你可以击败怪物其下此 视为在中央牌列. 若此 离开打出, 放逐任意monsters其下此.",,machine
+Foul Replicant,,污秽复制体,"奖励： 获得4荣誉.
+ONGOING战利品： 每回合一次，选择神器你控制的. 此获得text的所选神器以 本回合.",,machine
+Dhartha,DoC,达萨,"+1: 每当你 获取或 击败启迪卡牌从中央牌列, 获得1rep.",,machine
+"Dhartha, Master of Sight",DoC,达萨·大师视界,你可以放逐此牌或 卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
+Nairi,DoC,奈莉,"+1: 每当你 获取或 击败生命卡牌从中央牌列, 获得1rep.",,machine
+"Nairi, Wild Queen",DoC,奈莉·荒野女王,"获得1荣誉. 抽一张牌.
+联合： 获得1荣誉. 抽一张牌.",,machine
+Kor,DoC,科尔,"+1: 每当你 获取或 击败机械卡牌从中央牌列, 获得1rep.",,machine
+"Kor, the Ironmind",DoC,科尔·铁心,"获得2符文和 2战力.
+若你控制的两 或更高神器s, 抽一张牌.",,machine
+Sadranis,DoC,萨德拉尼斯,"+1: 每当你 获取或 击败虚空卡牌从中央牌列, 获得1rep.",,machine
+"Sadranis, Dark Savant",DoC,萨德拉尼斯·黑暗学者,"抽两张牌, 然后弃掉卡牌. 你可以放逐一张卡牌在你的弃牌堆.",,machine
+Seer of Days Past,DoC,预言者往日过去,"当你 获取此, 集结: 启迪.
+抽一张牌. 若你 拥有8rep或更高, 抽额外的卡牌.",,machine
+Daybreak Askara,DoC,破晓阿斯卡拉,"复制效果的 英雄打出本回合. 若英雄曾是启迪, 复制该 英雄之效果额外的次. 此效果不能是 被复制.",,machine
+Austere Sage,DoC,严苛贤者,"抽一张牌.
+你可以放逐一张卡牌在中央牌列, 然后集结: 启迪.",,machine
+Serene Ascetic,DoC,宁静苦行僧,"当你 获取此, 你可以将它放置放到你的牌库顶.
+抽两张牌.",,machine
+"Surya, Light's Sword",DoC,苏尔亚·光明的剑,"击败一个怪物在中央牌列无需支付费用.若它 费用 7战力或更高, 拿取额外回合在此之后.",,machine
+Mantra of Renewal,DoC,真言更新,"每回合一次，若你 拥有打出过两 或更高启迪卡牌 (包括此牌一), 抽一张牌.",,machine
+Premonition Bell,DoC,预感钟,你可以摧毁此 以复制效果的 英雄在中央牌列以 费用 5符文或更低.,,machine
+Pack Leader,DoC,兽群首领,"当你 获取此, 集结: 生命.
+获得2符文.
+你可以花费R视为战力以 击败生命怪物本回合.",,machine
+Ogo Courier,DoC,奥戈信使,"获得2符文.
+下次你获取一个英雄在中央牌列, 集结: 生命.",,machine
+Moonveil Clique,DoC,月纱小圈子,"获得2符文.
+联合： At结束时回合, 放置此 在你的手牌中而非你的弃牌堆.",,machine
+Emissary of Dawn,DoC,使者黎明,获取一个英雄无需支付费用. 获得H相等以 其H值.,,machine
+Flytrap Staff,DoC,捕蝇草法杖,"每回合一次，若你 拥有打出过两 或更高生命卡牌 (包括此牌一), 获得2荣誉.",,machine
+Starlight Sanctum,DoC,星光圣所,"每回合一次，获得2符文.
+每回合一次，当你 获取一个英雄在中央牌列, 你可以获取一个英雄的 相等或更低er费用无需支付费用.",,machine
+Overhaul Cleric,DoC,大修神职者,"当你 获取此, 集结: 机械.
+获得2符文.
+若你控制的两 或更高神器s, 获得额外的 1符文.",,machine
+Prospector Scout,DoC,探矿者斥候,"获得2符文.
+下次你获取神器在中央牌列本回合, 集结: 机械.",,machine
+"Adam, Builder Adept",DoC,亚当·建造者能手,"当你 获取此, 你可以获取神器在中央牌列无需支付费用.
+获得4符文.",,machine
+Spark Bug,DoC,火花虫,"每回合一次，若你 拥有打出过两 或更高机械卡牌 (包括此牌一), 获得2符文.",,machine
+Gnome Repairbot,DoC,侏儒修理机,每回合一次，你可以放置机械神器从 你的弃牌堆放到你的牌库顶.,,machine
+Plasma Cannon,DoC,等离子加农,"每回合一次，若你控制的四 或更高机械神器, 你可以获取或 击败任意卡牌在中央牌列无需支付费用.",,machine
+Conversion Port,DoC,转化端口,你可以将所有神器s作为如同他们为 所有派系.,,machine
+Emri's Sting,DoC,艾姆瑞的毒刺,"每回合一次，获得2战力.
+当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Undaunted Scout,DoC,无畏斥候,"当你 获取此, 集结: 虚空.
+获得2战力.",,machine
+Maniacal Crusher,DoC,狂乱粉碎者,"获得2战力.
+下次你击败一个怪物在中央牌列本回合, 集结: 虚空.",,machine
+Riftgate Conjuror,DoC,裂隙门咒术师,"获得3战力.
+下次你击败虚空怪物本回合, 获得其reward额外的次.",,machine
+Shade's Bargain,DoC,暗影交易,"每回合一次，若你 拥有打出过两 或更高虚空卡牌 (包括此牌一), 获得2战力.",,machine
+Morbid Hammer,DoC,病态锤,"每回合一次，获得1战力.
+当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Rootscryer,DoC,根卜者,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为启迪或 生命, 获得3荣誉.",,machine
+Canopy Sanctuary,DoC,树冠圣所,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为启迪或 生命, 获得3荣誉.",,machine
+Surge Protector,DoC,浪涌保护者,"选择一项： 获取一个神器以 费用 5符文或更低无需支付费用, 或击败一个怪物以 费用 5战力或更低无需支付费用.",,machine
+Library Familiar,DoC,图书馆使魔,"每回合一次，当你 打出启迪神器或 机械神器 (包括此牌一), 抽一张牌.",,machine
+Guide of Lost Souls,DoC,迷途灵魂向导,你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,machine
+Riftdrake Rider,DoC,裂隙龙兽骑手,"抽两张牌.
+你可以放逐至多两 卡牌在你的手牌或弃牌堆.",,machine
+Wildgear Sower,DoC,野性齿轮播种者,"获得2符文.
+获得1荣誉以 每个派系之中神器s你的控制. (派系为启迪, 生命, 机械和 虚空).",,machine
+Genesis Capsule,DoC,创世舱,"每回合一次，当你 获取生命英雄或 机械神器, 你可以将它放置放到你的牌库顶.",,machine
+Shepherd of the Lost,DoC,牧者迷失,"获得2符文.
+若此 为被放逐从你的手牌或 弃牌堆, 获得5荣誉.",,machine
+Muse of Rebirth,DoC,缪斯重生,"获得2符文.
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Clockwork Sentry,DoC,发条哨兵,"获得2战力.
+若你控制的两 或更高神器s, 获得额外的 2战力.",,machine
+Riftwatch Turret,DoC,裂隙守望炮塔,"每回合一次，获得1战力.
+每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力.",,machine
+Corrupted Sage,DoC,腐化贤者,"奖励： 获得2荣誉. 抽一张牌.
+集结: 启迪.",,machine
+Betrayed Templar,DoC,被弃圣殿武士,奖励： 获得5荣誉. 你可以击败一个怪物在中央牌列以 费用 5战力或更低无需支付费用.,,machine
+Thorned Charger,DoC,棘刺冲锋者,"奖励： 获得3荣誉. 你可以放置英雄从 你的弃牌堆放到你的牌库顶.
+集结: 生命.",,machine
+Cult of the False Circle,DoC,邪教虚假环,奖励： 获得5荣誉. 你可以获取一个英雄以 费用 5符文或更低无需支付费用.,,machine
+Rejected Prototype,DoC,废弃原型,"奖励： 获得3荣誉. 你支付 3符文更低下次你获取神器本回合.
+集结: 机械.",,machine
+Exhaust Lurker,DoC,废气潜伏者,奖励： 获得5荣誉. 每位对手摧毁神器其控制的以 每个神器你控制的.,,machine
+Deathfinder,DoC,寻死者,"奖励： 获得2荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.
+集结: 虚空.",,machine
+Wild Riftdrake,DoC,荒野裂隙龙兽,奖励： 获得4荣誉. 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.,,machine
+"Aranyx, the Glutton",DoC,阿兰尼克斯·贪食者,"奖励： 获得4荣誉. 获得7战力.
+集结: 怪物.",,machine
+"Xeron, Lord of Deofol",DoC,泽伦·迪奥福尔之主,奖励： 获得6荣誉.,,machine
+Ephemeral Monk,DS,昙花僧侣,"抽 2 卡牌, 然后放逐此牌.",,machine
+Auspicious Askara,DS,吉兆阿斯卡拉,"抽一张牌.
+联合： 你可以放逐一张卡牌在中央牌列.",,machine
+Nocturnal Seer,DS,夜行预言者,"抽一张牌.
+你可以支付 1符文更低下次你获取梦生卡牌本回合.",,machine
+Arha Sensei DS,DS,亚哈导师,放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用. 加入它以 你的手牌.,,machine
+Garden Attendant,DS,园丁侍从,"获得1洞察.
+抽一张牌.",,machine
+Templar Dragoon,DS,圣殿武士龙骑兵,"击败一个怪物以 费用 4 或更低无需支付费用, 或将一张卡牌加入你的梦境.",,machine
+Pasythea's Ward,DS,帕西提亚的守护,每回合一次，获得1洞察.,,machine
+"Loa, Sleeping Dragon",DS,洛阿·沉睡龙,"获得3洞察.
+抽一张牌.",,machine
+Dreamshaper Jesse,DS,塑梦者杰西,获取顶部卡牌的 梦牌库无需支付费用.,,machine
+Unbound Emissary,DS,解缚使者,"你可以花费I视为R以获取此.
+获取或 击败任意卡牌在中央牌列或 你的梦境无需支付费用.",,machine
+Ephemeral Druid,DS,昙花德鲁伊,"获得5荣誉, 然后放逐此牌.",,machine
+Alluring Shaman,DS,魅惑萨满,"获得1符文.
+你可以支付 1洞察以 获得3荣誉.",,machine
+Verdant Hatchling,DS,翠绿幼体,"获得2荣誉.
+联合： 获得2符文.",,machine
+Flytrap Fairy,DS,捕蝇草妖精,"获得1符文, 1荣誉, 和 1洞察.",,machine
+Dreamwillow Druids,DS,梦柳德鲁伊,选择一项： 获取一个英雄以 费用 5符文或更低无需支付费用; 或将一张卡牌加入你的梦境.,,machine
+Lunar Pack,DS,月兽群,"获得2符文.
+联合： 获得2洞察.",,machine
+Dreamwillow,DS,梦柳,"每回合一次，获得1符文.
+每回合你首次打出生命英雄时, 获得1洞察.",,machine
+"Raka, Dreamtender",DS,拉卡·守梦者,"获得5荣誉.
+将一张卡牌加入你的梦境.",,machine
+"Verdagris, the Wild",DS,维达格里斯·荒野,"获得4符文.
+每位次 你获取一个英雄本回合, 获得I相等以 其H值.",,machine
+Ephemeral Inventor,DS,昙花发明家,"获得3符文, 然后放逐此牌.",,machine
+Planar Aperture,DS,位面孔径,"当你 获取机械神器, 你可以支付 1洞察以 将其直接进入战场.",,machine
+ID34 Detector,DS,ID34探测器,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1洞察.",,machine
+Synapse Spire,DS,突触尖塔,"每回合一次，当你 打出机械神器 (包括此牌一), 将一张卡牌加入你的梦境.",,machine
+Hedron Berserker,DS,多面体狂战,"获得3符文或 3战力. 若你控制的三 或更高神器s, 获得两者改为.",,machine
+Deluxe Capacitor,DS,豪华电容,"你可以视为梦神器s作为如同他们为 机械神器.
+每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌.",,machine
+TH07 Tank,DS,TH07坦克,每回合一次，你可以支付 1洞察以 获得3符文. 你可以花费它们只 以获取机械神器.,,machine
+Inquarry Hydra,DS,采石九头蛇,每回合一次，获得1洞察以 每个机械神器你控制的 (包括此牌一).,,machine
+Chaos Cannon,DS,混沌加农,每回合一次，你可以支付 5洞察以 获得10战力. 你可以支付 1洞察更低以use此异能以 每个其他机械神器你控制的.,,machine
+Ephemeral Ritualist,DS,昙花祭仪师,"获得4战力, 然后放逐此牌.",,machine
+Caustic Conjurer,DS,腐蚀咒术师,"获得1洞察.
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Dreamkiller,DS,弑梦者,获得2战力和 1洞察.,,machine
+Loam Summoner,DS,沃土召唤师,"将一张卡牌加入你的梦境.
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+Fear Wielder,DS,恐惧持有者,"获得3战力.
+下次你击败一个怪物在中央牌列本回合, 将一张卡牌加入你的梦境.",,machine
+Fatality Blades,DS,致命双刃,"每回合一次，获得1战力.
+每回合一次，当你 击败一个怪物在中央牌列, 获得1洞察.",,machine
+Nightmare Harvester,DS,梦魇收割者,获得4战力. 你可以支付 1洞察以 获得4符文改为.,,machine
+"Emri, Shadowslayer",DS,斩影者艾姆瑞,"获得5战力.
+你可以花费P视为I本回合.",,machine
+Rust Gremlin,DS,锈小妖,奖励： 获得1荣誉. 抽一张牌.,,machine
+Thieving Gryphon,DS,偷窃狮鹫,奖励： 获得2荣誉. 获得2符文.,,machine
+Tidestalker,DS,潮潜者,奖励： 获得4荣誉.,,machine
+Fen Maw,DS,沼巨口,奖励： 获得3荣誉. 获得2洞察.,,machine
+Trinket Harpy,DS,饰品鹰身女妖,奖励： 获得3荣誉. 将一张卡牌加入你的梦境.,,machine
+Deluding Djinn,DS,欺瞒灯神,"奖励： 获得5荣誉.
+你可以花费I视为P以击败此.",,machine
+Hulking Crab,DS,庞大蟹,奖励： 获得4荣誉. 每位对手摧毁half的其 神器s进位至多.,,machine
+Puppetmaster,DS,傀儡师,奖励： 获得4荣誉. 拿取1洞察从 每位对手.,,machine
+Fleeting Hope Djinn,DS,飞逝希望灯神,奖励： 获得5荣誉. 加入两卡牌以 你的梦境.,,machine
+Nightmare Tyrant,DS,梦魇暴君,奖励： 获得5荣誉. 获取一个卡牌从 你的梦境无需支付费用.,,machine
+Engulfing Kraken,DS,吞噬克拉肯,"奖励： 获得6荣誉. 拿取一张卡牌随机从 每位对手之梦境, 和将它们加入你的梦境.",,machine
+"Nilus, the Despair",DS,尼卢斯·绝望,奖励： 获得7荣誉. 获取顶部三 卡牌的 梦牌库无需支付其 费用.,,machine
+Imaginative Matron,DS,想象主母,"抽一张牌, 然后弃掉卡牌.
+联合： Return卡牌从 你的弃牌堆以 你的手牌.",,machine
+Reverie Muse,DS,幻想缪斯,"获得1符文.
+联合： Double你的R.",,machine
+Brainstorm Sentry,DS,头脑风暴哨兵,获得1符文和 1战力以 每个机械神器你控制的.,,machine
+Bringer of Despair,DS,带来者绝望,"获得2战力.
+联合： Double你的P.",,machine
+"Pasythea, the Aegis",DS,帕西提亚·神盾,"此英雄视为作为所有派系. 获得3符文, 3战力, 3荣誉.
+若你控制的帕西提亚的守护, 你可以获取此 无需支付费用和 将它放置置入你的手牌.",,machine
+Chronicle of Vigil,DS,祈夜编年史,每回合一次，获得1荣誉以 每个派系在你控制的神器之中. (此卡牌具有没有派系.),,machine
+Vigil's Resolve,DS,祈夜的决意,"当你 打出秘教士, 获得1符文.
+当你 打出重装步兵, 获得1战力.",,machine
+Askaran Armor,DS,阿斯卡拉甲,"每回合一次，当你 获取卡牌从 你的梦境, 你可以将一张卡牌加入你的梦境.",,machine
+Yggdrasil Canopy,DS,世界树树冠,"当你 会获得H没有击败怪物, 获得两次该 等量的H改为.",,machine
+Dream Lab,DS,梦实验室,你可以支付 1符文更低以 获取神器s在中央牌列.,,machine
+Arbiter's Censer,DS,仲裁者香炉,"当你 击败一个怪物在中央牌列, 获得2荣誉.",,machine
+Ashes to Ashes,DS,灰烬归于灰烬,放逐所有卡牌在中央牌列.,,machine
+Dust to Dust,DS,尘土归于尘土,摧毁所有神器s你的对手控制.,,machine
+Armistice,DS,停战,每位玩家弃掉其 手牌和 抽五 卡牌.,,machine
+Wicked End,DS,邪终结,击败一个怪物在中央牌列无需支付费用.,,machine
+Test of Faith,DS,试炼信仰,"展示传送门牌库顶的卡牌. 获取或 击败它 无需支付费用. 若你 获取一个英雄以此方式, 将它放置置入你的手牌.",,machine
+Aura of the Askara,DS,灵光阿斯卡拉,"若你打出过两 启迪英雄以 同名本回合, 你可以获取此 无需支付费用.
+ONGOING: 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合.",,machine
+Lunar Embrace,DS,月拥抱,此回合你可以花费R视为P.,,machine
+Cetra's Respite,DS,塞特拉的喘息,获取一个英雄在中央牌列无需支付费用.,,machine
+Nairi's Blessing,DS,奈莉的祝福,"若你打出过三 或更高生命英雄本回合, 你可以获取此 无需支付费用.
+获得10荣誉.
+ONGOING: 你为 视为以 拥有打出过生命英雄每回合.",,machine
+Technological Leap,DS,科技跃进,获取所有神器s在中央牌列无需支付其 费用.,,machine
+Order of the Gear,DS,秩序齿轮,"若你控制的四 或更高神器s, 你可以获取此 无需支付费用.
+ONGOING: 你的机械英雄为 神器s改为. 你可以use其异能每回合一次.",,machine
+Stalk the Shadows,DS,潜行暗影,此回合你可以击败怪物在 虚空区视为在中央牌列.,,machine
+Call of Darkness,DS,黑暗呼唤,放逐至多 5 卡牌在你的手牌或弃牌堆.,,machine
+Berserker Frenzy,DS,狂战狂乱,"若你 拥有被击败三 或更高怪物在中央牌列本回合, 你可以获取此 无需支付费用.
+获得10荣誉.
+ONGOING: 每回合一次，当你 击败一个怪物, 双倍其H reward.",,machine

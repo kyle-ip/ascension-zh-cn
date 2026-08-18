@@ -55,3 +55,15 @@ def lua_dir(game_root: Path) -> Path:
 
 def resources_assets(game_root: Path) -> Path:
     return game_root / "AscensionGame_Data" / "resources.assets"
+
+
+def streaming_zh_font(game_root: Path) -> Path:
+    return game_root / "AscensionGame_Data" / "StreamingAssets" / "zh-cn" / "cjk-overlay.ttf"
+
+
+def streaming_zh_dir(game_root: Path) -> Path:
+    return game_root / "AscensionGame_Data" / "StreamingAssets" / "zh-cn"
+
+
+def streaming_zh_overlay(game_root: Path) -> Path:
+    return streaming_zh_dir(game_root) / "overlay.tsv"

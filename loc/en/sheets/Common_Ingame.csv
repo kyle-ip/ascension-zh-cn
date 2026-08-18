@@ -1,0 +1,25 @@
+key,en
+Key_ChooseEndTurn,Are you sure you want to end your turn?
+Key_NoticeExpiredTimer,Your timer has expired!<br>You have forfeited this game.
+Key_NoticeOpponentsForfeit,All opponents have forfeited.  You win!
+Key_Loading,Loading... %d%%
+Key_Hint_Play,Play
+Key_Hint_Buy,Buy
+Key_Hint_Copy,Copy
+Key_Hint_Delete,Delete
+Key_Hint_Reveal,Reveal
+Key_Hint_Discard,Discard
+Key_Hint_Target,Target
+Key_Hint_Select,Target
+Key_Hint_Defend,Defend
+Key_Hint_Use,Use
+Key_Hint_Give,Give
+Key_Option_MayEndTurn,You May End Your Turn
+Key_Option_MustEndTurn,You Must End Your Turn
+Key_OK,OK
+Key_Undo,Undo
+Key_Dismiss,Dismiss
+Key_Commit,Commit
+Key_NoCommit,Not a valid target
+Key_ConfirmRevealed,Confirm Revealed Cards
+Key_CommitDecision,Commit Your Decision

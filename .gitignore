@@ -3,8 +3,36 @@ __pycache__/
 .venv/
 venv/
 *.log
-state/local.json
+
+# Vendor tools and game backups — scripts/download-tools.ps1
+state/*.zip
+state/dotnet-sdk/
+state/BepInExPack*/
 state/backups/
+state/gap_canvas.json
+state/real_gap.json
+state/translation_gap.json
+state/translation_gap_names.txt
+
+# Published installer (self-contained exe is large)
+dist/
+
+plugin/**/bin/
+plugin/**/obj/
+installer/**/bin/
+installer/**/obj/
+
+loc/zh-Hans/tutorial_asset.csv
+loc/zh-Hans/ui.full.csv
 loc/en/extracted/
+
+fonts/*.ttf
+fonts/*.otf
+fonts/*.ttc
+fonts/*.tmp.ttf
+
+tools/_inspect*.py
+tools/_leftover.py
+/_*.txt
 .DS_Store
 Thumbs.db

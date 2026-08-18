@@ -61,9 +61,6 @@ def extract_ui_keys(data: bytes) -> list[tuple[str, str]]:
 
 
 def _lua_string_field(body: str, name: str) -> str:
-    fm = re.search(rf'{name}\s*=\s*"((?:\\.|[^"\\])*)"', body)
-    if fm:
-        return bytes(fm.group(1), "utf-8").decode("unicode_escape")
     fm = re.search(
         rf'{name}\s*=\s*((?:"(?:\\.|[^"\\])*"(?:\s*\.\.\s*)?)+)',
         body,
@@ -103,7 +100,10 @@ def _extract_balanced_tables(text: str) -> list[tuple[str, str]]:
 
 
 def extract_lua_cards(game_root) -> list[dict]:
-    lua = lua_dir(game_root)
+    from common import BACKUP_DIR
+
+    backup = BACKUP_DIR / "Lua"
+    lua = backup if backup.is_dir() else lua_dir(game_root)
     cards = []
     for path in sorted(lua.glob("*.lua")):
         text = path.read_text(encoding="utf-8", errors="replace")

@@ -19,7 +19,14 @@ from common import (  # noqa: E402
     load_patch_config,
     lua_dir,
     save_patch_config,
+    streaming_zh_dir,
+    streaming_zh_font,
+    streaming_zh_overlay,
 )
+from assets import apply_loc_json, apply_textassets, restore_assets  # noqa: E402
+from bepinex import disable_runtime, enable_runtime  # noqa: E402
+from fonts import collect_charset, subset_font  # noqa: E402
+from scene import apply_scene_strings, restore_level1  # noqa: E402
 
 LOCALE_DIR = {
     "zh-Hans": ROOT / "loc" / "zh-Hans",
@@ -28,7 +35,10 @@ LOCALE_DIR = {
 
 
 def _lua_escape(value: str) -> str:
-    return value.replace("\\", "\\\\").replace('"', '\\"').replace("\n", "\\n")
+    value = (
+        value.replace("\r\n", " ").replace("\n", " ").replace("\r", " ").strip()
+    )
+    return value.replace("\\", "\\\\").replace('"', '\\"')
 
 
 def _load_card_map(locale: str) -> dict[str, dict[str, str]]:
@@ -51,22 +61,23 @@ def _load_messages(locale: str) -> dict[str, str]:
 def _replace_field(body: str, field: str, new_value: str) -> str:
     if not new_value:
         return body
-    pattern = re.compile(rf'({field}\s*=\s*)"(?:\\.|[^"\\])*"')
-    repl = rf'\1"{_lua_escape(new_value)}"'
-    if pattern.search(body):
-        return pattern.sub(repl, body, count=1)
-    # Concatenated strings: replace the whole assignment RHS through the semicolon/newline
-    pattern2 = re.compile(
+    escaped = '"' + _lua_escape(new_value) + '"'
+    # Match a single quoted string *or* several joined with `..`. The single-
+    # quote pattern must not run first: it would leave leftover English pieces.
+    pattern = re.compile(
         rf'({field}\s*=\s*)(?:"(?:\\.|[^"\\])*"(?:\s*\.\.\s*)?)+'
     )
-    if pattern2.search(body):
-        return pattern2.sub(repl, body, count=1)
-    insert = f'\n   {field} = "{_lua_escape(new_value)}";'
-    # Insert after card_name if we are adding display_name
+
+    def replacer(match: re.Match[str]) -> str:
+        return match.group(1) + escaped
+
+    if pattern.search(body):
+        return pattern.sub(replacer, body, count=1)
+    insert = f'\n   {field} = {escaped};'
     if field == "display_name":
         return re.sub(
             r'(card_name\s*=\s*"(?:\\.|[^"\\])*";)',
-            rf"\1{insert}",
+            lambda m: m.group(1) + insert,
             body,
             count=1,
         )
@@ -90,14 +101,14 @@ def _patch_lua_file(text: str, cards: dict[str, dict[str, str]], messages: dict[
                 depth -= 1
                 if depth == 0:
                     body = text[start + 1 : i]
-                    card = cards.get(m.group(1))
-                    if card:
-                        if card.get("display_name"):
-                            body = _replace_field(body, "display_name", card["display_name"])
-                        if card.get("effect_text"):
-                            body = _replace_field(body, "effect_text", card["effect_text"])
-                        if card.get("flavor_text"):
-                            body = _replace_field(body, "flavor_text", card["flavor_text"])
+                    row = cards.get(m.group(1))
+                    if row:
+                        # Gallery/engine copy. Do not rewrite display_name:
+                        # in-match names already come from CARDNAME_* loc keys.
+                        if row.get("effect_text"):
+                            body = _replace_field(body, "effect_text", row["effect_text"])
+                        if row.get("flavor_text"):
+                            body = _replace_field(body, "flavor_text", row["flavor_text"])
                     out.append("{")
                     out.append(body)
                     out.append("}")
@@ -156,6 +167,74 @@ def enable(locale: str) -> None:
         encoding="utf-8",
     )
     print(f"enabled {locale}: rewrote {changed} Lua files in {src}")
+
+    loc = LOCALE_DIR[locale]
+    replacements = {}
+    cards_csv = loc / "cards.csv"
+    packed_csv = loc / "cards_packed.csv"
+    tutorial_asset = loc / "tutorial_asset.csv"
+    if packed_csv.is_file():
+        replacements["cards_EN"] = packed_csv
+    elif cards_csv.is_file():
+        replacements["cards_EN"] = cards_csv
+    # Keep tutorial_EN English. Packed UTF-8 Chinese becomes mojibake in that TextAsset.
+    if replacements:
+        try:
+            apply_textassets(game, replacements)
+        except Exception as exc:
+            print(f"asset overlay skipped: {exc}")
+
+    loc_map: dict[str, str] = {}
+    cards_csv = loc / "cards.csv"
+    if cards_csv.is_file():
+        with cards_csv.open(encoding="utf-8", newline="") as f:
+            for row in csv.reader(f):
+                if len(row) >= 2 and row[0]:
+                    loc_map[row[0]] = row[1]
+    for ui_path in (loc / "ui.csv", loc / "ui.full.csv"):
+        if not ui_path.is_file():
+            continue
+        with ui_path.open(encoding="utf-8", newline="") as f:
+            for row in csv.DictReader(f):
+                key = row.get("key") or ""
+                zh = row.get("zh") or ""
+                if key.startswith("Key_") and zh:
+                    loc_map[key] = zh
+    if loc_map:
+        try:
+            apply_loc_json(game, loc_map)
+        except Exception as exc:
+            print(f"loc JSON overlay skipped: {exc}")
+
+    try:
+        apply_scene_strings(game)
+    except Exception as exc:
+        print(f"scene overlay skipped: {exc}")
+
+    try:
+        from overlay import write_overlay  # noqa: E402
+
+        overlay_src = write_overlay()
+        overlay_dest = streaming_zh_overlay(game)
+        overlay_dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(overlay_src, overlay_dest)
+        print(f"overlay -> {overlay_dest}")
+    except Exception as exc:
+        print(f"overlay skipped: {exc}")
+
+    try:
+        font_path = streaming_zh_font(game)
+        font_path.parent.mkdir(parents=True, exist_ok=True)
+        font_path.write_bytes(subset_font(collect_charset()))
+        print(f"CJK subset -> {font_path}")
+    except Exception as exc:
+        print(f"CJK subset skipped: {exc}")
+
+    try:
+        enable_runtime(game)
+    except Exception as exc:
+        print(f"runtime font plugin skipped: {exc}")
+
     print("Close the game before enabling. Steam 'Verify integrity' will undo overlays.")
 
 
@@ -167,6 +246,18 @@ def disable() -> None:
         raise FileNotFoundError(f"No Lua backup at {backup_lua}. Nothing to restore.")
     for path in backup_lua.glob("*.lua"):
         shutil.copy2(path, src / path.name)
+    restore_assets(game)
+    restore_level1(game)
+    zh_dir = streaming_zh_dir(game)
+    for extra in (streaming_zh_font(game), streaming_zh_overlay(game), zh_dir / "plugin.log"):
+        if extra.is_file():
+            extra.unlink()
+    if zh_dir.is_dir() and not any(zh_dir.iterdir()):
+        zh_dir.rmdir()
+    try:
+        disable_runtime(game)
+    except Exception as exc:
+        print(f"BepInEx uninstall skipped: {exc}")
     cfg = load_patch_config()
     cfg["enabled"] = False
     save_patch_config(cfg)

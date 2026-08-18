@@ -1,33 +1,29 @@
 # ascension-zh-cn
 
-Fan Chinese language overlay for Playdek’s *Ascension: Deckbuilding Game* (Steam).
+Fan Simplified Chinese overlay for Playdek’s *Ascension: Deckbuilding Game* (Steam).
 
-Chinese titles in use: **《创升纪元》** and **《暗杀神》**. This repo acknowledges both.
-
-Chinese version of this README: [README.zh.md](README.zh.md)
+Public in-game name: **《创升纪元》 only**. Progress and next steps: [docs/progress.md](docs/progress.md). Chinese README: [README.zh.md](README.zh.md).
 
 This is **not** official DLC. It does not redistribute the game client, card art, or rulebook scans.
 
-## Status (MVP)
+## Players
 
-- External, togglable overlay (enable / disable restores English Lua)
-- Glossary locked to official/community terms (符文 / 战力 / 荣誉 …)
-- Core starter + Chronicle of the Godslayer display names in `loc/zh-Hans/overrides.csv`
-- Remaining cards get a **draft** effect-text pass from the glossary (needs proofreading)
-- Card-face TMP CSV inside `resources.assets` and CJK fonts are **not** injected yet; in-game card art text may stay English until that lands. Combat log / Lua `display_name` / `effect_text` are what this MVP changes.
+Quit the game, then run `dist\AscensionZhCn-Setup.exe` (produced by `scripts/publish-installer.ps1`; the exe is gitignored). Click **安装汉化** or **恢复英文**.
 
-Details: [docs/feasibility-report.md](docs/feasibility-report.md)
+Steam **Verify integrity of game files** undoes the overlay. Use the installer to restore instead.
 
-## Requirements
+CI on `main` and `v*` tags builds the installer with GitHub Actions (`windows-latest`, .NET 8). Download the artifact from the Actions run, or push a tag like `v1.0.0` to attach `AscensionZhCn-Setup.exe` to a GitHub Release. Keep the `payload` folder next to the exe.
 
-- Local Steam install of Ascension
-- Python 3.10+
-- Close the game before enable/disable
-- Writes into `AscensionGame_Data/StreamingAssets/Lua` (may need admin if the game is under `Program Files`)
+## Maintainers
 
-## Usage
+Large vendor files (BepInEx zip, portable .NET SDK, font binaries, game backups) stay off GitHub:
 
-From this repo:
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/download-tools.ps1
+powershell -ExecutionPolicy Bypass -File scripts/publish-installer.ps1
+```
+
+Python 3.10+ remains the translation pipeline (close the game first):
 
 ```powershell
 python tools/extract_en.py
@@ -37,18 +33,18 @@ python tools/patch.py enable --locale zh-Hans
 python tools/patch.py disable
 ```
 
-`extract_en.py` reads the install (parent folder, or `C:\Program Files (x86)\Steam\steamapps\common\Ascension`). Override with `gameRoot` in [patch.json](patch.json).
-
-Steam **Verify integrity of game files** undoes the overlay. Run `disable` to restore from `state/backups/` without verifying.
+`extract_en.py` reads the install (parent folder, or the default Steam path). Override with `gameRoot` in [patch.json](patch.json).
 
 ## Layout
 
 ```text
-docs/                 feasibility reports (EN default + .zh.md)
+docs/                 progress + feasibility (EN default + .zh.md)
 glossary/terms.csv    locked terminology + source tags
 loc/en/               extracted English (generated)
 loc/zh-Hans/          Simplified strings
-tools/                extract / build / toggle
+installer/            Windows install/restore GUI (source)
+scripts/              download vendor tools; publish the GUI
+tools/                extract / build / toggle (maintainers)
 patch.json            enabled flag + locale
 ```
 

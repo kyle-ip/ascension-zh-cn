@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>AscensionZhCn-Setup</AssemblyName>
+    <RootNamespace>AscensionZhCn.Installer</RootNamespace>
+    <Product>《创升纪元》简体中文补丁</Product>
+    <Description>One-click install/restore for the Ascension Simplified Chinese overlay.</Description>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="..\..\loc\zh-Hans\overlay.tsv" Link="payload\overlay.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\..\loc\zh-Hans\lua_cards.csv" Link="payload\lua_cards.csv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\..\loc\zh-Hans\cards.csv" Link="payload\cards.csv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\..\loc\zh-Hans\cards_packed.csv" Link="payload\cards_packed.csv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\..\loc\zh-Hans\ui.csv" Link="payload\ui.csv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="..\..\loc\zh-Hans\combat_log.csv" Link="payload\combat_log.csv" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="payload\AscensionZhCn.dll" Condition="Exists('$(MSBuildProjectDirectory)\payload\AscensionZhCn.dll')" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

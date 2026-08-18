@@ -1,0 +1,300 @@
+key,en
+Key_PlayOffline,Play Offline
+Key_PlayOnline,Play Online
+Key_MainMenu,Main Menu
+Key_Menu,Menu
+Key_Options,Options
+Key_Settings,Settings
+Key_CardGallery,Card Gallery
+Key_Rulebook,Rulebook
+Key_Tutorial,Tutorial
+Key_Tutorials,Tutorials
+Key_Moregames,More Games
+Key_Credits,Credits
+Key_AppStore,In-App Store
+Key_Back,Back
+Key_DeleteGame,Delete Game
+Key_CreateGame,Create Game
+Key_Round,Round
+Key_AddComputerPlayer,Add Computer Player
+Key_AddHumanPlayer,Add Human Player
+Key_Playername,Player Name
+Key_DragToAdd,Drag below to add
+Key_EnterName,Please enter a name
+Key_RestorePurchases,Restore Purchases
+Key_ClearPurchases,Clear Purchases
+Key_Details,Details
+Key_Purchased,Purchased
+Key_Buy,Buy
+Key_Cancel,Cancel
+Key_StartGame,Start Game
+Key_JoinGame,Join Game
+Key_ViewGame,View Game
+Key_Player1,Player 1
+Key_Player2,Player 2
+Key_Player3,Player 3
+Key_Player4,Player 4
+Key_Player5,Player 5
+Key_Accept,Accept
+Key_Profile,Profile
+Key_Pause,Pause
+Key_Online,Online
+Key_Offline,Offline
+Key_FindGame,Find Game
+Key_TitleNew,New
+Key_TitleGame,Game
+Key_Connecting,Connecting to Server
+Key_ConnectFail,Failed to Connect to Server
+Key_NetworkUpdate,An update is available.<br>Please download the latest<br>version to play online.
+Key_Disconnect,You have been Disconnected<br> from the Server
+Key_CreatingGame,Creating Game . . .
+Key_CreatedGameSuccess,Successfully Created Game!
+Key_CreateGameFail,Unable to create.
+Key_CreateGameFailTooMany,Unable to create.<br>Too many games created.
+Key_CreateGameFailUnknown,Unable to create.<br>Unknown error
+Key_Joining,Joining Game . . .
+Key_JoinSuccess,Successfully Joined Game!
+Key_JoinFailNotExist,Unable to join.<br>Game no longer exists.
+Key_JoinFailFull,Unable to join.<br>Game is full.
+Key_JoinFailConnect,Unable to join.<br>Lost connection to server.
+Key_JoinFailUnknown,Unable to join.<br>Unknown error.
+Key_OnlineFailGameCenter,You must be logged<br>in to Game Center<br>to play online
+Key_TutorialPrompt,Would you like to play the Tutorial?
+Key_SlotOpen,(Open)
+Key_SlotClosed,(Closed)
+Key_OnlineCreateGame,Online Create Game
+Key_GameListEmpty,You have no active Games at this time.
+Key_FindGameSearching,Searching for Games . . .
+Key_CompletedListEmpty,You have no completed Games at this time.
+Key_FindGameListEmpty,There are no available Games at this time.<br>Use the Create Game Menu to create a new game.
+Key_ProfileLoading,Retrieving Profile . . .
+Key_NameEntry,Enter Name for Player
+Key_FriendsList,Friends List
+Key_InviteFriend,Invite Friend
+Key_ClearInvite,Clear Invite
+Key_ReadyToStart,Ready to Start
+Key_Invited,Invited
+Key_WaitForStart,Waiting for Start
+Key_WaitForPlayers,Waiting for Players
+Key_WaitForPlayer,Waiting for Player
+Key_Waiting,Waiting
+Key_View,View
+Key_Withdraw,Withdraw
+Key_Reject,Reject
+Key_Delete,Delete
+Key_Forfeit,Forfeit
+Key_Finish,Finish
+Key_Locked,Locked
+Key_Invite,Invite
+Key_Start,Start
+Key_Completed,Completed
+Key_Join,Join
+Key_Empty,Empty
+Key_Minute,Minute
+Key_Minutes,Minutes
+Key_Hour,Hour
+Key_Hours,Hours
+Key_Day,Day
+Key_Days,Days
+Key_Second,Second
+Key_Seconds,Seconds
+Key_Abbr_Second,Sec
+Key_Abbr_Minute,Min
+Key_Abbr_Hour,HR
+Key_Abbr_Hours,Hrs
+Key_Online_Record,Online Record
+Key_Offline_Record,Offline Record
+Key_In_Progress,In Progress
+Key_2_Players,2 Players:
+Key_3_Players,3 Players:
+Key_4_Players,4 Players:
+Key_Forfeits,Forfeits
+Key_Sound_Volume,Sound Volume
+Key_Music_Volume,Music Volume
+Key_Game_Speed,Game Speed
+Key_Animation_Speed,Animation Speed
+Key_Slow,Slow
+Key_Medium,Medium
+Key_Fast,Fast
+Key_Pop_Ups,Confirmation Pop-ups
+Key_FriendRequest,Friend Request
+Key_Online_Game_List,Online Game List
+Key_AddFriend,Add Friend
+Key_DeleteFriend,Delete Friend
+Key_Offline_Game_List,Offline Game List
+Key_Delete_Game,Delete Your Game
+Key_Start_Menu,Start Menu
+Key_Rematch,Rematch
+Key_OfflineCreateGame,Offline Create Game
+Key_2Players,2 Players
+Key_3Players,3 Players
+Key_4Players,4 Players
+Key_Game_List,Game List
+Key_RemotePlayer,Remote Player
+Key_AIPlayer,AI Player
+Key_AIPlayer1,AI Player 1
+Key_AIPlayer2,AI Player 2
+Key_AIPlayer3,AI Player 3
+Key_AIPlayer4,AI Player 4
+Key_DoubleTapContinue,Double Tap to Continue…
+Key_SelectAvatar,Select your avatar
+Key_OnTheWeb,On the Web
+Key_Email,Email
+Key_Username,Username
+Key_Password,Password
+Key_ConfirmPassword,Confirm Password
+Key_Remember,Remember Password
+Key_Forget,Forgot Login?
+Key_CreateAccount,Create Account
+Key_Login,Login
+Key_Verify,Verify:
+Key_User,User Name:
+Key_SendInfo,Send Login Info
+Key_EmailUser,Enter your Email or User Name
+Key_OnlineLogin,Online Login
+Key_CreateNewAccount,Create New Account
+Key_CheckYourEmail,Please check your email for your account information
+Key_InvalidUsername,Username already in use.
+Key_InvalidPassword,Invalid Password
+Key_InvalidEmail,Invalid Email
+Key_CreatingNewAccount,Creating Account...
+Key_PasswordNotVerified,Check your password again
+Key_PasswordMismatch,Passwords do not match
+Key_InvalidCharacters,Name contains invalid characters
+Key_TermsAgreement,Terms of Use Agreement
+Key_EmailInUse,An account with this e-mail address is already in use
+Key_PasswordRequired,You must provide a password
+Key_LoginFailed,Login failed
+Key_MustAcceptTerms,You must accept the Terms of Use Agreement before creating an account
+Key_AccountCreateSuccess,Account Created.<br>Enter your Password to Login.
+Key_OnlineChat,Lobby Chat
+Key_Agree,I Agree
+Key_Newsletter,Playdek Newsletter
+Key_PrivacyPolicy,Privacy Policy
+Key_Confirm,Confirm
+Key_Achievements,Achievements
+Key_Languages,Languages
+Key_SelectLanguage,Select Language
+Key_AddFriendPrompt,Would you like to add this player to your friend list?
+Key_RemoveFriendPrompt,Would you like to remove this player from your friend list?
+Key_Exit,Exit
+Key_EndGame,End Game
+Key_FriendAdding,"Adding ""{0}"" as a friend."
+Key_FriendRemoving,"Removing ""{0}"" as a friend."
+Key_FriendAddSuccess,"Successfully added ""{0}"" as a friend."
+Key_FriendRmvSuccess,Successfully removed friend.
+Key_FriendNotFound,"User ""{0}"" not found."
+Key_FriendAlready,{0} is already your friend.
+Key_Resolution,Resolution
+Key_Resolutions,Resolutions
+Key_ResolutionChange,Change resolution to {0}x{1}?
+Key_ResolutionKeep,Keep this resolution?
+Key_ConfirmChange,Confirm Change
+Key_WindowedMode,Windowed Mode
+Key_Fullscreen,Fullscreen
+Key_DeleteGameConfirm,Do you want to delete this game?
+Key_ForfeitedOpponents,All opponents have forfeited. You win!
+Key_ForfeitPrompt,Are you sure you want to forfeit this game?
+Key_FailConnect,Unable to connect to the server
+Key_GameCompleted,Game Completed
+Key_AccountCreateFailed,Account creation failed.
+Key_AccountError,Account error.
+Key_AccountNotActivatedEmail,Account is not yet activated. Please follow the account activation instructions that were sent to your e-mail.
+Key_EnterValidEmail,Please enter a valid E-mail address
+Key_EnterUsername,Please enter a Username
+Key_PasswordNoMatch,The Password and Confirmation fields do not match
+Key_EnterText,Enter text...
+Key_Sunday,Sunday
+Key_Sun,Sun
+Key_Monday,Monday
+Key_Mon,Mon
+Key_Tuesday,Tuesday
+Key_Tues,Tues
+Key_Wednesday,Wednesday
+Key_Wed,Wed
+Key_Thursday,Thursday
+Key_Thurs,Thurs
+Key_Friday,Friday
+Key_Fri,Fri
+Key_Saturday,Saturday
+Key_Sat,Sat
+Key_LoadingCards,Loading Cards
+Key_LoadingGame,Loading
+Key_EnterEmail,Enter Email
+Key_EnterPassword,Enter Password
+Key_EnterUsernameAlt,Enter Username
+Key_Notifications,Notifications
+Key_EmailNotifications,Email Notifications
+Key_iOSNotifications,iOS Notifications
+Key_AndroidNotifications,Android Notifications
+Key_Theme,Theme Selection
+Key_InApp,In-App Store
+Key_ViewCards,View Cards
+Key_Purchase,Purchase
+Key_Close,Close
+Key_Play,Play
+Key_OnlineLobby,Online Lobby
+Key_OfflineLobby,Offline Lobby
+Key_ReturnToLobby,Return to Lobby
+Key_LogOut,Log Out
+Key_ConfirmExit,Are you sure you want to exit the game?
+Key_WithdrawConfirm,Are you sure you want to withdraw from this game?
+Key_QuickMatchDelete,Are you sure you want to delete this Quick Match request?
+Key_KeyBindings,Key Bindings
+Key_PressNewKey,Press the new key for
+Key_Announcements,Announcements
+Key_HelpEnabled,Help Enabled
+Key_AudioLevels,Audio Levels
+Key_None,None
+Key_AutoPlay,Auto Play
+Key_ConfirmationPause,Confirmation Pause
+Key_AmbientVolume,Ambient Volume
+Key_RestoreDefaults,Restore Defaults
+Key_GamePaused,Game Paused
+Key_GameChat,Game Chat
+Key_GameLog,Game Log
+Key_Continue,Continue
+Key_TapContinue,Tap to Continue
+Key_QuickMatch,Quick Match
+Key_Friends,Friends
+Key_AddProfile,Add Profile
+Key_RemoveProfile,Remove Profile
+Key_RemoveFriend,Remove Friend
+Key_Profiles,Profiles
+Key_DragProfiles,Drag a profile tab to the player slot
+Key_ConfirmProfileDelete,Are you sure you want to delete this profile?
+Key_DuplicateProfile,A profile with this name already exists
+Key_Human,Human
+Key_AIOpponent,AI Opponent
+Key_AIDifficulty,AI Difficulty
+Key_GameType,Game Type
+Key_Done,Done
+Key_OpponentStats,Opponent Stats
+Key_Rating,Rating
+Key_RatingDifference,Rating Difference
+Key_GameTimer,Game Timer
+Key_ExpireTimer,Expire Timer
+Key_RequestMatch,Request Match
+Key_ViewOpponentProfile,Tap opponent  to view their profile
+Key_ViewingPlayer,Viewing Player
+Key_NoCardSelected,No Card Selected
+Key_GameStats,Game Stats
+Key_WinsVS,Wins Versus
+Key_LossesVS,Losses Versus
+Key_NoPlayerData,No Player Data
+Key_Warning,Warning
+Key_DontShowWarning,Don't show this warning again
+Key_Resume,Resume
+Key_QuickMatchProcess,Creating a Quick Match game...
+Key_Error,Error
+Key_QuickMatchFailure,Creating this Quick Match failed.
+Key_QuickMatchTooMany,Creating this Quick Match failed.<br>Too many games open.
+Key_AnyRating,Any Rating
+Key_ResumeGame,Resume Game
+Key_QuickMatchRequest,Quick Match Request
+Key_DeleteMatchmaking,Delete Matchmaking
+Key_Turn,Turn
+Key_Setup,Setup
+Key_PleaseWait,Please wait...
+Key_AcceptInvite,Accept Invite
+Key_TimerAny,Timer: Any
