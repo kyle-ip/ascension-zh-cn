@@ -70,5 +70,9 @@ if (Test-Path (Join-Path $PayloadDir "AscensionZhCn.dll")) {
 
 $Exe = Join-Path $Dist "AscensionZhCn-Setup.exe"
 if (-not (Test-Path $Exe)) { throw "publish did not produce AscensionZhCn-Setup.exe" }
+
+$Zip = Join-Path $Dist "AscensionZhCn-Setup-win-x64.zip"
+if (Test-Path $Zip) { Remove-Item $Zip }
+Compress-Archive -Path $Exe, $PayloadOut -DestinationPath $Zip
 Write-Host "OK: $Exe"
-Write-Host "dist/ is gitignored. Attach this exe to a GitHub Release if you want players to download it."
+Write-Host "OK: $Zip"

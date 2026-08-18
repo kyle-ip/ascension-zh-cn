@@ -1,29 +1,19 @@
-# Ascension Simplified Chinese overlay: progress and next steps
+# Status
 
-- Date: 2026-08-19
-- Game: Steam *Ascension: Deckbuilding Game* (Playdek), Unity 6000.0.58f2 IL2CPP
-- Public Chinese name: **《创升纪元》 only**. Keep **弑神编年史** as the Chronicle of the Godslayer *set* name.
+Unofficial Simplified Chinese overlay for Steam *Ascension: Deckbuilding Game* (Unity 6000.0.58f2, IL2CPP). In-game series name: 《创升纪元》. First-set name stays 弑神编年史 (Chronicle of the Godslayer).
 
-Fan overlay. Do not ship the client, card art, or rulebook scans.
+Chinese notes: [progress.zh.md](progress.zh.md). Install: [README](../README.md).
 
-Chinese write-up (canonical for maintainers): [progress.zh.md](progress.zh.md).
+## Done
 
-## Player install
+BepInEx 6 plugin 1.3.0 patches `GetTextByKey`, attaches YaHei as a TMP fallback, rewrites Lua `effect_text` / `flavor_text` (not `card_name`), and same-size-patches some `level1` strings. Overlay tables cover ~2600 loc keys. Leftover English is logged to `StreamingAssets/zh-cn/untranslated.tsv`.
 
-Quit the game. Run `dist\AscensionZhCn-Setup.exe` → **安装汉化** / **恢复英文**. Steam file verification undoes the overlay; use the installer to restore instead.
+## Not done
 
-## What works now
+Title textures, rulebook body text, remaining machine-draft flavor/effects, Traditional Chinese.
 
-BepInEx 6 IL2CPP plugin **1.3.0**: Harmony on `GetTextByKey` only; delayed YaHei TMP fallback; Lua `effect_text`/`flavor_text` rewrite (not `card_name`); same-size `level1` strings; `overlay.tsv` keys rebuilt from the runtime `Ascension_Cards` sheet (~2600+ keys). Untranslated dump: `StreamingAssets/zh-cn/untranslated.tsv`.
-
-Do **not** Harmony-patch `TMP_Text.set_text` or splice fonts into `resources.assets`.
+Do not splice fonts into `resources.assets` or Harmony-patch `TMP_Text.set_text`. Do not write Chinese into `tutorial_EN`.
 
 ## Next
 
-1. Play through leftover screens and ingest `untranslated.tsv`.
-2. Proof CotG names in `overrides.csv`; machine-draft the rest.
-3. Runtime rulebook overlay (too long for same-size replace).
-4. Texture titles last (Offline Games, Downloadable Content, DECKBUILDING GAME).
-5. Publish `AscensionZhCn-Setup.exe` as a GitHub Release; keep `dist/` and vendor SDKs gitignored.
-
-Vendor downloads: `scripts/download-tools.ps1`. Publish the GUI: `scripts/publish-installer.ps1`.
+Proof `overrides.csv`, ingest the untranslated dump, then a runtime rulebook overlay. Texture titles last.

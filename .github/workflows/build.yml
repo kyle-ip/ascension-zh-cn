@@ -37,15 +37,22 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: AscensionZhCn-Setup-win-x64
-          path: |
-            dist/AscensionZhCn-Setup.exe
-            dist/payload/**
+          path: dist/AscensionZhCn-Setup-win-x64.zip
           if-no-files-found: error
-      - name: Attach installer to GitHub Release
+      - name: Publish GitHub Release
         if: startsWith(github.ref, 'refs/tags/')
-        uses: softprops/action-gh-release@v2
-        with:
-          files: |
-            dist/AscensionZhCn-Setup.exe
-          fail_on_unmatched_files: true
-          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: pwsh
+        run: |
+          $tag = $env:GITHUB_REF_NAME
+          $args = @(
+            "release", "create", $tag,
+            "dist/AscensionZhCn-Setup-win-x64.zip",
+            "--title", $tag,
+            "--generate-notes"
+          )
+          if ($tag -match "test|alpha|beta|rc|preview") {
+            $args += "--prerelease"
+          }
+          gh @args

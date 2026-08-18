@@ -1,61 +1,35 @@
 # ascension-zh-cn
 
-Fan Simplified Chinese overlay for Playdek’s *Ascension: Deckbuilding Game* (Steam).
+Unofficial Simplified Chinese language pack for the Steam release of *Ascension: Deckbuilding Game*.
 
-Public in-game name: **《创升纪元》 only**. Progress and next steps: [docs/progress.md](docs/progress.md). Chinese README: [README.zh.md](README.zh.md).
+[简体中文](README.zh.md)
 
-This is **not** official DLC. It does not redistribute the game client, card art, or rulebook scans.
+## Install
 
-## Players
+1. Download the zip from [Releases](https://github.com/kyle-ip/ascension-zh-cn/releases).
+2. Extract it and run `AscensionZhCn-Setup.exe` (keep the `payload` folder next to the exe).
+3. Choose **安装汉化** or **恢复英文**.
 
-Quit the game, then run `dist\AscensionZhCn-Setup.exe` (produced by `scripts/publish-installer.ps1`; the exe is gitignored). Click **安装汉化** or **恢复英文**.
+Windows only. Close the game first if it is already running. If the game is under `Program Files` and the installer cannot write, run it as Administrator. Steam’s “Verify integrity of game files” restores English.
 
-Steam **Verify integrity of game files** undoes the overlay. Use the installer to restore instead.
+In-game, the series is referred to as **《创升纪元》**.
 
-CI on `main` and `v*` tags builds the installer with GitHub Actions (`windows-latest`, .NET 8). Download the artifact from the Actions run, or push a tag like `v1.0.0` to attach `AscensionZhCn-Setup.exe` to a GitHub Release. Keep the `payload` folder next to the exe.
+## Status
 
-## Maintainers
+Most menus, card names, and effects are translated. Rulebook body text and some title art stay English. See [docs/progress.md](docs/progress.md).
 
-Large vendor files (BepInEx zip, portable .NET SDK, font binaries, game backups) stay off GitHub:
+The pack does not include the game, card art, or rulebook scans.
+
+## Build
+
+Requires [.NET 8](https://dotnet.microsoft.com/download) (or `scripts/download-tools.ps1`).
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File scripts/download-tools.ps1
-powershell -ExecutionPolicy Bypass -File scripts/publish-installer.ps1
+.\scripts\publish-installer.ps1
 ```
 
-Python 3.10+ remains the translation pipeline (close the game first):
-
-```powershell
-python tools/extract_en.py
-python tools/build_zh.py
-python tools/patch.py status
-python tools/patch.py enable --locale zh-Hans
-python tools/patch.py disable
-```
-
-`extract_en.py` reads the install (parent folder, or the default Steam path). Override with `gameRoot` in [patch.json](patch.json).
-
-## Layout
-
-```text
-docs/                 progress + feasibility (EN default + .zh.md)
-glossary/terms.csv    locked terminology + source tags
-loc/en/               extracted English (generated)
-loc/zh-Hans/          Simplified strings
-installer/            Windows install/restore GUI (source)
-scripts/              download vendor tools; publish the GUI
-tools/                extract / build / toggle (maintainers)
-patch.json            enabled flag + locale
-```
-
-## Copy policy
-
-1. Official physical Chinese (Box365 *暗杀神*, Surfin’ Meeple *创升纪元*)
-2. Established community wording
-3. New translation only for gaps, same glossary
-
-Do not change Lua `card_name` identifiers.
+Output: `dist/AscensionZhCn-Setup.exe`. String tables live in `loc/`; rebuild them with Python (`tools/build_zh.py`). Contributor notes: [docs/](docs/README.md).
 
 ## License
 
-MIT for the tools and original translation tables in this repository. Ascension itself remains Playdek / Stone Blade / respective Chinese publishers’ copyright.
+MIT for tools and original translation tables. Ascension remains © Playdek / Stone Blade / respective Chinese publishers.
