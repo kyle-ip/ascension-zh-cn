@@ -1,5 +1,6 @@
 # Build plugin (if interop exists) and publish a single-file Windows installer to dist/.
-# Run from the repo root after scripts/download-tools.ps1:
+# Maintainer only. Public entry points are install.ps1 / enable.ps1 / disable.ps1.
+# Run from the repo root after .\install.ps1:
 #   powershell -ExecutionPolicy Bypass -File scripts/publish-installer.ps1
 
 $ErrorActionPreference = "Stop"
@@ -7,21 +8,34 @@ $Root = Split-Path -Parent $PSScriptRoot
 $State = Join-Path $Root "state"
 
 function Resolve-Dotnet {
-    $cmd = Get-Command dotnet -ErrorAction SilentlyContinue
-    if ($cmd) { return $cmd.Source }
     $portable = Join-Path $State "dotnet-sdk\dotnet.exe"
     if (Test-Path $portable) { return $portable }
-    $sys = Join-Path ${env:ProgramFiles} "dotnet\dotnet.exe"
-    if (Test-Path $sys) { return $sys }
-    throw "No .NET SDK. Run scripts/download-tools.ps1, or install .NET 8."
+    $cmd = Get-Command dotnet -ErrorAction SilentlyContinue
+    if ($cmd) { return $cmd.Source }
+    throw "No .NET SDK. Run .\install.ps1 first."
 }
 
 $Dotnet = Resolve-Dotnet
+$env:DOTNET_ROOT = Split-Path -Parent $Dotnet
+$env:PATH = "$(Split-Path -Parent $Dotnet);$env:PATH"
 $env:DOTNET_CLI_TELEMETRY_OPTOUT = "1"
 Write-Host "dotnet: $Dotnet"
 
 $PluginProj = Join-Path $Root "plugin\AscensionZhCn\AscensionZhCn.csproj"
-$GameDir = Split-Path $Root
+Push-Location $Root
+try {
+    $GameDir = & python -c @"
+import sys
+sys.path.insert(0, 'tools')
+from common import detect_game_root
+print(detect_game_root(prompt=True))
+"@
+} finally {
+    Pop-Location
+}
+if ($LASTEXITCODE -ne 0 -or -not $GameDir) {
+    throw "Could not resolve Ascension game folder."
+}
 $InteropTmp = Join-Path $GameDir "BepInEx\interop\UnityEngine.CoreModule.dll"
 if (Test-Path $PluginProj) {
     if (Test-Path $InteropTmp) {

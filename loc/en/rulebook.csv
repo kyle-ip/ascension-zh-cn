@@ -1,0 +1,1112 @@
+set,go_name,en,norm,from_card
+shell,TMP Text,Rulebook,Rulebook,
+ascl,TMP Body Text,"In this time of reckoning, Vigil calls forth a new generation of heroes. The untested must rise, guided by legends of old and the light of those who sacrificed before them. Against the Muses’ vision of unending chaos, the champions of today must forge their own legendary paths. The world awaits, and only through strength, courage, and unity can Vigil transcend this dark design. Your deeds are known, your valor witnessed, and through fire and flame, you must stand the test to become a legend—the future rests upon your ascension.","In this time of reckoning, Vigil calls forth a new generation of heroes. The untested must rise, guided by legends of old and the light of those who sacrificed before them. Against the Muses’ vision of unending chaos, the champions of today must forge their own legendary paths. The world awaits, and only through strength, courage, and unity can Vigil transcend this dark design. Your deeds are known, your valor witnessed, and through fire and flame, you must stand the test to become a legend—the future rests upon your ascension.",
+ascl,TMP Body Text,"As there is an element of divine inspiration in every act of creation, so too are there patrons for the arts of slaughter and destruction. For centuries, the Red Sisters have whispered their poisonous inspirations to the champions of destruction—Samael, Kythis, Xeron—fueling strife in the hearts of mortals and gods alike. They have watched as Vigil waged war after war, each act of defiance feeding their art of carnage. Now the Muses seek a final creation, one to remake Vigil from its very bones, a monument to the darkness they have nurtured across the ages.","As there is an element of divine inspiration in every act of creation, so too are there patrons for the arts of slaughter and destruction. For centuries, the Red Sisters have whispered their poisonous inspirations to the champions of destruction—Samael, Kythis, Xeron—fueling strife in the hearts of mortals and gods alike. They have watched as Vigil waged war after war, each act of defiance feeding their art of carnage. Now the Muses seek a final creation, one to remake Vigil from its very bones, a monument to the darkness they have nurtured across the ages.",
+ascl,TMP Body Text,"Eons have passed since Vigil’s heroes first defended their world against Samael, the Fallen God. Though the Godslayer’s victory brought peace, each hard-won era has been followed by threats even more harrowing. Vigil has birthed heroes to stand against every nightmare, but with each victory, darkness has gathered anew. Now, in the sulfurous depths of Deoful, something ancient stirs—the Red Sisters—the Muses of Malevolence. These shadowy patrons of slaughter and ruin stand poised to weave their own dreadful masterpiece.","Eons have passed since Vigil’s heroes first defended their world against Samael, the Fallen God. Though the Godslayer’s victory brought peace, each hard-won era has been followed by threats even more harrowing. Vigil has birthed heroes to stand against every nightmare, but with each victory, darkness has gathered anew. Now, in the sulfurous depths of Deoful, something ancient stirs—the Red Sisters—the Muses of Malevolence. These shadowy patrons of slaughter and ruin stand poised to weave their own dreadful masterpiece.",
+ascl,TMP Introduction Text,Introduction,Introduction,
+ascl,TMP Body RenownThresholdEffects Text (1),"<margin-right=12em>When you play a card with a Renown Threshold Effect, you gain its bonus as long as your position on the Legendary Track meets or exceeds the space shown on the card.","<margin-right=12em>When you play a card with a Renown Threshold Effect, you gain its bonus as long as your position on the Legendary Track meets or exceeds the space shown on the card.",
+ascl,TMP Body RenownThresholdEffects Text,"<margin-right=12em>Many cards in <i>Ascension: Legends™</i> have a Renown Threshold Effect—an extra ability that activates when you play the card, provided you’ve reached the required space on the Legendary Track for that faction.","<margin-right=12em>Many cards in <i>Ascension: Legends™</i> have a Renown Threshold Effect—an extra ability that activates when you play the card, provided you’ve reached the required space on the Legendary Track for that faction.",
+ascl,TMP Rules Text,Draw two cards instead.,Draw two cards instead.,
+ascl,TMP Rules Text,Draw a card.,Draw a card.,1
+ascl,TMP Class Text,Enlightened Hero,Enlightened Hero,
+ascl,TMP Title,<size=104>A</size>skara of Judgement,<size=104>A</size>skara of Judgement,1
+ascl,TMP Text,Renown Threshold Effects,Renown Threshold Effects,
+ascl,TMP Body LegendaryStatus Text,"When you reach the 12th space on any faction’s path of the Legendary Track, you become a legend within that faction. From that turn onward, you may acquire or defeat 1 card from the Center Row belonging to that faction for free each turn. As with Boons, you can activate this ability at any time during your turn.","When you reach the 12th space on any faction’s path of the Legendary Track, you become a legend within that faction. From that turn onward, you may acquire or defeat 1 card from the Center Row belonging to that faction for free each turn. As with Boons, you can activate this ability at any time during your turn.",
+ascl,TMP Text,Legendary Status,Legendary Status,
+ascl,TMP Body Text,"Each Boon’s effect is written on its Legendary Character card and is unique to that Legend. When you earn a Boon, you may use it at any point during your turn before it ends. This allows you to keep acquiring Heroes and Constructs, advancing on the Legendary Track, or defeating Monsters before activating the Boon for maximum impact. However, unused Boons expire at the end of the turn.","Each Boon’s effect is written on its Legendary Character card and is unique to that Legend. When you earn a Boon, you may use it at any point during your turn before it ends. This allows you to keep acquiring Heroes and Constructs, advancing on the Legendary Track, or defeating Monsters before activating the Boon for maximum impact. However, unused Boons expire at the end of the turn.",
+ascl,TMP Body Text,"At the start of the game, each Legendary Character provides a powerful Boon for players who reach specific milestones on the Legendary Track. Milestones are located on the 3rd, 6th, and 9th spaces of each column on the Legendary Track. As you advance, each time one of your Renown Markers reaches a milestone, you immediately trigger the Boon from the Legendary Character tied to that faction.","At the start of the game, each Legendary Character provides a powerful Boon for players who reach specific milestones on the Legendary Track. Milestones are located on the 3rd, 6th, and 9th spaces of each column on the Legendary Track. As you advance, each time one of your Renown Markers reaches a milestone, you immediately trigger the Boon from the Legendary Character tied to that faction.",
+ascl,TMP Text,Boons,Boons,
+ascl,TMP Body Text,"<margin-right=12em>Note: You only gain Renown from defeating Monsters if they belong to a faction, unless the card specifically says otherwise.","<margin-right=12em>Note: You only gain Renown from defeating Monsters if they belong to a faction, unless the card specifically says otherwise.",
+ascl,TMP Body Text,"<margin-right=12em>Some Boons and card effects also grant Renown. When an effect says to gain Renown, you gain 1 Renown (<sprite=173>) with a single faction of your choice.","<margin-right=12em>Some Boons and card effects also grant Renown. When an effect says to gain Renown, you gain 1 Renown (<sprite=173>) with a single faction of your choice.",
+ascl,TMP Body Text,"<margin-right=12em>In Ascension: Legends™, acquiring or defeating cards in the Center Row earns you Renown (<sprite=172>) with each faction shown on that card. Renown represents your rising status as a legend. Each point you gain moves you one space up the Legendary Track for the corresponding faction(s).","<margin-right=12em>In Ascension: Legends™, acquiring or defeating cards in the Center Row earns you Renown (<sprite=172>) with each faction shown on that card. Renown represents your rising status as a legend. Each point you gain moves you one space up the Legendary Track for the corresponding faction(s).",
+ascl,TMP Rules Text,"Draw a card.<br>Gain <sprite=173>, then banish this.","Draw a card.<br>Gain <sprite=173>, then banish this.",
+ascl,TMP Title,<size=104>A</size>rha Recruit,<size=104>A</size>rha Recruit,1
+ascl,TMP Text,Gaining Renown,Gaining Renown,
+ascl,TMP Body Text,"<margin-right=13.5em>At the heart of Ascension: Legends™ is the Legendary Track, where you’ll compete to earn Renown (<sprite=172>) alongside some of the most iconic characters in the Ascension™ universe.<br><br>As you play, you’ll advance along this track, unlocking special abilities, known as Boons, granted by the Legends overseeing your game.<br><Br>Reach the end of the track, and you’ll secure your place as a legend within one of the four factions, gaining the ability to acquire or defeat a card of that faction for free at the start of each turn.","<margin-right=13.5em>At the heart of Ascension: Legends™ is the Legendary Track, where you’ll compete to earn Renown (<sprite=172>) alongside some of the most iconic characters in the Ascension™ universe.<br><br>As you play, you’ll advance along this track, unlocking special abilities, known as Boons, granted by the Legends overseeing your game.<br><Br>Reach the end of the track, and you’ll secure your place as a legend within one of the four factions, gaining the ability to acquire or defeat a card of that faction for free at the start of each turn.",
+ascl,TMP Text,Legendary Track,Legendary Track,
+ascl,TMP Body Text,"Each Legendary Character comes from one of the four factions in Ascension™ and is loyal to that faction. To win their favor, you’ll need to show your allegiance by acquiring or defeating cards from their faction to earn Renown (<sprite=172>). Earn enough Renown with a faction, and you’ll unlock the Boon granted by that faction’s Legendary Character.","Each Legendary Character comes from one of the four factions in Ascension™ and is loyal to that faction. To win their favor, you’ll need to show your allegiance by acquiring or defeating cards from their faction to earn Renown (<sprite=172>). Earn enough Renown with a faction, and you’ll unlock the Boon granted by that faction’s Legendary Character.",
+ascl,TMP Flavor Text,To live in balance with the world around us is<br>to find our place in the greater tapestry of<br>life.,To live in balance with the world around us is<br>to find our place in the greater tapestry of<br>life.,1
+ascl,TMP Rules Text,"Once this turn, gain <sprite=66>","Once this turn, gain <sprite=66>",
+ascl,TMP Class Text,Lifebound Hero,Lifebound Hero,
+ascl,TMP Title,Nairi,Nairi,1
+ascl,TMP Body Text,"The threat posed by the Muses of Malevolence is one of the greatest Vigil has ever faced, but in its time of need, the champions of Vigil’s past have answered the call to battle. Former Heroes turned Legends, the Legendary Characters selected at the start of each game wait only for a worthy Hero to appear before lending their power to the struggle against the Red Sisters.","The threat posed by the Muses of Malevolence is one of the greatest Vigil has ever faced, but in its time of need, the champions of Vigil’s past have answered the call to battle. Former Heroes turned Legends, the Legendary Characters selected at the start of each game wait only for a worthy Hero to appear before lending their power to the struggle against the Red Sisters.",
+ascl,TMP Text,Legendary Cards,Legendary Cards,
+ascl,TMP Body Text,"Insight (<sprite=112>) is gained through various card effects and Dreamborn cards (see below). Unlike other resources, you do not lose unspent Insight at the end of your turn.
+
+In <i>Ascension Delirium</i>, players start with different amounts of <sprite=112>. The player who goes first starts with zero <sprite=112>. The player who goes second starts with <sprite=113>, third starts with <sprite=114> and fourth starts with <sprite=115>. 
+
+","Insight (<sprite=112>) is gained through various card effects and Dreamborn cards (see below). Unlike other resources, you do not lose unspent Insight at the end of your turn.
+
+In <i>Ascension Delirium</i>, players start with different amounts of <sprite=112>. The player who goes first starts with zero <sprite=112>. The player who goes second starts with <sprite=113>, third starts with <sprite=114> and fourth starts with <sprite=115>.",
+ascl,TMP Text,Insight,Insight,
+ascl,TMP Title Text,What's New,What's New,
+cotg,TMP Text,Log,Log,
+cotg,TMP Text,"<allcaps>Discard Pile:</allcaps>
+Press to switch the view to view your opponent's discard pile.","<allcaps>Discard Pile:</allcaps>
+Press to switch the view to view your opponent's discard pile.",
+cotg,TMP Text,"<allcaps>Hand:</allcaps>
+How many cards are in your opponent's hand.","<allcaps>Hand:</allcaps>
+How many cards are in your opponent's hand.",
+cotg,TMP Text,"<allcaps>Constructs:</allcaps>
+Press to switch the view to your opponent's Constructs.","<allcaps>Constructs:</allcaps>
+Press to switch the view to your opponent's Constructs.",
+cotg,TMP Text,"<allcaps>Opponent Box:</allcaps>
+Press to expand each oppoent's box to view their cards in detail.","<allcaps>Opponent Box:</allcaps>
+Press to expand each oppoent's box to view their cards in detail.",
+cotg,TMP Text,"<allcaps>Online Indicator:</allcaps>
+Used to show an opponent's online status","<allcaps>Online Indicator:</allcaps>
+Used to show an opponent's online status",
+cotg,TMP Text,Deck,Deck,
+cotg,TMP Text,honor points,honor points,
+cotg,TMP Text,Avatar,Avatar,
+cotg,TMP Text,Name,Name,
+cotg,TMP Text,Opponent Area,Opponent Area,
+cotg,TMP Text,"<allcaps>Discard Pile:</allcaps>
+Press to view the cards you've recently played.","<allcaps>Discard Pile:</allcaps>
+Press to view the cards you've recently played.",
+cotg,TMP Text,"<allcaps>End Turn:</allcaps>
+Press this to end your turn and pass to the next player.","<allcaps>End Turn:</allcaps>
+Press this to end your turn and pass to the next player.",
+cotg,TMP Text,"<allcaps>Play All:</allcaps>
+places all of the cards from your hand into the Action Area.","<allcaps>Play All:</allcaps>
+places all of the cards from your hand into the Action Area.",
+cotg,TMP Text,"<allcaps>Menu:</allcaps>
+Opens a menu with a list of game options.","<allcaps>Menu:</allcaps>
+Opens a menu with a list of game options.",
+cotg,TMP Text,"<allcaps>Player's Hand:</allcaps>
+Your current cards that can be played this turn by dragging them to the Action Area.","<allcaps>Player's Hand:</allcaps>
+Your current cards that can be played this turn by dragging them to the Action Area.",
+cotg,TMP Text,"<allcaps>Construct Tray:</allcaps>
+Press to open your Construct Tray to view and play your Constructs.","<allcaps>Construct Tray:</allcaps>
+Press to open your Construct Tray to view and play your Constructs.",
+cotg,TMP Text,Draw Deck,Draw Deck,
+cotg,TMP Text,Honor Points,Honor Points,
+cotg,TMP Text,Info Line,Info Line,
+cotg,TMP Text,Player Area,Player Area,
+cotg,TMP Text,"<allcaps>Void:</allcaps>
+Defeated monsters are sent here.","<allcaps>Void:</allcaps>
+Defeated monsters are sent here.",
+cotg,TMP Text,"<allcaps>Player's Power:</allcaps>
+Player's Power for their turn.","<allcaps>Player's Power:</allcaps>
+Player's Power for their turn.",
+cotg,TMP Text,"<allcaps>Player's Runes:</allcaps>
+Player's Rune count for their turn.","<allcaps>Player's Runes:</allcaps>
+Player's Rune count for their turn.",
+cotg,TMP Text,"<allcaps>Center Row Draw Pile:</allcaps>
+The Center Row cards are drawn from here.","<allcaps>Center Row Draw Pile:</allcaps>
+The Center Row cards are drawn from here.",
+cotg,TMP Text,"<allcaps>Center Row:</allcaps>
+This Center Row contains the cards you can acquire or defeat.","<allcaps>Center Row:</allcaps>
+This Center Row contains the cards you can acquire or defeat.",
+cotg,TMP Text,"<allcaps>Global Honor Pool:</allcaps>
+Honor Points for the game are drawn from this pool.","<allcaps>Global Honor Pool:</allcaps>
+Honor Points for the game are drawn from this pool.",
+cotg,TMP Text,Cultist,Cultist,
+cotg,TMP Text,Power Card Deck,Power Card Deck,
+cotg,TMP Text,Rune Card Deck,Rune Card Deck,
+cotg,TMP Text,"Top Area
+",Top Area,
+cotg,TMP Text,"RARITY & SET ICON
+Each <sprite=146> represents a copy of the card in the center deck.","RARITY & SET ICON
+Each <sprite=146> represents a copy of the card in the center deck.",
+cotg,TMP Text,"COST
+The amount of Power you must spend to acquire this card.","COST
+The amount of Power you must spend to acquire this card.",
+cotg,TMP Text,"REWARD
+What this monster does when defeated.","REWARD
+What this monster does when defeated.",
+cotg,TMP Text,NAME,NAME,
+cotg,TMP Rules Text,"
+<b>Reward:</b> Gain <sprite=65>.  Draw two cards.",<b>Reward:</b> Gain <sprite=65>.  Draw two cards.,
+cotg,TMP Class Text,Monster,Monster,
+cotg,TMP Title,<size=104>E</size>arth Tyrant,<size=104>E</size>arth Tyrant,1
+cotg,TMP Text,Monsters,Monsters,
+cotg,TMP Text,"FLAVOR TEXT
+Flavor text has no game effect.","FLAVOR TEXT
+Flavor text has no game effect.",
+cotg,TMP Text,"EFFECT
+What the card does when played or in play.","EFFECT
+What the card does when played or in play.",
+cotg,TMP Text,"COST
+The number of Runes you must spend to acquire this card.","COST
+The number of Runes you must spend to acquire this card.",
+cotg,TMP Text,"HONOR
+How much Honor this card is worth.","HONOR
+How much Honor this card is worth.",
+cotg,TMP Text,"FACTION
+There are 4 different factions:
+<color=#4cbbeb>Enlightened
+<color=#7fc241>Lifebound
+<color=#b6b6b6>Mechana
+<color=#bb8bbe>Void
+","FACTION
+There are 4 different factions:
+<color=#4cbbeb>Enlightened
+<color=#7fc241>Lifebound
+<color=#b6b6b6>Mechana
+<color=#bb8bbe>Void",
+cotg,TMP Flavor Text,This is the flavor part.,This is the flavor part.,
+cotg,TMP Rules Text,"Once per turn, when you acquire another Mechana Construct, you may put it directly in play.","Once per turn, when you acquire another Mechana Construct, you may put it directly in play.",
+cotg,TMP Class Text,Mechana Construct,Mechana Construct,
+cotg,TMP Title,<size=104>R</size>ocket Courier X-99,<size=104>R</size>ocket Courier X-99,1
+cotg,TMP Text,Constructs,Constructs,
+cotg,TMP Flavor Text,Sharpen the mind and the sword will follow.,Sharpen the mind and the sword will follow.,
+cotg,TMP Rules Text,"
+Defeat a Monster that has <sprite=4>or less.",Defeat a Monster that has <sprite=4>or less.,
+cotg,TMP Class Text,Enlightened Hero,Enlightened Hero,
+cotg,TMP Title,<size=104>A</size>rha Templar,<size=104>A</size>rha Templar,
+cotg,TMP Text,Heroes,Heroes,
+cotg,TMP Body Text,"The game ends when a certain amount of Honor has been earned, depending on the number of players.	
+<align=center>
+2 Players = <sprite=77> Honor   3 Players = <sprite=78> Honor   4 Players = <sprite=79> Honor<br></align><br>When the final Honor point is earned, the game ends at the end of the current round (after the last player to start the game takes a turn).  Thus, each player will play the same number of turns during the course of the game and may still gain Honor even when the Honor pool is depleted.<br><br>Cards in each player's deck are also worth Honor points, indicated by the number in the Honor symbol (<sprite=64>) in the bottom left corner of each card.  When the game is over, all Honor points from Heroes and Constructs in your deck and hand are added to the Honor you gained during the game.  The player with the most total Honor is the winner!<br><br>If multiple players have the same number of Honor Points, the last player to start wins (i.e., the starting player loses all ties, the second player loses to the third and fouth, etc.).<br><br>","The game ends when a certain amount of Honor has been earned, depending on the number of players.
+
+<align=center>
+2 Players = <sprite=77> Honor   3 Players = <sprite=78> Honor   4 Players = <sprite=79> Honor<br></align><br>When the final Honor point is earned, the game ends at the end of the current round (after the last player to start the game takes a turn).  Thus, each player will play the same number of turns during the course of the game and may still gain Honor even when the Honor pool is depleted.<br><br>
+
+Cards in each player's deck are also worth Honor points, indicated by the number in the Honor symbol (<sprite=64>) in the bottom left corner of each card.  When the game is over, all Honor points from Heroes and Constructs in your deck and hand are added to the Honor you gained during the game.  The player with the most total Honor is the winner!<br><br>If multiple players have the same number of Honor Points, the last player to start wins (i.e., the starting player loses all ties, the second player loses to the third and fouth, etc.).<br><br>",
+cotg,TMP Text,Game End:,Game End:,
+cotg,TMP Body Text,"<margin-right=8em>To defeat a Monster, you must have enough Power.  You may defeat any number of Monsters as long as you have enough Power.  Cards that are eligible to be defeated will glow red. 
+
+
+
+","<margin-right=8em>To defeat a Monster, you must have enough Power.  You may defeat any number of Monsters as long as you have enough Power.  Cards that are eligible to be defeated will glow red.",
+cotg,TMP Rules Text,"
+<size=64><align=center>Reward: <sprite=65></align></size>
+
+(The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.)
+
+","<size=64><align=center>Reward: <sprite=65></align></size>
+
+(The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.)",
+cotg,TMP Rules Text,"<align=center>Reward: <sprite=65></align></size>
+
+(The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.)
+
+","<align=center>Reward: <sprite=65></align></size>
+
+(The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.)",
+cotg,TMP Title,ultist,ultist,
+cotg,TMP Text,Defeating Monsters:,Defeating Monsters:,
+cotg,TMP Body Text,"<margin-right=8em>You need Runes to acquire Heroes and Constructs.  Runes come from Heroes played from your hand or from Constructs you have in play.  You may acquire any number of cards as long as you have enough Runes.  Cards that are eligible to be acquired will glow green.
+
+","<margin-right=8em>
+You need Runes to acquire Heroes and Constructs.  Runes come from Heroes played from your hand or from Constructs you have in play.  You may acquire any number of cards as long as you have enough Runes.  Cards that are eligible to be acquired will glow green.",
+cotg,TMP Class Text,Hero,Hero,
+cotg,TMP Title,ystic,ystic,
+cotg,TMP Text,Acquiring Heroes and Constructs:,Acquiring Heroes and Constructs:,
+cotg,TMP Body Text,"1. <indent=4%>Play cards from your hand to gain Runes, Power, and Honor.  Acquire Heroes and Constructs for future turns.  Defeat Monsters for Honor and rewards.</indent>
+
+2. <indent=4%>After you are done acquiring Heroes and Constructs and defeating Monsters, all cards in your hand are placed into your discard pile.</indent>
+
+3. <indent=4%>You are dealt five cards from your personal deck to replenish your hand.  If you run out of cards, your discard pile will automatically be shuffled and the cards will be moved to your personal deck.</indent>
+
+","1. <indent=4%>Play cards from your hand to gain Runes, Power, and Honor.  Acquire Heroes and Constructs for future turns.  Defeat Monsters for Honor and rewards.
+
+</indent>
+
+2. <indent=4%>After you are done acquiring Heroes and Constructs and defeating Monsters, all cards in your hand are placed into your discard pile.
+
+</indent>
+
+3. <indent=4%>You are dealt five cards from your personal deck to replenish your hand.  If you run out of cards, your discard pile will automatically be shuffled and the cards will be moved to your personal deck.
+
+</indent>",
+cotg,TMP Text,Play Order:,Play Order:,
+cotg,TMP Honor Text,"<indent=4em><b>HONOR:</b> Honor is the key to victory in Ascension.  Whoever earns the most Honor throughout the game wins and earns the title of Godslayer! 
+
+",<indent=4em><b>HONOR:</b> Honor is the key to victory in Ascension.  Whoever earns the most Honor throughout the game wins and earns the title of Godslayer!,
+cotg,TMP Power Text,"<indent=4em><b>POWER:</b> Power is the second resource in Ascension.  Power is used to defeat Monsters and earn rewards. 
+
+",<indent=4em><b>POWER:</b> Power is the second resource in Ascension.  Power is used to defeat Monsters and earn rewards.,
+cotg,TMP Rune Text,"<indent=4em><b>RUNES:</b> Runes are one of the two main resources in Ascension.  Runes are used to acquire Heroes and Constructs so you can add them to your deck.
+
+",<indent=4em><b>RUNES:</b> Runes are one of the two main resources in Ascension.  Runes are used to acquire Heroes and Constructs so you can add them to your deck.,
+cotg,TMP Text,Resources:,Resources:,
+cotg,TMP Body Text,"For millennia, the world of <b>Vigil</b> has been isolated and protected from other realms.  Now, the barrier between dimensions is failing, and <b>Samael, the Fallen God</b>, has returned with his army of Monsters from the beyond!
+
+You are one of the few warriors capable of facing this threat and defending your world, but you cannot do it alone! You must summon powerful Heroes and Constructs to aid you in your battles.
+
+The player who gains the most <b>Honor Points</b> will lead his army to defeat the <b>Fallen One</b> and earn the title of <b>Godslayer. ","For millennia, the world of <b>Vigil</b> has been isolated and protected from other realms.  Now, the barrier between dimensions is failing, and <b>Samael, the Fallen God</b>, has returned with his army of Monsters from the beyond!
+
+You are one of the few warriors capable of facing this threat and defending your world, but you cannot do it alone! You must summon powerful Heroes and Constructs to aid you in your battles.
+
+The player who gains the most <b>Honor Points</b> will lead his army to defeat the <b>Fallen One</b> and earn the title of <b>Godslayer.",
+cotg,TMP Text,Rulebook,Rulebook,
+dlrm,TMP Body Text,"Long ago, the god Adayu lost his grip on reality, and in his madness, unraveled the realms of Vigil. Heroes from the four factions rose to save their shattered world, and from the ashes rose a new world, New Vigil.
+
+Even after Adayu’s redemption, New Vigil remained littered with portals to previously unreachable worlds - a final gift from the mad god. One such world was the Dreamscape, a realm of dreams and nightmares, where no conscious being was ever meant to enter.
+
+It wasn’t long before the factions of New Vigil found their way into the Dreamscape, and a war for dominance began. Thousands upon thousands died in that realm, a place death’s icy fingers had never touched, and the Dreamscape began to warp.
+
+Pasythea, the Aegis, Guardian of the Dreamscape, witnessed the corruption of her realm and feared that a prolonged war would mean annihilation for conscious and unconscious beings alike.
+
+Pasythea chose to banish the factions from her domain, forcing champion after champion back into the conscious world.  In her final moment, mortally wounded by Emri, Champion of the Void, The Aegis warded the gate to New Vigil, cutting off the Dreamscape forever.
+
+Or so she thought.
+
+It was in the Valley of the Ancients, hidden away in the forgotten jungles of the world, that explorers came upon a new gate to the Dreamscape. The foolhardy explorers opened the portal. They saw into the unconscious realm and learned the consequences of their ancestor’s meddling.
+
+A broken Dreamscape, twisted by the war between the conscious and the unconscious, poured madness into the world. The corrupted energy infected the factions of New Vigil, manifesting their wildest dreams and darkest nightmares as unthinkable versions of their champions.
+
+Now, the world is in a state of delirium, and the twisted heroes of New Vigil must rise to push back the tide of monsters and madness.","Long ago, the god Adayu lost his grip on reality, and in his madness, unraveled the realms of Vigil. Heroes from the four factions rose to save their shattered world, and from the ashes rose a new world, New Vigil.
+
+Even after Adayu’s redemption, New Vigil remained littered with portals to previously unreachable worlds - a final gift from the mad god. One such world was the Dreamscape, a realm of dreams and nightmares, where no conscious being was ever meant to enter.
+
+It wasn’t long before the factions of New Vigil found their way into the Dreamscape, and a war for dominance began. Thousands upon thousands died in that realm, a place death’s icy fingers had never touched, and the Dreamscape began to warp.
+
+Pasythea, the Aegis, Guardian of the Dreamscape, witnessed the corruption of her realm and feared that a prolonged war would mean annihilation for conscious and unconscious beings alike.
+
+Pasythea chose to banish the factions from her domain, forcing champion after champion back into the conscious world.  In her final moment, mortally wounded by Emri, Champion of the Void, The Aegis warded the gate to New Vigil, cutting off the Dreamscape forever.
+
+Or so she thought.
+
+It was in the Valley of the Ancients, hidden away in the forgotten jungles of the world, that explorers came upon a new gate to the Dreamscape. The foolhardy explorers opened the portal. They saw into the unconscious realm and learned the consequences of their ancestor’s meddling.
+
+A broken Dreamscape, twisted by the war between the conscious and the unconscious, poured madness into the world. The corrupted energy infected the factions of New Vigil, manifesting their wildest dreams and darkest nightmares as unthinkable versions of their champions.
+
+Now, the world is in a state of delirium, and the twisted heroes of New Vigil must rise to push back the tide of monsters and madness.",
+dlrm,TMP Text,"Endless possibilities await...
+",Endless possibilities await...,
+dlrm,TMP Introduction Text,Introduction,Introduction,
+dlrm,TMP Body Text,"The Delirium Die is a special Ascension 6-sided die that can be rolled to gain different effects. During a player’s turn, that player may spend <sprite=117> to roll the Delirium Die. When the die is rolled, the player gains whatever effect is listed on the side facing up.","The Delirium Die is a special Ascension 6-sided die that can be rolled to gain different effects. During a player’s turn, that player may spend <sprite=117> to roll the Delirium Die. When the die is rolled, the player gains whatever effect is listed on the side facing up.",
+dlrm,TMP Text,Delirium Die,Delirium Die,
+dlrm,TMP Body Text,"<margin-right=12em>When a card with Fate Aution enters the center row, players may bid <sprite=112> to gain the effect listed underneath the Fate text. Starting with the active player and moving clockwise, each player may bid <sprite=112>. To bid, a player must bid at least <sprite=113>, must bid higher than the current bid and cannot bid more <sprite=112> than they have. If a player chooses not to bid or can’t bid, that player is out. Players continue making bids until one person is left in the running. The player that wins the Auction must pay <sprite=112> equal to their winning bid and copies the effect of the Auction card immediately.","<margin-right=12em>When a card with Fate Aution enters the center row, players may bid <sprite=112> to gain the effect listed underneath the Fate text. Starting with the active player and moving clockwise, each player may bid <sprite=112>. To bid, a player must bid at least <sprite=113>, must bid higher than the current bid and cannot bid more <sprite=112> than they have. If a player chooses not to bid or can’t bid, that player is out. Players continue making bids until one person is left in the running. The player that wins the Auction must pay <sprite=112> equal to their winning bid and copies the effect of the Auction card immediately.",
+dlrm,TMP Flavor Text,This is the flavor part.,This is the flavor part.,
+dlrm,TMP Rules Text,"Draw a card. If you control two or more Constructs, draw an additional card.","Draw a card. If you control two or more Constructs, draw an additional card.",
+dlrm,TMP Fate Text,"<b>Fate: Auction</b> <sprite=112
+> to gain the effect below.","<b>Fate: Auction</b> <sprite=112
+> to gain the effect below.",
+dlrm,TMP Class Text,Mechana Hero,Mechana Hero,
+dlrm,TMP Title,<size=104>I</size>nferna Templar,<size=104>I</size>nferna Templar,
+dlrm,TMP Text,Fate - Auction,Fate - Auction,
+dlrm,TMP Body Text,"<margin-right=12em>When you play a card with Recur, first gain the effect listed above the Recur text. Then, you may spend <sprite=112> equal to the number listed for the Recur cost. If you do, gain the effect of the card a second time. You may only use a Recur ability once per card.
+
+For example: When you play Nihil Chemist <i>(pictured on the right)</i>, You first gain <sprite=1> and you may banish a card in your hand or discard pile. After that, you have the option to Recur the effect by paying <sprite=114>. If you pay the Recur cost, you would gain an additional <sprite=1> and would have the option to banish an additional card. You can only Recur this card once when you play it. ","<margin-right=12em>When you play a card with Recur, first gain the effect listed above the Recur text. Then, you may spend <sprite=112> equal to the number listed for the Recur cost. If you do, gain the effect of the card a second time. You may only use a Recur ability once per card.
+
+For example: When you play Nihil Chemist <i>(pictured on the right)</i>, You first gain <sprite=1> and you may banish a card in your hand or discard pile. After that, you have the option to Recur the effect by paying <sprite=114>. If you pay the Recur cost, you would gain an additional <sprite=1> and would have the option to banish an additional card. You can only Recur this card once when you play it.",
+dlrm,TMP Rules Text,Gain <sprite=1>. You may banish a card in your hand or discard pile.<br>You may pay <sprite=114> to Recur. <i>(Gain the effect listed above an additional time.  You may only Recur ONCE.),Gain <sprite=1>. You may banish a card in your hand or discard pile.<br>You may pay <sprite=114> to Recur. <i>(Gain the effect listed above an additional time.  You may only Recur ONCE.),
+dlrm,TMP Class Text,Void Hero,Void Hero,
+dlrm,TMP Title,<size=104>N</size>ihil Chemist,<size=104>N</size>ihil Chemist,1
+dlrm,TMP Text,Recur,Recur,
+dlrm,TMP Body Text,"<margin-right=12em>Dreamborn cards can be identified by their gold Dreamborn card frame.
+
+When a Dreamborn card enters the center row, EACH player gains <sprite=113>. Additionally, when a player acquires a Dreamborn card, ONLY THAT player gains <sprite=113>.
+","<margin-right=12em>Dreamborn cards can be identified by their gold Dreamborn card frame.
+
+When a Dreamborn card enters the center row, EACH player gains <sprite=113>. Additionally, when a player acquires a Dreamborn card, ONLY THAT player gains <sprite=113>.",
+dlrm,TMP Rules Text,Defeat a Monster in the center row or the void without paying its cost. Put that Monster on the bottom of the center deck.,Defeat a Monster in the center row or the void without paying its cost. Put that Monster on the bottom of the center deck.,1
+dlrm,TMP Dreamborn Text,Dreamborn,Dreamborn,
+dlrm,TMP Class Text,Enlightened Hero,Enlightened Hero,
+dlrm,TMP Title,<size=104>E</size>mri Lightbringer,<size=104>E</size>mri Lightbringer,
+dlrm,TMP Text,"Dreamborn Cards",Dreamborn Cards,
+dlrm,TMP Body Text,"Insight (<sprite=112>) is gained through various card effects and Dreamborn cards (see below). Unlike other resources, you do not lose unspent Insight at the end of your turn.
+
+In <i>Ascension Delirium</i>, players start with different amounts of <sprite=112>. The player who goes first starts with zero <sprite=112>. The player who goes second starts with <sprite=113>, third starts with <sprite=114> and fourth starts with <sprite=115>. 
+
+","Insight (<sprite=112>) is gained through various card effects and Dreamborn cards (see below). Unlike other resources, you do not lose unspent Insight at the end of your turn.
+
+In <i>Ascension Delirium</i>, players start with different amounts of <sprite=112>. The player who goes first starts with zero <sprite=112>. The player who goes second starts with <sprite=113>, third starts with <sprite=114> and fourth starts with <sprite=115>.",
+dlrm,TMP Text,Insight,Insight,
+dlrm,TMP Title Text,What's New,What's New,
+dlv,TMP Body Text,"The Dreamscape was sealed, locked away by the champions of New Vigil, and protected by its defender: Pasetheya, the Aegis.<br><br>But no doors stay locked forever.<br><br>It was in the Valley of the Ancients, in the forgotten jungles of the world, that explorers came upon a new gate to the Dreamscape; a portal manifest during the years of Adayu’s madness.<br><br>Despite the warnings, they broke open the portal and could only watch as all the horrors of the unconscious realm flooded into their world in a tidal wave of delirium.<br><br>Emri, Dhartha, Kor, and Cetra, the immortal champions of New Vigil, fought desperately to close the gate, but in the end, they found themselves among the first of the Dreamscape’s victims, warped by its power.<br><br>The energy seeped into the ground, infected the plants and animals, and changed the nature of all things. New and terrifying monsters sprung up, bringing death, madness, and chaos to the people of every faction.<br><br>But from the chaos, new heroes rose up, different from the champions of old. These heroes did not reject the dreamscape energy; they embraced it. Learning to wield it as weapons, channel it as magic, and harness it as fuel for their machines.<br><br>This is the final push to free the land from madness once and for all. As New Vigil dissolves into a state of delirium, you must lead the champions of the old world and the heroes of the new to call forth Pasythea, the protector of the Dreamscape, to seal the gate and stabilize the world.<br><br>New Vigil’s deliverance is in your hands!","The Dreamscape was sealed, locked away by the champions of New Vigil, and protected by its defender: Pasetheya, the Aegis.<br><br>But no doors stay locked forever.<br><br>It was in the Valley of the Ancients, in the forgotten jungles of the world, that explorers came upon a new gate to the Dreamscape; a portal manifest during the years of Adayu’s madness.<br><br>Despite the warnings, they broke open the portal and could only watch as all the horrors of the unconscious realm flooded into their world in a tidal wave of delirium.<br><br>Emri, Dhartha, Kor, and Cetra, the immortal champions of New Vigil, fought desperately to close the gate, but in the end, they found themselves among the first of the Dreamscape’s victims, warped by its power.<br><br>The energy seeped into the ground, infected the plants and animals, and changed the nature of all things. New and terrifying monsters sprung up, bringing death, madness, and chaos to the people of every faction.<br><br>But from the chaos, new heroes rose up, different from the champions of old. These heroes did not reject the dreamscape energy; they embraced it. Learning to wield it as weapons, channel it as magic, and harness it as fuel for their machines.<br><br>This is the final push to free the land from madness once and for all. As New Vigil dissolves into a state of delirium, you must lead the champions of the old world and the heroes of the new to call forth Pasythea, the protector of the Dreamscape, to seal the gate and stabilize the world.<br><br>New Vigil’s deliverance is in your hands!",
+dlv,TMP Text,"The world will never be the same.",The world will never be the same.,
+dlv,TMP Introduction Text,Introduction,Introduction,
+dlv,TMP Body Text,"<margin-right=12em>Dreambind Monsters can be controlled and used in your deck if you pay their Dreambind cost. When you defeat a Dreambind Monster, first gain its reward, then you may pay the Dreambind <sprite=112> cost listed in the text. If you do, the Monster goes to your discard pile instead of the Void. Whenever you play a Dreambind Monster from your hand, gain its reward. You do not have to pay the Dreambind cost every time you play it to keep it in your deck.","<margin-right=12em>Dreambind Monsters can be controlled and used in your deck if you pay their Dreambind cost. When you defeat a Dreambind Monster, first gain its reward, then you may pay the Dreambind <sprite=112> cost listed in the text. If you do, the Monster goes to your discard pile instead of the Void. Whenever you play a Dreambind Monster from your hand, gain its reward. You do not have to pay the Dreambind cost every time you play it to keep it in your deck.",
+dlv,TMP Flavor Text,A wish granted is a dream destroyed,A wish granted is a dream destroyed,
+dlv,TMP Rules Text,"<b>Reward:</b> Gain <sprite=67>. Take <sprite=113> from an opponent.
+<b>Dreambind:</b> <sprite=113>","<b>Reward:</b> Gain <sprite=67>. Take <sprite=113> from an opponent.
+<b>Dreambind:</b> <sprite=113>",
+dlv,TMP Class Text,Monster,Monster,
+dlv,TMP Title,<size=104>W</size>arprogue,<size=104>W</size>arprogue,
+dlv,TMP Text,Dreambind Monsters,Dreambind Monsters,
+dlv,TMP Body Text,"<margin-right=12em>A Hero with Phantasm can be played directly from the center row. During your turn, you may pay the <sprite=112> cost listed in the Phantasm text. If you do, you play that card right then and there. Gain its effect and then banish it to the Void. Keep in mind, that for effects such as Unite, a card played with Phantasm counts for those bonuses. Cards with Phantasm can also be acquired as normal by paying their <sprite=32>cost.","<margin-right=12em>A Hero with Phantasm can be played directly from the center row. During your turn, you may pay the <sprite=112> cost listed in the Phantasm text. If you do, you play that card right then and there. Gain its effect and then banish it to the Void. Keep in mind, that for effects such as Unite, a card played with Phantasm counts for those bonuses. Cards with Phantasm can also be acquired as normal by paying their <sprite=32>cost.",
+dlv,TMP Flavor Text,My blade severs both flesh and soul,My blade severs both flesh and soul,
+dlv,TMP Rules Text,"Phantasm - While this is in the center row, you may pay <sprite=117> to banish and play this.<br>Draw two cards.","Phantasm - While this is in the center row, you may pay <sprite=117> to banish and play this.<br>Draw two cards.",
+dlv,TMP Class Text,Enlightened Hero,Enlightened Hero,
+dlv,TMP Title,<size=104>A</size>ether Warrior,<size=104>A</size>ether Warrior,1
+dlv,TMP Text,Phantasm,Phantasm,
+dlv,TMP Body Text,"<margin-right=12em>At the start of the game, place Pasythea on the board, at the top slot designated for her. Any player may pay her <sprite=112> cost during their turn to acquire her straight to their hand.<br><br>Pasythea does not count as a card in the center row.","<margin-right=12em>At the start of the game, place Pasythea on the board, at the top slot designated for her. Any player may pay her <sprite=112> cost during their turn to acquire her straight to their hand.<br><br>Pasythea does not count as a card in the center row.",
+dlv,TMP Rules Text,"This Hero Counts as all factions.<br>When you acquire this, it goes directly to your hand.
+Gain <sprite=34>, <sprite=2>, <sprite=66> and draw a card.
+","This Hero Counts as all factions.<br>When you acquire this, it goes directly to your hand.
+Gain <sprite=34>, <sprite=2>, <sprite=66> and draw a card.",
+dlv,TMP Class Text,Hero,Hero,
+dlv,TMP Title,"<size=150%>P</size>asythea, The Redeemed","<size=150%>P</size>asythea, The Redeemed",
+dlv,TMP Text,Pasythea,Pasythea,
+dlv,TMP Body Text,"<margin-right=12em>When playing with <i>Ascension: Deliverance</i>™, each player starts with an 11th starting card, the Dreamseeker.","<margin-right=12em>When playing with <i>Ascension: Deliverance</i>™, each player starts with an 11th starting card, the Dreamseeker.",
+dlv,TMP Flavor Text,Deams maketh and dreams breaketh,Deams maketh and dreams breaketh,
+dlv,TMP Rules Text,Gain <sprite=113> and draw a card,Gain <sprite=113> and draw a card,
+dlv,TMP Title,<size=104>D</size>reamseeker,<size=104>D</size>reamseeker,1
+dlv,TMP Text,New starting card - Dreamseeker,New starting card - Dreamseeker,
+dlv,TMP Body Text,"<margin-right=12em>Dreamborn cards can be identified by their gold Dreamborn card frame.
+
+When a Dreamborn card enters the center row, EACH player gains <sprite=113>. Additionally, when a player acquires a Dreamborn card, ONLY THAT player gains <sprite=113>.
+","<margin-right=12em>Dreamborn cards can be identified by their gold Dreamborn card frame.
+
+When a Dreamborn card enters the center row, EACH player gains <sprite=113>. Additionally, when a player acquires a Dreamborn card, ONLY THAT player gains <sprite=113>.",
+dlv,TMP Rules Text,Gain <sprite=34>. You may put the next<br>Construct you acquire this turn directly<br>into play,Gain <sprite=34>. You may put the next<br>Construct you acquire this turn directly<br>into play,
+dlv,TMP Dreamborn Text,Dreamborn,Dreamborn,
+dlv,TMP Class Text,Mechana Hero,Mechana Hero,
+dlv,TMP Title,<size=104>S</size>tone Artificers,<size=104>S</size>tone Artificers,1
+dlv,TMP Text,"Dreamborn Cards",Dreamborn Cards,
+dlv,TMP Body Text,"Insight (<sprite=112>) is gained through card effects and Dreamborn cards (see below). Unlike most other resources, you do not lose unspent Insight at the end of your turn.<br><br>In <i>Ascension: Deliverance</i>™, players start with different amounts of  <sprite=112>. The player who goes first starts with <sprite=123>. The player who goes second starts with <sprite=113>, third starts with <sprite=114> and fourth starts with <sprite=115>.
+
+","Insight (<sprite=112>) is gained through card effects and Dreamborn cards (see below). Unlike most other resources, you do not lose unspent Insight at the end of your turn.<br><br>In <i>Ascension: Deliverance</i>™, players start with different amounts of  <sprite=112>. The player who goes first starts with <sprite=123>. The player who goes second starts with <sprite=113>, third starts with <sprite=114> and fourth starts with <sprite=115>.",
+dlv,TMP Text,Insight,Insight,
+dlv,TMP Title Text,What's New,What's New,
+ds,TMP Body Text,"For the first time since most of its inhabitants can remember, New Vigil is at peace. Rallied by their champions, the four factions drove the Cult of Deofol back into the shadows. This time of prosperity gave way to a cultural and intellectual renaissance that had never been seen before.
+
+Free to once again pursue their own passions, the monks and seers began to catch glimpses of a new realm, seemingly always at the edge of their perception, like a mirage shimmering just beyond the edges of reality. Dismissed as merely visions at first, the shared experiences soon revealed that this was something more, a pocket of creation left behind in the wake of Adayu’s ascendancy. 
+
+This Dreamscape, as the first visitors referred to it, reflected the possibilities and impossibilities that awaited New Vigil and the people that inhabited it, but where there are dreams, there are also nightmares. 
+
+As more people gained access to the dream world, they brought with them their own goals and desires, for better or worse. Seeing the potential for abuse of the new power, the factions chose Pasythea, an Askaran warrior, to serve as the Dreamscape’s guardian in the event that it should need one.
+
+Now, as the factions gain new insight into the possibilities that await them in the Dreamscape, they must also be on guard for those who might abuse the power for their own nefarious ends. Join them in a world of infinite possibilities as they explore the glorious future that awaits New Vigil.
+
+","For the first time since most of its inhabitants can remember, New Vigil is at peace. Rallied by their champions, the four factions drove the Cult of Deofol back into the shadows. This time of prosperity gave way to a cultural and intellectual renaissance that had never been seen before.
+
+Free to once again pursue their own passions, the monks and seers began to catch glimpses of a new realm, seemingly always at the edge of their perception, like a mirage shimmering just beyond the edges of reality. Dismissed as merely visions at first, the shared experiences soon revealed that this was something more, a pocket of creation left behind in the wake of Adayu’s ascendancy.
+
+This Dreamscape, as the first visitors referred to it, reflected the possibilities and impossibilities that awaited New Vigil and the people that inhabited it, but where there are dreams, there are also nightmares.
+
+As more people gained access to the dream world, they brought with them their own goals and desires, for better or worse. Seeing the potential for abuse of the new power, the factions chose Pasythea, an Askaran warrior, to serve as the Dreamscape’s guardian in the event that it should need one.
+
+Now, as the factions gain new insight into the possibilities that await them in the Dreamscape, they must also be on guard for those who might abuse the power for their own nefarious ends. Join them in a world of infinite possibilities as they explore the glorious future that awaits New Vigil.",
+ds,TMP Text,"Endless possibilities await...
+",Endless possibilities await...,
+ds,TMP Introduction Text,Introduction,Introduction,
+ds,TMP Text,"RARITY & SET ICON
+Each <sprite=146> represents a copy of the card in the center deck.","RARITY & SET ICON
+Each <sprite=146> represents a copy of the card in the center deck.",
+ds,TMP Text,"EFFECT
+What the card does when played or in play.","EFFECT
+What the card does when played or in play.",
+ds,TMP Text,"COST
+The number of Runes you must spend to acquire this card.","COST
+The number of Runes you must spend to acquire this card.",
+ds,TMP Text,"FLAVOR TEXT
+Flavor text has no game effect.","FLAVOR TEXT
+Flavor text has no game effect.",
+ds,TMP Text,"FACTION
+There are 4 different factions:
+<color=#4cbbeb>Enlightened
+<color=#7fc241>Lifebound
+<color=#b6b6b6>Mechana
+<color=#bb8bbe>Void
+","FACTION
+There are 4 different factions:
+<color=#4cbbeb>Enlightened
+<color=#7fc241>Lifebound
+<color=#b6b6b6>Mechana
+<color=#bb8bbe>Void",
+ds,TMP Text,NAME,NAME,
+ds,TMP Flavor Text,"In the fell clutch of circumstances, I have not winced nor cried aloud. Under the bludgeonings of chance, my head is bloody but unbowed.","In the fell clutch of circumstances, I have not winced nor cried aloud. Under the bludgeonings of chance, my head is bloody but unbowed.",
+ds,TMP Rules Text,Acquire a Hero in the center row without paying its cost.,Acquire a Hero in the center row without paying its cost.,1
+ds,TMP Class Text,Lifebound Dream Vision,Lifebound Dream Vision,
+ds,TMP Title,<size=104>C</size>etra's Respite,<size=104>C</size>etra's Respite,
+ds,TMP Body Text,"<margin-right=12em>Visions are a new card type found in the Dream deck in Ascension: Dreamscape™. When a Vision is acquired from a player’s Dreamscape, it isn’t added to that player’s deck. Instead, the card has an immediate effect on the game. Resolve the effect on the card, then banish it unless it has an Ongoing effect. Visions with Ongoing effects stay face up in front of the player. That effect is considered to be in play for the rest of the game.","<margin-right=12em>Visions are a new card type found in the Dream deck in Ascension: Dreamscape™. When a Vision is acquired from a player’s Dreamscape, it isn’t added to that player’s deck. Instead, the card has an immediate effect on the game. Resolve the effect on the card, then banish it unless it has an Ongoing effect. Visions with Ongoing effects stay face up in front of the player. That effect is considered to be in play for the rest of the game.",
+ds,TMP Flavor Text,"Victory comes at a cost, but it is cheaper than defeat.","Victory comes at a cost, but it is cheaper than defeat.",1
+ds,TMP Rules Text,Defeat a Monster in the center row without paying its cost.,Defeat a Monster in the center row without paying its cost.,1
+ds,TMP Class Text,Dream Vision,Dream Vision,
+ds,TMP Title,<size=104>W</size>icked End,<size=104>W</size>icked End,
+ds,TMP Text,Vision Cards,Vision Cards,
+ds,TMP Body Text,"<margin-right=12em>Dreamborn cards are new types of Heroes and Constructs that have an effect when they enter the center row and when they are acquired. 
+
+Whenever a Dreamborn card enters the center row, EACH player gains <sprite=113>. Also, whenever a Dreamborn card is acquired, the player that acquired that card gains <sprite=113>.
+","<margin-right=12em>Dreamborn cards are new types of Heroes and Constructs that have an effect when they enter the center row and when they are acquired.
+
+Whenever a Dreamborn card enters the center row, EACH player gains <sprite=113>. Also, whenever a Dreamborn card is acquired, the player that acquired that card gains <sprite=113>.",
+ds,TMP Rules Text,"Once per turn, when you play a Mechana Construct (including this one), add a card to your Dreamscape.","Once per turn, when you play a Mechana Construct (including this one), add a card to your Dreamscape.",1
+ds,TMP Dreamborn Text,Dreamborn,Dreamborn,
+ds,TMP Class Text,Mechana Construct,Mechana Construct,
+ds,TMP Title,<size=104>S</size>ynapse Spire,<size=104>S</size>ynapse Spire,1
+ds,TMP Text,"Dreamborn Cards",Dreamborn Cards,
+ds,TMP Body Text,"Insight (<sprite=112>) is gained through various card effects and Dreamborn cards (see below). Unlike other resources, you do not lose unspent Insight at the end of your turn.
+
+","Insight (<sprite=112>) is gained through various card effects and Dreamborn cards (see below). Unlike other resources, you do not lose unspent Insight at the end of your turn.",
+ds,TMP Text,Insight,Insight,
+ds,TMP Body Text,"<margin-right=12em>The biggest new feature in Ascension: Dreamscape™ is the Dreamscape–a hidden set of cards players have access to during the game. Unlike center row cards, each player’s Dreamscape cards are purchasable only by that player. These cards are purchasable during the game with a new resource called Insight (<sprite=112>).
+
+At the beginning of the game, each player is dealt five Dream cards from the Dream deck, from which they will choose three that they then add to their personal Dreamscape. The two remaining unchosen cards should be kept hidden from the other players and are shuffled back into the Dream deck. Set the Dream deck aside for easy access during the game.
+
+The Dream deck includes Heroes, Constructs, and Visions.  In addition to unique frames, Dream cards can also be identified by their  gold borders.
+
+<margin=0>Each player has their own Dreamscape that should be placed face down in front of them. Players may look at the cards in their Dreamscape at any time, but it should be kept hidden from everyone else. Players may purchase cards from their own Dreamscape during their turn at any time they could normally acquire cards from the center row.
+
+","<margin-right=12em>The biggest new feature in Ascension: Dreamscape™ is the Dreamscape–a hidden set of cards players have access to during the game. Unlike center row cards, each player’s Dreamscape cards are purchasable only by that player. These cards are purchasable during the game with a new resource called Insight (<sprite=112>).
+
+At the beginning of the game, each player is dealt five Dream cards from the Dream deck, from which they will choose three that they then add to their personal Dreamscape. The two remaining unchosen cards should be kept hidden from the other players and are shuffled back into the Dream deck. Set the Dream deck aside for easy access during the game.
+
+The Dream deck includes Heroes, Constructs, and Visions.  In addition to unique frames, Dream cards can also be identified by their  gold borders.
+
+<margin=0>Each player has their own Dreamscape that should be placed face down in front of them. Players may look at the cards in their Dreamscape at any time, but it should be kept hidden from everyone else. Players may purchase cards from their own Dreamscape during their turn at any time they could normally acquire cards from the center row.",
+ds,TMP Flavor Text,"Emri's assassins always find their target,
+regardless of where it believes it can hide.","Emri's assassins always find their target,
+regardless of where it believes it can hide.",
+ds,TMP Rules Text,This turn you may defeat Monsters in the void as though they were in the center row.,This turn you may defeat Monsters in the void as though they were in the center row.,1
+ds,TMP Class Text,Void Dream Vision,Void Dream Vision,
+ds,TMP Title,<size=104>S</size>talk the Shadows,<size=104>S</size>talk the Shadows,1
+ds,TMP Text,"Dreamscape & Dream Deck
+",Dreamscape & Dream Deck,
+ds,TMP Title Text,What's New,What's New,
+du,TMP Body Text,"Darkness has fallen over Vigil. The very shards that many once believed a blessing may now prove to be the harbinger of their doom. Eons ago, the gods fashioned a crystalline prison deep within the void to hold the twisted spawn of Samael and Nyx, a being of such power and corruption that it could not be allowed to roam free. But as the ages flew by and new threats emerged, great cracks in the prison began to appear. When Samael was at last defeated, his son flew into a rage, his fury shattering the crystal cage that once held him into countless pieces. Those shards rained down upon Vigil, bearing inklings of his power...and his vengeance. 
+
+Erabus has been unleashed. ","Darkness has fallen over Vigil. The very shards that many once believed a blessing may now prove to be the harbinger of their doom. Eons ago, the gods fashioned a crystalline prison deep within the void to hold the twisted spawn of Samael and Nyx, a being of such power and corruption that it could not be allowed to roam free. But as the ages flew by and new threats emerged, great cracks in the prison began to appear. When Samael was at last defeated, his son flew into a rage, his fury shattering the crystal cage that once held him into countless pieces. Those shards rained down upon Vigil, bearing inklings of his power...and his vengeance.
+
+Erabus has been unleashed.",
+du,TMP Text,Introduction,Introduction,
+du,TMP Body Text,"<margin-right=12em>Transform is a new mechanic introduced in Ascension: Darkness Unleashed™.  Cards that Transform represent beings and objects in the Ascension™ world undergoing dramatic changes.  These begin as one card and change into a different card when certain conditions are met.
+
+Most of the cards that Transform do so based on Energize triggers.  If you would play a card with Transform after meeting its Energize threshold, you instead Transform the card into its new version and put that new card in your hand.  You do not generate any of the effects of the original card, nor is that card considered played.  The card remains in its Transformed state until the end of the game, when it resets to it's starting form.
+
+","<margin-right=12em>Transform is a new mechanic introduced in Ascension: Darkness Unleashed™.  Cards that Transform represent beings and objects in the Ascension™ world undergoing dramatic changes.  These begin as one card and change into a different card when certain conditions are met.
+
+Most of the cards that Transform do so based on Energize triggers.  If you would play a card with Transform after meeting its Energize threshold, you instead Transform the card into its new version and put that new card in your hand.  You do not generate any of the effects of the original card, nor is that card considered played.  The card remains in its Transformed state until the end of the game, when it resets to it's starting form.",
+du,TMP Flavor Text,"""Gather your forces - tonight,
+we come to the aid of Ogo.""","""Gather your forces - tonight,
+we come to the aid of Ogo.""",
+du,TMP Rules Text,Gain <sprite=35>.,Gain <sprite=35>.,
+du,TMP Class Text,Transformed Lifebound Hero,Transformed Lifebound Hero,
+du,TMP Title,<size=104>H</size>oniskrot Chieftan,<size=104>H</size>oniskrot Chieftan,
+du,TMP Flavor Text,"""Do you smell that?""
+""Yes... There's more prey to be hunted tonight.""","""Do you smell that?""
+""Yes... There's more prey to be hunted tonight.""",
+du,TMP Rules Text,Gain <sprite=33>,Gain <sprite=33>,
+du,TMP Energize Text,<color=#005778ff>Energize <sprite=98>:</color> Transform this into Honiskrot Chieftan. <i>(Ignore the rest of the card's effect.),<color=#005778ff>Energize <sprite=98>:</color> Transform this into Honiskrot Chieftan. <i>(Ignore the rest of the card's effect.),
+du,TMP Class Text,Lifebound Hero,Lifebound Hero,
+du,TMP Title,<size=104>H</size>oniskrot Tribesman,<size=104>H</size>oniskrot Tribesman,
+du,TMP Text,Transform Cards:,Transform Cards:,
+du,TMP Body Text,"<margin-right=12em>Dark Energy Shards are a new type of Treasure card introduced in Ascension: Darkness Unleashed™.  Dark Energy Shards represent the fragments from Erabus’s crystal prison that absorbed bits of his power before he broke free.  Dark Energy Shards work just like the Energy Shards in Ascension: Rise of Vigil™, except they also have a Fate effect that allows each player to banish a card in their discard pile when they enter the center row.
+
+","<margin-right=12em>Dark Energy Shards are a new type of Treasure card introduced in Ascension: Darkness Unleashed™.  Dark Energy Shards represent the fragments from Erabus’s crystal prison that absorbed bits of his power before he broke free.  Dark Energy Shards work just like the Energy Shards in Ascension: Rise of Vigil™, except they also have a Fate effect that allows each player to banish a card in their discard pile when they enter the center row.",
+du,TMP Flavor Text,"A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.","A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.",
+du,TMP Fate Text,<color=#fdc60eff>Fate:</color> each player may banish a card in their discard pile.,<color=#fdc60eff>Fate:</color> each player may banish a card in their discard pile.,
+du,TMP Class Text,Treasure,Treasure,
+du,TMP Title,<size=104>D</size>ark Energy Shard,<size=104>D</size>ark Energy Shard,
+du,TMP Text,Dark Energy Shards:,Dark Energy Shards:,
+du,TMP Text,What's New,What's New,
+doc,TMP Body Text,"When the worlds were born, there were five gods, each endowed with a unique spark of creation. After they created Vigil, they squabbled over how to rule it, eventually retreating to realms of their  own design.  Centuries turned into millenia, and the gods were content with their realms and followers. All except one.
+
+The Fallen God Samael's insatiable hunger led him and his plane of Deofol on a dark quest that would unite the realms against him.  After countless wars, he met his end at the hands of other gods and their allies.
+
+Samael's death threw the universe into disarray, as dark forces sought to ascend Deofol's throne, thinking that it would lead to their own ascent to godhood.  One by one, the realms defeated the would-be conquerors, but the universe's need for a balanced pantheon could not be ignored.
+
+What was once thought to be the result of centuries of struggle and conflict, Adayu's Unraveling was not the result of madness.  It was the inception of a new divine spark, awakening Adayu to a new destiny that awaits him.
+
+The awakening of a new god unleashed a wave of energy across the realms, sending them colliding into each other to form a new unified world of New Vigil.  The factions have adapted well to the new world, learning to work together and develop new technologies that utilize their combined strengths.
+
+The four factions' realms weren't the only ones to be merged into New Vigil.  Deofol has been woven into the new realm as well, corrupting heroes and twisting them into a dark army to serve the Cult's new leader, a shadowy figure from Vigil's past.
+
+Hoping to avoid repeating history, Adayu and the other gods have retreated beyond New Vigil, leaving mortals to guide their own destiny.  One to be determined not by Gods, but by Champions.","When the worlds were born, there were five gods, each endowed with a unique spark of creation. After they created Vigil, they squabbled over how to rule it, eventually retreating to realms of their  own design.  Centuries turned into millenia, and the gods were content with their realms and followers. All except one.
+
+The Fallen God Samael's insatiable hunger led him and his plane of Deofol on a dark quest that would unite the realms against him.  After countless wars, he met his end at the hands of other gods and their allies.
+
+Samael's death threw the universe into disarray, as dark forces sought to ascend Deofol's throne, thinking that it would lead to their own ascent to godhood.  One by one, the realms defeated the would-be conquerors, but the universe's need for a balanced pantheon could not be ignored.
+
+What was once thought to be the result of centuries of struggle and conflict, Adayu's Unraveling was not the result of madness.  It was the inception of a new divine spark, awakening Adayu to a new destiny that awaits him.
+
+The awakening of a new god unleashed a wave of energy across the realms, sending them colliding into each other to form a new unified world of New Vigil.  The factions have adapted well to the new world, learning to work together and develop new technologies that utilize their combined strengths.
+
+The four factions' realms weren't the only ones to be merged into New Vigil.  Deofol has been woven into the new realm as well, corrupting heroes and twisting them into a dark army to serve the Cult's new leader, a shadowy figure from Vigil's past.
+
+Hoping to avoid repeating history, Adayu and the other gods have retreated beyond New Vigil, leaving mortals to guide their own destiny.  One to be determined not by Gods, but by Champions.",
+doc,TMP Text,The Sun Rises On a New World...,The Sun Rises On a New World...,
+doc,TMP Introduction Text,Introduction,Introduction,
+doc,TMP Body Text,"<margin-right=12em>Many of the Monsters included in <i>Ascension: Dawn of Champions™</i>  have a faction. These Monsters represent corrupted denizens of New Vigil.
+
+They work exactly like standard Monsters, but are affected by Rally effects, Reputation Powers, and other specific card effects.","<margin-right=12em>Many of the Monsters included in <i>Ascension: Dawn of Champions™</i>  have a faction. These Monsters represent corrupted denizens of New Vigil.
+
+They work exactly like standard Monsters, but are affected by Rally effects, Reputation Powers, and other specific card effects.",
+doc,TMP Flavor Text,"The dark beasts shriek through the night sky,
+providing new nightmares for a new world.","The dark beasts shriek through the night sky,
+providing new nightmares for a new world.",
+doc,TMP Rules Text,Reward: Gain <sprite=68>. You may banish up to two cards from your hand or discard pile.,Reward: Gain <sprite=68>. You may banish up to two cards from your hand or discard pile.,
+doc,TMP Class Text,Void Monster,Void Monster,
+doc,TMP Title,<size=104>W</size>ild Riftdrake,<size=104>W</size>ild Riftdrake,1
+doc,TMP Text,Faction Monsters,Faction Monsters,
+doc,TMP Body Text,"<margin-right=12em>Continuing the popular multifaction mechanic from <i>Ascension: Realms Unraveled™</i>, multifaction Heroes make a reappearance in this set, along with the new multifaction Constructs.
+
+Multifaction cards function exactly the same as their normal counterparts, but count as every faction listed on their card.
+","<margin-right=12em>Continuing the popular multifaction mechanic from <i>Ascension: Realms Unraveled™</i>, multifaction Heroes make a reappearance in this set, along with the new multifaction Constructs.
+
+Multifaction cards function exactly the same as their normal counterparts, but count as every faction listed on their card.",
+doc,TMP Flavor Text,"Many of my brethren cling to life, forgetting
+that it is only half of nature's cycle.""","Many of my brethren cling to life, forgetting
+that it is only half of nature's cycle.""",
+doc,TMP Rules Text,"Gain <sprite=34>.
+If this is banished from your hand or disard pile, gain <sprite=69>.","Gain <sprite=34>.
+If this is banished from your hand or disard pile, gain <sprite=69>.",
+doc,TMP Class Text,Lifebound Void Hero,Lifebound Void Hero,
+doc,TMP Title,<size=104>S</size>hepherd of the Lost,<size=104>S</size>hepherd of the Lost,1
+doc,TMP Flavor Text,Who? What? Where? When? Why?,Who? What? Where? When? Why?,1
+doc,TMP Rules Text,"Once per turn, when you play an Enlightened Construct or a Mechana Construct (including this one), draw a card.","Once per turn, when you play an Enlightened Construct or a Mechana Construct (including this one), draw a card.",1
+doc,TMP Class Text,Enlightened Mechana Construct,Enlightened Mechana Construct,
+doc,TMP Title,<size=104>L</size>ibrary Familiar,<size=104>L</size>ibrary Familiar,1
+doc,TMP Text,Multifaction Heroes & Constructs,Multifaction Heroes & Constructs,
+doc,TMP Body Text,"<margin-right=12em>Rally is a new keyword that triggers when a card in the center row is replaced. When an effect tells you to Rally, it will indicate a characteristic, such as faction, that allows you to acquire or defeat the next card that enters the center row if it has the indicated characteristic.
+
+For instance, when a card tells you to Rally: Enlightened, if the next card to enter the center row is an Enlightened card, you may acquire or defeat it without paying its cost.
+
+<i>Example: Undaunted Scout lets you Rally: Void when you acquire it from the center row. If the next card that enters that spot in the center row is a Void card, you may acquire it or defeat it without paying its cost.</i>
+
+","<margin-right=12em>Rally is a new keyword that triggers when a card in the center row is replaced. When an effect tells you to Rally, it will indicate a characteristic, such as faction, that allows you to acquire or defeat the next card that enters the center row if it has the indicated characteristic.
+
+For instance, when a card tells you to Rally: Enlightened, if the next card to enter the center row is an Enlightened card, you may acquire or defeat it without paying its cost.
+
+<i>Example: Undaunted Scout lets you Rally: Void when you acquire it from the center row. If the next card that enters that spot in the center row is a Void card, you may acquire it or defeat it without paying its cost.</i>",
+doc,TMP Flavor Text,This is the flavor part.,This is the flavor part.,
+doc,TMP Rules Text,"When you acuire this, Rally: Void.
+
+Gain <sprite=2>","When you acuire this, Rally: Void.
+
+Gain <sprite=2>",
+doc,TMP Class Text,Void Hero,Void Hero,
+doc,TMP Title,<size=104>U</size>ndaunted Scout,<size=104>U</size>ndaunted Scout,
+doc,TMP Text,Rally,Rally,
+doc,TMP Text,"FLAVOR TEXT
+Flavor text has no game effect.","FLAVOR TEXT
+Flavor text has no game effect.",
+doc,TMP Text,"REPUTATION POWERS
+Ways to gain Reputation and rewards for reaching certain tresholds of Reputation.","REPUTATION POWERS
+Ways to gain Reputation and rewards for reaching certain tresholds of Reputation.",
+doc,TMP Text,NAME,NAME,
+doc,TMP Flavor Text,"Chosen long ago by Logos to wield the Arhan god’s sight and wisdom, Dhartha has used it to aid the realms for generations. Small in stature, he proves that real power doesn’t come from standing over others, but by others kneeling before you.","Chosen long ago by Logos to wield the Arhan god’s sight and wisdom, Dhartha has used it to aid the realms for generations. Small in stature, he proves that real power doesn’t come from standing over others, but by others kneeling before you.",
+doc,TMP Ability04Rules Text,"Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.","Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.",
+doc,TMP Ability03Rules Text,"Acquire Dharta, Master of the Eye.","Acquire Dharta, Master of the Eye.",
+doc,TMP Ability02Rules Text,"Once per turn, you may pay <sprite=34>  to gain <sprite=129>.","Once per turn, you may pay <sprite=34>  to gain <sprite=129>.",
+doc,TMP Ability01Rules Text,"Whenever you acquire or defeat an Enlightened card from the center row, gain <sprite=129>.","Whenever you acquire or defeat an Enlightened card from the center row, gain <sprite=129>.",
+doc,TMP Class Text,Enlightened Champion,Enlightened Champion,
+doc,TMP Title,Dhartha,Dhartha,1
+doc,TMP Text,Champion Card,Champion Card,
+doc,TMP Body Text,"<i>Ascension: Dawn of Champions™</i> introduces a new card type called Champions. These cards allow you to play as powerful leaders from New Vigil.
+
+Each player begins the game with a randomly selected Champion in front of them. Each Champion has Reputation Powers that determine how a player can gain Reputation, and what rewards they will gain from it.
+<align=center>Reputation Icon:  <size=64><sprite=128></size>
+
+","<i>Ascension: Dawn of Champions™</i> introduces a new card type called Champions. These cards allow you to play as powerful leaders from New Vigil.
+
+Each player begins the game with a randomly selected Champion in front of them. Each Champion has Reputation Powers that determine how a player can gain Reputation, and what rewards they will gain from it.
+<align=center>Reputation Icon:  <size=64><sprite=128></size>",
+doc,TMP Body Text,"<align=center>Reputation Icon:  <size=64><sprite=128></size>
+
+",<align=center>Reputation Icon:  <size=64><sprite=128></size>,
+doc,TMP Text,Champions & Reputation,Champions & Reputation,
+doc,TMP Title Text,"What's New
+",What's New,
+gote,TMP Body Text,"<i>In the beginning, when the realms were young and unblemished by eons of strife, elementals roamed freely throughout the lands of Vigil. As humanity emerged, the elementals receded, hiding away from those that would use them as resources for their endless fighting. Eventually, they fell into a deep slumber, becoming indistinguishable from the world around them.
+
+Now, as decades of turmoil have shaken New Vigil to its very core, the elementals have begun to awaken and reintroduce themselves to the world around them. The newly roused elementals roam the land, intent on discovering the unfamiliar world which they now find themselves a part of.
+
+The factions have begun to study and learn from the elements, unlocking powerful new enhancements and abilities. There are still other elementals that have no lessons besides the chaos they sow, neither good nor evil, but destructive all the same. Wildfires burn across the plains, storms assault the cities, and floods wipe away countless lifetimes of work.
+
+Malevolent forces of nature are not the only concern—amidst the turmoil, the mischievous gremlins have begun to grow in number, much to the annoyance of the rest of New Vigil’s inhabitants. All the while, Xeron continues to watch from the shadows, biding his time until another opportunity to strike against his enemies presents itself.
+
+Join the people of New Vigil as they attempt to discover the lessons of the elementals, and how to wield them, as they fight to protect their world against unseen forces.</i>
+
+","<i>In the beginning, when the realms were young and unblemished by eons of strife, elementals roamed freely throughout the lands of Vigil. As humanity emerged, the elementals receded, hiding away from those that would use them as resources for their endless fighting. Eventually, they fell into a deep slumber, becoming indistinguishable from the world around them.
+
+Now, as decades of turmoil have shaken New Vigil to its very core, the elementals have begun to awaken and reintroduce themselves to the world around them. The newly roused elementals roam the land, intent on discovering the unfamiliar world which they now find themselves a part of.
+
+The factions have begun to study and learn from the elements, unlocking powerful new enhancements and abilities. There are still other elementals that have no lessons besides the chaos they sow, neither good nor evil, but destructive all the same. Wildfires burn across the plains, storms assault the cities, and floods wipe away countless lifetimes of work.
+
+Malevolent forces of nature are not the only concern—amidst the turmoil, the mischievous gremlins have begun to grow in number, much to the annoyance of the rest of New Vigil’s inhabitants. All the while, Xeron continues to watch from the shadows, biding his time until another opportunity to strike against his enemies presents itself.
+
+Join the people of New Vigil as they attempt to discover the lessons of the elementals, and how to wield them, as they fight to protect their world against unseen forces.</i>",
+gote,TMP Text,"
+The Elementals Have Awoken...",The Elementals Have Awoken...,
+gote,TMP Introduction Text,Introduction,Introduction,
+gote,TMP Flavor Text,Her billows feed the fires of creation for all of Hedron.,Her billows feed the fires of creation for all of Hedron.,1
+gote,TMP Rules Text,Choose one: Draw a card OR acquire any number of Constructs in the center row without paying their costs.,Choose one: Draw a card OR acquire any number of Constructs in the center row without paying their costs.,
+gote,TMP Class Text,Transformed Mechana Hero,Transformed Mechana Hero,
+gote,TMP Title,<size=104>F</size>orgemother Reysa,<size=104>F</size>orgemother Reysa,
+gote,TMP Rules Text,"Constructs in the center row cost <sprite=33> less to acquire
+(to a minimum of <sprite=33>).
+Pay <sprite=40>: Transform this into Forgemother Reysa and acquire it.","Constructs in the center row cost <sprite=33> less to acquire
+(to a minimum of <sprite=33>).
+Pay <sprite=40>: Transform this into Forgemother Reysa and acquire it.",
+gote,TMP Class Text,Mechana Event,Mechana Event,
+gote,TMP Title,eysa's Trial,eysa's Trial,
+gote,TMP Body Text,"When an Event is flipped from the center deck, it does not take up a center row slot. Instead, it is placed in the Event Zone above or below the center row. While one of these Events is in play, it will have an ongoing effect that will change how the game plays out. There can never be more than one Event active at once. If a new Event appears, replace the current event and put it in the Void. 
+
+Events in <i>Ascension: Gift of the Elements™</i> may also be acquired! These Events include a cost in their effect that may be paid by any player during their turn, at which point the Event will leave play and transform into a powerful Hero for that player's deck.
+","When an Event is flipped from the center deck, it does not take up a center row slot. Instead, it is placed in the Event Zone above or below the center row. While one of these Events is in play, it will have an ongoing effect that will change how the game plays out. There can never be more than one Event active at once. If a new Event appears, replace the current event and put it in the Void.
+
+Events in <i>Ascension: Gift of the Elements™</i> may also be acquired! These Events include a cost in their effect that may be paid by any player during their turn, at which point the Event will leave play and transform into a powerful Hero for that player's deck.",
+gote,TMP Text,Transforming Events,Transforming Events,
+gote,TMP Body Text,"<margin-right=12em>When you defeat a Monster with Infest, you may choose a player and put that Monster into their discard pile instead of the void. When a Monster is drawn, it has no effect on its own, so this is a great way to mess up your opponent’s draws. Be careful though, there are a few cards in Ascension: Gift of the Elements™ that allow players to benefit from having Monsters in their deck.","<margin-right=12em>When you defeat a Monster with Infest, you may choose a player and put that Monster into their discard pile instead of the void. When a Monster is drawn, it has no effect on its own, so this is a great way to mess up your opponent’s draws. Be careful though, there are a few cards in Ascension: Gift of the Elements™ that allow players to benefit from having Monsters in their deck.",
+gote,TMP Flavor Text,(Monsters have no effect when played from hand.),(Monsters have no effect when played from hand.),
+gote,TMP Rules Text,"Reward: Gain <sprite=65>
+
+Infest - When you defeat Yuk Tribe Gremlin, you may put it into a player's discard pile.","Reward: Gain <sprite=65>
+
+Infest - When you defeat Yuk Tribe Gremlin, you may put it into a player's discard pile.",
+gote,TMP Class Text,Monster,Monster,
+gote,TMP Title,<size=104>Y</size>uk Tribe Gremlin,<size=104>Y</size>uk Tribe Gremlin,
+gote,TMP Text,Infest Monsters,Infest Monsters,
+gote,TMP Body Text,"<margin-right=12em>When you acquire a card with the Empower keyword, you may banish a card you have already played that turn. Cards with Empower allow players to make their deck better by simultaneously acquiring a card in the center row and getting rid of one of their weaker cards. Unlike when you banish a card from hand, you still get all effects from played cards that are banished.","<margin-right=12em>When you acquire a card with the Empower keyword, you may banish a card you have already played that turn. Cards with Empower allow players to make their deck better by simultaneously acquiring a card in the center row and getting rid of one of their weaker cards. Unlike when you banish a card from hand, you still get all effects from played cards that are banished.",
+gote,TMP Flavor Text,They see light where there is darkness.,They see light where there is darkness.,1
+gote,TMP Rules Text,"Empower <i>(When you acquire this, you may banish a card you have played this turn.)</i>
+
+Draw a card.","Empower <i>(When you acquire this, you may banish a card you have played this turn.)</i>
+
+Draw a card.",
+gote,TMP Class Text,Enlightened Hero,Enlightened Hero,
+gote,TMP Title,<size=104>R</size>adiant Aspirant,<size=104>R</size>adiant Aspirant,1
+gote,TMP Text,Empower,Empower,
+gote,TMP WhatsNew Text,What's New,What's New,
+ih,TMP Body Text,"As the Heroes of Vigil struggle to fight back against the tides of undeath encroaching upon their lands, the source of the storm of souls has been discovered. The maelstrom comes from none other than Kythis himself. Once the gatekeeper of the afterlife, Kythis was freed from his duties in a nefarious bargain with Samael. When the Fallen One was defeated by the Godslayer, Kythis hatched a plan to ascend to the empty throne of Deofol.
+
+ To distract enemies who might interfere with his plot, the rebel godling opened the gates of the underworld and unleashed the spirits of the damned. As the tempest of undeath swept over the land, Kythis sought to tap into the font of death itself – the Well of Souls. From within the Well, he drew forth the spirits of fallen Heroes and bound them to himself, encasing their essences in crystalline form. With these Soul Gems bolstering his powers, the former Gatekeeper seeks to bring the realm of Deofol under his sway.
+
+","As the Heroes of Vigil struggle to fight back against the tides of undeath encroaching upon their lands, the source of the storm of souls has been discovered. The maelstrom comes from none other than Kythis himself. Once the gatekeeper of the afterlife, Kythis was freed from his duties in a nefarious bargain with Samael. When the Fallen One was defeated by the Godslayer, Kythis hatched a plan to ascend to the empty throne of Deofol.
+
+To distract enemies who might interfere with his plot, the rebel godling opened the gates of the underworld and unleashed the spirits of the damned. As the tempest of undeath swept over the land, Kythis sought to tap into the font of death itself – the Well of Souls. From within the Well, he drew forth the spirits of fallen Heroes and bound them to himself, encasing their essences in crystalline form. With these Soul Gems bolstering his powers, the former Gatekeeper seeks to bring the realm of Deofol under his sway.",
+ih,TMP Text,Introduction,Introduction,
+ih,TMP Body Text,"<margin-right=12em>In Storm of Souls, all Trophy Monsters provided a single effect and were then banished once used. In Immortal Heroes, some Trophy Monsters have lasting effects, indicated by the word “Ongoing.” Just like normal Trophy Monsters, these Monsters provide their Honor reward immediately when defeated and are then placed face up in front of you. They continue to provide their effect for as long as they remain in play under your control. 
+
+<i>Example: Kythis, Rebel Godling says “Ongoing Trophy: Once per turn, gain a Soul Gem.” As long as a player has Kythis as a Trophy, he or she can use it to gain a Soul Gem once each turn. 
+
+","<margin-right=12em>In Storm of Souls, all Trophy Monsters provided a single effect and were then banished once used. In Immortal Heroes, some Trophy Monsters have lasting effects, indicated by the word “Ongoing.” Just like normal Trophy Monsters, these Monsters provide their Honor reward immediately when defeated and are then placed face up in front of you. They continue to provide their effect for as long as they remain in play under your control.
+
+<i>Example: Kythis, Rebel Godling says “Ongoing Trophy: Once per turn, gain a Soul Gem.” As long as a player has Kythis as a Trophy, he or she can use it to gain a Soul Gem once each turn.",
+ih,TMP Trophy Text,<b><color=#951719FF>Ongoing Trophy:</color></b> Once per turn gain a Soul Gem.,<b><color=#951719FF>Ongoing Trophy:</color></b> Once per turn gain a Soul Gem.,
+ih,TMP Rules Text,<b>Reward:</b> Gain <sprite=72> ,<b>Reward:</b> Gain <sprite=72>,
+ih,TMP Class Text,Trophy Monster,Trophy Monster,
+ih,TMP Title,"<size=104>K</size>ythis, Rebel Godling","<size=104>K</size>ythis, Rebel Godling",1
+ih,TMP Text,Trophy Monsters:,Trophy Monsters:,
+ih,TMP Body Text,"<margin-right=12em>Soul Gems are a new type of card introduced in Immortal Heroes. Soul Gems represent the spirits of heroes who fought against Samael in the Great War who were trapped by Kythis when he took control of the Well of Souls. Each Soul Gem shares the art and effect of Heroes from previous Ascension sets, though they are not Hero cards themselves. 
+
+Soul Gems are not shuffled into the center deck at the beginning of the game. Instead, they are shuffled together and set aside face down with the Always Available cards. When a card effect tells a player to gain a Soul Gem, that player takes the top card of the Soul Gem deck and places it face up in front of him or her. That player may play that Soul Gem to gain its effect at any time during that turn. At the end of a player’s turn, all Soul Gems he or she controls are banished.
+
+","<margin-right=12em>Soul Gems are a new type of card introduced in Immortal Heroes. Soul Gems represent the spirits of heroes who fought against Samael in the Great War who were trapped by Kythis when he took control of the Well of Souls. Each Soul Gem shares the art and effect of Heroes from previous Ascension sets, though they are not Hero cards themselves.
+
+Soul Gems are not shuffled into the center deck at the beginning of the game. Instead, they are shuffled together and set aside face down with the Always Available cards. When a card effect tells a player to gain a Soul Gem, that player takes the top card of the Soul Gem deck and places it face up in front of him or her. That player may play that Soul Gem to gain its effect at any time during that turn. At the end of a player’s turn, all Soul Gems he or she controls are banished.",
+ih,TMP Flavor Text,"(This turn, you may banish this to gain its effect. If you don't, banish this at the end of your turn.)","(This turn, you may banish this to gain its effect. If you don't, banish this at the end of your turn.)",
+ih,TMP Rules Text,Defeat a Monster that has <sprite=4> or less without paying its cost.,Defeat a Monster that has <sprite=4> or less without paying its cost.,
+ih,TMP Class Text,Soul Gem,Soul Gem,
+ih,TMP Title,<size=104>A</size>rha Templar,<size=104>A</size>rha Templar,
+ih,TMP Text,Soul Gems:,Soul Gems:,
+ih,TMP Text,What's New,What's New,
+ru,TMP Body Text,"For as long as anyone can remember, Adayu has been a benevolent protector of the five realms. Able to alter reality with nothing more than a thought, he has saved Vigil countless times over, but now he may be its undoing.
+
+The centuries of pain and struggle have begun to take their toll on Adayu’s mind. What will happen to Vigil if a being with the power to change reality loses his understanding of what that means? The realms must all unite to save Adayu, and existence itself, from being lost to madness.
+
+As Adayu’s insanity takes its hold, the realms have begun to collide and join with one another. To combat this threat, new alliances between factions have formed and powerful champions are at your disposal to battle the spreading chaos.
+
+Horrors from Adayu's nightmares pillage the land. Vigil's foundations shake as they are unmade and remade in a twisted reflection. Can Adayu be restored before there is nothing left to save? It’s up to you.
+
+","For as long as anyone can remember, Adayu has been a benevolent protector of the five realms. Able to alter reality with nothing more than a thought, he has saved Vigil countless times over, but now he may be its undoing.
+
+The centuries of pain and struggle have begun to take their toll on Adayu’s mind. What will happen to Vigil if a being with the power to change reality loses his understanding of what that means? The realms must all unite to save Adayu, and existence itself, from being lost to madness.
+
+As Adayu’s insanity takes its hold, the realms have begun to collide and join with one another. To combat this threat, new alliances between factions have formed and powerful champions are at your disposal to battle the spreading chaos.
+
+Horrors from Adayu's nightmares pillage the land. Vigil's foundations shake as they are unmade and remade in a twisted reflection. Can Adayu be restored before there is nothing left to save? It’s up to you.",
+ru,TMP Text,Introduction,Introduction,
+ru,TMP Body Text,"<margin-right=12em>Some cards in <i>Ascension: Realms Unraveled™</i> have the Transform ability.  Each card transforms based upon a condition specific to that particular card. When the condition is met, the original card is replaced with the Transformed version. You do not generate any of the effects of the original card, nor is that card considered played.  The card remains in its transformed state until the end of the game.
+
+","<margin-right=12em>Some cards in <i>Ascension: Realms Unraveled™</i> have the Transform ability.  Each card transforms based upon a condition specific to that particular card. When the condition is met, the original card is replaced with the Transformed version. You do not generate any of the effects of the original card, nor is that card considered played.  The card remains in its transformed state until the end of the game.",
+ru,TMP Flavor Text,"""Where's the money?""","""Where's the money?""",1
+ru,TMP Rules Text,"Draw a card.
+
+Name a faction.  This Hero acts as that faction this turn.","Draw a card.
+
+Name a faction.  This Hero acts as that faction this turn.",
+ru,TMP Class Text,Transformed Hero,Transformed Hero,
+ru,TMP Title,<size=104>B</size>orderland Mercenary,<size=104>B</size>orderland Mercenary,1
+ru,TMP Flavor Text,"""We believe in nothing!""","""We believe in nothing!""",1
+ru,TMP Rules Text,<B>Reward:</B> Transform this into Borderland Mercenary and acquire it.,<B>Reward:</B> Transform this into Borderland Mercenary and acquire it.,
+ru,TMP Class Text,Monster,Monster,
+ru,TMP Title,<size=104>B</size>orderland Nihilist,<size=104>B</size>orderland Nihilist,1
+ru,TMP Text,Transform Cards,Transform Cards,
+ru,TMP Body Text,"<margin-right=12em><i>Ascension: Realms Unraveled™</i> introduces a new mechanic called Multi-Unite.  Cards with Multi-Unite have additional effects that occur if you play them in the same turn as other Heroes that share the same faction. You gain the bonus effects listed under the Multi-Unite ability for each other Hero you play or have played that shares a faction with the Hero with Multi-Unite.
+
+The order in which you play the Heroes does not matter, since Multi-Unite counts Heroes played before or after the card.
+
+<i>Example: Everbloom Clique is a Lifebound Hero with “Multi-Unite: Gain <sprite=65>.” If you played a Lifebound Hero before Everbloom Clique, and then another afterwards, you would gain a total of <sprite=66>from the Multi-Unite ability.</i>
+
+","<margin-right=12em><i>Ascension: Realms Unraveled™</i> introduces a new mechanic called Multi-Unite.  Cards with Multi-Unite have additional effects that occur if you play them in the same turn as other Heroes that share the same faction. You gain the bonus effects listed under the Multi-Unite ability for each other Hero you play or have played that shares a faction with the Hero with Multi-Unite.
+
+The order in which you play the Heroes does not matter, since Multi-Unite counts Heroes played before or after the card.
+
+<i>Example: Everbloom Clique is a Lifebound Hero with “Multi-Unite: Gain <sprite=65>.” If you played a Lifebound Hero before Everbloom Clique, and then another afterwards, you would gain a total of <sprite=66>from the Multi-Unite ability.</i>",
+ru,TMP Rules Text,"Gain <sprite=66>.
+Multi-Unite: Gain <sprite=65>. <i>(Gain this effect for each other Lifebound Hero you play or have played this turn.)","Gain <sprite=66>.
+Multi-Unite: Gain <sprite=65>. <i>(Gain this effect for each other Lifebound Hero you play or have played this turn.)",
+ru,TMP Class Text,Lifebound Hero,Lifebound Hero,
+ru,TMP Title,<size=104>E</size>verbloom Clique,<size=104>E</size>verbloom Clique,1
+ru,TMP Text,Multi-Unite,Multi-Unite,
+ru,TMP Body Text,"<margin-right=12em>Cards in <i>Ascension: Realms Unraveled™</i> can belong to more than one faction.  Multifaction cards are played just like any other cards except they have multiple factions.  This allows them to satisfy the requirements for different Multi-Unite abilities or Transform conditions based on factions.
+
+For example, Disciple of Oziah  can transform if you have played another Enlightened Hero this turn, and Disciple of Euloth can transform if you have played a Mechana Hero.  If you play Canon Templar, you can transform both Disciples, because it is both an Enlightened and Mechana Hero and satisfies the requirements of both. 
+
+","<margin-right=12em>Cards in <i>Ascension: Realms Unraveled™</i> can belong to more than one faction.  Multifaction cards are played just like any other cards except they have multiple factions.  This allows them to satisfy the requirements for different Multi-Unite abilities or Transform conditions based on factions.
+
+For example, Disciple of Oziah  can transform if you have played another Enlightened Hero this turn, and Disciple of Euloth can transform if you have played a Mechana Hero.  If you play Canon Templar, you can transform both Disciples, because it is both an Enlightened and Mechana Hero and satisfies the requirements of both.",
+ru,TMP Flavor Text,His edicts are final.,His edicts are final.,1
+ru,TMP Rules Text,"Gain <sprite=34>.
+You may defeat a Monster with <sprite=0> cost less than or equal to the <sprite=32> cost of a Construct you control.","Gain <sprite=34>.
+You may defeat a Monster with <sprite=0> cost less than or equal to the <sprite=32> cost of a Construct you control.",
+ru,TMP Class Text,Enlightened Mechana Hero,Enlightened Mechana Hero,
+ru,TMP Title,<size=104>C</size>anon Templar,<size=104>C</size>anon Templar,
+ru,TMP Text,Multifaction Cards,Multifaction Cards,
+ru,TMP Text,What's New,What's New,
+rov,TMP Body Text,"
+It has been years since Kythis was defeated.  The Well of Souls once more welcomes home the long-suffering spirits of the fallen.  For the first time in generations, peace and prosperity replaced the chaos of bloody war.  From the seeds of death sprung hope as the people of Vigil rebuilt her war-torn cities and honored the sacrifices of her dead.
+
+It was in this time of plenty that the mysterious shards appeared.  Like the crystalline tears of some weeping god, they rained upon Vigil in storms of pulsing light.  They were found casting their peculiar glow in long forgotten mines, abandoned temples, and silent shrines.  All the while, strange tales of enhanced sorcery, strength, and power spread.  Mystics and other arcane practitioners praised the gods for their divine gift, claiming the shards a reward for their many trials and tribulations.  Still others called for further study, cautioning all who would listen that such power never comes without a price.
+
+And while the people of Vigil celebrate their new source of power, tales of twisted beasts and nightmarish creatures are told in whispers.  Vigil's hard won peace is poised to shatter, as strange new monsters defile once sacred sites and stalk the trails between the villages.  The power of the shards brought about the Rise of Vigil - will it now cause her fall?
+
+","It has been years since Kythis was defeated.  The Well of Souls once more welcomes home the long-suffering spirits of the fallen.  For the first time in generations, peace and prosperity replaced the chaos of bloody war.  From the seeds of death sprung hope as the people of Vigil rebuilt her war-torn cities and honored the sacrifices of her dead.
+
+It was in this time of plenty that the mysterious shards appeared.  Like the crystalline tears of some weeping god, they rained upon Vigil in storms of pulsing light.  They were found casting their peculiar glow in long forgotten mines, abandoned temples, and silent shrines.  All the while, strange tales of enhanced sorcery, strength, and power spread.  Mystics and other arcane practitioners praised the gods for their divine gift, claiming the shards a reward for their many trials and tribulations.  Still others called for further study, cautioning all who would listen that such power never comes without a price.
+
+And while the people of Vigil celebrate their new source of power, tales of twisted beasts and nightmarish creatures are told in whispers.  Vigil's hard won peace is poised to shatter, as strange new monsters defile once sacred sites and stalk the trails between the villages.  The power of the shards brought about the Rise of Vigil - will it now cause her fall?",
+rov,TMP Text,Introduction,Introduction,
+rov,TMP Text,"<allcaps>Player's Energy:</allcaps>
+Player's Energy for their turn.","<allcaps>Player's Energy:</allcaps>
+Player's Energy for their turn.",
+rov,TMP Text,"<allcaps>Center Row:</allcaps>
+This Center Row contains the cards you can acquire or defeat.","<allcaps>Center Row:</allcaps>
+This Center Row contains the cards you can acquire or defeat.",
+rov,TMP Text,"<allcaps>Global Honor Pool:</allcaps>
+Honor Points for the game are drawn from this pool.","<allcaps>Global Honor Pool:</allcaps>
+Honor Points for the game are drawn from this pool.",
+rov,TMP Text,"<allcaps>Treasure Count:</allcaps>
+Shows the amount of treasure cards available.","<allcaps>Treasure Count:</allcaps>
+Shows the amount of treasure cards available.",
+rov,TMP Text,"<allcaps>Treasure Card:</allcaps>
+Acquiring or defeating center row cards will reward you with all Treasure cards underneath the acquired or defeated card.","<allcaps>Treasure Card:</allcaps>
+Acquiring or defeating center row cards will reward you with all Treasure cards underneath the acquired or defeated card.",
+rov,TMP Text,"<allcaps>Void:</allcaps>
+Defeated monsters are sent here.","<allcaps>Void:</allcaps>
+Defeated monsters are sent here.",
+rov,TMP Text,"<allcaps>Player's Power:</allcaps>
+Player's Power for their turn.","<allcaps>Player's Power:</allcaps>
+Player's Power for their turn.",
+rov,TMP Text,"<allcaps>Player's Runes:</allcaps>
+Player's Rune count for their turn.","<allcaps>Player's Runes:</allcaps>
+Player's Rune count for their turn.",
+rov,TMP Text,"Top Area
+",Top Area,
+rov,TMP Body Text,"<margin-right=12em>Energy <sprite=96> is a new type of resource in Rise of Vigil.  Unlike Runes or Power, Energy is not spent.  Some cards have Energize abilities which turn on when you reach a certain Energy threshold.  The Energize text on a Hero, Construct, or Monster reward is active if you have gained Energy equal to or greater than its Energize number that turn.
+
+<i>Example: Darkwalker says “Gain <sprite=2>. <color=#005778ff>Energize <sprite=97>:</color> You may banish a card from your hand or discard pile.”
+
+Playing Darkwalker will always give you 2 Power.  If you have gained 1 or more Energy during your turn before you play Darkwalker, you will also be able to banish a card from your hand or discard pile.  If you have 2 copies of Darkwalker, you can use both of their Energize powers even if you have gained only 1 Energy that turn, since Energy is a threshold resource and not spent.
+
+","<margin-right=12em>Energy <sprite=96> is a new type of resource in Rise of Vigil.  Unlike Runes or Power, Energy is not spent.  Some cards have Energize abilities which turn on when you reach a certain Energy threshold.  The Energize text on a Hero, Construct, or Monster reward is active if you have gained Energy equal to or greater than its Energize number that turn.
+
+<i>Example: Darkwalker says “Gain <sprite=2>. <color=#005778ff>Energize <sprite=97>:</color> You may banish a card from your hand or discard pile.”
+
+Playing Darkwalker will always give you 2 Power.  If you have gained 1 or more Energy during your turn before you play Darkwalker, you will also be able to banish a card from your hand or discard pile.  If you have 2 copies of Darkwalker, you can use both of their Energize powers even if you have gained only 1 Energy that turn, since Energy is a threshold resource and not spent.",
+rov,TMP Energize Text,<color=#005778ff>Energize <sprite=97>:</color> You may banish a card in your hand or discard pile.,<color=#005778ff>Energize <sprite=97>:</color> You may banish a card in your hand or discard pile.,
+rov,TMP Rules Text,"
+Gain <sprite=2>
+",Gain <sprite=2>,
+rov,TMP Class Text,Void Hero,Void Hero,
+rov,TMP Title,<size=104>D</size>arkwalker,<size=104>D</size>arkwalker,
+rov,TMP Text,Energize,Energize,
+rov,TMP Body Text,"<margin-right=12em>Treasure is a new type of card in Rise of Vigil.  Treasure cards are different from most other card types in that they do not take up spots in the Center Row.  When a Treasure card enters the Center Row, it remains in that spot and the next card from the center deck is flipped on top of it.  This process repeats until a non-Treasure card enters the Center Row.  Whenever a player acquires or defeats a card in the Center Row, that player acquires all Treasure cards underneath it.
+
+Once acquired, Treasure cards are played just like heroes.  Players also start with one Energy Shard in their starting deck (indicated by the basic card frames).
+","<margin-right=12em>Treasure is a new type of card in Rise of Vigil.  Treasure cards are different from most other card types in that they do not take up spots in the Center Row.  When a Treasure card enters the Center Row, it remains in that spot and the next card from the center deck is flipped on top of it.  This process repeats until a non-Treasure card enters the Center Row.  Whenever a player acquires or defeats a card in the Center Row, that player acquires all Treasure cards underneath it.
+
+Once acquired, Treasure cards are played just like heroes.  Players also start with one Energy Shard in their starting deck (indicated by the basic card frames).",
+rov,TMP Flavor Text,"A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.","A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.",
+rov,TMP Class Text,Treasure,Treasure,
+rov,TMP Title,<size=104>E</size>nergy Shard,<size=104>E</size>nergy Shard,1
+rov,TMP Text,What's New,What's New,
+rotf,TMP Body Text,"
+My divinations relate a frightful tale- I have seen cosmic events of the darkest portent. There lately came to the yawning gate of death a divine spirit, wrathful and red, not to be mistaken for a mortal will. The Gatekeeper knelt and, with two hands, plucked it from the stream of souls, brushing stars from the pulsating force like so many burrs.
+
+""This soul is familiar,"" said the Gatekeeper. Then was heard a viper's voice, as if spoken from five mouths at once: It is because I created you. You must release me.
+
+""Yet, I am bound to send you on your way,"" the Gatekeeper replied.  ""You wore a mortal skin. You must suffer a mortal fate.""
+
+<i>No, Kythis. You are bound no longer. Forbear my fate, Gatekeeper, and I shall absolve you of yours. It is still within my power.</i>
+
+Thus, Samael the Fallen was spared exile to Deofol—at the cost of leaving death's riverbank forever unwatched, the gate untended, and all wills condemned to purgatory.
+
+Now, the flames of war again decorate the horizon. Terror grips the frontier, so recently resettled, only to be submerged anew in the blood of mortals. With the Gatekeeper gone, the souls torn from the bodies of Vigil's defenders will know no respite unless all is set right.
+
+Let a call echo across all of Vigil. The bickering that came in war's wake must end. A Godslayer must take up arms a second time.
+
+The Fallen has returned.","My divinations relate a frightful tale- I have seen cosmic events of the darkest portent. There lately came to the yawning gate of death a divine spirit, wrathful and red, not to be mistaken for a mortal will. The Gatekeeper knelt and, with two hands, plucked it from the stream of souls, brushing stars from the pulsating force like so many burrs.
+
+""This soul is familiar,"" said the Gatekeeper. Then was heard a viper's voice, as if spoken from five mouths at once: It is because I created you. You must release me.
+
+""Yet, I am bound to send you on your way,"" the Gatekeeper replied.  ""You wore a mortal skin. You must suffer a mortal fate.""
+
+<i>No, Kythis. You are bound no longer. Forbear my fate, Gatekeeper, and I shall absolve you of yours. It is still within my power.
+</i>
+
+Thus, Samael the Fallen was spared exile to Deofol—at the cost of leaving death's riverbank forever unwatched, the gate untended, and all wills condemned to purgatory.
+
+Now, the flames of war again decorate the horizon. Terror grips the frontier, so recently resettled, only to be submerged anew in the blood of mortals. With the Gatekeeper gone, the souls torn from the bodies of Vigil's defenders will know no respite unless all is set right.
+
+Let a call echo across all of Vigil. The bickering that came in war's wake must end. A Godslayer must take up arms a second time.
+
+The Fallen has returned.",
+rotf,TMP Text,Introduction,Introduction,
+rotf,TMP Body Text,"<margin-right=12em>Some cards have effects when they enter the Center Row.  The effects of these cards occur immediately, including at the start of the game when the Center Row is first dealt.  These are called Fate Cards, and their effects are written in white text within a black textbox, labeled with the Fate keyword.
+
+","<margin-right=12em>Some cards have effects when they enter the Center Row.  The effects of these cards occur immediately, including at the start of the game when the Center Row is first dealt.  These are called Fate Cards, and their effects are written in white text within a black textbox, labeled with the Fate keyword.",
+rotf,TMP Rules Text,Draw two cards. Each other player may draw a card.  Then you may banish a card in the center row.,Draw two cards. Each other player may draw a card.  Then you may banish a card in the center row.,
+rotf,TMP Fate Text,"<color=#fdc60eff>Fate:</color> When this enters the center row, each player may draw a card.","<color=#fdc60eff>Fate:</color> When this enters the center row, each player may draw a card.",
+rotf,TMP Class Text,Enlightened Hero,Enlightened Hero,
+rotf,TMP Title,<size=104>A</size>skara of Fate,<size=104>A</size>skara of Fate,1
+rotf,TMP Text,Fate Cards:,Fate Cards:,
+rotf,TMP Body Text,"The game ends when a certain amount of Honor has been earned, depending on the number of players.	
+<align=center>
+2 Players = <sprite=77> Honor     3 Players = <sprite=78> Honor     4 Players = <sprite=79> Honor
+
+","The game ends when a certain amount of Honor has been earned, depending on the number of players.
+
+<align=center>
+2 Players = <sprite=77> Honor     3 Players = <sprite=78> Honor     4 Players = <sprite=79> Honor",
+rotf,TMP Text,Honor Pool:,Honor Pool:,
+rotf,TMP Text,What's New,What's New,
+sos,TMP Body Text,"
+The shadow of Deofol still looms over Vigil. Samael has fallen, but his actions have forever scarred the foundation of the realms. His surviving minions are scattered and hidden, plotting evil. Yet, even as the Vigil gathers itself against this remaining enemy, it is beset by a new darkness. Specters now haunt the people of the land, their arrival hinting at a greater threat.
+
+The visitors from Arha say that the afterlife itself is in turmoil. Gatekeeper Kythis, who since Time's Dawn had admitted the damned to their final resting place, stands watch no more. Now, a restless and tormented mass of wills churns beneath all existence, welling up between the worlds.
+
+Where is the Gatekeeper? It was Samael that freed Kythis of his duty. Now he is missing, a rebel godling hidden even from his creators, and not eager to return to his eternal task. In the skies, the constellations twist and turn, protesting his absence.
+
+The children in the capital dream restlessly of an endless beast, outpouring from the clouds, large enough to cast a shadow over all the land. They describe a sky serpent that bellows in a million voices, an extinguisher of realms. Cultists and fanatics are again making sacrifice, foretelling that a reckoning will come. They call it the Storm of Souls.
+
+Vigil is overrun by the first winds of this coming storm of undeath. The call again rises for a hero to unite the realms against the many forces that seek to bury everything in despair. The cult must be put down. Samael's remnants must be destroyed before they encroach. The ghostly tide must be quelled, and the forces of all the worlds must form a coalition, before the reckoning arrives.
+
+The storm looms. Who among you will stand before it?
+
+","The shadow of Deofol still looms over Vigil. Samael has fallen, but his actions have forever scarred the foundation of the realms. His surviving minions are scattered and hidden, plotting evil. Yet, even as the Vigil gathers itself against this remaining enemy, it is beset by a new darkness. Specters now haunt the people of the land, their arrival hinting at a greater threat.
+
+The visitors from Arha say that the afterlife itself is in turmoil. Gatekeeper Kythis, who since Time's Dawn had admitted the damned to their final resting place, stands watch no more. Now, a restless and tormented mass of wills churns beneath all existence, welling up between the worlds.
+
+Where is the Gatekeeper? It was Samael that freed Kythis of his duty. Now he is missing, a rebel godling hidden even from his creators, and not eager to return to his eternal task. In the skies, the constellations twist and turn, protesting his absence.
+
+The children in the capital dream restlessly of an endless beast, outpouring from the clouds, large enough to cast a shadow over all the land. They describe a sky serpent that bellows in a million voices, an extinguisher of realms. Cultists and fanatics are again making sacrifice, foretelling that a reckoning will come. They call it the Storm of Souls.
+
+Vigil is overrun by the first winds of this coming storm of undeath. The call again rises for a hero to unite the realms against the many forces that seek to bury everything in despair. The cult must be put down. Samael's remnants must be destroyed before they encroach. The ghostly tide must be quelled, and the forces of all the worlds must form a coalition, before the reckoning arrives.
+
+The storm looms. Who among you will stand before it?",
+sos,TMP Text,Introduction,Introduction,
+sos,TMP Text,"<allcaps>Event Zone:</allcaps>
+Shows the current Event card.","<allcaps>Event Zone:</allcaps>
+Shows the current Event card.",
+sos,TMP Text,Fanatic,Fanatic,
+sos,TMP Text,"<allcaps>Void:</allcaps>
+Defeated monsters are sent here.","<allcaps>Void:</allcaps>
+Defeated monsters are sent here.",
+sos,TMP Text,"<allcaps>Player's Power:</allcaps>
+Player's Power for their turn.","<allcaps>Player's Power:</allcaps>
+Player's Power for their turn.",
+sos,TMP Text,"<allcaps>Player's Runes:</allcaps>
+Player's Rune count for their turn.","<allcaps>Player's Runes:</allcaps>
+Player's Rune count for their turn.",
+sos,TMP Text,"<allcaps>Center Row Draw Pile:</allcaps>
+The Center Row cards are drawn from here.","<allcaps>Center Row Draw Pile:</allcaps>
+The Center Row cards are drawn from here.",
+sos,TMP Text,"<allcaps>Center Row:</allcaps>
+This Center Row contains the cards you can acquire or defeat.","<allcaps>Center Row:</allcaps>
+This Center Row contains the cards you can acquire or defeat.",
+sos,TMP Text,"<allcaps>Global Honor Pool:</allcaps>
+Honor Points for the game are drawn from this pool.","<allcaps>Global Honor Pool:</allcaps>
+Honor Points for the game are drawn from this pool.",
+sos,TMP Text,Cultist,Cultist,
+sos,TMP Text,Power Card Deck,Power Card Deck,
+sos,TMP Text,Rune Card Deck,Rune Card Deck,
+sos,TMP Text,Opponent Area,Opponent Area,
+sos,TMP Text,"Top Area
+",Top Area,
+sos,TMP Body Text,"Destroy is a new game term introduced in Storm of Souls. Destroy means to put into your discard pile from play and generally refers to Constructs.  Any effect from a previous Ascension set which put a Construct into the discard pile from play is  now considered to destroy that Construct. 
+
+",Destroy is a new game term introduced in Storm of Souls. Destroy means to put into your discard pile from play and generally refers to Constructs.  Any effect from a previous Ascension set which put a Construct into the discard pile from play is  now considered to destroy that Construct.,
+sos,TMP Text,Destroy:,Destroy:,
+sos,TMP Body Text,"<margin-right=12em>The Fanatic is a new Always Available Monster in Storm of Souls. The Fanatic is a Trophy Monster with a variable reward based on the current Event called an Event Trophy. You may have no more than one Fanatic Trophy at any time. If you defeat a Fanatic while you already have a Trophy from one, you gain the Honor reward but do not get another Trophy.
+
+The Fanatic is returned to the Always Available Zone when banished. It never goes to the Void.
+
+","<margin-right=12em>The Fanatic is a new Always Available Monster in Storm of Souls. The Fanatic is a Trophy Monster with a variable reward based on the current Event called an Event Trophy. You may have no more than one Fanatic Trophy at any time. If you defeat a Fanatic while you already have a Trophy from one, you gain the Honor reward but do not get another Trophy.
+
+The Fanatic is returned to the Always Available Zone when banished. It never goes to the Void.",
+sos,TMP Rules Text,A player may have no more than one Fanatic Trophy in play at a time.,A player may have no more than one Fanatic Trophy in play at a time.,
+sos,TMP Trophy Text,<color=#951719FF><B>Trophy:</B></color> You may banish this to gain the current Trophy Effect.,<color=#951719FF><B>Trophy:</B></color> You may banish this to gain the current Trophy Effect.,
+sos,TMP Rules Text,<B>Reward:</B> Gain <sprite=65> .,<B>Reward:</B> Gain <sprite=65> .,
+sos,TMP Class Text,Trophy Monster,Trophy Monster,
+sos,TMP Title,<size=104>F</size>anatic,<size=104>F</size>anatic,
+sos,TMP Text,Fanatic:,Fanatic:,
+sos,TMP Body Text,"<margin-right=12em>Some Monsters in Storm of Souls have a new kind of reward called Trophy.  When you defeat a Trophy Monster, you gain the Honor portion of its reward immediately, and then instead of banishing the Monster it is placed into your Construct Tray.  At any time during your turn, you may banish a Trophy you control to gain the indicated effect. You can use a Trophy the turn you get it or save it for a future turn.
+
+","<margin-right=12em>Some Monsters in Storm of Souls have a new kind of reward called Trophy.  When you defeat a Trophy Monster, you gain the Honor portion of its reward immediately, and then instead of banishing the Monster it is placed into your Construct Tray.  At any time during your turn, you may banish a Trophy you control to gain the indicated effect. You can use a Trophy the turn you get it or save it for a future turn.",
+sos,TMP Trophy Text,<color=#951719FF>Trophy:</color> You may banish this to gain <sprite=33>.,<color=#951719FF>Trophy:</color> You may banish this to gain <sprite=33>.,
+sos,TMP Rules Text,<b>Reward:</b> Gain <sprite=68>.,<b>Reward:</b> Gain <sprite=68>.,
+sos,TMP Title,<size=104>H</size>oarding Tyrant,<size=104>H</size>oarding Tyrant,
+sos,TMP Text,Trophy:,Trophy:,
+sos,TMP Body Text,"<margin-right=16em>Event cards represent global effects that change the power structure of the world. When an Event flips from the Portal Deck, it is put into the Event Zone instead of the center row. The card is then replaced in the Center Row as normal.  There may be only one Event in the Event Zone at any given time. While an Event is there it is considered the current Event. Events alter the rules of the game, and the current Event’s game text applies to every player.
+
+","<margin-right=16em>Event cards represent global effects that change the power structure of the world. When an Event flips from the Portal Deck, it is put into the Event Zone instead of the center row. The card is then replaced in the Center Row as normal.  There may be only one Event in the Event Zone at any given time. While an Event is there it is considered the current Event. Events alter the rules of the game, and the current Event’s game text applies to every player.",
+sos,TMP Rules Text,"Once per turn, when a player defeats a Monster in the center row, that player gains <sprite=65>.
+
+<color=#d8a6ffff>Event Trophy:</color> Banish a card in your hand or discard pile.","Once per turn, when a player defeats a Monster in the center row, that player gains <sprite=65>.
+
+<color=#d8a6ffff>Event Trophy:</color> Banish a card in your hand or discard pile.",
+sos,TMP Class Text,<color=#d8a6ffff>Event - Void,<color=#d8a6ffff>Event - Void,
+sos,TMP Title,Void Rising,Void Rising,
+sos,TMP Text,Event Cards:,Event Cards:,
+sos,TMP Text,What's New,What's New,
+vota,TMP Body Text,"For centuries, the valley of Alosya has remained hidden from the rest of Vigil. Guarded by treacherous mountains, the valley cradled an ancient civilization that rose and fell, cut off entirely from the outside world. In the absence of the gods, the people of Alosya worshipped the forces that ruled the world around them— life and death. They built two temples that focused and harnessed those energies, and revered the journey between the two.
+
+After many years, the society became corrupted by its own success, and they decided to build a third temple, the Temple of Immortality. Instead of maintaining a balance, this new vessel would allow them to wield control of the forces as they saw fit.
+
+The impassible terrain that once protected the valley was pierced by the formation of New Vigil. Ill-fated adventurers have ventured into the valley for decades, but none of them had escaped its dangers until now. Endbringer Jora has led a successful Void expedition into the valley, returning with tales of terrifying beasts and mysterious ruins.
+
+Now, the forces of New Vigil venture into the valley, hoping to uncover a powerful weapon in their battle against Xeron. What they don't know is that the foes and temptation awaiting them in Alosya may pose an even greater threat.
+
+The imbalance of the temples corrupted the valley, turning the Alosyans on each other and mutating the surrounding jungle's inhabitants into unimaginable monsters. With its return to primal order, the Temples became dormant.
+
+","For centuries, the valley of Alosya has remained hidden from the rest of Vigil. Guarded by treacherous mountains, the valley cradled an ancient civilization that rose and fell, cut off entirely from the outside world. In the absence of the gods, the people of Alosya worshipped the forces that ruled the world around them— life and death. They built two temples that focused and harnessed those energies, and revered the journey between the two.
+
+After many years, the society became corrupted by its own success, and they decided to build a third temple, the Temple of Immortality. Instead of maintaining a balance, this new vessel would allow them to wield control of the forces as they saw fit.
+
+The impassible terrain that once protected the valley was pierced by the formation of New Vigil. Ill-fated adventurers have ventured into the valley for decades, but none of them had escaped its dangers until now. Endbringer Jora has led a successful Void expedition into the valley, returning with tales of terrifying beasts and mysterious ruins.
+
+Now, the forces of New Vigil venture into the valley, hoping to uncover a powerful weapon in their battle against Xeron. What they don't know is that the foes and temptation awaiting them in Alosya may pose an even greater threat.
+
+The imbalance of the temples corrupted the valley, turning the Alosyans on each other and mutating the surrounding jungle's inhabitants into unimaginable monsters. With its return to primal order, the Temples became dormant.",
+vota,TMP Text,"Unlock the Secrets of Alosya...",Unlock the Secrets of Alosya...,
+vota,TMP Body Text,"<margin-right=12em>Some cards in the center deck feature a new black border with yellow lightning. Cards with this border have effects that are active while they are in the center row. The effects usually relate to a change in how a card is acquired, so make sure to read the card carefully when you see one in the center row.
+","<margin-right=12em>Some cards in the center deck feature a new black border with yellow lightning. Cards with this border have effects that are active while they are in the center row. The effects usually relate to a change in how a card is acquired, so make sure to read the card carefully when you see one in the center row.",
+vota,TMP Flavor Text,This is the flavor part.,This is the flavor part.,
+vota,TMP Rules Text,"You may spend <sprite=0> in addition to <sprite=32> to acquire this.
+You may spend <sprite=0> in addition to <sprite=32> to acquire Mechana Constructs.","You may spend <sprite=0> in addition to <sprite=32> to acquire this.
+You may spend <sprite=0> in addition to <sprite=32> to acquire Mechana Constructs.",
+vota,TMP Class Text,Mechana Construct,Mechana Construct,
+vota,TMP Title,"<size=104>T</size>yranyx, the Pillager","<size=104>T</size>yranyx, the Pillager",
+vota,TMP Text,Center Row Effects,Center Row Effects,
+vota,TMP Body Text,"<b>Echo</b>
+Cards with <b>Echo</B> have additional effects that occur if the player has cards in their discard pile that share the same faction as the <b>Echo</B> card.
+
+<b>Serenity</b>
+Cards with <b>Serenity</b> have additional effects that occur if the player has no cards in their discard pile.
+
+<b><i>Reminder:</i></b> Cards acquired during your turn immediately go to your discard pile (potentially turning on <b>Echo</b> effects, or turning off <b>Serenity</b> effects), but cards played during the turn do not go to your discard pile until the end of the turn.
+
+","<b>Echo
+</b>
+Cards with <b>Echo</B> have additional effects that occur if the player has cards in their discard pile that share the same faction as the <b>Echo</B> card.
+
+<b>Serenity
+</b>
+Cards with <b>Serenity</b> have additional effects that occur if the player has no cards in their discard pile.
+
+<b><i>Reminder:</i></b> Cards acquired during your turn immediately go to your discard pile (potentially turning on <b>Echo</b> effects, or turning off <b>Serenity</b> effects), but cards played during the turn do not go to your discard pile until the end of the turn.",
+vota,TMP Text,New Keywords,New Keywords,
+vota,TMP Life Keystone Text,"Life Keystone (<sprite=161>): When you gain a <sprite=161>, you may spend it to take one of the following actions:
+•<indent=1em>Gain control of the Temple of Life. If another player already controls it, you may take it from them.</indent>
+•<indent=1em>If you already control the Temple of Life, gain control of the Temple of Immortality and gain <sprite=34>.</indent>
+•<indent=1em>If you already control the Temple of Death and the Temple of Immortality, gain <sprite=34>.
+
+","Life Keystone (<sprite=161>): When you gain a <sprite=161>, you may spend it to take one of the following actions:
+•<indent=1em>Gain control of the Temple of Life. If another player already controls it, you may take it from them.
+</indent>
+•<indent=1em>If you already control the Temple of Life, gain control of the Temple of Immortality and gain <sprite=34>.
+</indent>
+•<indent=1em>If you already control the Temple of Death and the Temple of Immortality, gain <sprite=34>.",
+vota,TMP Death Keystone Text,"Death Keystone (<sprite=162>) : When you gain a <sprite=162>, you may spend it to take one of the following actions:
+•<indent=1em>Gain control of the Temple of Death. If another player already controls it, you may take it from them.</indent>
+•<indent=1em>If you already control the Temple of Death, gain control of the Temple of Immortality and you may banish a card from your hand or discard pile.</indent>
+•<indent=1em>If you already control the Temple of Death and the Temple of Immortality, you may banish a card from your hand or discard pile.
+
+","Death Keystone (<sprite=162>) : When you gain a <sprite=162>, you may spend it to take one of the following actions:
+•<indent=1em>Gain control of the Temple of Death. If another player already controls it, you may take it from them.</indent>
+•<indent=1em>If you already control the Temple of Death, gain control of the Temple of Immortality and you may banish a card from your hand or discard pile.
+</indent>
+•<indent=1em>If you already control the Temple of Death and the Temple of Immortality, you may banish a card from your hand or discard pile.",
+vota,TMP Body Text,"Keystones are a new resource in <i>Ascension: Valley of the Ancients.</i> Keystones work similarly to other resources, like <sprite=32> and <sprite=0>, but are used to acquire and activate Temples. When a card gives a player a Keystone, the player can use the Keystone to gain control of the corresponding Temple. If a player already has a Temple, the player can use the appropriate Keystone to activate the ability of their Temple and gain control of the Temple of Immortality.
+
+","Keystones are a new resource in <i>Ascension: Valley of the Ancients.</i> Keystones work similarly to other resources, like <sprite=32> and <sprite=0>, but are used to acquire and activate Temples. When a card gives a player a Keystone, the player can use the Keystone to gain control of the corresponding Temple. If a player already has a Temple, the player can use the appropriate Keystone to activate the ability of their Temple and gain control of the Temple of Immortality.",
+vota,TMP Text,Keystones,Keystones,
+vota,TMP Text,"<allcaps>Cost:</allcaps>
+The Keystone used to gain control of this Temple.","<allcaps>Cost:</allcaps>
+The Keystone used to gain control of this Temple.",
+vota,TMP Text,"<allcaps>Effect:</allcaps>
+What this card does while under a player's control.","<allcaps>Effect:</allcaps>
+What this card does while under a player's control.",
+vota,TMP Flavor Text,Death is eternal.,Death is eternal.,
+vota,TMP Rules Text,"<sprite=162>: Gain control of the Temple of Immortality. You may banish a card in your hand or discard pile.
+",<sprite=162>: Gain control of the Temple of Immortality. You may banish a card in your hand or discard pile.,
+vota,TMP Class Text,Temple,Temple,
+vota,TMP Title,<size=104>T</size>emple of Death,<size=104>T</size>emple of Death,
+vota,TMP Rules Text,"Once per turn, choose a faction. When you acquire a card of that faction, if the next card to enter the center row is also that faction, acquire it without paying its cost.","Once per turn, choose a faction. When you acquire a card of that faction, if the next card to enter the center row is also that faction, acquire it without paying its cost.",1
+vota,TMP Title,<size=104>T</size>emple of Immortality,<size=104>T</size>emple of Immortality,
+vota,TMP Flavor Text,Life finds a way.,Life finds a way.,
+vota,TMP Rules Text,"<sprite=161>: Gain control of the Temple of Immortality. Gain <sprite=34>.
+",<sprite=161>: Gain control of the Temple of Immortality. Gain <sprite=34>.,
+vota,TMP Title,<size=104>T</size>emple of Life,<size=104>T</size>emple of Life,
+vota,TMP Body Text,"When the game starts, place all three Temples below the center row, out of any player's control. To gain control of the Temple of Life, a player must spend a Life Keystone ( <sprite=161> ) and to gain control of the the Temple of Death, a player must spend a Death Keystone ( <sprite=162> ). You can only gain control of the Temple of Immortality by using the abilities of the Temple of Life or the Temple of Death. You may still maintain control of the Temple of Immortality even if you lose control of the other Temples.
+
+When a player gains control of a Temple by paying its Keystone cost, that player puts the Temple in front of them. At the end of a game, if a player controls a Temple, that Temple's value is added to their score. Players can steal Temples from each other, so be sure to make the most of your time controlling them!
+","When the game starts, place all three Temples below the center row, out of any player's control. To gain control of the Temple of Life, a player must spend a Life Keystone ( <sprite=161> ) and to gain control of the the Temple of Death, a player must spend a Death Keystone ( <sprite=162> ). You can only gain control of the Temple of Immortality by using the abilities of the Temple of Life or the Temple of Death. You may still maintain control of the Temple of Immortality even if you lose control of the other Temples.
+
+When a player gains control of a Temple by paying its Keystone cost, that player puts the Temple in front of them. At the end of a game, if a player controls a Temple, that Temple's value is added to their score. Players can steal Temples from each other, so be sure to make the most of your time controlling them!",
+vota,TMP Text,Temples,Temples,
+vota,TMP Body Text,"In <i>Ascension: Valley of the Ancients™,</i> players compete with one another to maintain control over powerful Temple cards. There are three different Temples that players can control— the Temple of Life, the Temple of Death and the ultimate Temple of Immortality.
+
+","In <i>Ascension: Valley of the Ancients™,</i> players compete with one another to maintain control over powerful Temple cards. There are three different Temples that players can control— the Temple of Life, the Temple of Death and the ultimate Temple of Immortality.",
+vota,TMP WhatsNew Text,What's New,What's New,
+wos,TMP Body Text,"An era of unprecedented peace and prosperity seemed like a just reward for the weary denizens of New Vigil, but a world dominated by light is an imbalanced one. A new darkness seeps in from the Void, intent on restoring balance by restoring despair and desolation to a world that had forgotten it.
+ 
+Aklys, the Scourge, leads his dark legion into New Vigil, determined to carve out a new kingdom of his own in New Vigils' growing shadows. They rise from the shadows and the dark corners, striking out at content and unprepared cities.
+
+The four factions now recall their veteran heroes and reawaken the great war machines of the past, as they plan their first move in the chaotic ebb and flow of light and dark. Do they have what it takes to defeat Aklys and restore the balance between Night and Day, or will they fall victim to the fear and paranoia as the shadows themselves rise up against them? The War of Shadows has begun.
+
+","An era of unprecedented peace and prosperity seemed like a just reward for the weary denizens of New Vigil, but a world dominated by light is an imbalanced one. A new darkness seeps in from the Void, intent on restoring balance by restoring despair and desolation to a world that had forgotten it.
+
+Aklys, the Scourge, leads his dark legion into New Vigil, determined to carve out a new kingdom of his own in New Vigils' growing shadows. They rise from the shadows and the dark corners, striking out at content and unprepared cities.
+
+The four factions now recall their veteran heroes and reawaken the great war machines of the past, as they plan their first move in the chaotic ebb and flow of light and dark. Do they have what it takes to defeat Aklys and restore the balance between Night and Day, or will they fall victim to the fear and paranoia as the shadows themselves rise up against them? The War of Shadows has begun.",
+wos,TMP Text,"War is Upon Us!
+",War is Upon Us!,
+wos,TMP Title Text,Introduction,Introduction,
+wos,TMP Body Text,"<margin-right=12em>Dual Cost cards are a new type of card in Ascension X: War of Shadows™. Dual Cost cards require players to spend both Runes and Power to acquire them. Both the Rune and Power costs  listed on Dual Cost cards need to be paid in order to acquire them.
+
+",<margin-right=12em>Dual Cost cards are a new type of card in Ascension X: War of Shadows™. Dual Cost cards require players to spend both Runes and Power to acquire them. Both the Rune and Power costs  listed on Dual Cost cards need to be paid in order to acquire them.,
+wos,TMP Flavor Text,You'll have a ruff time getting past his watchful eyes.,You'll have a ruff time getting past his watchful eyes.,
+wos,TMP Rules Text,"Once per turn, if you play a Mechana Construct (including this one) or if it is Day, gain <sprite=34>.","Once per turn, if you play a Mechana Construct (including this one) or if it is Day, gain <sprite=34>.",
+wos,TMP Class Text,Mechana Construct,Mechana Construct,
+wos,TMP Title,<size=104>F</size>oundry Hound,<size=104>F</size>oundry Hound,
+wos,TMP Text,"Dual Cost Cards
+",Dual Cost Cards,
+wos,TMP Trophy Text,"<color=#951719FF>Trophy:</color> If it is Night, banish this to gain <sprite=2>.","<color=#951719FF>Trophy:</color> If it is Night, banish this to gain <sprite=2>.",
+wos,TMP Trophy Text,"<color=#951719FF>Trophy:</color> If it is Day, banish this to gain <sprite=33>.","<color=#951719FF>Trophy:</color> If it is Day, banish this to gain <sprite=33>.",
+wos,TMP Rules Text,<B>Reward:</B> Gain <sprite=66>.,<B>Reward:</B> Gain <sprite=66>.,
+wos,TMP Class Text,Trophy Monster,Trophy Monster,
+wos,TMP Title,<size=104>L</size>egion of Aklys,<size=104>L</size>egion of Aklys,1
+wos,TMP Day Text,<B>Day:</B> Add the acquired card to your hand.,<B>Day:</B> Add the acquired card to your hand.,
+wos,TMP Rules Text,"If all cards in the center row are <sprite=143> cards, you may acquire this without paying it's cost.
+Acquire a card in the center row without paying its cost.","If all cards in the center row are <sprite=143> cards, you may acquire this without paying it's cost.
+Acquire a card in the center row without paying its cost.",
+wos,TMP Class Text,Enlightened Hero,Enlightened Hero,
+wos,TMP Title,"<size=104>T</size>a'hyr, the Sun","<size=104>T</size>a'hyr, the Sun",
+wos,TMP Body Text,"One of the new features in Ascension X: War of Shadows™ are Light and Dark cards – whose powers grow stronger depending on whether the Light or Dark is better represented in the center row. A <sprite=143> on the upper right hand corner of a card represents that the card is a Light card, while a <sprite=142> on the upper right hand corner of a card represents that the card is a Dark card.
+
+If there are more <sprite=143> cards in the center row than <sprite=142> cards, then it is Day. Day bonuses on cards will be active during this time.
+
+If there are more <sprite=142> cards in the center row than <sprite=143> cards, then it is Night. Night bonuses on cards will be active during this time.
+
+If there are the same amount of <sprite=143> cards and <sprite=142> cards in the center row, then it is neither Day or Night. No Day or Night bonuses on cards will be active during this time.
+
+","One of the new features in Ascension X: War of Shadows™ are Light and Dark cards – whose powers grow stronger depending on whether the Light or Dark is better represented in the center row. A <sprite=143> on the upper right hand corner of a card represents that the card is a Light card, while a <sprite=142> on the upper right hand corner of a card represents that the card is a Dark card.
+
+If there are more <sprite=143> cards in the center row than <sprite=142> cards, then it is Day. Day bonuses on cards will be active during this time.
+
+If there are more <sprite=142> cards in the center row than <sprite=143> cards, then it is Night. Night bonuses on cards will be active during this time.
+
+If there are the same amount of <sprite=143> cards and <sprite=142> cards in the center row, then it is neither Day or Night. No Day or Night bonuses on cards will be active during this time.",
+wos,TMP Text,"Light & Dark Cards
+",Light & Dark Cards,
+wos,TMP Title Text,What's New,What's New,

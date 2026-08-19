@@ -1,22 +1,32 @@
 key,zh
+TUTORIAL_PROMPT_ACQUIREARHAINITIATE,将亚哈新兵拖到你的弃牌堆
+TUTORIAL_PROMPT_ACQUIREEMRI,将艾姆瑞拖到你的弃牌堆
+TUTORIAL_PROMPT_ACQUIREMURAMASA,将村正拖到你的弃牌堆
+TUTORIAL_PROMPT_ACQUIREMYSTIC,将一张秘教士拖到你的弃牌堆
+TUTORIAL_PROMPT_ACQUIRESNAPDRAGON,将金鱼草拖到你的弃牌堆
+TUTORIAL_PROMPT_ACQUIREWOLFSHAMAN,将狼萨满拖到你的弃牌堆
+TUTORIAL_PROMPT_CONTINUE,${CLICK_C} 继续
+TUTORIAL_PROMPT_DEFEATCULTIST,将邪教徒拖到虚空区
+TUTORIAL_PROMPT_DEFEATWINDTRYANT,将风之暴君拖到虚空区
+TUTORIAL_PROMPT_ENDTURN,${CLICK_C}「结束回合」按钮
+TUTORIAL_PROMPT_PLAYAPPRENTICE,将一张学徒拖到行动区
+TUTORIAL_PROMPT_PLAYARHAINITIATE,将亚哈新兵拖到行动区
+TUTORIAL_PROMPT_PLAYEMRI,将与虚空合一的艾姆瑞拖到行动区
+TUTORIAL_PROMPT_PLAYMILITIA,将一张民兵拖到行动区
+TUTORIAL_PROMPT_PLAYSNAPDRAGON,将金鱼草拖到行动区
+TUTORIAL_PROMPT_PLAYWOLFSHAMAN,将狼萨满拖到行动区
 TUTORIAL_TEXT_1,创升纪元是一款牌库构筑游戏。<br><br>每位玩家以相同的十张初始套牌开始，并在对局中不断强化自己的牌库。
-TUTORIAL_TEXT_2,每位玩家开局拥有 8 张学徒和 2 张民兵。<br><br>它们提供两种基础资源：<br>符文 <sprite=32> 与战力 <sprite=0>。
-TUTORIAL_TEXT_3,每张学徒提供 1 点符文，用来获取更多卡牌加入你的牌库。
-TUTORIAL_TEXT_4,每张民兵提供 1 点战力，用来击败怪物并获得奖励。
-TUTORIAL_TEXT_5,学徒与民兵都是英雄。英雄可以从手牌打出以结算其效果。
-TUTORIAL_TEXT_6,可从手牌打出的卡牌会带有白色光晕。<br><br>现在试着打出一张学徒。
-TUTORIAL_TEXT_7,游戏区左上角的卡牌在整局中始终可用。
-TUTORIAL_TEXT_8,你的回合中可以随时获取这些卡牌加入牌库，或击败它们以获得奖励。
 TUTORIAL_TEXT_10,卡牌右上角的数字是获取或击败它所需的费用。
 TUTORIAL_TEXT_11,要获取一张秘教士，你需要花费 3 点符文。<br><br>再打出一张学徒以获得第二点符文。
 TUTORIAL_TEXT_12,要获取一张秘教士，你需要花费 3 点符文。<br><br>打出第三张学徒以再获得 1 点符文。
 TUTORIAL_TEXT_13,你现在有足够的符文<br>来获取一张秘教士。
-TUTORIAL_TEXT_14,获取的卡牌会进入你的弃牌堆，并在下次洗牌后进入你的牌库循环。
+TUTORIAL_TEXT_14,获取的卡牌会进入你的弃牌堆；下次洗入牌库后即可再度使用。
 TUTORIAL_TEXT_15,可以获取的卡牌会带有绿色光晕。<br><br>现在试着获取一张秘教士。
 TUTORIAL_TEXT_16,要击败怪物，必须花费战力 <sprite=0>。<br><br>击败邪教徒需要 2 点战力。
 TUTORIAL_TEXT_17,要击败邪教徒，必须花费 2 点战力。<br><br>从手牌打出一张民兵以获得战力。
 TUTORIAL_TEXT_18,要击败邪教徒，必须花费 2 点战力。<br><br>打出另一张民兵以再获得 1 点战力。
-TUTORIAL_TEXT_19,击败的怪物不会进入你的牌库。你会得到奖励，然后它被送入虚空区。
+TUTORIAL_TEXT_19,击败的怪物不会进入你的牌库。你会获得奖励，然后它被送入虚空区。
+TUTORIAL_TEXT_2,每位玩家开局拥有 8 张学徒和 2 张民兵。<br><br>它们提供两种基础资源：<br>符文 <sprite=32> 与战力 <sprite=0>。
 TUTORIAL_TEXT_20,进入虚空区的卡牌会移出游戏。邪教徒比较特殊，可以被反复送入虚空区。
 TUTORIAL_TEXT_21,可以击败的卡牌会带有红色光晕。要击败它，请将它拖到虚空区。
 TUTORIAL_TEXT_22,击败邪教徒的奖励是 1 点荣誉。荣誉 <sprite=64> 是胜利条件：最终荣誉高于对手即可获胜。
@@ -27,6 +37,7 @@ TUTORIAL_TEXT_26,游戏开始时会按人数设置荣誉池。荣誉池耗尽即
 TUTORIAL_TEXT_27,每当有玩家打出卡牌或结算奖励获得荣誉时，就会从荣誉池中扣除相应点数。
 TUTORIAL_TEXT_28,荣誉池空后，从首位玩家起到拿取最后荣誉的那名玩家之前，每人还可以完成各自的回合。
 TUTORIAL_TEXT_29,这是 2 人游戏，荣誉池初始为 60 点。
+TUTORIAL_TEXT_3,每张学徒提供 1 点符文，用来获取更多卡牌加入你的牌库。
 TUTORIAL_TEXT_30,除始终可用的卡牌外，玩家还可以从中央牌列获取或击败卡牌。
 TUTORIAL_TEXT_31,中央牌列有 6 张牌，会随对局变化。当一张牌离开中央牌列（通常因为被获取或击败），会立刻从传送门牌库补一张新牌。
 TUTORIAL_TEXT_32,开局每人抽五张牌。每回合结束时，这些牌进入你的弃牌堆，然后你再抽五张新牌。
@@ -37,6 +48,7 @@ TUTORIAL_TEXT_36,5 点符文刚好可以获取金鱼草，这是一张很适合�
 TUTORIAL_TEXT_37,获取金鱼草后，中央牌列空出的位置会立刻从传送门牌库补一张新牌。
 TUTORIAL_TEXT_38,你本回合的资源已经用完。没有其他行动时，必须结束回合，让对手行动。
 TUTORIAL_TEXT_39,回合结束时，留在手牌中的卡牌和本回合打出的英雄都会进入弃牌堆，然后你再抽 5 张新牌。
+TUTORIAL_TEXT_4,每张民兵提供 1 点战力，用来击败怪物并获得奖励。
 TUTORIAL_TEXT_40,对手有 4 张学徒和 1 张民兵。
 TUTORIAL_TEXT_41,他用 4 点符文获取了恶魔杀手。
 TUTORIAL_TEXT_42,对手只剩 1 点战力，没有能击败的目标，所以那张民兵会未被使用地进入弃牌堆。
@@ -47,6 +59,7 @@ TUTORIAL_TEXT_46,获取狼萨满需要 3 点符文。
 TUTORIAL_TEXT_47,现在可以获取狼萨满了。
 TUTORIAL_TEXT_48,你还剩 2 点战力，可以<br>用来击败邪教徒。
 TUTORIAL_TEXT_49,击败邪教徒会获得 1 点荣誉。
+TUTORIAL_TEXT_5,学徒与民兵都是英雄。英雄可以从手牌打出以结算其效果。
 TUTORIAL_TEXT_50,你的回合结束了。<br><br>本回合打出的卡牌会进入弃牌堆，然后你再抽 5 张新手牌。
 TUTORIAL_TEXT_51,牌库抽空后，弃牌堆会洗牌成为新的牌库。最近几回合获取的卡牌现在可以打出了。
 TUTORIAL_TEXT_52,对手再次抽到 4 张学徒和 1 张民兵。
@@ -57,6 +70,7 @@ TUTORIAL_TEXT_56,提供固定符文或战力的神器在战场上会自动触发
 TUTORIAL_TEXT_57,金鱼草提供的符文已经计入你的符文总数：<br>金鱼草 1 点，外加学徒的 3 点。
 TUTORIAL_TEXT_58,先花 1 点符文获取亚哈新兵。符文够就可以继续获取；如果中央牌列补出更好的牌，你也可以再拿。
 TUTORIAL_TEXT_59,与虚空合一的艾姆瑞很强，但本回合买不起。
+TUTORIAL_TEXT_6,可从手牌打出的卡牌会带有白色光晕。<br><br>现在试着打出一张学徒。
 TUTORIAL_TEXT_60,你的符文不够获取中央牌列的任何牌。<br>这时始终可用的卡牌就派上用场了。
 TUTORIAL_TEXT_61,用剩下的 3 点符文<br>获取一张秘教士。
 TUTORIAL_TEXT_62,你还剩 1 点战力，但没有能用 1 战力击败的目标，所以必须结束回合。
@@ -67,6 +81,7 @@ TUTORIAL_TEXT_66,你应该放逐不想让对手获取或击败的牌，然后传
 TUTORIAL_TEXT_67,对手选择放逐达萨大师。他的牌库偏战力，因此放逐达萨大师以阻止你获取。
 TUTORIAL_TEXT_68,放逐达萨大师不但拿走了你本可能使用的牌，补出的新牌还正是对手想要的。
 TUTORIAL_TEXT_69,对手现在可以花 3 点符文获取<br>暗影之星。
+TUTORIAL_TEXT_7,游戏区左上角的卡牌在整局中始终可用。
 TUTORIAL_TEXT_70,对手资源用尽，结束了回合。
 TUTORIAL_TEXT_71,打出狼萨满获得 1 点符文并额外抽一张牌。因为狼萨满是命约英雄，金鱼草还会让你获得 1 点荣誉。
 TUTORIAL_TEXT_72,加上本回合额外获得的资源，<br>你现在有 6 点符文和 1 点战力。
@@ -77,6 +92,7 @@ TUTORIAL_TEXT_76,他先花 3 点战力击败萨麦尔的诡术师。
 TUTORIAL_TEXT_77,击败萨麦尔的诡术师让对手获得<br>1 点荣誉和 1 点符文，符文总数来到 4 点。
 TUTORIAL_TEXT_78,他用这 4 点符文获取刚在中央牌列亮出的石环德鲁伊。
 TUTORIAL_TEXT_79,对手资源用尽，结束了回合。
+TUTORIAL_TEXT_8,你的回合中可以随时获取这些卡牌加入牌库，或击败它们以获得奖励。
 TUTORIAL_TEXT_80,本回合应先打出亚哈新兵，它让你从牌库额外抽一张牌。
 TUTORIAL_TEXT_81,通常要尽早打出能额外抽牌或产生资源的卡牌，以便有更多选择。
 TUTORIAL_TEXT_82,亚哈新兵抽到了艾姆瑞。<br>运气不错，你现在有 5 点战力。
@@ -85,22 +101,6 @@ TUTORIAL_TEXT_84,现在击败风之暴君，获得<br>3 点荣誉和 3 点符文
 TUTORIAL_TEXT_85,获取村正需要 7 点符文。
 TUTORIAL_TEXT_86,你现在有足够的符文获取村正了！
 TUTORIAL_TEXT_87,你已经掌握足够知识来完整进行一局创升纪元！<br><br>记住：终局荣誉最高的玩家获胜。
-TUTORIAL_TEXT_88,若仍需帮助，可点右下角菜单按钮查看详细规则和界面图解。
-TUTORIAL_TEXT_89,你可以继续完成这局对电脑的教程，或随时用菜单开始新对局。
-TUTORIAL_PROMPT_CONTINUE,${CLICK_C} 继续
-TUTORIAL_PROMPT_ENDTURN,${CLICK_C} 结束回合按钮
-TUTORIAL_PROMPT_PLAYAPPRENTICE,将一张学徒拖到行动区
-TUTORIAL_PROMPT_ACQUIREMYSTIC,将一张秘教士拖到你的弃牌堆
-TUTORIAL_PROMPT_PLAYMILITIA,将一张民兵拖到行动区
-TUTORIAL_PROMPT_DEFEATCULTIST,将邪教徒拖到虚空区
-TUTORIAL_PROMPT_ACQUIRESNAPDRAGON,将金鱼草拖到你的弃牌堆
-TUTORIAL_PROMPT_ACQUIREWOLFSHAMAN,将狼萨满拖到你的弃牌堆
-TUTORIAL_PROMPT_PLAYSNAPDRAGON,将金鱼草拖到行动区
-TUTORIAL_PROMPT_ACQUIREARHAINITIATE,将亚哈新兵拖到你的弃牌堆
-TUTORIAL_PROMPT_PLAYWOLFSHAMAN,将狼萨满拖到行动区
-TUTORIAL_PROMPT_ACQUIREEMRI,将艾姆瑞拖到你的弃牌堆
-TUTORIAL_PROMPT_PLAYARHAINITIATE,将亚哈新兵拖到行动区
-TUTORIAL_PROMPT_PLAYEMRI,将与虚空合一的艾姆瑞拖到行动区
-TUTORIAL_PROMPT_DEFEATWINDTRYANT,将风之暴君拖到虚空区
-TUTORIAL_PROMPT_ACQUIREMURAMASA,将村正拖到你的弃牌堆
+TUTORIAL_TEXT_88,若仍需帮助，可点击右下角菜单，查看详细规则与界面图解。
+TUTORIAL_TEXT_89,你可以继续完成这局对电脑的教程，或随时通过菜单开始新对局。
 TUTORIAL_TEXT_9,右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。

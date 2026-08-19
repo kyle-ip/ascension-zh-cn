@@ -103,8 +103,10 @@ def _patch_lua_file(text: str, cards: dict[str, dict[str, str]], messages: dict[
                     body = text[start + 1 : i]
                     row = cards.get(m.group(1))
                     if row:
-                        # Gallery/engine copy. Do not rewrite display_name:
-                        # in-match names already come from CARDNAME_* loc keys.
+                        # card_name is the Lua id — never translate it.
+                        # display_name is what the gallery title reads when loc is skipped.
+                        if row.get("display_name"):
+                            body = _replace_field(body, "display_name", row["display_name"])
                         if row.get("effect_text"):
                             body = _replace_field(body, "effect_text", row["effect_text"])
                         if row.get("flavor_text"):
@@ -137,7 +139,7 @@ def _patch_lua_file(text: str, cards: dict[str, dict[str, str]], messages: dict[
 
 
 def enable(locale: str) -> None:
-    game = detect_game_root()
+    game = detect_game_root(prompt=True)
     src = lua_dir(game)
     BACKUP_DIR.mkdir(parents=True, exist_ok=True)
     backup_lua = BACKUP_DIR / "Lua"
@@ -211,6 +213,9 @@ def enable(locale: str) -> None:
     except Exception as exc:
         print(f"scene overlay skipped: {exc}")
 
+    # Do not UnityPy-rewrite resources.assets for rulebook: a full reserialize
+    # hung in-game loading. Rulebook TMP stays a runtime overlay.
+
     try:
         from overlay import write_overlay  # noqa: E402
 
@@ -239,7 +244,7 @@ def enable(locale: str) -> None:
 
 
 def disable() -> None:
-    game = detect_game_root()
+    game = detect_game_root(prompt=True)
     src = lua_dir(game)
     backup_lua = BACKUP_DIR / "Lua"
     if not backup_lua.is_dir():
@@ -266,7 +271,7 @@ def disable() -> None:
 
 def status() -> None:
     cfg = load_patch_config()
-    game = detect_game_root(cfg)
+    game = detect_game_root(cfg, prompt=True)
     backup = BACKUP_DIR / "Lua"
     print(f"enabled: {cfg.get('enabled')}")
     print(f"locale:  {cfg.get('locale')}")

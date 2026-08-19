@@ -106,6 +106,13 @@ internal sealed class MainForm : Form
             return;
         }
         _path.Text = dlg.SelectedPath;
+        try
+        {
+            GameLocator.WriteGameRoot(AppPaths.Discover(), dlg.SelectedPath);
+        }
+        catch
+        {
+        }
     }
 
     async Task RunSafe(bool install)
@@ -123,6 +130,8 @@ internal sealed class MainForm : Form
         _restore.Enabled = false;
         try
         {
+            var paths = AppPaths.Discover();
+            GameLocator.WriteGameRoot(paths, _path.Text);
             var service = PatchService.Create(AppendLog, _path.Text);
             if (install)
                 await service.InstallAsync();

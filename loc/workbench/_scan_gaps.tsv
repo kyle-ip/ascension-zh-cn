@@ -1,0 +1,24 @@
+kind	file	id	key	en	zh
+wb_empty	cards_lua.csv	car_3ae23b604202		N.I.N.E.	N.I.N.E.
+wb_empty	cards_lua.csv	car_513d58b30785		P.R.I.M.E.	P.R.I.M.E.
+wb_empty	cards_sheet.csv	car_dd22689a139e	CARDNAME_LEGENDPRIME	P.R.I.M.E.	P.R.I.M.E.
+wb_empty	cards_sheet.csv	car_334492c892e8	CARDNAME_XERONDUKEOFLIES	<sprite=3>	<sprite=3>
+wb_empty	cards_sheet.csv	car_5cd6c5934145	EFFECT_XERONDUKEOFLIES	<sprite=4>	<sprite=4>
+wb_empty	cards_sheet.csv	car_feb286e929db	FLAVOR_ARHATEMPLAR	<sprite=123>	<sprite=123>
+wb_empty	cards_sheet.csv	car_e4a921425660	FLAVOR_BURROWERMARKII	<sprite=143>	<sprite=143>
+wb_empty	cards_sheet.csv	car_23803d68ad86	FLAVOR_CETRAWEAVEROFSTARS	<sprite=10>	<sprite=10>
+wb_empty	cards_sheet.csv	car_7504e7697f7a	FLAVOR_CULTIST	<sprite=70>	<sprite=70>
+wb_empty	cards_sheet.csv	car_8204b079b1c6	FLAVOR_DRUIDSOFTHESTONECIRCLE	<sprite=32>	<sprite=32>
+wb_empty	cards_sheet.csv	car_3dd85aa69d78	FLAVOR_LANDTALKER	<sprite=2>	<sprite=2>
+wb_empty	cards_sheet.csv	car_9db4ebdde24f	FLAVOR_LIFEBOUNDINITIATE	<sprite=38>	<sprite=38>
+wb_empty	cards_sheet.csv	car_c41b99ece098	FLAVOR_MASTERDHARTHA	<sprite=120>	<sprite=120>
+wb_empty	cards_sheet.csv	car_7375ff876669	FLAVOR_MECHANAINITIATE	<sprite=35>	<sprite=35>
+wb_empty	cards_sheet.csv	car_ed741bf4739f	FLAVOR_RUNICLYCANTHROPE	<sprite=41>	<sprite=41>
+wb_empty	cards_sheet.csv	car_aa8ecf02e4ff	FLAVOR_SHADOWSTAR	<sprite=73>	<sprite=73>
+wb_empty	cards_sheet.csv	car_519044701345	FLAVOR_SNAPDRAGON	<sprite=7>	<sprite=7>
+wb_empty	cards_sheet.csv	car_4f02b01a0cc1	FLAVOR_STONEBLADETEMPLAR	<br>	<br>
+wb_empty	cards_sheet.csv	car_44e6d1b8d7ae	FLAVOR_THEALLSEEINGEYE	<sprite=98>	<sprite=98>
+wb_empty	cards_sheet.csv	car_18c4ad47129d	FLAVOR_TWOFOLDASKARA	<sprite=115>	<sprite=115>
+wb_empty	cards_sheet.csv	car_f18e93b81501	FLAVOR_YGGDRASILSTAFF	<sprite=173>	<sprite=173>
+wb_empty	runtime_gaps.csv	run_f04d44350e98		2.1.0.276 VotA Beta	2.1.0.276 VotA Beta
+runtime_gap	runtime_gaps.csv	run_f04d44350e98		2.1.0.276 VotA Beta	2.1.0.276 VotA Beta

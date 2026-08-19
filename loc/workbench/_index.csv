@@ -1,0 +1,9 @@
+file,rows,with_zh,empty,draft,done,skip
+rulebook.csv,355,355,0,355,0,0
+ui_keys.csv,323,323,0,323,0,0
+ui_exact.csv,82,82,0,82,0,0
+cards_lua.csv,1938,1938,0,1938,0,0
+cards_sheet.csv,2607,2607,0,2607,0,0
+tutorial.csv,105,105,0,105,0,0
+glossary.csv,303,303,0,303,0,0
+runtime_gaps.csv,153,116,0,116,0,37

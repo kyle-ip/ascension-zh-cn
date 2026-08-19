@@ -76,6 +76,8 @@ internal static class LuaPatcher
                         var body = text.Substring(start + 1, i - start - 1);
                         if (cards.TryGetValue(m.Groups[1].Value, out var row))
                         {
+                            if (row.TryGetValue("display_name", out var display) && !string.IsNullOrEmpty(display))
+                                body = ReplaceField(body, "display_name", display);
                             if (row.TryGetValue("effect_text", out var effect) && !string.IsNullOrEmpty(effect))
                                 body = ReplaceField(body, "effect_text", effect);
                             if (row.TryGetValue("flavor_text", out var flavor) && !string.IsNullOrEmpty(flavor))
@@ -130,7 +132,16 @@ internal static class LuaPatcher
             "(" + Regex.Escape(field) + @"\s*=\s*)(?:""(?:\\.|[^""\\])*""(?:\s*\.\.\s*)?)+",
             RegexOptions.Singleline);
         var replaced = pattern.Replace(body, m => m.Groups[1].Value + escaped, 1);
-        return replaced;
+        if (replaced != body)
+            return replaced;
+        if (field != "display_name")
+            return body;
+        return new Regex(
+            @"(card_name\s*=\s*""(?:\\.|[^""\\])*""\s*;)",
+            RegexOptions.Singleline).Replace(
+            body,
+            m => m.Groups[1].Value + "\n   display_name = " + escaped + ";",
+            1);
     }
 
     static string LuaEscape(string value)

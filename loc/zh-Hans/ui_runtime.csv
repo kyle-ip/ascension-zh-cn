@@ -28,8 +28,6 @@ Void Construct,虚空神器
 Monster,怪物
 Hero,英雄
 Construct,神器
-END TURN,结束回合
-End Turn,结束回合
 Music,音乐
 Sound Effects,音效
 Cultist Screams,邪教徒惨叫
@@ -40,12 +38,11 @@ Back,返回
 Offline Games,离线对局
 Continue,继续
 Common,普通
-"Loading cards, please wait...","正在加载卡牌，请稍候…"
-"Loading Cards, please wait...","正在加载卡牌，请稍候…"
+"Loading cards, please wait...",正在加载卡牌，请稍候…
+"Loading Cards, please wait...",正在加载卡牌，请稍候…
 Reward: Gain 1H.,奖励：获得1荣誉。
 Reward: 1 Honor,奖励：1荣誉
-"The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.","邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。"
-Monster,怪物
+The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.,邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。
 Enlightened,圣贤
 Lifebound,命约
 Mechana,机械
@@ -70,3 +67,207 @@ Lifebound Monster,命约怪物
 Mechana Monster,机械怪物
 Void Monster,虚空怪物
 Common Monster,普通怪物
+"Return to the world of Vigil as the Muses of Malevolence rise to bring ruin. Legendary Heroes from Ascension’s past have returned to guide you, granting their power to those who prove worthy.<br><br>Each card you acquire or defeat grants Renown with its factions, advancing you on the Legendary Track. As your Renown grows, unlock powerful Boons from Legendary Characters and, at the pinnacle of a faction’s track, gain Legendry status with the power to acquire or defeat one card from that faction for free each turn.<br><br><b><align=center>Includes 86 unique<br>new cards.",重返祈夜：恶意缪斯崛起，欲将一切引向毁灭。创升纪元往昔的传奇英雄再度现身，将力量授予证明自己配得上的人。<br><br>你获取或击败的每张牌都会为其派系带来声望，推动你在传奇轨道上前进。声望提升后，可解锁传奇角色的强大恩赐；抵达某派系轨道顶点时，获得传奇地位，每回合可免费获取或击败一张该派系卡牌。<br><br><align=center>包含 86 张独特新卡。
+"Return to the world of Vigil as the Muses of Malevolence rise to bring ruin. Legendary Heroes from Ascension’s past have returned to guide you, granting their power to those who prove worthy.<br><br>Each card you acquire or defeat grants Renown with its factions, advancing you on the Legendary Track. As your Renown grows, unlock powerful Boons from Legendary Characters and, at the pinnacle of a faction’s track, gain Legendry status with the power to acquire or defeat one card from that faction for free each turn.<br><br><b><align=center>Includes 86 unique new cards.",重返祈夜：恶意缪斯崛起，欲将一切引向毁灭。创升纪元往昔的传奇英雄再度现身，将力量授予证明自己配得上的人。<br><br>你获取或击败的每张牌都会为其派系带来声望，推动你在传奇轨道上前进。声望提升后，可解锁传奇角色的强大恩赐；抵达某派系轨道顶点时，获得传奇地位，每回合可免费获取或击败一张该派系卡牌。<br><br><align=center>包含 86 张独特新卡。
+"Return to the world of Vigil as the Muses of Malevolence rise to bring ruin. Legendary Heroes from Ascension’s past have returned to guide you, granting their power to those who prove worthy.<br><br>Each card you acquire or defeat grants Renown with its factions, advancing you on the Legendary Track. As your Renown grows, unlock powerful Boons from Legendary Characters and, at the pinnacle of a faction’s track, gain Legendry status with the power to acquire or defeat one card from that faction for free each turn.<br><br><align=center>Includes 86 unique new cards.",重返祈夜：恶意缪斯崛起，欲将一切引向毁灭。创升纪元往昔的传奇英雄再度现身，将力量授予证明自己配得上的人。<br><br>你获取或击败的每张牌都会为其派系带来声望，推动你在传奇轨道上前进。声望提升后，可解锁传奇角色的强大恩赐；抵达某派系轨道顶点时，获得传奇地位，每回合可免费获取或击败一张该派系卡牌。<br><br><align=center>包含 86 张独特新卡。
+"Dark forces have taken over the Dreamscape. Team up with Pasythea, collect her legendary weapons, and return order to her world!<br><br>Use the Insight resources and Dreamborn cards to save the Dreamscape. Bind Monsters to your deck and use them in battle! Transform cards to incredible heroes and Constructs and acquire Pasythea! Pair Deliverance with Dreamscape and Delirium for an even more exciting game!<br><br><b><align=center>Includes 51 unique<br>new cards.",黑暗势力已占据梦境。与帕西提亚并肩作战，收集她的传奇武器，让她的世界恢复秩序！<br><br>运用洞察与梦生卡拯救梦境；将怪物束缚进你的牌库并投入战斗！把卡牌转化为强大的英雄与神器，并获取帕西提亚！将「救赎」与「梦境」「谵妄」搭配，对局更加精彩！<br><br><b><align=center>包含 51 张独特<br>新卡。
+"Dark forces have taken over the Dreamscape. Team up with Pasythea, collect her legendary weapons, and return order to her world!<br><br>Use the Insight resources and Dreamborn cards to save the Dreamscape. Bind Monsters to your deck and use them in battle! Transform cards to incredible heroes and Constructs and acquire Pasythea! Pair Deliverance with Dreamscape and Delirium for an even more exciting game!<br><br><b><align=center>Includes 51 unique new cards.",黑暗势力已占据梦境。与帕西提亚并肩作战，收集她的传奇武器，让她的世界恢复秩序！<br><br>运用洞察与梦生卡拯救梦境；将怪物束缚进你的牌库并投入战斗！把卡牌转化为强大的英雄与神器，并获取帕西提亚！将「救赎」与「梦境」「谵妄」搭配，对局更加精彩！<br><br><b><align=center>包含 51 张独特新卡。
+"Delirium brings players back into the Dreamscape, facing a twisted new reality.<br><br>Insight and Dreamborn cards are back, but with new powers to unlock with them.<br><br>Win Fate Auctions, Recur hero effects, and roll the amazing Delirium Die with your Insight to gain an edge against the other players!<br><br><b><align=center>Includes 49 unique new cards.",「谵妄」将玩家带回梦境，面对扭曲的新现实。<br><br>洞察与梦生卡回归，并带来全新可解锁的力量。<br><br>赢得天命拍卖、复发英雄效果，再用洞察掷出谵妄骰，抢占对其他玩家的优势！<br><br><b><align=center>包含 49 张独特新卡。
+"* New dual-cost Heroes and Constructs require players to use both resources to acquire them, but have incredible power!
+*As the balance between Light and Dark shifts, cards gain additional powers depending on whether it is Night or Day.","* 新的双费英雄与神器需要同时花费两种资源才能获取，但拥有惊人力量！
+* 随着光暗平衡推移，卡牌会依当前为夜或昼获得额外能力。"
+"You already own one or more items contained in this bundle.
+Individual items can be purchased from the ""Purchase Separately"" menu.
+Are you sure you wish to purchase the bundle?","此组合包 中你已拥有一件或多件内容。
+可从「分开购买」菜单单独购买。
+确定要购买此组合包 吗？"
+"Purchase all the Ascension bundles for one low price!<br><br>Includes Bundle #1 through Bundle #5.  
+
+That's 630 <b>unique</b> new cards to play with.",以优惠价格购买全部创升纪元组合包！<br><br>包含 Bundle #1 至 Bundle #5。<br><br>共 630 张 <b>独特</b> 卡牌！
+"If you have never created a Playdek account, please click on the ""Create Account"" button and follow the process to create a new online account.",若你从未创建过 Playdek 账号，请点击「创建账号」按钮。
+If you previously had a Playdek account or use one for our other games you may login with that account email and password.,若你以前有过 Playdek 账号，或在我们其他游戏中使用过，可用该账号邮箱与密码登录。
+Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.,是否与 Playdek 分享游戏分析数据以改进创升纪元？可随时在选项菜单中更改。
+"Purchase both <b>Delirium</b> and <b>Deliverance</b> expansions together for a greater value!
+
+","打包购买 <b>谵妄</b> 与 <b>救赎</b> 扩展更优惠！
+
+"
+For any questions or issues please contact us at support@playdekgames.com.,如有问题请联系 support@playdekgames.com。
+Are you sure you want to spend 5 Insight to roll the Delirium Die?,确定要花费 5 点洞察来掷谵妄骰吗？
+"No saved games found.
+Select ""Create Game""
+to start a new game.
+","未找到已存档对局。
+选择「创建对局」
+开始新游戏。
+"
+"All opponents have forfeited!
+Claim victory & end the game?","所有对手均已弃权！
+要宣布胜利并结束对局吗？"
+Are you sure you want to acquire that to the discard pile?,确定要把该牌获取到弃牌堆吗？
+Press the avatar to invite Friends from your Friends List,点按头像，从好友列表邀请好友
+"""Player Name""
+has not logged into the Ascension servers.","「玩家名」
+尚未登录创升纪元服务器。"
+"Would you like to delete
+this friend from your list?","要从列表中删除
+这位好友吗？"
+"You can invite a friend
+by pressing their name. ","点按好友名称
+即可邀请。"
+"
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for playing.
+
+
+
+
+
+
+
+
+
+",感谢游玩。
+Are you sure you wish to end your turn?,确定要结束回合吗？
+<size=141%>V</size><space=-.15em>oid,<size=141%>虚</size><space=-.15em>空
+"Loading rulebook,
+please wait...","正在加载规则书，
+请稍候…"
+Have Valid Asmodee.net Account,拥有有效的 Asmodee.net 账号
+Change resolution to 2560x1440,将分辨率改为 2560x1440
+Change resolution to 2560x2048,将分辨率改为 2560x2048
+Change resolution to 2560x1920,将分辨率改为 2560x1920
+<size=141%>E</size>nlightened,<size=141%>圣</size>贤
+Chronicles of the Godslayer,弑神编年史
+<size=141%>L</size>ifebound,<size=141%>命</size>约
+Have Valid Playdek Account,拥有有效的 Playdek 账号
+<size=141%>M</size>echana,<size=141%>机</size>械
+<size=141%>M</size>onster,<size=141%>怪</size>物
+Purchase all for 99.99.99,全部购买 99.99.99
+"
+Reward:   <color=white>1",奖励：   <color=white>1
+<size=141%>C</size>ommon,<size=141%>普</size>通
+Select Expansions/Promos,选择扩展/特典
+Have Asmodee.net Account,拥有 Asmodee.net 账号
+Playdek Account Required,需要 Playdek 账号
+Network Connection Lost,网络连接已断开
+Hold To Show Transform,按住显示转化
+Purchaseable on Steam,可在 Steam 购买
+StoneBlade Newsletter,Stone Blade 通讯
+Vault of the Ancients,上古宝库
+Purchaseable in Steam,可在 Steam 购买
+Notification Options,通知选项
+"Enter username here
+","在此输入用户名
+"
+Have Playdek Account,拥有 Playdek 账号
+Current Highest Bid:,当前最高出价：
+Required Expansions,所需扩展
+2.1.0.276 VotA Beta,2.1.0.276 VotA Beta
+Purchase Separately,分开购买
+Defeat as Construct,作为神器击败
+No Games Available,暂无可用对局
+"No Cards
+Available","暂无
+可用卡牌"
+Gameplay Analytics,游戏分析
+"Enter email here
+","在此输入邮箱
+"
+Waiting on Player,等待玩家中
+No Account at All,完全没有账号
+Collection Bundle,收藏组合包
+Needed to defeat:,击败所需：
+Press to continue,点按继续
+Expansion Bundle,扩展组合包
+Content Unlocked,内容已解锁
+Profile/Friends,档案/好友
+Completed Games,已完成对局
+Share Analytics,分享分析数据
+Purchase: $x.99,购买：$x.99
+Confirm Invite,确认邀请
+Invite Friends,邀请好友
+No active game,无进行中的对局
+Delete Account,删除账号
+Opponent Bids:,对手出价：
+Promo Pack #6,特典包 #6
+(Unavailable),（不可用）
+Current Games,当前对局
+Promo Pack #2,特典包 #2
+Promo Pack #1,特典包 #1
+Promo Pack #4,特典包 #4
+Promo Pack #3,特典包 #3
+Promo Pack #5,特典包 #5
+Roll Results:,掷骰结果：
+Claim Victory,宣布胜利
+All Purchased,已全部购买
+Forgot Login,忘记登录信息
+Add a Friend,添加好友
+Promo Pack 6,特典包 6
+Promo Pack 3,特典包 3
+Terms of Use,使用条款
+Promo Pack 1,特典包 1
+In Progress:,进行中：
+Promo Pack 4,特典包 4
+Promo Pack 2,特典包 2
+Active Games,进行中的对局
+Promo Pack 5,特典包 5
+Magnify Card,放大卡牌
+Keep Playing,继续游戏
+Promo Cards,特典卡
+30 Minutes,30 分钟
+Verify PW:,确认密码：
+Completed:,已完成：
+Expansions,扩展
+"Next
+Game
+","下一
+局
+"
+Transform,转化
+Username:,用户名：
+Password:,密码：
+All Games,全部对局
+Forfeits:,弃权：
+Play Card,打出卡牌
+See Cards,查看卡牌
+Bundle #2,组合包 #2
+Bundle #4,组合包 #4
+Bundle #5,组合包 #5
+Bundle #1,组合包 #1
+Analytics,分析
+Bundle #3,组合包 #3
+Player 1​,玩家 1
+Player 3​,玩家 3
+Player 2​,玩家 2
+Player 4​,玩家 4
+Your Bid:,你的出价：
+- Open -,- 打开 -
+1-7 Days,1–7 天
+14+ Days,14+ 天
+88 Hours,88 小时
+Round: 0,回合：0
+Viewing:,正在查看：
+Scroll Magnified Card Left,放大卡牌向左移
+Scroll Magnified Card Right,放大卡牌向右移
+Show/Hide Pause Menu,显示/隐藏暂停菜单
+Unmagnify Card & Close Card Trays,取消放大并关闭卡牌托盘
+Play All Cards From Hand,打出全部手牌
+End Your Turn,结束回合
+Open/Close Construct Tray,打开/关闭神器托盘
+Open/Close Discard Pile,打开/关闭弃牌堆
+Open/Close Deck List,打开/关闭牌库
+Open/Close Void List,打开/关闭虚空区
+Open/Close Dreamborn List,打开/关闭梦生列表
+Open/Close Renown Track,打开/关闭声望轨道

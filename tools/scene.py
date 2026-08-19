@@ -23,7 +23,8 @@ TITLE_REPLACEMENTS = (
         "Sign up to get the latest information and special deals direct to you.",
         "订阅即可获取最新资讯与优惠，直接发到你的邮箱。 ",
     ),
-    ("Cancel", "取消"),
+        ("Cancel", "取消"),
+        ("Key Bindings", "按键绑定"),
 )
 
 

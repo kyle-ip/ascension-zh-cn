@@ -1,8 +1,6 @@
 en,zh,scope,source,notes
-# 系列,,,,游戏内系列名只用「创升纪元」。早期官方/维基「暗杀神」不进游戏。
 Ascension,创升纪元,series,official-chuangsheng,游戏内系列名。方盒子365/维基作「暗杀神」，游戏内不使用。
 Deckbuilding Game,牌组构筑游戏,series,community,
-# 世界,,,,
 Vigil,祈夜,world,official-anshashen,维基/360百科。世界与王都同名。
 Godslayer,弑神者,world,official-anshashen,荣誉最高者获得的称号。
 Samael,萨麦尔,world,official-anshashen,
@@ -13,14 +11,27 @@ Hedron,多面体,world,community,机械派故乡。360百科未译专名。
 Logos,逻各斯,world,community,
 Xeron,泽伦,world,community,卡名用「泽伦」。《创升纪元：元素的馈赠》背景作「希戎」。
 Elements,元素,world,official-chuangsheng,《创升纪元：元素的馈赠》
-# 派系,,,,图鉴侧栏。Monster 兼作卡牌类型，scope 留 faction 以生成首字放大。
+Deofol,迪奥弗,world,community,萨麦尔位面。
+Nyx,尼克斯,world,new,黑暗释放。
+Erabus,厄拉布斯,world,new,萨麦尔与尼克斯之子。
+Aklys,阿克里斯,world,new,暗影之战。
+Aklys the Scourge,天灾阿克里斯,world,new,
+Adayu,阿达尤,world,community,领域解开。
+Kythis,凯西斯,world,community,灵魂风暴守门人。
+Gatekeeper Kythis,守门人凯西斯,world,community,
+Well of Souls,灵魂之井,world,community,
+New Vigil,新祈夜,world,community,
+Fallen One,堕落者,world,official-anshashen,
+the Cult,教团,world,community,
+Pasythea,帕西提亚,world,community,救赎 / 梦境。卡表同名。
+Alosya,阿洛西亚,world,community,上古山谷。
+Nairi,奈莉,card,community,
 Enlightened,圣贤,faction,community,360百科/方塔桌游。勿用「启迪」。
 Lifebound,命约,faction,community,360百科/方塔桌游。勿用「生命」（与上古山谷生命指示物冲突）。
 Mechana,机械,faction,community,360百科/方塔桌游。
 Void,虚空,faction,official-anshashen,派系名。区域名用「虚空区」。
 Common,普通,faction,community,图鉴侧栏。勿用「中立」。
 Monster,怪物,faction,official-anshashen,图鉴侧栏 / 卡牌类型。
-# 类型,,,,
 Hero,英雄,type,official-anshashen,
 Construct,神器,type,official-anshashen,早期官方译法。勿用「建筑/构装」。
 Event,事件,type,community,
@@ -28,7 +39,6 @@ Treasure,宝藏,type,community,灵魂风暴起。
 Soul Gem,灵魂宝石,type,community,不朽英雄。
 Portal,传送门,type,community,推广卡。
 Temple,神殿,type,community,上古山谷 / 元素的馈赠。
-# 资源,,,,
 Rune,符文,resource,official-anshashen,维基。勿用「符石/魔力」。
 Runes,符文,resource,official-anshashen,
 Power,战力,resource,official-anshashen,维基。勿用「力量」。
@@ -41,7 +51,6 @@ Insight,洞察,resource,community,梦境。
 Renown,声望,resource,new,史诗传奇。
 Life,生命,resource,community,上古山谷指示物。勿与命约（Lifebound）混淆。
 Death,死亡,resource,community,上古山谷指示物。
-# 区域,,,,
 Center Row,中央牌列,zone,official-anshashen,维基。公共6张。
 Center Row Draw Pile,中央牌库,zone,official-anshashen,维基。
 Center Deck,中央牌库,zone,official-anshashen,
@@ -57,7 +66,6 @@ Play Area,战场,zone,community,
 Portal Deck,传送门牌库,zone,community,
 Always Available,始终可用,zone,community,360百科。起始可招募区。
 Always available,始终可用,zone,community,
-# 行动,,,,
 Acquire,获取,verb,official-anshashen,花费符文取得英雄/神器。
 Defeat,击败,verb,official-anshashen,花费战力消灭怪物。
 Banish,放逐,verb,official-anshashen,移入虚空区。
@@ -78,7 +86,6 @@ Replace,替换,verb,community,
 Copy,复制,verb,community,
 Spend,花费,verb,community,
 Pay,支付,verb,community,
-# 关键字 / 卡面标签,,,,
 Reward,奖励,label,official-anshashen,击败怪物。
 Reward:,奖励：,label,official-anshashen,卡面残留英文。
 Fate,天命,label,official-anshashen,邪神归来。进入中央牌列时结算。
@@ -131,6 +138,85 @@ Champion,冠军,label,community,冠军黎明。
 Legendary,传奇,label,community,史诗传奇。
 Legendary Boon,传奇恩赐,label,community,
 Auction,竞拍,label,community,
+Fate Auction,天命竞拍,label,new,谵妄。支付洞察竞拍效果。
+Fate - Auction,天命 - 竞拍,label,new,
+Recur,复发,label,new,谵妄。支付洞察后再次获得该牌效果。
+Recur:,复发：,label,new,
+Legendary Track,传奇轨道,zone,new,史诗传奇。
+Legendary Character,传奇角色,type,new,史诗传奇。
+Legendary Status,传奇地位,label,new,
+Legendary Cards,传奇卡牌,type,new,
+Renown Marker,声望标记,label,new,史诗传奇。
+Renown Markers,声望标记,label,new,
+Renown Threshold Effect,声望阈值效果,label,new,
+Renown Threshold Effects,声望阈值效果,label,new,
+Boon,恩赐,label,community,史诗传奇。Legendary Boon 作「传奇恩赐」。
+Boons,恩赐,label,community,
+Milestone,里程碑,label,new,传奇轨道第3/6/9格。
+Keystone,钥石,resource,new,上古山谷。用于夺取/启动神殿。
+Keystones,钥石,resource,new,
+Life Keystone,生命钥石,resource,new,
+Death Keystone,死亡钥石,resource,new,
+Temple of Life,生命神殿,type,new,上古山谷。
+Temple of Death,死亡神殿,type,new,
+Temple of Immortality,不朽神殿,type,new,
+Vision,异象,type,community,梦境。
+Vision Cards,异象卡牌,type,community,
+Dream Vision,梦境异象,type,community,
+Dream Deck,梦境牌库,zone,community,
+Dreamscape & Dream Deck,梦境与梦境牌库,ui,new,
+Dual Cost,双费,label,new,暗影之战。须同时支付符文与战力。
+Dual Cost Cards,双费卡牌,type,new,
+Light & Dark Cards,光暗卡牌,type,new,暗影之战。
+Dark Energy Shard,暗能碎片,type,community,黑暗释放。
+Dark Energy Shards,暗能碎片,type,community,
+Dark Energy Shards:,暗能碎片：,type,community,
+Energy Shard,能量碎片,type,community,祈夜崛起起始牌。
+Treasure Card,宝藏卡,type,community,
+Treasure Cards,宝藏卡,type,community,
+Center Row Effects,中央牌列效果,label,new,
+Always Available Zone,始终可用区,zone,community,
+Multifaction Cards,多派系卡牌,type,community,
+Faction Monsters,派系怪物,type,new,
+Champion Card,冠军卡,type,community,
+Champions & Reputation,冠军与名望,ui,new,
+Reputation,名望,resource,community,冠军黎明。勿与史诗传奇「声望」(Renown)混淆。
+Transform Cards,转化卡,type,official-chuangsheng,
+Transform Cards:,转化卡：,type,official-chuangsheng,
+Transforming Events,转化事件,type,official-chuangsheng,
+Infest Monsters,感染怪物,type,official-chuangsheng,
+Dreambind Monsters,梦缚怪物,type,community,
+Dreamborn Cards,梦生卡牌,type,community,
+Event Cards:,事件卡：,type,community,
+Fate Cards:,天命卡：,type,official-anshashen,
+Trophy Monsters:,战利品怪物：,label,official-anshashen,
+Soul Gems:,灵魂宝石：,type,community,
+New Keywords,新关键字,ui,new,
+Gaining Renown,获得声望,ui,new,
+What's New,新内容,ui,new,
+Introduction,引言,ui,new,
+Play Order,出牌顺序,ui,new,
+Play Order:,出牌顺序：,ui,new,
+Resources:,资源：,ui,new,
+Game End:,游戏结束：,ui,new,
+Defeating Monsters:,击败怪物：,ui,new,
+Honor Pool:,荣誉池：,ui,new,
+Honor Points,荣誉点数,resource,official-anshashen,
+honor points,荣誉点数,resource,official-anshashen,
+Draw Deck,抽牌牌库,zone,new,
+Action Area,行动区,zone,new,
+Construct Tray,神器托盘,zone,new,
+Opponent Area,对手区,ui,new,
+Player Area,玩家区,ui,new,
+Top Area,顶部区域,ui,new,
+Info Line,信息栏,ui,new,
+Opponent Box,对手框,ui,new,
+Online Indicator,在线指示,ui,new,
+Event Zone,事件区,zone,community,
+Power Card Deck,战力牌库,zone,new,
+Rune Card Deck,符文牌库,zone,new,
+Global Honor Pool,全局荣誉池,zone,new,
+Treasure Count,宝藏计数,ui,new,
 Dreamborn,梦生,label,community,
 Delirium Die,谵妄骰,label,new,谵妄。
 Soul counter,灵魂指示物,label,community,
@@ -139,14 +225,16 @@ Wish counter,愿望指示物,label,community,
 Wish counters,愿望指示物,label,community,
 Once per turn,每回合一次,label,community,
 without paying its cost,无需支付费用,label,community,
-# 始终可用,,,,
 Apprentice,学徒,card,official-anshashen,起始牌库。维基/360百科。
 Militia,民兵,card,official-anshashen,起始牌库。
 Mystic,秘教士,card,official-anshashen,维基/官方卡面。360百科偶作「秘修士」，不用。
 Heavy Infantry,重装步兵,card,official-anshashen,
 Cultist,邪教徒,card,official-anshashen,
 Fanatic,狂信者,card,official-anshashen,维基。灵魂风暴始终可用。
-# 扩展,,,,CotG–SoS 跟《暗杀神》；2017 年后跟《创升纪元》。
+Fanatic:,狂信者：,card,official-anshashen,
+Destroy:,摧毁：,verb,official-anshashen,
+Void Rising,虚空崛起,card,community,灵魂风暴事件。
+Temples,神殿,type,community,
 Chronicle of the Godslayer,弑神编年史,set,official-anshashen,方盒子365。
 10th Anniversary,十周年,set,community,
 Chronicle of the Godslayer 10th Anniversary,弑神编年史十周年,set,community,
@@ -167,7 +255,6 @@ Deliverance,救赎,set,new,
 Legends,史诗传奇,set,community,
 Promo,推广卡,set,community,界面「Promo N」作「特典 N」。
 Promos,推广卡,set,community,
-# 界面,,,,无官方菜单中文；译名跟术语表对齐。
 App Store,商店,ui,new,主菜单。勿用「内购店/应用商店」。
 In-App Store,商店,ui,new,
 内购店,商店,ui,new,旧译兼容。
@@ -196,6 +283,7 @@ Play All,全部打出,ui,new,
 PLAY ALL,全部打出,ui,new,
 Loading cards please wait...,正在加载卡牌，请稍候…,ui,new,
 "Loading cards, please wait...",正在加载卡牌，请稍候…,ui,new,
+"Loading rulebook, please wait...",正在加载规则书，请稍候…,ui,new,
 Player,玩家,ui,official-anshashen,
 Turn,回合,ui,official-anshashen,
 Lobby,大厅,ui,new,

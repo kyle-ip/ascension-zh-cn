@@ -14,6 +14,7 @@ internal static class ScenePatcher
         ("Stone Blade Newsletter Sign-up", "订阅 Stone Blade 通讯     "),
         ("Sign up to get the latest information and special deals direct to you.", "订阅即可获取最新资讯与优惠，直接发到你的邮箱。 "),
         ("Cancel", "取消"),
+        ("Key Bindings", "按键绑定"),
     };
 
     public static int Apply(string gameRoot, string backupDir, Action<string> log)

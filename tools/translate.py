@@ -1136,6 +1136,8 @@ def translate_label(text: str) -> str:
         ("SERENITY:", "宁静："),
         ("ECHO:", "回响："),
         ("Dreambind:", "梦缚："),
+    ("Recur:", "复发："),
+    ("Phantasm - ", "幻象 - "),
     ]
     raw, tokens = protect_tokens(text)
     for en, zh in sorted(mapping, key=lambda x: len(x[0]), reverse=True):

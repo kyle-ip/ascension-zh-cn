@@ -154,11 +154,11 @@ def uninstall_bepinex(game: Path | None = None) -> None:
 
 
 def find_dotnet() -> Path:
-    candidates = [
-        SDK_DIR / "dotnet.exe",
-        Path(r"C:\Program Files\dotnet\dotnet.exe"),
-        Path(os.environ.get("DOTNET_ROOT", "")) / "dotnet.exe",
-    ]
+    # Portable SDK (from .\install.ps1), DOTNET_ROOT, then PATH — no hard-coded Program Files path.
+    candidates = [SDK_DIR / "dotnet.exe"]
+    root = (os.environ.get("DOTNET_ROOT") or "").strip()
+    if root:
+        candidates.append(Path(root) / "dotnet.exe")
     for path in candidates:
         if path.is_file():
             return path
@@ -166,7 +166,7 @@ def find_dotnet() -> Path:
     if which:
         return Path(which)
     raise FileNotFoundError(
-        "No .NET SDK. Extract state/dotnet-sdk-8.0.424-win-x64.zip to state/dotnet-sdk/"
+        "No .NET SDK. Run .\\install.ps1 first (downloads a portable SDK under state/)."
     )
 
 

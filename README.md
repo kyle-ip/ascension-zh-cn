@@ -16,19 +16,30 @@ In-game, the series is referred to as **《创升纪元》**.
 
 ## Status
 
-Most menus, card names, and effects are translated. Rulebook body text and some title art stay English. See [docs/progress.md](docs/progress.md).
+Most menus, card names, effects, and in-game rulebook body text are translated. Some title art stays English. See [docs/progress.md](docs/progress.md).
 
 The pack does not include the game, card art, or rulebook scans.
 
-## Build
+## Develop from this repo
 
-Requires [.NET 8](https://dotnet.microsoft.com/download) (or `scripts/download-tools.ps1`).
+Only three public entry scripts:
 
 ```powershell
-.\scripts\publish-installer.ps1
+.\install.ps1   # clean machine: check Python, fetch BepInEx pack + portable .NET 8 SDK (does not touch the game)
+.\enable.ps1    # reload workbench translations + rebuild overlay + enable plugin
+.\disable.ps1   # restore vanilla English
 ```
 
-Output: `dist/AscensionZhCn-Setup.exe`. String tables live in `loc/`; rebuild them with Python (`tools/build_zh.py`). Contributor notes: [docs/](docs/README.md).
+Game folder — two options:
+
+1. Set `gameRoot` in `config.json` (folder that contains `AscensionGame.exe`)
+2. Leave it empty; the scripts will ask once and write it back to `config.json`
+
+On a new machine run `.\install.ps1` once, then close the game and run `.\enable.ps1`. Edit `zh` under `loc/workbench/`.
+
+Maintainer release build: `.\install.ps1` then `.\scripts\publish-installer.ps1` → `dist/AscensionZhCn-Setup.exe`.
+
+Contributor notes: [docs/](docs/README.md).
 
 ## License
 

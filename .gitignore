@@ -4,7 +4,9 @@ __pycache__/
 venv/
 *.log
 
-# Vendor tools and game backups — scripts/download-tools.ps1
+# Vendor tools and game backups — .\install.ps1 / .\enable.ps1
+# install.ok
+state/install.ok
 state/*.zip
 state/dotnet-sdk/
 state/BepInExPack*/

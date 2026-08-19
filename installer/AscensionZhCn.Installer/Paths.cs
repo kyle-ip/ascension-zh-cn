@@ -5,7 +5,6 @@ namespace AscensionZhCn.Installer;
 
 internal sealed class AppPaths
 {
-    public const string DefaultSteamGame = @"C:\Program Files (x86)\Steam\steamapps\common\Ascension";
     public const string BepInExPackUrl = "https://gcdn.thunderstore.io/live/repository/packages/BepInEx-BepInExPack_IL2CPP-6.0.755.zip";
     public const string BepInExZipName = "BepInExPack_IL2CPP-6.0.755.zip";
 
@@ -14,6 +13,7 @@ internal sealed class AppPaths
     public string StateDir { get; }
     public string BackupDir { get; }
     public string PatchJson { get; }
+    public string ConfigJson { get; }
 
     AppPaths(string? repoRoot, string payloadDir, string stateDir)
     {
@@ -22,6 +22,7 @@ internal sealed class AppPaths
         StateDir = stateDir;
         BackupDir = Path.Combine(stateDir, "backups");
         PatchJson = repoRoot is null ? Path.Combine(stateDir, "patch.json") : Path.Combine(repoRoot, "patch.json");
+        ConfigJson = repoRoot is null ? Path.Combine(stateDir, "config.json") : Path.Combine(repoRoot, "config.json");
     }
 
     public static AppPaths Discover()
@@ -87,9 +88,14 @@ internal static class GameLocator
         if (LooksLikeGame(explicitRoot))
             return Path.GetFullPath(explicitRoot!);
 
-        var fromJson = ReadGameRoot(paths.PatchJson);
-        if (LooksLikeGame(fromJson))
-            return Path.GetFullPath(fromJson!);
+        var fromConfig = ReadGameRoot(paths.ConfigJson);
+        if (LooksLikeGame(fromConfig))
+            return Path.GetFullPath(fromConfig!);
+
+        // Legacy: older builds stored gameRoot in patch.json
+        var fromPatch = ReadGameRoot(paths.PatchJson);
+        if (LooksLikeGame(fromPatch))
+            return Path.GetFullPath(fromPatch!);
 
         if (paths.RepoRoot != null)
         {
@@ -104,19 +110,16 @@ internal static class GameLocator
                 return candidate;
         }
 
-        if (LooksLikeGame(AppPaths.DefaultSteamGame))
-            return AppPaths.DefaultSteamGame;
-
         throw new DirectoryNotFoundException("找不到《创升纪元》安装目录。请在安装器里浏览选择 AscensionGame.exe 所在文件夹。");
     }
 
-    static string? ReadGameRoot(string patchJson)
+    static string? ReadGameRoot(string jsonPath)
     {
         try
         {
-            if (!File.Exists(patchJson))
+            if (!File.Exists(jsonPath))
                 return null;
-            using var doc = JsonDocument.Parse(File.ReadAllText(patchJson));
+            using var doc = JsonDocument.Parse(File.ReadAllText(jsonPath));
             if (doc.RootElement.TryGetProperty("gameRoot", out var el))
                 return el.GetString();
         }
@@ -126,17 +129,30 @@ internal static class GameLocator
         return null;
     }
 
+    public static void WriteGameRoot(AppPaths paths, string gameRoot)
+    {
+        try
+        {
+            var json = JsonSerializer.Serialize(new Dictionary<string, object?>
+            {
+                ["gameRoot"] = gameRoot,
+            }, new JsonSerializerOptions { WriteIndented = true });
+            Directory.CreateDirectory(Path.GetDirectoryName(paths.ConfigJson)!);
+            File.WriteAllText(paths.ConfigJson, json + "\n");
+        }
+        catch
+        {
+        }
+    }
+
     public static void WriteEnabled(AppPaths paths, bool enabled)
     {
         try
         {
-            var gameRoot = "";
-            var notes = "enabled is written by the installer or tools/patch.py.";
+            var notes = "Runtime state for the installer / tools/patch.py. Game path lives in config.json.";
             if (File.Exists(paths.PatchJson))
             {
                 using var doc = JsonDocument.Parse(File.ReadAllText(paths.PatchJson));
-                if (doc.RootElement.TryGetProperty("gameRoot", out var g))
-                    gameRoot = g.GetString() ?? "";
                 if (doc.RootElement.TryGetProperty("notes", out var n))
                     notes = n.GetString() ?? notes;
             }
@@ -145,7 +161,6 @@ internal static class GameLocator
                 ["name"] = "ascension-zh-cn",
                 ["enabled"] = enabled,
                 ["locale"] = "zh-Hans",
-                ["gameRoot"] = gameRoot,
                 ["notes"] = notes,
             }, new JsonSerializerOptions { WriteIndented = true });
             Directory.CreateDirectory(Path.GetDirectoryName(paths.PatchJson)!);

@@ -4,7 +4,7 @@ Canonical Chinese terms for review and bulk replace.
 
 | File | Use |
 | --- | --- |
-| [zh-Hans.csv](zh-Hans.csv) | **审校入口**：`en,zh,scope,source,notes`。改这里后跑 `python tools/overlay.py`，再 `python tools/patch.py enable --locale zh-Hans`。 |
+| [zh-Hans.csv](zh-Hans.csv) | **审校入口**：`en,zh,scope,source,notes`。日常改完后跑仓库根目录 `.\enable.ps1`（内部会同步术语并重建 overlay）。 |
 | [terms.csv](terms.csv) | 历史术语表（含繁体列）；由 `zh-Hans.csv` 同步，新改动只写简体表。 |
 
 ## 来源优先级
