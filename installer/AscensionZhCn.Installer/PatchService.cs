@@ -118,7 +118,7 @@ internal sealed class PatchService
         BepInExSetup.CopyPlugin(GameRoot, plugin, _paths.Require("overlay.tsv"), _log);
         GameLocator.WriteEnabled(_paths, true);
         _log("安装完成。请从 Steam 启动游戏。");
-        _log("若第一次进游戏只有英文，完全退出后再开一次（BepInEx 要生成互操作文件）。");
+        _log("若第一次进游戏只有英文，完全退出后再开一次。");
     }
 
     public void Restore()

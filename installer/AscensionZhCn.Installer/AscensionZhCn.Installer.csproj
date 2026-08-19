@@ -14,6 +14,16 @@
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <Version>1.0.0</Version>
+    <!-- ============ 安装器体积优化（保持 Self-Contained 免安装） ============ -->
+    <!-- 注意：.NET 8 SDK 8.0.424 对 WinForms 开 PublishTrimmed + SingleFile 时，
+         会把 bundle 错误打成"只有 WPF 原生 DLL 重复 7 次、缺应用入口 DLL/runtimeconfig"的坏产物。
+         故不使用 <PublishTrimmed> / full BCL 裁剪，仅用单文件内部压缩，
+         可以稳定让 self-contained exe 从 154MB → ~90MB，ZIP 62.8MB → ~38MB。 -->
+    <!-- 单文件内部压缩：把打包进 bundle 的托管 DLL 用 Deflate 压缩（安全、无兼容问题） -->
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+    <!-- 彻底去掉调试符号和 PDB -->
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="..\..\loc\zh-Hans\overlay.tsv" Link="payload\overlay.tsv" CopyToOutputDirectory="PreserveNewest" />

@@ -239,6 +239,78 @@ public class Plugin : BasePlugin
         add("Sign up to get the latest information and special deals direct to you.", "订阅即可获取最新资讯与优惠，直接发到你的邮箱。");
         add("Downloadable Content", "可下载内容");
         add("Promo 7", "特典 7");
+        // ======= 新增焦点区域 =======
+        // 离线对局空存档提示（多行变体）
+        add("No saved games found.\nSelect \"Create Game\"\nto start a new game.\n", "暂无保存的对局。\n选择「创建对局」\n开始新游戏。\n");
+        add("No saved games found.\r\nSelect \"Create Game\"\r\nto start a new game.\r\n", "暂无保存的对局。\n选择「创建对局」\n开始新游戏。\n");
+        add("No saved games found.\nSelect \"Create Game\"\nto start a new game.", "暂无保存的对局。\n选择「创建对局」\n开始新游戏。");
+        add("Create Game", "创建对局");
+        // 选项
+        add("Theme", "主题");
+        add("Theme Selection", "主题选择");
+        add("Analytics", "分析");
+        add("Share Analytics", "分享分析数据");
+        add("Gameplay Analytics", "游戏分析");
+        add("Game Speed", "游戏速度");
+        add("Animation Speed", "动画速度");
+        add("Fast", "快");
+        add("Slow", "慢");
+        add("Medium", "中");
+        add("On", "开启");
+        add("Off", "关闭");
+        add("Resolution", "分辨率");
+        add("Fullscreen", "全屏");
+        add("Windowed", "窗口");
+        add("Windowed Mode", "窗口模式");
+        // 卡包缩略
+        add("CotG", "弑神编");
+        add("10th", "十周年");
+        add("RotF", "邪神归来");
+        add("SoS", "灵魂风暴");
+        add("IH", "不朽英雄");
+        add("RoV", "祈夜崛起");
+        add("DU", "黑暗释放");
+        add("RU", "领域解开");
+        add("DoC", "冠军黎明");
+        add("DS", "梦境");
+        add("WoS", "暗影之战");
+        add("GotE", "元素馈赠");
+        add("VotA", "上古山谷");
+        add("DLV", "救赎");
+        add("DLRM", "谵妄");
+        add("LGS", "史诗传奇");
+        // 成就 / 图鉴 / 标题
+        add("Achievements", "成就");
+        add("Card Gallery", "卡牌图鉴");
+        add("Gallery", "图鉴");
+        add("Collection", "收藏");
+        add("Key Bindings", "按键绑定");
+        add("Options", "选项");
+        // 按键绑定
+        add("Play Card", "出牌");
+        add("Magnify Card", "放大卡牌");
+        add("Scroll Magnified Card Left", "放大卡左翻");
+        add("Scroll Magnified Card Right", "放大卡右翻");
+        add("Show/Hide Pause Menu", "显示/隐藏暂停菜单");
+        add("Unmagnify Card & Close Card Trays", "缩小并关闭卡列表");
+        add("Play All Cards From Hand", "打出全部手牌");
+        add("End Your Turn", "结束回合");
+        add("Open/Close Construct Tray", "打开/关闭神器栏");
+        add("Open/Close Discard Pile", "打开/关闭弃牌堆");
+        add("Open/Close Deck List", "打开/关闭牌库列表");
+        add("Open/Close Void List", "打开/关闭虚空列表");
+        add("Open/Close Dreamborn List", "打开/关闭梦生列表");
+        add("Open/Close Renown Track", "打开/关闭名望轨道");
+        add("L Mouse", "鼠标左键");
+        add("R Mouse", "鼠标右键");
+        add("LeftArrow", "← 方向键左");
+        add("RightArrow", "→ 方向键右");
+        add("Escape", "Esc 键");
+        add("Space", "空格键");
+        // 其它常见
+        add("Are you sure you wish to end your turn?", "确定要结束你的回合吗？");
+        add("Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.", "向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改。");
+        add("Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu", "向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改");
     }
 
     static string Unescape(string value)

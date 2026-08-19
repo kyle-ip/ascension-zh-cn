@@ -3082,21 +3082,29 @@ E	You can get a closer view of any card by double tapping it.  A single tap will
 E	You can get a closer view of any card by right clicking it.  A left click will then return it to the play field so you can resume play.	右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。
 E	You can get a closer view of any card by double tapping it. A single tap will then return it to the play field so you can resume play.	双击任意卡牌可查看大图。单击即可回到牌局继续游戏。
 E	You can get a closer view of any card by right clicking it. A left click will then return it to the play field so you can resume play.	右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。
+E	Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.	向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改。
+E	Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu	向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改
 E	(The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.)	（邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。）
 E	Account is not yet activated. Please follow the account activation instructions that were sent to your e-mail.	账号尚未激活。请按发送到你邮箱的说明完成激活。
 E	The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.	邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。
+E	<smallcaps><size=120%>O</size></smallcaps>ffline<smallcaps><size=120%>G</size></smallcaps>ames	离线对局
+E	<smallcaps><size=120%>K</size></smallcaps>ey<smallcaps><size=120%>B</size></smallcaps>indings	按键绑定
 E	There are no available Games at this time.<br>Use the Create Game Menu to create a new game.	目前没有可加入的对局。<br>请使用“创建对局”菜单开一局新游戏。
 E	There are no available Games at this time.Use the Create Game Menu to create a new game.	目前没有可加入的对局。<br>请使用“创建对局”菜单开一局新游戏。
 E	An update is available.<br>Please download the latest<br>version to play online.	有可用更新。<br>请下载最新版本后再进行在线游戏。
 E	An update is available.Please download the latestversion to play online.	有可用更新。<br>请下载最新版本后再进行在线游戏。
 E	Sign up to get the latest information and special deals direct to you.	订阅即可获取最新资讯与优惠，直接发到你的邮箱。
 E	You must accept the Terms of Use Agreement before creating an account	创建账号前必须同意使用条款
+E	No saved games found.\\nSelect "Create Game"\\nto start a new game.\\n	暂无保存的对局。\\n选择「创建对局」\\n开始新游戏。\\n
 E	Would you like to remove this player from your friend list?	要从好友列表中移除这名玩家吗？
+E	<smallcaps>O</smallcaps>ffline<smallcaps>G</smallcaps>ames	离线对局
+E	<smallcaps>K</smallcaps>ey<smallcaps>B</smallcaps>indings	按键绑定
 E	Are you sure you want to delete this Quick Match request?	确定要删除此快速匹配请求吗？
 E	Creating this Quick Match failed.<br>Too many games open.	创建快速匹配失败。<br>打开的对局过多。
 E	You must be logged<br>in to Game Center<br>to play online	必须登录<br>Game Center<br>才能进行在线游戏
 E	Your timer has expired!<br>You have forfeited this game.	计时已耗尽！<br>你已输掉这局游戏。
 E	Would you like to add this player to your friend list?	要将这名玩家加入好友列表吗？
+E	<smallcaps><size=120%>A</size></smallcaps>chievements	成就
 E	An account with this e-mail address is already in use	该邮箱已被使用
 E	Creating this Quick Match failed.Too many games open.	创建快速匹配失败。<br>打开的对局过多。
 E	Please check your email for your account information	请查收邮件以获取账号信息
@@ -3105,6 +3113,8 @@ E	Account Created.<br>Enter your Password to Login.	账号已创建。<br>请输
 E	Are you sure you want to withdraw from this game?	确定要退出这局游戏吗？
 E	The Password and Confirmation fields do not match	密码与确认密码不一致
 E	You must be loggedin to Game Centerto play online	必须登录<br>Game Center<br>才能进行在线游戏
+E	<smallcaps><size=120%>G</size></smallcaps>allery	图鉴
+E	<smallcaps><size=120%>O</size></smallcaps>ptions	选项
 E	You have been Disconnected<br> from the Server	你已断开<br>与服务器的连接
 E	Account Created.Enter your Password to Login.	账号已创建。<br>请输入密码登录。
 E	Are you sure you want to delete this profile?	确定要删除此档案吗？
@@ -3130,6 +3140,7 @@ E	Successfully added "{0}" as a friend.	已成功添加好友“{0}”。
 E	Unable to join.Game no longer exists.	无法加入。<br>对局已不存在。
 E	<size=141%>V</size><space=-.15em>oid	虚空
 E	Would you like to play the Tutorial?	要进行教程吗？
+E	<smallcaps>A</smallcaps>chievements	成就
 E	Please enter a valid E-mail address	请输入有效的电子邮箱地址
 E	Subscribe to Stone Blade Newsletter	订阅 Stone Blade 通讯
 E	Tap opponent  to view their profile	点击对手以查看其档案
@@ -3138,6 +3149,7 @@ E	Tap opponent to view their profile	点击对手以查看其档案
 E	Unable to create.<br>Unknown error	无法创建。<br>未知错误
 E	Creating this Quick Match failed.	创建快速匹配失败。
 E	Unable to join.<br>Unknown error.	无法加入。<br>未知错误。
+E	Unmagnify Card & Close Card Trays	缩小并关闭卡列表
 E	%d honor tokens remain in pool\\n	荣誉池剩余%d点\\n
 E	Do you want to delete this game?	要删除此对局吗？
 E	Name contains invalid characters	名称包含无效字符
@@ -3148,6 +3160,8 @@ E	Ascension: Gift of the Elements	创升纪元：元素的馈赠
 E	Unable to connect to the server	无法连接到服务器
 E	<size=141%>A</size>chievements	成就
 E	<size=141%>U</size>nbanishable	不可放逐
+E	<smallcaps>G</smallcaps>allery	图鉴
+E	<smallcaps>O</smallcaps>ptions	选项
 E	Creating a Quick Match game...	正在创建快速匹配对局...
 E	STONE BLADE NEWSLETTER SIGN-UP	订阅 Stone Blade 通讯
 E	Stone Blade Newsletter Sign-Up	订阅 Stone Blade 通讯
@@ -3167,16 +3181,19 @@ E	Loading cards, please wait...	正在加载卡牌，请稍候…
 E	Unable to join.Unknown error.	无法加入。<br>未知错误。
 E	%s now has %d honor tokens\\n	%s现在拥有%d点荣誉\\n
 E	<size=141%>A</size>pprentice	学徒
+E	<size=141%>C</size>ollection	收藏
 E	<size=141%>D</size>reamscape	梦境
 E	<size=141%>F</size>ullscreen	全屏
 E	<size=141%>L</size>oading...	加载中...
 E	<size=141%>P</size>ortuguese	葡萄牙语
 E	<size=141%>R</size>esolution	分辨率
+E	<size=141%>R</size>ightArrow	→ 方向键右
 E	Loading cards please wait...	正在加载卡牌，请稍候…
 E	Successfully removed friend.	已移除好友。
 E	Unable to join.Game is full.	无法加入。<br>对局已满。
 E	%s gains %d power from %s\\n	%s从%s获得%d点战力\\n
 E	%s gains %d runes from %s\\n	%s从%s获得%d点符文\\n
+E	<size=141%>A</size>nalytics	分析
 E	<size=141%>A</size>scension	创升纪元
 E	<size=141%>C</size>ompleted	已完成
 E	<size=141%>C</size>onstruct	神器
@@ -3184,6 +3201,7 @@ E	<size=141%>D</size>reambind	梦缚
 E	<size=141%>D</size>reamborn	梦生
 E	<size=141%>G</size>odslayer	弑神者
 E	<size=141%>L</size>anguages	语言
+E	<size=141%>L</size>eftArrow	← 方向键左
 E	<size=141%>L</size>egendary	传奇
 E	<size=141%>L</size>ifebound	命约
 E	<size=141%>P</size>urchased	已购买
@@ -3193,6 +3211,7 @@ E	<size=141%>T</size>utorials	教程
 E	<size=141%>W</size>ednesday	星期三
 E	Failed to Connect to Server	连接服务器失败
 E	Removing "{0}" as a friend.	正在移除好友“{0}”。
+E	Scroll Magnified Card Right	放大卡右翻
 E	You must provide a password	必须设置密码
 E	{0} is already your friend.	{0} 已经是你的好友。
 E	%s discards %s from play\\n	%s从战场弃掉%s\\n
@@ -3226,9 +3245,11 @@ E	<size=141%>T</size>reasure	宝藏
 E	<size=141%>T</size>utorial	教程
 E	<size=141%>U</size>sername	用户名
 E	<size=141%>V</size>ersion:	版本：
+E	<size=141%>W</size>indowed	窗口
 E	<size=141%>W</size>ithdraw	退出对局
 E	Chronicle of the Godslayer	弑神编年史
 E	Loading cards, please wait	正在加载卡牌，请稍候
+E	Scroll Magnified Card Left	放大卡左翻
 E	Successfully Created Game!	对局创建成功！
 E	<size=141%>A</size>cquire	获取
 E	<size=141%>A</size>uction	竞拍
@@ -3247,6 +3268,7 @@ E	<size=141%>E</size>nglish	英语
 E	<size=141%>F</size>anatic	狂信者
 E	<size=141%>F</size>orfeit	认输
 E	<size=141%>F</size>riends	好友
+E	<size=141%>G</size>allery	图鉴
 E	<size=141%>I</size>nsight	洞察
 E	<size=141%>I</size>nvited	已邀请
 E	<size=141%>I</size>talian	意大利语
@@ -3277,6 +3299,8 @@ E	<size=141%>W</size>arning	警告
 E	Adding "{0}" as a friend.	正在将“{0}”加为好友。
 E	Adding "{0}" as a friend.	正在将“{0}”加为好友。
 E	Check your password again	请再次确认密码
+E	Open/Close Construct Tray	打开/关闭神器栏
+E	Open/Close Dreamborn List	打开/关闭梦生列表
 E	Searching for Games . . .	正在搜索对局 . . .
 E	Successfully Joined Game!	已成功加入对局！
 E	<size=141%>A</size>ccept	接受
@@ -3289,6 +3313,7 @@ E	<size=141%>D</size>efeat	击败
 E	<size=141%>D</size>efend	防御
 E	<size=141%>D</size>elete	删除
 E	<size=141%>E</size>nergy	能量
+E	<size=141%>E</size>scape	Esc 键
 E	<size=141%>E</size>xpert	专家
 E	<size=141%>F</size>inish	完成
 E	<size=141%>F</size>rench	法语
@@ -3322,6 +3347,7 @@ E	<size=141%>T</size>arget	选择
 E	<size=141%>T</size>emple	神殿
 E	<size=141%>T</size>rophy	战利品
 E	Account creation failed.	账号创建失败。
+E	Play All Cards From Hand	打出全部手牌
 E	Retrieving Profile . . .	正在读取档案 . . .
 E	Username already in use.	用户名已被使用。
 E	<size=141%>C</size>lose	关闭
@@ -3348,20 +3374,26 @@ E	<size=141%>R</size>ally	集结
 E	<size=141%>R</size>ound	回合
 E	<size=141%>R</size>unes	符文
 E	<size=141%>S</size>etup	设置
+E	<size=141%>S</size>pace	空格键
 E	<size=141%>S</size>pend	花费
 E	<size=141%>S</size>tart	开始
+E	<size=141%>T</size>heme	主题
 E	<size=141%>T</size>hurs	四
 E	<size=141%>U</size>NITE	联合
 E	<size=141%>U</size>nite	联合
 E	<size=141%>V</size>igil	祈夜
 E	<size=141%>X</size>eron	泽伦
 E	Double Tap to Continue…	双击继续…
+E	Open/Close Discard Pile	打开/关闭弃牌堆
+E	Open/Close Renown Track	打开/关闭名望轨道
 E	Please enter a Username	请输入用户名
 E	without paying its cost	无需支付费用
 E	<size=141%>A</size>rha	亚哈
 E	<size=141%>B</size>ack	返回
 E	<size=141%>C</size>opy	复制
+E	<size=141%>C</size>otG	弑神编
 E	<size=141%>D</size>AY:	昼：
+E	<size=141%>D</size>LRM	谵妄
 E	<size=141%>D</size>ays	天
 E	<size=141%>D</size>eck	牌库
 E	<size=141%>D</size>one	完成
@@ -3376,6 +3408,7 @@ E	<size=141%>F</size>ate	天命
 E	<size=141%>G</size>ain	获得
 E	<size=141%>G</size>ame	对局
 E	<size=141%>G</size>ive	交给
+E	<size=141%>G</size>otE	元素馈赠
 E	<size=141%>H</size>and	手牌
 E	<size=141%>H</size>ard	困难
 E	<size=141%>H</size>ero	英雄
@@ -3386,6 +3419,7 @@ E	<size=141%>L</size>ose	失去
 E	<size=141%>M</size>enu	菜单
 E	<size=141%>N</size>one	无
 E	<size=141%>P</size>lay	打出
+E	<size=141%>R</size>otF	邪神归来
 E	<size=141%>R</size>une	符文
 E	<size=141%>S</size>low	慢
 E	<size=141%>T</size>ues	二
@@ -3394,6 +3428,7 @@ E	<size=141%>U</size>ndo	撤销
 E	<size=141%>V</size>OID	虚空
 E	<size=141%>V</size>iew	查看
 E	<size=141%>V</size>oid	虚空
+E	<size=141%>V</size>otA	上古山谷
 E	<size=141%>应</size>用商店	商店
 E	Confirm Revealed Cards	确认已展示的卡牌
 E	Enlightened Constructs	圣贤神器
@@ -3404,21 +3439,28 @@ E	Valley of the Ancients	上古山谷
 E	You Must End Your Turn	你必须结束回合
 E	<size=141%>B</size>uy	获取
 E	<size=141%>D</size>AY	昼
+E	<size=141%>D</size>LV	救赎
 E	<size=141%>D</size>ay	天
+E	<size=141%>D</size>oC	冠军黎明
 E	<size=141%>F</size>ri	五
 E	<size=141%>H</size>rs	时
+E	<size=141%>L</size>GS	史诗传奇
 E	<size=141%>L</size>OG	记录
 E	<size=141%>L</size>og	记录
 E	<size=141%>M</size>in	分
 E	<size=141%>M</size>on	一
 E	<size=141%>N</size>ew	新建
+E	<size=141%>O</size>ff	关闭
 E	<size=141%>O</size>go	奥戈
 E	<size=141%>P</size>ay	支付
+E	<size=141%>R</size>oV	祈夜崛起
 E	<size=141%>S</size>at	六
 E	<size=141%>S</size>ec	秒
+E	<size=141%>S</size>oS	灵魂风暴
 E	<size=141%>S</size>un	日
 E	<size=141%>U</size>se	使用
 E	<size=141%>W</size>ed	三
+E	<size=141%>W</size>oS	暗影之战
 E	<size=141%>内</size>购店	商店
 E	Android Notifications	Android 通知
 E	Enlightened Construct	圣贤神器
@@ -3431,8 +3473,13 @@ E	Reward: Gain 1 Honor.	奖励：获得1荣誉。
 E	User "{0}" not found.	未找到用户“{0}”。
 E	User "{0}" not found.	未找到用户“{0}”。
 E	You May End Your Turn	你可以结束回合
+E	<size=141%>D</size>S	梦境
+E	<size=141%>D</size>U	黑暗释放
 E	<size=141%>H</size>R	时
+E	<size=141%>I</size>H	不朽英雄
 E	<size=141%>O</size>K	确定
+E	<size=141%>O</size>n	开启
+E	<size=141%>R</size>U	领域解开
 E	Center Row Draw Pile	中央牌库
 E	Choose Life or Death	选择生命或死亡
 E	Choose Rune or Power	选择符文或战力
@@ -3444,7 +3491,10 @@ E	Enlightened Soul Gem	圣贤灵魂宝石
 E	Enlightened Treasure	圣贤宝藏
 E	Gift of the Elements	元素的馈赠
 E	Lifebound Constructs	命约神器
+E	Open/Close Deck List	打开/关闭牌库列表
+E	Open/Close Void List	打开/关闭虚空列表
 E	Return of the Fallen	邪神归来
+E	Show/Hide Pause Menu	显示/隐藏暂停菜单
 E	%s gains %d power\\n	%s获得%d点战力\\n
 E	%s gains %d runes\\n	%s获得%d点符文\\n
 E	Add Computer Player	添加电脑玩家
@@ -3469,6 +3519,7 @@ E	Delete Matchmaking	删除匹配
 E	Enlightened Events	圣贤事件
 E	Enlightened Portal	圣贤传送门
 E	Enlightened Temple	圣贤神殿
+E	Gameplay Analytics	游戏分析
 E	Joining Game . . .	正在加入对局 . . .
 E	Lifebound Soul Gem	命约灵魂宝石
 E	Lifebound Treasure	命约宝藏
@@ -3550,6 +3601,7 @@ E	Return to Lobby	返回大厅
 E	Reward: 1 Honor	奖励：1荣誉
 E	Select Language	选择语言
 E	Send Login Info	发送登录信息
+E	Share Analytics	分享分析数据
 E	Tap to Continue	点击继续
 E	Theme Selection	主题选择
 E	Transform Event	转化事件
@@ -3577,6 +3629,7 @@ E	Monster Events	怪物事件
 E	Monster Portal	怪物传送门
 E	Monster Temple	怪物神殿
 E	No Player Data	无玩家数据
+E	Offline Games 	离线对局
 E	Offline Record	离线战绩
 E	Ongoing Trophy	持续战利品
 E	Opponent Stats	对手统计
@@ -3596,15 +3649,18 @@ E	Void Treasures	虚空宝藏
 E	War of Shadows	暗影之战
 E	AI Difficulty	AI 难度
 E	Accept Invite	接受邀请
+E	Achievements 	成就
 E	Announcements	公告
 E	Common Events	普通事件
 E	Common Portal	普通传送门
 E	Common Temple	普通神殿
 E	Delete Friend	删除好友
+E	End Your Turn	结束回合
 E	Enter text...	请输入文字...
 E	Forgot Login?	忘记登录信息？
 E	Invalid Email	邮箱无效
 E	Invite Friend	邀请好友
+E	Key Bindings 	按键绑定
 E	Loading Cards	正在加载卡牌
 E	Losses Versus	对战负场
 E	Mechana Event	机械事件
@@ -3657,6 +3713,7 @@ E	Honor tokens	荣誉点数
 E	In-App Store	商店
 E	Key Bindings	按键绑定
 E	Login failed	登录失败
+E	Magnify Card	放大卡牌
 E	Mechana Hero	机械英雄
 E	Monster Hero	怪物英雄
 E	Music Volume	音乐音量
@@ -3713,6 +3770,7 @@ E	Add Friend	添加好友
 E	Any Rating	任意评分
 E	Apprentice	学徒
 E	Center Row	中央牌列
+E	Collection	收藏
 E	Dreamscape	梦境
 E	Fullscreen	全屏
 E	Game Speed	游戏速度
@@ -3725,6 +3783,7 @@ E	More Games	更多游戏
 E	On the Web	访问网站
 E	Portuguese	葡萄牙语
 E	Resolution	分辨率
+E	RightArrow	→ 方向键右
 E	Start Game	开始对局
 E	Start Menu	开始菜单
 E	Timer: Any	计时：任意
@@ -3736,6 +3795,7 @@ E	2 Players	2 名玩家
 E	3 Players	3 名玩家
 E	4 Players	4 名玩家
 E	AI Player	AI 玩家
+E	Analytics	分析
 E	App Store	商店
 E	Ascension	创升纪元
 E	Auto Play	自动出牌
@@ -3750,10 +3810,12 @@ E	Game Type	对局类型
 E	Godslayer	弑神者
 E	Join Game	加入对局
 E	Languages	语言
+E	LeftArrow	← 方向键左
 E	Legendary	传奇
 E	Lifebound	命约
 E	Main Menu	主菜单
 E	Play Area	战场
+E	Play Card	出牌
 E	Player 10	玩家 10
 E	Player 11	玩家 11
 E	Player 12	玩家 12
@@ -3787,10 +3849,12 @@ E	End Game	结束对局
 E	End Turn	结束回合
 E	Energize	充能
 E	Forfeits	认输次数
+E	Gallery 	图鉴
 E	Game Log	对局记录
 E	Japanese	日语
 E	Language	语言
 E	ONGOING:	持续：
+E	Options 	选项
 E	PLAY ALL	全部打出
 E	Password	密码
 E	Phantasm	幻象
@@ -3828,6 +3892,7 @@ E	Treasure	宝藏
 E	Tutorial	教程
 E	Username	用户名
 E	Version:	版本：
+E	Windowed	窗口
 E	Withdraw	退出对局
 E	the Void	虚空区
 E	the void	虚空区
@@ -3835,6 +3900,7 @@ E	Acquire	获取
 E	Auction	竞拍
 E	Chinese	中文
 E	Control	控制
+E	Create 	创建
 E	Credits	制作人员
 E	Cultist	邪教徒
 E	Destroy	摧毁
@@ -3845,10 +3911,12 @@ E	English	英语
 E	Fanatic	狂信者
 E	Forfeit	认输
 E	Friends	好友
+E	Gallery	图鉴
 E	I Agree	我同意
 E	Insight	洞察
 E	Invited	已邀请
 E	Italian	意大利语
+E	L Mouse	鼠标左键
 E	Legends	史诗传奇
 E	Loading	加载中
 E	Log Out	退出登录
@@ -3864,6 +3932,7 @@ E	Options	选项
 E	Plunder	掠夺
 E	Profile	档案
 E	Promo 7	特典 7
+E	R Mouse	鼠标右键
 E	Rematch	再来一局
 E	Replace	替换
 E	Reward:	奖励：
@@ -3892,8 +3961,10 @@ E	Banish	放逐
 E	Cancel	取消
 E	Choose	选择
 E	Common	普通
+E	Create	创建
 E	Defeat	击败
 E	Energy	能量
+E	Escape	Esc 键
 E	Expert	专家
 E	Finish	完成
 E	French	法语
@@ -3947,12 +4018,17 @@ E	Rally	集结
 E	Round	回合
 E	Runes	符文
 E	Setup	设置
+E	Space	空格键
 E	Spend	花费
+E	Theme	主题
 E	Thurs	四
 E	UNITE	联合
 E	Unite	联合
 E	Vigil	祈夜
 E	Xeron	泽伦
+E	10th	十周年
+E	CotG	弑神编
+E	DLRM	谵妄
 E	Deck	牌库
 E	Draw	抽
 E	ECHO	回响
@@ -3960,16 +4036,33 @@ E	Easy	简单
 E	Echo	回响
 E	Exit	退出
 E	FATE	天命
+E	Fast	快
 E	Fate	天命
+E	GotE	元素馈赠
 E	Hand	手牌
 E	Hard	困难
 E	Hero	英雄
 E	Life	生命
 E	Menu	菜单
+E	RotF	邪神归来
 E	Rune	符文
+E	Slow	慢
 E	VOID	虚空
 E	Void	虚空
+E	VotA	上古山谷
 E	DAY	昼
+E	DLV	救赎
 E	Day	天
+E	DoC	冠军黎明
+E	LGS	史诗传奇
 E	LOG	记录
 E	Log	记录
+E	Off	关闭
+E	RoV	祈夜崛起
+E	SoS	灵魂风暴
+E	WoS	暗影之战
+E	DS	梦境
+E	DU	黑暗释放
+E	IH	不朽英雄
+E	On	开启
+E	RU	领域解开
