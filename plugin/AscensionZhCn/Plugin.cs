@@ -14,7 +14,7 @@ using UnityEngine.UI;
 
 namespace AscensionZhCn;
 
-[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.3.0")]
+[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.3.2")]
 public class Plugin : BasePlugin
 {
     internal static Plugin Instance;
@@ -39,7 +39,7 @@ public class Plugin : BasePlugin
     internal static readonly Dictionary<string, string> Exact = new Dictionary<string, string>();
 
     static readonly Regex DropCap = new Regex(
-        @"<size=\s*\d+\s*>(.)</size>(?:<space=[^>]*>)?(.*)",
+        @"<size=\s*[^>]*>\s*(.)\s*</size>(?:<space=[^>]*>)?(.*)",
         RegexOptions.IgnoreCase | RegexOptions.Singleline);
     static readonly Regex Tags = new Regex(
         @"</?(?:size|space|color|b|i|u|s|font|mark|allcaps|uppercase|lowercase|smallcaps|sprite)[^>]*>",
@@ -54,7 +54,7 @@ public class Plugin : BasePlugin
             LogPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "plugin.log");
             DumpPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "untranslated.tsv");
             Directory.CreateDirectory(Path.GetDirectoryName(LogPath));
-            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.3.0 (dump + loc overlay)\n");
+            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.3.2 (gallery drop-cap + glossary)\n");
         }
         catch
         {
@@ -194,9 +194,10 @@ public class Plugin : BasePlugin
         add("Log", "记录");
         add("Player", "玩家");
         add("Offline Games", "离线对局");
-        add("App Store", "应用商店");
-        add("In-App Store", "应用商店");
-        add("内购店", "应用商店");
+        add("App Store", "商店");
+        add("In-App Store", "商店");
+        add("内购店", "商店");
+        add("应用商店", "商店");
         add("END TURN", "结束回合");
         add("End Turn", "结束回合");
         add("END\nTURN", "结束回合");
@@ -208,21 +209,27 @@ public class Plugin : BasePlugin
         add("Player 4", "玩家 4");
         add("Continue", "继续");
         add("CONTINUE", "继续");
-        add("Common", "中立");
+        add("Common", "普通");
         add("Loading cards, please wait...", "正在加载卡牌，请稍候…");
         add("Loading Cards, please wait...", "正在加载卡牌，请稍候…");
-        add("Enlightened Hero", "启迪英雄");
-        add("Enlightened Construct", "启迪神器");
-        add("Lifebound Hero", "生命英雄");
-        add("Lifebound Construct", "生命神器");
+        add("Enlightened Hero", "圣贤英雄");
+        add("Enlightened Construct", "圣贤神器");
+        add("Lifebound Hero", "命约英雄");
+        add("Lifebound Construct", "命约神器");
         add("Mechana Hero", "机械英雄");
         add("Mechana Construct", "机械神器");
         add("Void Hero", "虚空英雄");
         add("Void Construct", "虚空神器");
-        add("Enlightened Monster", "启迪怪物");
-        add("Lifebound Monster", "生命怪物");
+        add("Enlightened Monster", "圣贤怪物");
+        add("Lifebound Monster", "命约怪物");
         add("Mechana Monster", "机械怪物");
         add("Void Monster", "虚空怪物");
+        add("Common Monster", "普通怪物");
+        add("Monster", "怪物");
+        add("Enlightened", "圣贤");
+        add("Lifebound", "命约");
+        add("Mechana", "机械");
+        add("Void", "虚空");
         add("Cancel", "取消");
         add("Owned", "已拥有");
         add("Coming Soon", "即将推出");
@@ -418,8 +425,10 @@ public class Plugin : BasePlugin
 
     static string NormalizeUi(string text)
     {
-        var s = Tags.Replace(text ?? "", " ");
-        s = DropCap.Replace(s, "$1$2");
+        // Drop-cap first: gallery filters are "<size=141%>M</size>onster".
+        // Stripping <size> tags before this leaves "M onster" and breaks Exact maps.
+        var s = DropCap.Replace(text ?? "", "$1$2");
+        s = Tags.Replace(s, " ");
         s = s.Replace('\u00a0', ' ').Replace('\r', ' ').Replace('\n', ' ');
         while (s.Contains("  "))
             s = s.Replace("  ", " ");
@@ -462,11 +471,11 @@ public class Plugin : BasePlugin
     static readonly Dictionary<string, string> Factions = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
     {
         { "Monster", "怪物" },
-        { "Enlightened", "启迪" },
-        { "Lifebound", "生命" },
+        { "Enlightened", "圣贤" },
+        { "Lifebound", "命约" },
         { "Mechana", "机械" },
         { "Void", "虚空" },
-        { "Common", "中立" },
+        { "Common", "普通" },
     };
     static readonly Dictionary<string, string> CardTypes = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
     {
@@ -493,6 +502,7 @@ public class Plugin : BasePlugin
         next = next.Replace("Loading cards, please wait...", "正在加载卡牌，请稍候…");
         next = next.Replace("Loading Cards, please wait...", "正在加载卡牌，请稍候…");
         next = next.Replace("Loading cards, please wait", "正在加载卡牌，请稍候");
+        next = Regex.Replace(next, @"\bReward:\s*", "奖励：", RegexOptions.IgnoreCase);
         next = Regex.Replace(next, @"Purchase:\s*\$(\d+(?:\.\d+)?)", "购买：$$$1");
         next = Regex.Replace(next, @"\bPromo\s+(\d+)\b", "特典 $1", RegexOptions.IgnoreCase);
         return next != text ? next : null;
@@ -513,7 +523,10 @@ public class Plugin : BasePlugin
         if (text.Contains("${"))
             return remainder;
         if (HasCjk(text))
-            return remainder;
+        {
+            var mixed = ReplaceRemainders(text);
+            return mixed ?? remainder;
+        }
         string zh;
         if (Exact.TryGetValue(text, out zh) && zh != text)
             return zh;

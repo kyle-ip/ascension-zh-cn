@@ -15,7 +15,7 @@ Nethersnare,promo,冥界陷阱,"每回合一次，若此牌下没有怪物，你
 Askara of Fortune,promo,幸运阿斯卡拉,每位玩家展示顶部卡牌的 其牌库. 选择一个英雄已展示以此方式和 复制其效果.,,machine
 Hedron Flare,promo,多面体闪耀,每回合一次，你可以获取机械英雄在中央牌列无需支付费用.,,machine
 "Cetra, Guide of Ogo",promo,奥戈向导塞特拉,获取所有英雄在中央牌列无需支付费用. 放置它们放到你的牌库顶在 任意秩序.,,machine
-Ring of Life,promo,生命之环,"每回合一次，若你 拥有打出过生命英雄, 获得1符文. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也生命英雄.",,machine
+Ring of Life,promo,生命之环,"每回合一次，若你 拥有打出过命约英雄, 获得1符文. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也命约英雄.",,machine
 Ender of Days,promo,终日者,奖励：获得10荣誉. Remove所有荣誉从 荣誉池.,,machine
 Leprechaun,promo,小矮妖,获得2符文. 获取一个罐的 金从彩虹尽头或 从另一名玩家的控制.,,machine
 Pot of Gold,promo,金罐,"当你 打出此, 抽一张牌. 当你 打出小矮妖, 获得1荣誉.",,machine
@@ -33,7 +33,7 @@ Big Bad Bunny,promo,大坏兔子,天命： 放置卡牌从中央牌库facedown�
 Lotus Siren,promo,莲花海妖,"获得2符文.
 每当你 获取一个英雄或 宝藏卡牌从中央牌列本回合, 获得1荣誉. (获得荣誉以 每个卡牌已获取.)",,machine
 Aether Channeler,promo,以太引导者,放逐一张卡牌从你的手牌. Replace它以 随机hero和将它放置在你的手牌中.,,machine
-Spirit of the Ancients,promo,上古之灵,选择生命英雄该 尚未被选择以 此before. 此卡牌视为复制的 该英雄.,,machine
+Spirit of the Ancients,promo,上古之灵,选择命约英雄该 尚未被选择以 此before. 此卡牌视为复制的 该英雄.,,machine
 Temporal Excavator,promo,时光发掘者,: 加入一卡牌和 若它 为already那里然后放逐它 和将它替换.,,machine
 Eternal Tormentor,promo,永恒折磨者,击败一个随机怪物在 虚空区无需支付费用s和将它放置置于其底： 传送门牌库.,,machine
 Explosive Swarm,promo,爆裂虫群,"奖励：获得4荣誉. 当相邻non-怪物卡牌会 是被替换,将它替换以 复制的 此怪物改为",,machine
@@ -167,7 +167,7 @@ Hearthglow Clique,GotE,炉辉小圈子,"EMPOWER
 Earthmender Pura,GotE,愈地者普拉,"获得3符文.
 你可以放置怪物从你的手牌或 弃牌堆置入对手之弃牌堆.",,machine
 Wildbark Mail,GotE,野树皮甲胄,"每回合一次，若你 拥有被击败怪物在中央牌列, 获得2荣誉.",,machine
-Temple of Heroes,GotE,英雄神殿,"每回合一次，若你 拥有打出过生命英雄或 怪物, 获得2荣誉.",,machine
+Temple of Heroes,GotE,英雄神殿,"每回合一次，若你 拥有打出过命约英雄或 怪物, 获得2荣誉.",,machine
 Reysa's Trial,GotE,雷萨的试炼,"神器s在中央牌列费用 1符文更低以 获取 (以最少的 1符文).
 支付 8符文: 将此牌转化为锻母雷萨和 获取它.",,machine
 Forgemother Reysa,GotE,锻母雷萨,选择一项： 抽一张牌OR获取任意数量的 神器s在中央牌列无需支付其 费用.,,machine
@@ -260,7 +260,7 @@ Ancient Stag,VotA,上古鹿,"获得3荣誉.
 联合: 获得1L.",,machine
 Cheerful Consort,VotA,欢快伴侣,"获得1荣誉.
 抽一张牌.",,machine
-Alosyan Guide,VotA,阿洛西亚向导,"当你 获取此, 若你 拥有打出过生命英雄本回合, 放置此 直接置入你的手牌.
+Alosyan Guide,VotA,阿洛西亚向导,"当你 获取此, 若你 拥有打出过命约英雄本回合, 放置此 直接置入你的手牌.
 获得3荣誉.",,machine
 Sirewood Elder,VotA,父木长老,"获得2符文.
 联合: 抽一张牌.",,machine
@@ -272,7 +272,7 @@ Caretaker Zahral,VotA,看护者扎拉尔,"获得3符文.
 下次你获取一个英雄本回合, 你可以将它放置放到你的牌库顶.",,machine
 "Asalas, the Impaler",VotA,阿萨拉斯·穿刺者,"获得2符文.
 下次你获取一个英雄本回合, 获得P相等以 已获取英雄之R费用.",,machine
-Pathfinder's Totem,VotA,探路者的图腾,联合: 每回合一次，获得1符文. (获得此效果若 你拥有打出过生命英雄本回合.),,machine
+Pathfinder's Totem,VotA,探路者的图腾,联合: 每回合一次，获得1符文. (获得此效果若 你拥有打出过命约英雄本回合.),,machine
 Resourceful Trader,VotA,机智商人,"抽一张牌.
 下次你获取神器本回合, 获得1D.",,machine
 Brother Marius,VotA,修士马里乌斯,"获得1符文.
@@ -334,7 +334,7 @@ Dream Stone,Del,梦石,你可以放逐此牌以 掷谵妄骰.,Look upon什么mig
 The Dragon's Eye,Del,龙之眼,"当你 打出此, 获得1洞察.
 宁静: 每回合一次，获得1洞察. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
 Delirium Nymph,Del,谵妄宁芙,"获得1符文.
-联合： 抽 2 卡牌. (获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)",,machine
+联合： 抽 2 卡牌. (获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)",,machine
 Dreamscape Dryad,Del,梦境树灵,"获得3荣誉.
 你可以支付 3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
 Pollen Pixie,Del,花粉小仙,获得2符文和 1荣誉.,You're going以feel little funny在首先。.,machine
@@ -343,7 +343,7 @@ Tuskrider,Del,牙骑手,"抽一张牌.
 联合： 获得4战力.",Truffles和manflesh.,machine
 Vineweaver,Del,织藤者,获得4荣誉.,,machine
 "Kor, Worldbreaker",Del,科尔·碎界者,"获得2符文和 抽一张牌.
-若你 打出或 拥有打出过在least两其他生命英雄本回合, 获得6战力.",,machine
+若你 打出或 拥有打出过在least两其他命约英雄本回合, 获得6战力.",,machine
 "Evvy, Ogo's Gift",Del,艾薇·奥戈的馈赠,"获取一个英雄无需支付费用和 将它放置放到你的牌库顶.
 你可以3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
 Ogo War Tree,Del,奥戈战争树,"每回合一次，当你 获取一个英雄在中央牌列, 你可以将它放置放到你的牌库顶.",一路平安！,machine
@@ -421,7 +421,7 @@ Psyche Askara,Dlvr,心灵阿斯卡拉,复制效果的 英雄你 拥有打出过�
 获取一个卡牌在中央牌列无需支付费用和 将它放置在你的手牌中.",,machine
 Dream Anchor,Dlvr,梦锚,"掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得2洞察.",,machine
 Entrophantasm,Dlvr,熵幻象,"获得1符文和 1洞察.
-联合： 抽一张牌.(获得此效果若 你打出或 拥有打出过另一生命英雄本回合.)",Are你sure你want以知道?,machine
+联合： 抽一张牌.(获得此效果若 你打出或 拥有打出过另一命约英雄本回合.)",Are你sure你want以知道?,machine
 Dreamscarred Hunter,Dlvr,梦痕猎手,"抽一张牌.
 掠夺 - 此回合, 若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得3荣誉.",Are你sure你want以知道?,machine
 Faerie Commander,Dlvr,仙灵指挥官,"获得2符文. 下次你获取一个英雄在中央牌列本回合, 获得2战力.",他曾是发现dead在forest million little cuts.,machine
@@ -597,11 +597,11 @@ Twofold Askara 10TH,CotG10,双重阿斯卡拉,复制本回合打出的一张英�
 Druids of the Stone Circle 10TH,CotG10,石环德鲁伊,无需支付费用获取一个费用不高于3符文的英雄。将其放到你的牌库顶。,,official-anshashen+variant
 Flytrap Witch 10TH,CotG10,捕蝇草女巫,获得2荣誉。抽一张牌。,,official-anshashen+variant
 Landtalker 10TH,CotG10,大地说书人,获得3符文。,,official-anshashen+variant
-Lifebound Initiate 10TH,CotG10,生命新兵,获得1符文和1荣誉。,,official-anshashen+variant
-Runic Lycanthrope 10TH,CotG10,符文狼化人,获得2符文。若你本回合打出过生命英雄，获得2战力。,,official-anshashen+variant
-Snapdragon 10TH,CotG10,金鱼草,每回合一次，获得1符文。每回合你首次打出生命英雄时，获得1荣誉。,,official-anshashen+variant
+Lifebound Initiate 10TH,CotG10,命约新兵,获得1符文和1荣誉。,,official-anshashen+variant
+Runic Lycanthrope 10TH,CotG10,符文狼化人,获得2符文。若你本回合打出过命约英雄，获得2战力。,,official-anshashen+variant
+Snapdragon 10TH,CotG10,金鱼草,每回合一次，获得1符文。每回合你首次打出命约英雄时，获得1荣誉。,,official-anshashen+variant
 Wolf Shaman 10TH,CotG10,狼萨满,获得1符文。抽一张牌。,,official-anshashen+variant
-Yggdrasil Staff 10TH,CotG10,世界树法杖,每回合一次，获得1战力。若你本回合打出过生命英雄，获得2荣誉。,,community+variant
+Yggdrasil Staff 10TH,CotG10,世界树法杖,每回合一次，获得1战力。若你本回合打出过命约英雄，获得2荣誉。,,community+variant
 Avatar Golem 10TH,CotG10,化身魔像,获得2战力。你每控制一种神器，获得1荣誉。,,community+variant
 Burrower Mark II 10TH,CotG10,钻地机II型,每回合你首次将机械神器进入战场时（包括此牌），抽一张牌。,,community+variant
 Hedron Cannon 10TH,CotG10,多面体加农,每回合一次，你每控制一个机械神器，获得1战力。,,community+variant
@@ -650,11 +650,11 @@ Twofold Askara,CotG,双重阿斯卡拉,复制本回合打出的一张英雄的�
 Druids of the Stone Circle,CotG,石环德鲁伊,无需支付费用获取一个费用不高于3符文的英雄。将其放到你的牌库顶。,,official-anshashen
 Flytrap Witch,CotG,捕蝇草女巫,获得2荣誉。抽一张牌。,,official-anshashen
 Landtalker,CotG,大地说书人,获得3符文。,,official-anshashen
-Lifebound Initiate,CotG,生命新兵,获得1符文和1荣誉。,,official-anshashen
-Runic Lycanthrope,CotG,符文狼化人,获得2符文。若你本回合打出过生命英雄，获得2战力。,,official-anshashen
-Snapdragon,CotG,金鱼草,每回合一次，获得1符文。每回合你首次打出生命英雄时，获得1荣誉。,,official-anshashen
+Lifebound Initiate,CotG,命约新兵,获得1符文和1荣誉。,,official-anshashen
+Runic Lycanthrope,CotG,符文狼化人,获得2符文。若你本回合打出过命约英雄，获得2战力。,,official-anshashen
+Snapdragon,CotG,金鱼草,每回合一次，获得1符文。每回合你首次打出命约英雄时，获得1荣誉。,,official-anshashen
 Wolf Shaman,CotG,狼萨满,获得1符文。抽一张牌。,,official-anshashen
-Yggdrasil Staff,CotG,世界树法杖,每回合一次，获得1战力。若你本回合打出过生命英雄，获得2荣誉。,,community
+Yggdrasil Staff,CotG,世界树法杖,每回合一次，获得1战力。若你本回合打出过命约英雄，获得2荣誉。,,community
 Avatar Golem,CotG,化身魔像,获得2战力。你每控制一种神器，获得1荣誉。,,community
 Burrower Mark II,CotG,钻地机II型,每回合你首次将机械神器进入战场时（包括此牌），抽一张牌。,,community
 Hedron Cannon,CotG,多面体加农,每回合一次，你每控制一个机械神器，获得1战力。,,community
@@ -692,12 +692,12 @@ Dhartha's Retreat,RotF,达萨的隐修处,"若你如此做，不获取或 击败
 Eternal Askara,RotF,永恒阿斯卡拉,"放逐一张卡牌在中央牌列. 若你 放逐怪物以此方式, 获得3荣誉.",,machine
 Hectic Scribe,RotF,忙乱书记,"抽两张牌, 然后弃掉两 卡牌.",,machine
 "Nairi, Henge Queen",RotF,环石女王奈莉,获得5荣誉.,,machine
-Dandelion Witch,RotF,蒲公英女巫,抽一张牌. 获得1荣誉以 每个生命英雄你 打出或 拥有打出过本回合 (包括此牌一).,,machine
+Dandelion Witch,RotF,蒲公英女巫,抽一张牌. 获得1荣誉以 每个命约英雄你 打出或 拥有打出过本回合 (包括此牌一).,,machine
 Great-Omen Raven,RotF,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,machine
 Lunar Stag,RotF,月鹿,获得2符文或 2荣誉.,,machine
 Serpentcall,RotF,唤蛇,"每回合一次，获得2符文.
 每回合一次，你可以获取hero从虚空区被 支付其 符文费用.",,machine
-Stone Circle,,石环,"每回合一次，你可以展示你牌库顶的卡牌. 若它是生命英雄, 抽它.
+Stone Circle,,石环,"每回合一次，你可以展示你牌库顶的卡牌. 若它是命约英雄, 抽它.
 每回合一次，你可以花费 2符文以 获得1荣誉.",,machine
 Stone Circle,RotF,石环,"天命： 当此牌进入中央牌列时, 每位玩家可以获取秘教士. 将它放置在 顶部的 其牌库.
 每回合一次，当你 获取一个英雄, 你可以将它放置放到你的牌库顶.",,machine
@@ -745,7 +745,7 @@ Elemental Adept,SoS,元素能手,"抽一张牌.
 Nook Hound,SoS,角落猎犬,"天命： 当此牌进入中央牌列时, 每位玩家可以查看牌库顶卡牌的 其牌库. 他们可以将它放置置入其弃牌堆.",,machine
 Prodigal,SoS,浪子,击败一个怪物以P3 或更低.,,machine
 Treasures of the Study,SoS,宝藏书房,每回合一次，你可以弃掉 2 卡牌. 若你如此做，获得3荣誉.,,machine
-Ogo Rising,SoS,奥戈崛起,"首先英雄打出过本回合为 也生命英雄.
+Ogo Rising,SoS,奥戈崛起,"首先英雄打出过本回合为 也命约英雄.
  EVENT战利品： 获得1符文.",,machine
 Starchild,SoS,星之子,"获得1符文和 1荣誉. 然后, 抽一张牌.",,machine
 Granger,SoS,农夫,获得1符文和 1荣誉. 联合： 获得1符文和 1荣誉.,,machine
@@ -809,7 +809,7 @@ Temple Guardian,IH,神殿守卫,"击败一个怪物以P5 或更低无需支付�
 若当前事件为 启迪, 抽一张牌.",,machine
 Wandering Askara,IH,流浪阿斯卡拉,"抽一张牌, 然后你可以放逐一张卡牌在中央牌列.
 若你打出过另一流浪阿斯卡拉本回合, 你可以放逐两者卡牌以 拿取另一回合在此之后.",,machine
-The Great Eclipse,IH,大日食,"当玩家获取生命英雄, 该玩家可以将它放置在 顶部的 其牌库.
+The Great Eclipse,IH,大日食,"当玩家获取命约英雄, 该玩家可以将它放置在 顶部的 其牌库.
  EVENT战利品： 命名英雄. 该英雄为 也生命本回合.",,machine
 "Sabre, the Moonlit",IH,军刀·月下,"获得1符文. 获得1战力. 获得1荣誉. 抽一张牌. 
 联合： 获得1符文. 获得1战力. 获得1荣誉. 抽一张牌.",,machine
@@ -820,7 +820,7 @@ Wolf Acolyte,IH,狼侍僧,获得1符文. 联合： 抽一张牌.,,machine
 Beast Staff,IH,野兽法杖,"每回合一次，获得1战力.
 每回合一次，你可以支付 1符文以 展示顶部卡牌的 你牌库. 获得荣誉相等以 其荣誉Value.",,machine
 The World Tree,IH,世界树,"每回合一次，你可以支付至多 5符文以 获得该等量的H. 
-当你 打出生命英雄, 获得1符文.",,machine
+当你 打出命约英雄, 获得1符文.",,machine
 Cosmic Protocol,IH,宇宙协议,"当玩家获取机械神器, 该玩家可以将其直接进入战场.
  EVENT战利品： 你支付 2符文更低以 获取你的下一机械神器本回合.",,machine
 Energy Monk,IH,能量僧侣,获得2战力. 你可以返回神器你控制的以 你的手牌.,,machine
@@ -860,7 +860,7 @@ Soul Gem - Druids of the Stone Circle,IH,石环德鲁伊,获取一个英雄费�
 Soul Gem - Great-Omen Raven,IH,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,machine
 Soul Gem - Landtalker,IH,大地说书人,获得3符文.,,machine
 Soul Gem - Lifebound Initiate,IH,生命新兵,获得1符文和 1荣誉.,,machine
-Soul Gem - Runic Lycanthrope,IH,符文狼化人,"获得2符文. 若你打出过生命英雄本回合, 获得2战力.",,machine
+Soul Gem - Runic Lycanthrope,IH,符文狼化人,"获得2符文. 若你打出过命约英雄本回合, 获得2战力.",,machine
 Soul Gem - Wolf Shaman,IH,狼萨满,获得1符文. 抽一张牌.,,machine
 Soul Gem - Avatar Golem,IH,化身魔像,获得2战力. 获得1荣誉以 每个type的神器你控制的.,,machine
 Soul Gem - Dimension Diver,IH,维度潜者,获得2符文. 你可以将所有神器s作为机械神器本回合.,,machine
@@ -1033,13 +1033,13 @@ Sage of Lucid Dreams,,贤者清明诸梦,"一次本回合, 放逐一张卡牌在
 Oziah's Familiar,RU,奥齐亚的使魔,"击败一个怪物以 费用 4战力或更低无需支付费用.
 多重联合： 重复此效果.",,machine
 Scryer of the Lidless Eye,RU,无目之眼占卜者,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 启迪, 返回它 以你的手牌.",,machine
-Disciple of Oziah,RU,之徒·奥齐亚,"当此 为在你的手牌中, 若你 拥有打出过另一启迪英雄本回合, 将此牌转化为后裔· 奥齐亚.
+Disciple of Oziah,RU,之徒·奥齐亚,"当此 为在你的手牌中, 若你 拥有打出过另一圣贤英雄本回合, 将此牌转化为后裔· 奥齐亚.
 击败一个怪物以 费用 3战力或更低无需支付费用.",,machine
 Scion of Oziah,RU,后裔·奥齐亚,击败一个怪物以 费用 5战力或更低无需支付费用.,,machine
 "Vir, Ascetic Master",RU,维尔·苦行僧大师,"当此 为在你的手牌中, 若你 拥有打出过英雄的 每个派系本回合, 将此牌转化为维尔, 昙花古鲁.
 获取一个英雄在中央牌列无需支付费用和 将它放置在你的手牌中.",,machine
 "Vir, Ephemeral Guru",RU,维尔·昙花古鲁,获取所有英雄在中央牌列无需支付费用和 放置它们在你的手牌中.,,machine
-Forgotten Scripture,RU,遗忘经文,"若你打出过两 的更多启迪英雄本回合, 将此牌转化为真言的 真正视界.",,machine
+Forgotten Scripture,RU,遗忘经文,"若你打出过两 的更多圣贤英雄本回合, 将此牌转化为真言的 真正视界.",,machine
 Mantra of True Sight,RU,真言真正视界,每回合一次，你可以抽一张牌.,,machine
 Animus of the Wild,RU,魂魄荒野,"获得2符文.
 你支付 1符文更低下次你获取一个英雄本回合.",,machine
@@ -1051,14 +1051,14 @@ Snapdragon Witch,RU,金鱼草女巫,"获得1荣誉.
 抽一张牌.
 若你 拥有更多H于每个其他玩家, 抽额外的卡牌.",,machine
 Wolf Shaman RU,RU,狼萨满,获得1符文。抽一张牌。,,official-anshashen+variant
-Disciple of Cetra,RU,之徒·塞特拉,"当此 为在你的手牌中, 若你 拥有打出过另一生命英雄本回合, 将此牌转化为后裔· 塞特拉.
+Disciple of Cetra,RU,之徒·塞特拉,"当此 为在你的手牌中, 若你 拥有打出过另一命约英雄本回合, 将此牌转化为后裔· 塞特拉.
 获得1符文和 1荣誉.",,machine
 Scion of Cetra,RU,后裔·塞特拉,获得2符文和 2荣誉.,,machine
 "Remus, Pack Guardian",RU,雷穆斯·兽群守卫,"当此 为在你的手牌中, 若你 拥有已获得 3荣誉或更高本回合, 将此牌转化为雷穆斯, 荒野使者.
 获得3符文.",,machine
 "Remus, Wild Emissary",RU,雷穆斯·荒野使者,"获得3符文.
 你可以花费R作为穿过它 曾是P本回合.",,machine
-Druid's Wreath,RU,德鲁伊花环,"若你打出过两 或更高生命英雄本回合, 将此牌转化为翠绿冠冕.",,machine
+Druid's Wreath,RU,德鲁伊花环,"若你打出过两 或更高命约英雄本回合, 将此牌转化为翠绿冠冕.",,machine
 Verdant Crown,RU,翠绿冠冕,每回合一次，获得2荣誉.,,machine
 Air Support Squadron,RU,空中支援中队,"每回合一次，当你 获取机械卡牌, 你可以将它放置在你的手牌中.",,machine
 Defense Generator,RU,防御发生器,"每回合一次，当你 获取机械卡牌, 获得2战力.",,machine
@@ -1118,7 +1118,7 @@ Borderland Mercenary,RU,边地佣兵,"抽一张牌.
 Adayu the Tormented,RU,阿达尤受折磨,奖励： 将此牌转化为阿达尤宁静和 获取它.,,machine
 Adayu the Serene,RU,阿达尤宁静,"此英雄视为作为所有派系.
 获得1符文, 1战力和 1荣誉. 抽一张牌.
-多重联合： 获得1符文以 每个机械英雄, 1战力以 每个虚空英雄,1荣誉以 每个生命英雄, 和抽一张牌以 每个启迪英雄你 打出或 拥有打出过本回合.",,machine
+多重联合： 获得1符文以 每个机械英雄, 1战力以 每个虚空英雄,1荣誉以 每个命约英雄, 和抽一张牌以 每个圣贤英雄你 打出或 拥有打出过本回合.",,machine
 Eye of Potential,,潜能之眼,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
 "Cetra, Benefactor of All",,万民之恩塞特拉,"从你开始, 和然后going在回合秩序, 每位玩家获取英雄无需支付费用. 英雄已获取以此方式为 放置在 顶部的 其拥有者' decks.",,machine
 Nyxian Corruptor,,尼克斯腐蚀者,"获得3战力.
@@ -1189,7 +1189,7 @@ Riftdrake Rider,DoC,裂隙龙兽骑手,"抽两张牌.
 你可以放逐至多两 卡牌在你的手牌或弃牌堆.",,machine
 Wildgear Sower,DoC,野性齿轮播种者,"获得2符文.
 获得1荣誉以 每个派系之中神器s你的控制. (派系为启迪, 生命, 机械和 虚空).",,machine
-Genesis Capsule,DoC,创世舱,"每回合一次，当你 获取生命英雄或 机械神器, 你可以将它放置放到你的牌库顶.",,machine
+Genesis Capsule,DoC,创世舱,"每回合一次，当你 获取命约英雄或 机械神器, 你可以将它放置放到你的牌库顶.",,machine
 Shepherd of the Lost,DoC,牧者迷失,"获得2符文.
 若此 为被放逐从你的手牌或 弃牌堆, 获得5荣誉.",,machine
 Muse of Rebirth,DoC,缪斯重生,"获得2符文.
@@ -1238,7 +1238,7 @@ Dreamwillow Druids,DS,梦柳德鲁伊,选择一项： 获取一个英雄以 费�
 Lunar Pack,DS,月兽群,"获得2符文.
 联合： 获得2洞察.",,machine
 Dreamwillow,DS,梦柳,"每回合一次，获得1符文.
-每回合你首次打出生命英雄时, 获得1洞察.",,machine
+每回合你首次打出命约英雄时, 获得1洞察.",,machine
 "Raka, Dreamtender",DS,拉卡·守梦者,"获得5荣誉.
 将一张卡牌加入你的梦境.",,machine
 "Verdagris, the Wild",DS,维达格里斯·荒野,"获得4符文.
@@ -1300,13 +1300,13 @@ Dust to Dust,DS,尘土归于尘土,摧毁所有神器s你的对手控制.,,machi
 Armistice,DS,停战,每位玩家弃掉其 手牌和 抽五 卡牌.,,machine
 Wicked End,DS,邪终结,击败一个怪物在中央牌列无需支付费用.,,machine
 Test of Faith,DS,试炼信仰,"展示传送门牌库顶的卡牌. 获取或 击败它 无需支付费用. 若你 获取一个英雄以此方式, 将它放置置入你的手牌.",,machine
-Aura of the Askara,DS,灵光阿斯卡拉,"若你打出过两 启迪英雄以 同名本回合, 你可以获取此 无需支付费用.
+Aura of the Askara,DS,灵光阿斯卡拉,"若你打出过两 圣贤英雄以 同名本回合, 你可以获取此 无需支付费用.
 ONGOING: 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合.",,machine
 Lunar Embrace,DS,月拥抱,此回合你可以花费R视为P.,,machine
 Cetra's Respite,DS,塞特拉的喘息,获取一个英雄在中央牌列无需支付费用.,,machine
-Nairi's Blessing,DS,奈莉的祝福,"若你打出过三 或更高生命英雄本回合, 你可以获取此 无需支付费用.
+Nairi's Blessing,DS,奈莉的祝福,"若你打出过三 或更高命约英雄本回合, 你可以获取此 无需支付费用.
 获得10荣誉.
-ONGOING: 你为 视为以 拥有打出过生命英雄每回合.",,machine
+ONGOING: 你为 视为以 拥有打出过命约英雄每回合.",,machine
 Technological Leap,DS,科技跃进,获取所有神器s在中央牌列无需支付其 费用.,,machine
 Order of the Gear,DS,秩序齿轮,"若你控制的四 或更高神器s, 你可以获取此 无需支付费用.
 ONGOING: 你的机械英雄为 神器s改为. 你可以use其异能每回合一次.",,machine

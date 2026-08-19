@@ -17,7 +17,7 @@ BepInEx 6 插件（1.3.0）在运行时替换 `GetTextByKey`，并延迟挂载�
 
 漏译会记到 `StreamingAssets/zh-cn/untranslated.tsv`，随后可 `python tools/ingest_untranslated.py`。
 
-术语：符文 / 战力 / 荣誉；获取 / 击败 / 放逐；学徒 / 民兵 / 秘教士 / 重装步兵 / 邪教徒；神器（Construct）；启迪 / 生命 / 机械 / 虚空。
+术语：见 [glossary/zh-Hans.csv](../glossary/zh-Hans.csv)（圣贤 / 命约 / 机械 / 虚空；普通）。图鉴侧栏为 TMP 首字放大，插件 1.3.2 起会剥标签后替换。
 
 ## 未做
 

@@ -8,8 +8,8 @@ internal static class ScenePatcher
     {
         ("Offline", "离线 "),
         ("Online", "在线"),
-        ("In-App Store", "应用商店"),
-        ("App Store", "内购店"),
+        ("In-App Store", "商店      "),
+        ("App Store", "商店   "),
         ("Stone Blade Newsletter Sign-Up", "订阅 Stone Blade 通讯     "),
         ("Stone Blade Newsletter Sign-up", "订阅 Stone Blade 通讯     "),
         ("Sign up to get the latest information and special deals direct to you.", "订阅即可获取最新资讯与优惠，直接发到你的邮箱。 "),

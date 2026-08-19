@@ -6,8 +6,8 @@ LABEL_EVENT_TROPHY,<b>事件战利品：</b>
 LABEL_UNITE,<b>联合：</b>
 LABEL_MULTIUNITE,<b>多重联合：</b>
 LABEL_ENERGIZE,<b>充能</b>
-LABEL_RALLY_ENLIGHTENED,<b>集结：启迪</b>
-LABEL_RALLY_LIFEBOUND,<b>集结：生命</b>
+LABEL_RALLY_ENLIGHTENED,<b>集结：圣贤</b>
+LABEL_RALLY_LIFEBOUND,<b>集结：命约</b>
 LABEL_RALLY_MECHANA,<b>集结：机械</b>
 LABEL_RALLY_VOID,<b>集结：虚空</b>
 LABEL_RALLY_MONSTER,<b>集结：怪物</b>
@@ -18,15 +18,18 @@ LABEL_INFEST,<b>感染 - </b>
 LABEL_SERENITY,<b>宁静：</b>
 LABEL_ECHO,<b>回响：</b>
 LABEL_DREAMBIND,<B>梦缚：</B>
+LABEL_PHANTASM,<B><I>幻象 - </I></B>
+LABEL_TRANSFORM,<B>转化 - </B>
+LABEL_PLUNDER,<B><I>掠夺 - </I></B>
 FLAVOR_DRUIDSOFTHESTONECIRCLE,<sprite=32>
 CARDNAME_MECHANAINITIATE,机械新兵
 EFFECT_MECHANAINITIATE,获得1符文或1战力。
 FLAVOR_MECHANAINITIATE,<sprite=35>
-CARDNAME_LIFEBOUNDINITIATE,生命新兵
+CARDNAME_LIFEBOUNDINITIATE,命约新兵
 EFFECT_LIFEBOUNDINITIATE,获得1符文和1荣誉。
 FLAVOR_LIFEBOUNDINITIATE,<sprite=38>
 CARDNAME_RUNICLYCANTHROPE,符文狼化人
-EFFECT_RUNICLYCANTHROPE,获得2符文。若你本回合打出过生命英雄，获得2战力。
+EFFECT_RUNICLYCANTHROPE,获得2符文。若你本回合打出过命约英雄，获得2战力。
 FLAVOR_RUNICLYCANTHROPE,<sprite=41>
 CARDNAME_LANDTALKER,大地说书人
 EFFECT_LANDTALKER,获得3符文。
@@ -34,7 +37,7 @@ FLAVOR_LANDTALKER,<sprite=2>
 CARDNAME_XERONDUKEOFLIES,<sprite=3>
 EFFECT_XERONDUKEOFLIES,<sprite=4>
 CARDNAME_SNAPDRAGON,金鱼草
-EFFECT_SNAPDRAGON,每回合一次，获得1符文。每回合你首次打出生命英雄时，获得1荣誉。
+EFFECT_SNAPDRAGON,每回合一次，获得1符文。每回合你首次打出命约英雄时，获得1荣誉。
 FLAVOR_SNAPDRAGON,<sprite=7>
 CARDNAME_CETRAWEAVEROFSTARS,织星者塞特拉
 EFFECT_CETRAWEAVEROFSTARS,获取任意一个英雄。将其放到你的牌库顶。
@@ -79,7 +82,7 @@ FLAVOR_BURROWERMARKII,<sprite=143>
 CARDNAME_APPRENTICE,学徒
 EFFECT_APPRENTICE,获得1符文。
 CARDNAME_YGGDRASILSTAFF,世界树法杖
-EFFECT_YGGDRASILSTAFF,每回合一次，获得1战力。若你本回合打出过生命英雄，获得2荣誉。
+EFFECT_YGGDRASILSTAFF,每回合一次，获得1战力。若你本回合打出过命约英雄，获得2荣誉。
 FLAVOR_YGGDRASILSTAFF,<sprite=173>
 CARDNAME_VOIDTHIRSTER,渴虚者
 EFFECT_VOIDTHIRSTER,每回合一次，获得1战力。每回合你首次击败中央牌列中的怪物时，获得1荣誉。
@@ -179,7 +182,7 @@ CARDNAME_LIFEBOUNDINITIATE10TH,生命新兵
 EFFECT_LIFEBOUNDINITIATE10TH,获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
 FLAVOR_LIFEBOUNDINITIATE10TH,"存在但 一true Mother, 和所有生命为 她的children."
 CARDNAME_RUNICLYCANTHROPE10TH,符文狼化人
-EFFECT_RUNICLYCANTHROPE10TH,"获得${ICON_RUNE2}.<br>${LABEL_UNITE} 若你 打出或 拥有打出过生命英雄本回合, 获得${ICON_POWER2}."
+EFFECT_RUNICLYCANTHROPE10TH,"获得${ICON_RUNE2}.<br>${LABEL_UNITE} 若你 打出或 拥有打出过命约英雄本回合, 获得${ICON_POWER2}."
 FLAVOR_RUNICLYCANTHROPE10TH,"Write以血, 和你 将看见该 血为spirit."
 CARDNAME_LANDTALKER10TH,大地说书人
 EFFECT_LANDTALKER10TH,获得${ICON_RUNE3}.
@@ -188,7 +191,7 @@ CARDNAME_XERONDUKEOFLIES10TH,谎言之公爵泽伦
 EFFECT_XERONDUKEOFLIES10TH,${LABEL_REWARD} 获得${ICON_HONOR4}. 拿取一张卡牌随机从 每位对手之手牌和 将那些卡牌加入以 你的手牌.
 FLAVOR_XERONDUKEOFLIES10TH,他们say每个word泽伦utters<br>费用为thousand lives.
 CARDNAME_SNAPDRAGON10TH,金鱼草
-EFFECT_SNAPDRAGON10TH,"每回合一次，获得${ICON_RUNE1}.<br>${LABEL_UNITE} 每回合一次，若你 拥有打出过生命英雄, 获得${ICON_HONOR1}."
+EFFECT_SNAPDRAGON10TH,"每回合一次，获得${ICON_RUNE1}.<br>${LABEL_UNITE} 每回合一次，若你 拥有打出过命约英雄, 获得${ICON_HONOR1}."
 FLAVOR_SNAPDRAGON10TH,没有比骄傲更致命的毒药。
 CARDNAME_CETRAWEAVEROFSTARS10TH,织星者塞特拉
 EFFECT_CETRAWEAVEROFSTARS10TH,获取一个英雄无需支付费用. 将它放到你的牌库顶.
@@ -362,7 +365,7 @@ CARDNAME_SERPENTCALL,唤蛇
 EFFECT_SERPENTCALL,每回合一次，获得${ICON_RUNE2}.<br>每回合一次，你可以获取一个英雄在 虚空区视为在中央牌列.
 FLAVOR_SERPENTCALL,"""Mother, beckon我home."" - 奥戈死亡rite"
 CARDNAME_DANDELIONWITCH,蒲公英女巫
-EFFECT_DANDELIONWITCH,抽一张牌.<br>获得${ICON_HONOR1} 以每个生命英雄你 打出或 拥有打出过本回合 (包括此牌一).
+EFFECT_DANDELIONWITCH,抽一张牌.<br>获得${ICON_HONOR1} 以每个命约英雄你 打出或 拥有打出过本回合 (包括此牌一).
 CARDNAME_ARHASENSEI,亚哈导师
 EFFECT_ARHASENSEI,放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵. 加入它以 你的手牌.
 FLAVOR_ARHASENSEI,"""没有圣殿武士应当die在behalf的ruffians和cowards. 我们将make你worthy."""
@@ -383,7 +386,7 @@ EFFECT_ARHARISING,"每回合一次，当玩家弃掉任意数量的 卡牌, 他�
 CARDNAME_SHADOWCASTER,影咏者
 EFFECT_SHADOWCASTER,"抽一张牌. 你可以放逐一张卡牌从你的手牌. 若你如此做，抽额外的卡牌. 若当前事件为 虚空, 你可以也放逐一张卡牌在你的弃牌堆."
 CARDNAME_OGORISING,奥戈崛起
-EFFECT_OGORISING,首先英雄打出过本回合为 也生命英雄.<br>${LABEL_EVENT_TROPHY} 获得${ICON_RUNE1}.
+EFFECT_OGORISING,首先英雄打出过本回合为 也命约英雄.<br>${LABEL_EVENT_TROPHY} 获得${ICON_RUNE1}.
 CARDNAME_DREAMERSGLASS,梦者琉璃
 EFFECT_DREAMERSGLASS,"每回合一次，你可以放置卡牌在你的手牌中其下此 面朝上. 若你如此做，抽一张牌.
 <br>当梦者琉璃离开打出或 游戏结束, 放置所有卡牌其下它 置入你的弃牌堆."
@@ -435,7 +438,7 @@ FATE_HONEYSIREN,"${LABEL_FATE} 当蜜 海妖进入中央牌列, 每位玩家可�
 CARDNAME_SNAKESHAMAN,蛇萨满
 EFFECT_SNAKESHAMAN,"获得${ICON_RUNE1}. 若当前事件为 生命, 获得额外的 ${ICON_RUNE1}.<br>一次本回合, 你可以花费至多 ${ICON_RUNE4} 以获得该等量的 ${ICON_HONOR}."
 CARDNAME_SYRILRUNICALPHA,符文首领西里尔
-EFFECT_SYRILRUNICALPHA,获得${ICON_RUNE3}.<br>${LABEL_UNITE} 获得${ICON_POWER3}. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_SYRILRUNICALPHA,获得${ICON_RUNE3}.<br>${LABEL_UNITE} 获得${ICON_POWER3}. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_EMRISOULSLAYER,斩魂者艾姆瑞
 EFFECT_EMRISOULSLAYER,获得${ICON_POWER4}. 你可以放逐至多两 卡牌从你的手牌或 弃牌堆. 获得额外的 ${ICON_POWER1} 以每个卡牌被放逐从你的手牌以此方式.
 FATE_EMRISOULSLAYER,${LABEL_FATE} 每位玩家可以放逐至多两 卡牌从其手牌和/或弃牌堆.
@@ -504,7 +507,7 @@ EFFECT_APPRENTICESOS,获得${ICON_RUNE1}.
 CARDNAME_AVATAROFAIYANA,化身·艾雅娜
 EFFECT_AVATAROFAIYANA,"获得${ICON_RUNE2}.<br>此回合, 你可以获取英雄在中央牌列被 支付 ${ICON_RUNE} 相等以 其 ${ICON_HONOR} 而非支付其 ${ICON_RUNE} 费用."
 CARDNAME_GRANGER,农夫
-EFFECT_GRANGER,获得${ICON_RUNE1} 和 ${ICON_HONOR1}.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_GRANGER,获得${ICON_RUNE1} 和 ${ICON_HONOR1}.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_DREAMMACHINE,梦机器
 EFFECT_DREAMMACHINE,每回合一次，你可以返回另一机械神器你控制的以 你的手牌.
 FATE_DREAMMACHINE,"${LABEL_FATE} 当此牌进入中央牌列时, 每位玩家可以返回神器其控制的以 其手牌."
@@ -521,7 +524,7 @@ CARDNAME_NIHILMANCER,虚无法师
 EFFECT_NIHILMANCER,获得${ICON_POWER2}.<br>你可以放逐一张卡牌在你的手牌中. 若你如此做，获得额外的 ${ICON_POWER1}.
 FLAVOR_NIHILMANCER,"萨德拉尼斯formed他的own clan的demon slayers, sorcerous parallel以黑卫."
 CARDNAME_LIONHEART,狮心
-EFFECT_LIONHEART,获得${ICON_HONOR3}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_LIONHEART,获得${ICON_HONOR3}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_ELEMENTALADEPT,元素能手
 EFFECT_ELEMENTALADEPT,"抽一张牌. 若当前事件为 启迪, 抽额外的卡牌.<br>你可以放逐一张卡牌在中央牌列."
 CARDNAME_BELTHARSOULCOLLECTOR,贝尔萨·集魂者
@@ -586,7 +589,7 @@ CARDNAME_AKAMTHEGENIE,阿卡姆·灯神
 EFFECT_AKAMTHEGENIE,${LABEL_REWARD} 获得${ICON_HONOR3}.
 TROPHY_AKAMTHEGENIE,"${LABEL_TROPHY_ONGOING} 放置三 愿望指示物在 阿卡姆.<br>每回合一次，你可以移除愿望指示物以 获得${ICON_RUNE2} 或 ${ICON_POWER2}. 当阿卡姆具有没有愿望指示物, 放逐它."
 CARDNAME_THEWORLDTREE,W<space=-.05em>orld树
-EFFECT_THEWORLDTREE,"每回合一次，你可以支付至多 ${ICON_RUNE5} 以获得该等量的 ${ICON_HONOR}.<br>当你 打出生命英雄, 获得${ICON_RUNE1}."
+EFFECT_THEWORLDTREE,"每回合一次，你可以支付至多 ${ICON_RUNE5} 以获得该等量的 ${ICON_HONOR}.<br>当你 打出命约英雄, 获得${ICON_RUNE1}."
 FLAVOR_THEWORLDTREE,"每位branch, separate道路. Every seed, 新beginning."
 CARDNAME_TEMPLEGUARDIAN,神殿守卫
 EFFECT_TEMPLEGUARDIAN,"击败一个怪物以 ${ICON_POWER5} 或更低无需支付费用. 若当前事件为 启迪, 抽一张牌."
@@ -621,11 +624,11 @@ CARDNAME_REPURPOSER,再造者
 EFFECT_REPURPOSER,"每回合一次，当你 打出机械神器 (包括此牌一), 你可以返回神器从 你的弃牌堆以 你的手牌."
 FLAVOR_REPURPOSER,维修完毕。机组可投入运作。
 CARDNAME_SPIDERWITCH,蜘蛛女巫
-EFFECT_SPIDERWITCH,获得${ICON_HONOR2}.<br>${LABEL_UNITE} 获得灵魂宝石. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_SPIDERWITCH,获得${ICON_HONOR2}.<br>${LABEL_UNITE} 获得灵魂宝石. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_WOLFACOLYTE,狼侍僧
-EFFECT_WOLFACOLYTE,获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_WOLFACOLYTE,获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_THEGREATECLIPSE,大日食
-EFFECT_THEGREATECLIPSE,"当玩家获取生命英雄, 该玩家可以将它放置在 顶部的 其牌库.<br>${LABEL_EVENT_TROPHY} 命名英雄. 该英雄为 也生命本回合."
+EFFECT_THEGREATECLIPSE,"当玩家获取命约英雄, 该玩家可以将它放置在 顶部的 其牌库.<br>${LABEL_EVENT_TROPHY} 命名英雄. 该英雄为 也生命本回合."
 CARDNAME_SOULGEMARHATEMPLAR,ArhaT<space=-.1em>emplar
 EFFECT_SOULGEMARHATEMPLAR,击败一个怪物该 具有${ICON_POWER4} 或更低无需支付费用.
 CARDNAME_SOULGEMVOIDINITIATE,虚空新兵
@@ -661,7 +664,7 @@ EFFECT_SOULGEMSHADEOFTHEBLACKWATCH,获得${ICON_POWER2}.<br>你可以放逐一�
 CARDNAME_SOULGEMREACTORMONK,反应堆僧侣
 EFFECT_SOULGEMREACTORMONK,获得${ICON_RUNE2}.<br>你支付 ${ICON_RUNE1} 更低下次你获取神器本回合.
 CARDNAME_SOULGEMRUNICLYCANTHROPE,符文狼化人
-EFFECT_SOULGEMRUNICLYCANTHROPE,"获得${ICON_RUNE2}.<br>若你打出过生命英雄本回合, 获得${ICON_POWER2}."
+EFFECT_SOULGEMRUNICLYCANTHROPE,"获得${ICON_RUNE2}.<br>若你打出过命约英雄本回合, 获得${ICON_POWER2}."
 CARDNAME_SOULGEMMECHANAINITIATE,机械新兵
 EFFECT_SOULGEMMECHANAINITIATE,获得${ICON_RUNE1} 或 ${ICON_POWER1}.
 CARDNAME_SOULGEMWOLFSHAMAN,狼萨满
@@ -957,7 +960,7 @@ FLAVOR_WAILINGSPECTRE,"Denizens的祈夜lock其doors在首先scream的夜晚, cl
 CARDNAME_APPRENTICERU,学徒
 EFFECT_APPRENTICERU,获得${ICON_RUNE1}.
 CARDNAME_DISCIPLEOFCETRA,之徒·塞特拉
-EFFECT_DISCIPLEOFCETRA,"当此 为在你的手牌中, 若你 拥有打出过另一生命英雄本回合, 将此牌转化为后裔· 塞特拉.<br>获得${ICON_RUNE1} 和 ${ICON_HONOR1}."
+EFFECT_DISCIPLEOFCETRA,"当此 为在你的手牌中, 若你 拥有打出过另一命约英雄本回合, 将此牌转化为后裔· 塞特拉.<br>获得${ICON_RUNE1} 和 ${ICON_HONOR1}."
 CARDNAME_FOUNDATIONBURROWER,根基钻地者
 EFFECT_FOUNDATIONBURROWER,${LABEL_REWARD} 获得${ICON_HONOR1}. 你可以放逐一张卡牌在中央牌列.
 FLAVOR_FOUNDATIONBURROWER,Even tiny nuisance为able以bring down giant fortifications若left unchecked.
@@ -1002,12 +1005,12 @@ CARDNAME_SCIONOFEULOTH,后裔·尤洛斯
 EFFECT_SCIONOFEULOTH,获得${ICON_RUNE2} 和 ${ICON_POWER2}.
 FLAVOR_SCIONOFEULOTH,"当他们view machine作为part的themselves, 他们为ready以其work以begin."
 CARDNAME_DISCIPLEOFOZIAH,之徒·奥齐亚
-EFFECT_DISCIPLEOFOZIAH,"当此 为在你的手牌中, 若你 拥有打出过另一启迪英雄本回合, 将此牌转化为后裔· 奥齐亚.<br>击败一个怪物以 费用 ${ICON_POWER3} 或更低无需支付费用."
+EFFECT_DISCIPLEOFOZIAH,"当此 为在你的手牌中, 若你 拥有打出过另一圣贤英雄本回合, 将此牌转化为后裔· 奥齐亚.<br>击败一个怪物以 费用 ${ICON_POWER3} 或更低无需支付费用."
 CARDNAME_WOLFSHAMANRU,狼萨满
 EFFECT_WOLFSHAMANRU,获得${ICON_RUNE1}.<br>抽一张牌.
 FLAVOR_WOLFSHAMANRU,"""你guys might不知道此, 但I consider myself bit的loner."""
 CARDNAME_DRUIDSWREATH,德鲁伊花环
-EFFECT_DRUIDSWREATH,"若你打出过两 或更高生命英雄本回合, 将此牌转化为翠绿冠冕."
+EFFECT_DRUIDSWREATH,"若你打出过两 或更高命约英雄本回合, 将此牌转化为翠绿冠冕."
 FLAVOR_DRUIDSWREATH,"During其initiation, druids receive lifeless wreath. 当它 为reborn, 如此为 他们."
 CARDNAME_WORKSHOPGARGOYLE,工坊石像鬼
 EFFECT_WORKSHOPGARGOYLE,"每回合一次，当你 获取机械卡牌, 获得${ICON_HONOR1}."
@@ -1019,7 +1022,7 @@ CARDNAME_REMUSWILDEMISSARY,雷穆斯·荒野使者
 EFFECT_REMUSWILDEMISSARY,获得${ICON_RUNE3}.<br>你可以花费 ${ICON_RUNE} 视为 ${ICON_POWER} 本回合.
 FLAVOR_REMUSWILDEMISSARY,不所有Pathwardens为able以embrace其instincts没有giving在以 它们.
 CARDNAME_EVERBLOOMCLIQUE,永绽小圈子
-EFFECT_EVERBLOOMCLIQUE,获得${ICON_HONOR2}.<br>${LABEL_MULTIUNITE} 获得${ICON_HONOR1}. <i>(获得此效果以 每个其他生命英雄你 打出或 拥有打出过本回合.)
+EFFECT_EVERBLOOMCLIQUE,获得${ICON_HONOR2}.<br>${LABEL_MULTIUNITE} 获得${ICON_HONOR1}. <i>(获得此效果以 每个其他命约英雄你 打出或 拥有打出过本回合.)
 CARDNAME_BLACKWATCHEXEMPLAR,黑卫典范
 EFFECT_BLACKWATCHEXEMPLAR,获得${ICON_POWER3}.<br>${LABEL_MULTIUNITE} 你可以放逐一张卡牌在你的弃牌堆.
 FLAVOR_BLACKWATCHEXEMPLAR,They're capable的snatching victory从jaws的pretty等量的anything.
@@ -1069,7 +1072,7 @@ CARDNAME_VIREPHEMERALGURU,维尔·昙花古鲁
 EFFECT_VIREPHEMERALGURU,获取所有英雄在中央牌列无需支付费用和 放置它们在你的手牌中.
 FLAVOR_VIREPHEMERALGURU,万民谁 看见他 拥有没有choice但以 跟随.
 CARDNAME_ADAYUTHESERENE,阿达尤宁静
-EFFECT_ADAYUTHESERENE,"此英雄视为作为所有派系.<br>获得${ICON_RUNE1}, ${ICON_POWER1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_MULTIUNITE} 获得${ICON_RUNE1} 以每个机械英雄, ${ICON_POWER1} 以每个虚空英雄, ${ICON_HONOR1} 以每个生命英雄, 和抽一张牌以 每个启迪英雄你 打出或 拥有打出过本回合."
+EFFECT_ADAYUTHESERENE,"此英雄视为作为所有派系.<br>获得${ICON_RUNE1}, ${ICON_POWER1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_MULTIUNITE} 获得${ICON_RUNE1} 以每个机械英雄, ${ICON_POWER1} 以每个虚空英雄, ${ICON_HONOR1} 以每个命约英雄, 和抽一张牌以 每个圣贤英雄你 打出或 拥有打出过本回合."
 CARDNAME_ADAYUTHETORMENTED,阿达尤T<space=-.1em>ormented
 EFFECT_ADAYUTHETORMENTED,${LABEL_REWARD} 将此牌转化为阿达尤宁静和 获取它.
 FLAVOR_ADAYUTHETORMENTED,""" cracks的pain和suffering拥有begun以spread在他的心智. 若他 为lost, 所有的 我们为."" -大师达萨"
@@ -1130,7 +1133,7 @@ CARDNAME_ANIMUSOFTHEWILD,魂魄荒野
 EFFECT_ANIMUSOFTHEWILD,获得${ICON_RUNE2}.<br>你支付 ${ICON_RUNE1} 更低下次你获取一个英雄本回合.
 FLAVOR_ANIMUSOFTHEWILD,Even trees的奥戈拥有something以teach若你listen long enough.
 CARDNAME_FORGOTTENSCRIPTURE,遗忘经文
-EFFECT_FORGOTTENSCRIPTURE,"若你打出过两 或更高启迪英雄本回合, 将此牌转化为真言的 真正视界."
+EFFECT_FORGOTTENSCRIPTURE,"若你打出过两 或更高圣贤英雄本回合, 将此牌转化为真言的 真正视界."
 FLAVOR_FORGOTTENSCRIPTURE,"Even在Arha, wisdom能是lost作为ages pass和libraries为filled以新writings."
 CARDNAME_NEOPHYTEMENTOR,新入门者导师
 EFFECT_NEOPHYTEMENTOR,抽一张牌.<br> 下一秘教士或 重装步兵你 打出本回合视为作为派系的 你的choice.
@@ -1217,7 +1220,7 @@ CARDNAME_SHEPHERDOFTHELOST,牧者迷失
 EFFECT_SHEPHERDOFTHELOST,"获得${ICON_RUNE2}.<br>若此 为被放逐从你的手牌或 弃牌堆, 获得${ICON_HONOR5}."
 FLAVOR_SHEPHERDOFTHELOST,"""Many的我的brethren cling以生命, forgetting该它 为只 一half的nature之cycle."""
 CARDNAME_GENESISCAPSULE,创世舱
-EFFECT_GENESISCAPSULE,"每回合一次，当你 获取生命英雄或 机械神器, 你可以将它放置放到你的牌库顶."
+EFFECT_GENESISCAPSULE,"每回合一次，当你 获取命约英雄或 机械神器, 你可以将它放置放到你的牌库顶."
 FLAVOR_GENESISCAPSULE,Both druids和mechanics能appreciate redundancy.
 CARDNAME_CLOCKWORKSENTRY,发条哨兵
 EFFECT_CLOCKWORKSENTRY,"获得${ICON_POWER2}.<br>若你控制的两 或更高神器s, 获得额外的 ${ICON_POWER2}."
@@ -1300,7 +1303,7 @@ CARDNAME_DELUDINGDJINN,欺瞒灯神
 EFFECT_DELUDINGDJINN,${LABEL_REWARD} 获得${ICON_HONOR5}.<br>你可以花费 ${ICON_INSIGHT} 视为 ${ICON_POWER} 以击败此.
 FLAVOR_DELUDINGDJINN,distrust他们sow为什么makes它们dangerous.
 CARDNAME_AURAOFTHEASKARA,灵光阿斯卡拉
-EFFECT_AURAOFTHEASKARA,"若你打出过两 启迪英雄以 同名本回合, 你可以获取此 无需支付费用.<br>${LABEL_ONGOING} 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合."
+EFFECT_AURAOFTHEASKARA,"若你打出过两 圣贤英雄以 同名本回合, 你可以获取此 无需支付费用.<br>${LABEL_ONGOING} 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合."
 CARDNAME_EPHEMERALRITUALIST,昙花祭仪师
 EFFECT_EPHEMERALRITUALIST,"获得${ICON_POWER4}, 然后放逐此牌."
 FLAVOR_EPHEMERALRITUALIST,"Surrendering himself以结束, 他发现means."
@@ -1317,7 +1320,7 @@ CARDNAME_IMAGINATIVEMATRON,想象M<space=-.05em>atron
 EFFECT_IMAGINATIVEMATRON,"抽一张牌, 然后弃掉卡牌.<br>${LABEL_UNITE} Return卡牌从 你的弃牌堆以 你的手牌."
 FLAVOR_IMAGINATIVEMATRON,"梦境不create possibilities, 它simply shows它们以 我们."
 CARDNAME_DREAMWILLOW,梦柳
-EFFECT_DREAMWILLOW,"每回合一次，获得${ICON_RUNE1}.<br>每回合你首次打出生命英雄时, 获得${ICON_INSIGHT1}."
+EFFECT_DREAMWILLOW,"每回合一次，获得${ICON_RUNE1}.<br>每回合你首次打出命约英雄时, 获得${ICON_INSIGHT1}."
 FLAVOR_DREAMWILLOW,梦柳之lullaby echoes throughout奥戈.
 CARDNAME_UNBOUNDEMISSARY,解缚使者
 EFFECT_UNBOUNDEMISSARY,你可以花费 ${ICON_INSIGHT} 视为 ${ICON_RUNE} 以获取此.<br>获取或 击败任意卡牌在中央牌列或 你的梦境无需支付费用.
@@ -1411,7 +1414,7 @@ CARDNAME_ENGULFINGKRAKEN,吞噬克拉肯
 EFFECT_ENGULFINGKRAKEN,"${LABEL_REWARD} 获得${ICON_HONOR6}. 拿取一张卡牌随机从 每位对手之梦境, 和将它们加入你的梦境."
 FLAVOR_ENGULFINGKRAKEN,"By次你 知道它是那里, 它是already too late."
 CARDNAME_NAIRISBLESSING,奈莉的祝福
-EFFECT_NAIRISBLESSING,"若你打出过三 或更高生命英雄本回合, 你可以获取此 无需支付费用.<br>获得${ICON_HONOR10}.<br>${LABEL_ONGOING} 你为 视为以 拥有打出过生命英雄每回合."
+EFFECT_NAIRISBLESSING,"若你打出过三 或更高命约英雄本回合, 你可以获取此 无需支付费用.<br>获得${ICON_HONOR10}.<br>${LABEL_ONGOING} 你为 视为以 拥有打出过命约英雄每回合."
 CARDNAME_CETRASRESPITE,塞特拉的喘息
 EFFECT_CETRASRESPITE,获取一个英雄在中央牌列无需支付费用.
 FLAVOR_CETRASRESPITE,"在fell clutch的circumstance, I拥有不winced nor cried aloud. Under bludgeonings的chance, 我的head为bloody, 但unbowed."
@@ -1502,7 +1505,7 @@ EFFECT_SOLARSENTRY,获得${ICON_RUNE2}.
 DAY_SOLARSENTRY,${LABEL_DAY} 获得额外的 ${ICON_RUNE2}.
 FLAVOR_SOLARSENTRY,它didn't拿取long以monks以harness战力的 其cause.
 CARDNAME_MARSHRANGER,沼泽游侠
-EFFECT_MARSHRANGER,获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br><i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_MARSHRANGER,获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br><i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_SURESHOTTRACKER,神射T<space=-.1em>racker
 EFFECT_SURESHOTTRACKER,"获得${ICON_POWER2}.<br>若你 打出或 拥有打出过闪光追踪者本回合, 抽一张牌."
 FLAVOR_SURESHOTTRACKER,Right在target.
@@ -1557,7 +1560,7 @@ FLAVOR_SCAVENGERANTS,"They'll build出的anything, 甚至你."
 CARDNAME_ISHATHEPURSUER,伊莎·追猎者
 EFFECT_ISHATHEPURSUER,"获得${ICON_POWER3}.<br>下次你击败一个怪物本回合, 获得${ICON_RUNE} 相等以 被击败怪物之 ${ICON_POWER} 费用."
 CARDNAME_EVERBLOOMWITCH,永绽女巫
-EFFECT_EVERBLOOMWITCH,获得${ICON_HONOR3}.<br>${LABEL_UNITE} 获得${ICON_HONOR3}.<br><i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_EVERBLOOMWITCH,获得${ICON_HONOR3}.<br>${LABEL_UNITE} 获得${ICON_HONOR3}.<br><i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_VERDANTCHANTER,翠绿咏者
 EFFECT_VERDANTCHANTER,获得${ICON_RUNE2}.
 NIGHT_VERDANTCHANTER,${LABEL_NIGHT} 你可以放置英雄你 获取本回合放到你的牌库顶.
@@ -1772,7 +1775,7 @@ CARDNAME_KIRIMEADOWWITCH,基莉·草地女巫
 EFFECT_KIRIMEADOWWITCH,抽一张牌.<br>${LABEL_UNITE} 获得${ICON_HONOR5}.
 FLAVOR_KIRIMEADOWWITCH,她的domain offers tranquility当everyplace else为embroiled在turmoil.
 CARDNAME_TEMPLEOFHEROES,英雄神殿
-EFFECT_TEMPLEOFHEROES,"每回合一次，若你 拥有打出过生命英雄或 怪物, 获得${ICON_HONOR2}."
+EFFECT_TEMPLEOFHEROES,"每回合一次，若你 拥有打出过命约英雄或 怪物, 获得${ICON_HONOR2}."
 FLAVOR_TEMPLEOFHEROES,"Their names为forgotten, 但其deeds为不."
 CARDNAME_PATIENTASSASSIN,耐心刺客
 EFFECT_PATIENTASSASSIN,"获得${ICON_POWER2}.<br>若存在虚空卡牌在你的弃牌堆, 获得额外的 ${ICON_POWER1}."
@@ -1902,7 +1905,7 @@ CARDNAME_SHADOWRIDGESCOUT,影脊斥候
 EFFECT_SHADOWRIDGESCOUT,获得${ICON_POWER2}.<br>${LABEL_ECHO} 获得${ICON_DEATH}. <i>(获得此效果若 存在虚空卡牌在你的弃牌堆.)</i>
 FLAVOR_SHADOWRIDGESCOUT,脏活累活，价格便宜。
 CARDNAME_ALOSYANGUIDE,阿洛西亚向导
-EFFECT_ALOSYANGUIDE,"当你 获取此, 若你 拥有打出过生命英雄本回合, 放置此 直接置入你的手牌.<br>获得${ICON_HONOR3}."
+EFFECT_ALOSYANGUIDE,"当你 获取此, 若你 拥有打出过命约英雄本回合, 放置此 直接置入你的手牌.<br>获得${ICON_HONOR3}."
 CARDNAME_OMINOUSAUGUR,不祥占兆者
 EFFECT_OMINOUSAUGUR,获取一个英雄或 神器以 费用 ${ICON_RUNE5} 或更低无需支付费用.<br>${LABEL_SERENITY} 放置所获取的卡牌在你的手牌中. <i>(获得此效果若 那里为 没有卡牌在你的弃牌堆.)</i>
 CARDNAME_RANDALLUMBRALSAGE,兰德尔·暗影贤者
@@ -1913,7 +1916,7 @@ CARDNAME_SIEGEMASTERSRAM,攻城主的攻城槌
 EFFECT_SIEGEMASTERSRAM,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得${ICON_POWER2}."
 FLAVOR_SIEGEMASTERSRAM,敲敲！
 CARDNAME_PATHFINDERSTOTEM,探路者的图腾
-EFFECT_PATHFINDERSTOTEM,${LABEL_UNITE} 每回合一次，获得${ICON_RUNE1}. <i>(获得此效果若 你拥有打出过生命英雄本回合.)</i>
+EFFECT_PATHFINDERSTOTEM,${LABEL_UNITE} 每回合一次，获得${ICON_RUNE1}. <i>(获得此效果若 你拥有打出过命约英雄本回合.)</i>
 FLAVOR_PATHFINDERSTOTEM,存在没有放置你 能venture该pathfinders拥有不already called home.
 CARDNAME_DERANGEDDIRGE,发狂挽歌
 EFFECT_DERANGEDDIRGE,每回合一次，获得${ICON_POWER1}.<br>你可以摧毁此 以放逐一张卡牌在你的手牌或弃牌堆.
@@ -1946,7 +1949,7 @@ CARDNAME_OGOWARTREE,奥戈战争树
 EFFECT_OGOWARTREE,"每回合一次，当你 获取一个英雄在中央牌列, 你可以将它放置放到你的牌库顶."
 FLAVOR_OGOWARTREE,一路平安！
 CARDNAME_KORWORLDBREAKER,科尔·碎界者
-EFFECT_KORWORLDBREAKER,"获得${ICON_RUNE2} 和抽一张牌.<br>若你 打出或 拥有打出过在least两其他生命英雄本回合, 获得${ICON_POWER6}."
+EFFECT_KORWORLDBREAKER,"获得${ICON_RUNE2} 和抽一张牌.<br>若你 打出或 拥有打出过在least两其他命约英雄本回合, 获得${ICON_POWER6}."
 CARDNAME_DREAMSTONE,梦石
 EFFECT_DREAMSTONE,你可以放逐此牌以 掷谵妄骰.
 FLAVOR_DREAMSTONE,Look upon什么might拥有已经和 什么可以来 以pass.
@@ -2016,7 +2019,7 @@ CARDNAME_SHIELDBEARER,盾持有者
 EFFECT_SHIELDBEARER,抽一张牌.<br>你可以放逐一张卡牌在你的手牌或弃牌堆.
 FATE_SHIELDBEARER,天命： 竞拍 ${ICON_INSIGHT} 以获得效果下方.
 CARDNAME_DELIRIUMNYMPH,谵妄宁芙
-EFFECT_DELIRIUMNYMPH,获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽 2 卡牌. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+EFFECT_DELIRIUMNYMPH,获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽 2 卡牌. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_ARBITERCIRCLET,仲裁者头环
 EFFECT_ARBITERCIRCLET,每回合一次，获得${ICON_POWER1}.
 FLAVOR_ARBITERCIRCLET,恶魔bone和一hundred souls.
@@ -2077,7 +2080,7 @@ CARDNAME_ASKARAOFFORTUNE,幸运阿斯卡拉
 EFFECT_ASKARAOFFORTUNE,每位玩家展示顶部卡牌的 其牌库. 选择一个英雄已展示以此方式和 复制其效果.
 FLAVOR_ASKARAOFFORTUNE,Fortune和choice为两sides的same coin. askara transcend所有dualities.
 CARDNAME_SPIRITOFTHEANCIENTS,上古之灵
-EFFECT_SPIRITOFTHEANCIENTS,选择生命英雄从 任意Ascension扩展该 尚未被选择此 游戏. 复制效果的 所选英雄.
+EFFECT_SPIRITOFTHEANCIENTS,选择命约英雄从 任意Ascension扩展该 尚未被选择此 游戏. 复制效果的 所选英雄.
 FLAVOR_SPIRITOFTHEANCIENTS,Look以past以help以未来.
 CARDNAME_CETRAGUIDEOFOGO,奥戈向导塞特拉
 EFFECT_CETRAGUIDEOFOGO,获取所有英雄在中央牌列无需支付费用. 放置它们放到你的牌库顶在 任意秩序.
@@ -2126,7 +2129,7 @@ EFFECT_PORTAL,此为 任意英雄或 神器该 能够是 发现在 传送门牌�
 CARDNAME_EXPLOSIVESWARM,爆裂虫群
 EFFECT_EXPLOSIVESWARM,"当相邻non-怪物space会是 被替换, 将它替换以 复制的 此怪物改为.<br>${LABEL_REWARD} 获得${ICON_HONOR4}."
 CARDNAME_RINGOFLIFE,生命之环
-EFFECT_RINGOFLIFE,"每回合一次，若你 拥有打出过生命英雄, 获得${ICON_RUNE1}. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也生命英雄."
+EFFECT_RINGOFLIFE,"每回合一次，若你 拥有打出过命约英雄, 获得${ICON_RUNE1}. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也命约英雄."
 CARDNAME_JOURNEYMANSAGE,旅者贤者
 EFFECT_JOURNEYMANSAGE,放逐一个英雄在你的手牌中. 若你如此做，获取一个英雄以 ${ICON_HONOR} 值至多一 超过该 的被放逐卡牌和 将它放置在你的手牌中.
 FATE_JOURNEYMANSAGE,"${LABEL_FATE} 当此牌进入中央牌列时, 每位玩家可以放逐英雄在其手牌中以 获取秘教士或 重装步兵和 加入其手牌."
@@ -2193,7 +2196,7 @@ CARDNAME_DREAMTITAN,梦泰坦
 EFFECT_DREAMTITAN,${LABEL_REWARD} 获得${ICON_HONOR6}.
 FLAVOR_DREAMTITAN,gold giant: taller于mountains<br>和silent作为sun.
 CARDNAME_ENTROPHANTASM,熵幻象
-EFFECT_ENTROPHANTASM,获得${ICON_RUNE1} 和 ${ICON_INSIGHT1}.<br>${LABEL_UNITE} 抽一张牌. (<i>获得此效果若 你打出或 拥有打出过另一生命英雄本回合.</i>)
+EFFECT_ENTROPHANTASM,获得${ICON_RUNE1} 和 ${ICON_INSIGHT1}.<br>${LABEL_UNITE} 抽一张牌. (<i>获得此效果若 你打出或 拥有打出过另一命约英雄本回合.</i>)
 CARDNAME_DREAMANCHOR,梦锚
 EFFECT_DREAMANCHOR,"${LABEL_PLUNDER}每回合一次，若你 获取卡牌和 击败一个怪物, 两者在中央牌列, 获得${ICON_INSIGHT2}."
 CARDNAME_EMMASVOIDCYCLER,艾玛的虚空循环器

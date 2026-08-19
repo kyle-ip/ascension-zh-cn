@@ -1,55 +1,147 @@
 english,zh_hans,zh_hant,source,notes
-Rune,符文,符文,official-anshashen,Do not use 符石 or 魔力
-Power,战力,战力,official-anshashen,Not 力量
-Honor,荣誉,荣誉,official-anshashen,
+Ascension,创升纪元,创升纪元,official-chuangsheng,游戏内系列名。方盒子365/维基作「暗杀神」，游戏内不使用。
+Deckbuilding Game,牌组构筑游戏,牌组构筑游戏,community,
+Vigil,祈夜,祈夜,official-anshashen,维基/360百科。世界与王都同名。
+Godslayer,弑神者,弑神者,official-anshashen,荣誉最高者获得的称号。
+Samael,萨麦尔,萨麦尔,official-anshashen,
+Samael the Fallen,堕落之神萨麦尔,堕落之神萨麦尔,official-anshashen,维基亦作「萨麦尔 堕落之神」。
+Arha,亚哈,亚哈,official-anshashen,官方卡名「亚哈新兵」。360百科作「阿罗汉」，不用。
+Ogo,奥戈,奥戈,community,360百科作「奥歌」；卡名与扩展沿用「奥戈」。
+Hedron,多面体,多面体,community,机械派故乡。360百科未译专名。
+Logos,逻各斯,逻各斯,community,
+Xeron,泽伦,泽伦,community,卡名用「泽伦」。《创升纪元：元素的馈赠》背景作「希戎」。
+Elements,元素,元素,official-chuangsheng,《创升纪元：元素的馈赠》
+Enlightened,圣贤,圣贤,community,360百科/方塔桌游。勿用「启迪」。
+Lifebound,命约,命约,community,360百科/方塔桌游。勿用「生命」（与上古山谷生命指示物冲突）。
+Mechana,机械,机械,community,360百科/方塔桌游。
+Void,虚空,虚空,official-anshashen,派系名。区域名用「虚空区」。
+Common,普通,普通,community,图鉴侧栏。勿用「中立」。
+Monster,怪物,怪物,official-anshashen,图鉴侧栏 / 卡牌类型。
 Hero,英雄,英雄,official-anshashen,
-Construct,神器,神器,official-anshashen,Early official term for Construct
-Monster,怪物,怪物,official-anshashen,
-Acquire,获取,获取,official-anshashen,
-Defeat,击败,击败,official-anshashen,
-Banish,放逐,放逐,official-anshashen,
-Discard,弃牌,弃牌,official-anshashen,
-Draw,抽,抽,official-anshashen,Verb; 抽一张牌
-Center Row,中央牌列,中央牌列,official-anshashen,
-Void,虚空区,虚空区,official-anshashen,Zone name; faction still 虚空
-Apprentice,学徒,学徒,official-anshashen,
-Militia,民兵,民兵,official-anshashen,
-Mystic,秘教士,秘教士,official-anshashen,
+Construct,神器,神器,official-anshashen,早期官方译法。勿用「建筑/构装」。
+Event,事件,事件,community,
+Treasure,宝藏,宝藏,community,灵魂风暴起。
+Soul Gem,灵魂宝石,灵魂宝石,community,不朽英雄。
+Portal,传送门,传送门,community,推广卡。
+Temple,神殿,神殿,community,上古山谷 / 元素的馈赠。
+Rune,符文,符文,official-anshashen,维基。勿用「符石/魔力」。
+Runes,符文,符文,official-anshashen,
+Power,战力,战力,official-anshashen,维基。勿用「力量」。
+Honor,荣誉,荣誉,official-anshashen,维基。
+Honor token,荣誉点数,荣誉点数,official-anshashen,维基。360百科亦作「荣誉标示物」。
+Honor tokens,荣誉点数,荣誉点数,official-anshashen,
+Honor Pool,荣誉池,荣誉池,community,
+Energy,能量,能量,community,祈夜崛起起的资源。关键字 Energize 译「充能」。
+Insight,洞察,洞察,community,梦境。
+Renown,声望,声望,new,史诗传奇。
+Life,生命,生命,community,上古山谷指示物。勿与命约（Lifebound）混淆。
+Death,死亡,死亡,community,上古山谷指示物。
+Center Row,中央牌列,中央牌列,official-anshashen,维基。公共6张。
+Center Row Draw Pile,中央牌库,中央牌库,official-anshashen,维基。
+Center Deck,中央牌库,中央牌库,official-anshashen,
+the void,虚空区,虚空区,official-anshashen,区域。派系仍为「虚空」。
+the Void,虚空区,虚空区,official-anshashen,
+Discard Pile,弃牌堆,弃牌堆,official-anshashen,维基亦作「弃牌区」。界面用「弃牌堆」。
+Discard Zone,弃牌区,弃牌区,official-anshashen,
+Player Draw Pile,玩家牌库,玩家牌库,official-anshashen,维基。
+Deck,牌库,牌库,official-anshashen,
+Hand,手牌,手牌,official-anshashen,
+in play,战场,战场,official-anshashen,维基：牌库、手牌、弃牌堆和战场。
+Play Area,战场,战场,community,
+Portal Deck,传送门牌库,传送门牌库,community,
+Always Available,始终可用,始终可用,community,360百科。起始可招募区。
+Always available,始终可用,始终可用,community,
+Acquire,获取,获取,official-anshashen,花费符文取得英雄/神器。
+Defeat,击败,击败,official-anshashen,花费战力消灭怪物。
+Banish,放逐,放逐,official-anshashen,移入虚空区。
+Discard,弃牌,弃牌,official-anshashen,手牌放入弃牌堆。
+Destroy,摧毁,摧毁,official-anshashen,灵魂风暴：将神器放入弃牌区。此前版本称弃牌。
+Draw,抽,抽,official-anshashen,抽一张牌。
+Play,打出,打出,official-anshashen,
+put into play,进入战场,进入战场,community,
+Put into play,进入战场,进入战场,community,
+Shuffle,洗牌,洗牌,official-anshashen,
+Reveal,展示,展示,community,
+Look at,查看,查看,community,
+Gain,获得,获得,official-anshashen,
+Lose,失去,失去,community,
+Choose,选择,选择,community,
+Control,控制,控制,community,
+Replace,替换,替换,community,
+Copy,复制,复制,community,
+Spend,花费,花费,community,
+Pay,支付,支付,community,
+Reward,奖励,奖励,official-anshashen,击败怪物。
+Reward:,奖励：,奖励：,official-anshashen,卡面残留英文。
+Fate,天命,天命,official-anshashen,邪神归来。进入中央牌列时结算。
+FATE,天命,天命,official-anshashen,
+FATE:,天命：,天命：,official-anshashen,
+Trophy,战利品,战利品,official-anshashen,灵魂风暴。击败后可置于玩家前。
+Trophy:,战利品：,战利品：,official-anshashen,
+Trophy Monster,战利品怪物,战利品怪物,official-anshashen,维基。
+Trophy Monsters,战利品怪物,战利品怪物,official-anshashen,
+Ongoing,持续,持续,community,
+ONGOING,持续,持续,community,
+ONGOING:,持续：,持续：,community,
+Ongoing Trophy,持续战利品,持续战利品,community,
+Event Trophy,事件战利品,事件战利品,community,
+Unbanishable,不可放逐,不可放逐,official-anshashen,维基。如堕落之神萨麦尔。
+Unite,联合,联合,community,冠军黎明。
+UNITE,联合,联合,community,
+MULTI-UNITE,多重联合,多重联合,community,
+Multi-Unite,多重联合,多重联合,community,
+Energize,充能,充能,community,祈夜崛起 / 领域解开。资源名是「能量」。
+ENERGIZE,充能,充能,community,
+Rally,集结,集结,community,冠军黎明。
+Rally: Enlightened,集结：圣贤,集结：圣贤,community,
+Rally: Lifebound,集结：命约,集结：命约,community,
+Rally: Mechana,集结：机械,集结：机械,community,
+Rally: Void,集结：虚空,集结：虚空,community,
+Rally: Monster,集结：怪物,集结：怪物,community,
+Day,昼,昼,community,黑暗释放。
+DAY,昼,昼,community,
+DAY:,昼：,昼：,community,
+Night,夜,夜,community,黑暗释放。
+NIGHT,夜,夜,community,
+NIGHT:,夜：,夜：,community,
+Empower,赋力,赋力,official-chuangsheng,《创升纪元：元素的馈赠》评测/规则用语。
+EMPOWER,赋力,赋力,official-chuangsheng,
+Infest,感染,感染,official-chuangsheng,《创升纪元：元素的馈赠》。
+INFEST,感染,感染,official-chuangsheng,
+Infested Monster,感染怪物,感染怪物,official-chuangsheng,
+Transform,转化,转化,official-chuangsheng,《创升纪元：元素的馈赠》转化事件。
+TRANSFORM,转化,转化,official-chuangsheng,
+Transform Event,转化事件,转化事件,official-chuangsheng,
+Serenity,宁静,宁静,community,谵妄。
+SERENITY,宁静,宁静,community,
+Echo,回响,回响,community,谵妄。
+ECHO,回响,回响,community,
+Dreambind,梦缚,梦缚,community,梦境。
+Phantasm,幻象,幻象,community,救赎。
+Plunder,掠夺,掠夺,community,救赎。
+Champion,冠军,冠军,community,冠军黎明。
+Legendary,传奇,传奇,community,史诗传奇。
+Legendary Boon,传奇恩赐,传奇恩赐,community,
+Auction,竞拍,竞拍,community,
+Dreamborn,梦生,梦生,community,
+Delirium Die,谵妄骰,谵妄骰,new,谵妄。
+Soul counter,灵魂指示物,灵魂指示物,community,
+Soul counters,灵魂指示物,灵魂指示物,community,
+Wish counter,愿望指示物,愿望指示物,community,
+Wish counters,愿望指示物,愿望指示物,community,
+Once per turn,每回合一次,每回合一次,community,
+without paying its cost,无需支付费用,无需支付费用,community,
+Apprentice,学徒,学徒,official-anshashen,起始牌库。维基/360百科。
+Militia,民兵,民兵,official-anshashen,起始牌库。
+Mystic,秘教士,秘教士,official-anshashen,维基/官方卡面。360百科偶作「秘修士」，不用。
 Heavy Infantry,重装步兵,重装步兵,official-anshashen,
 Cultist,邪教徒,邪教徒,official-anshashen,
-Enlightened,启迪,启迪,community,Confirm on physical cards
-Lifebound,生命,生命,community,Confirm on physical cards
-Mechana,机械,机械,community,Confirm on physical cards
-Void (faction),虚空,虚空,official-anshashen,
-Reward,奖励,奖励,official-anshashen,
-Fate,天命,天命,official-anshashen,SoS keyword
-Trophy,战利品,战利品,official-anshashen,
-Ongoing,持续,持续,community,
-Unite,联合,联合,community,
-Rally,集结,集结,community,
-Energize,充能,充能,community,
-Infest,感染,感染,community,GotE
-Serenity,宁静,宁静,community,
-Echo,回响,回响,community,
-Dreambind,梦缚,梦缚,community,Dreamscape
-Phantasm,幻象,幻象,community,Deliverance
-Plunder,掠夺,掠夺,community,Deliverance
-Transform,转化,转化,community,GotE
-Empower,赋力,赋力,official-chuangsheng,GotE
-Honor token,荣誉点数,荣誉点数,official-anshashen,
-deck,牌库,牌库,official-anshashen,
-hand,手牌,手牌,official-anshashen,
-discard pile,弃牌堆,弃牌堆,official-anshashen,
-play,打出,打出,official-anshashen,
-card,卡牌,卡牌,official-anshashen,
-Turn,回合,回合,official-anshashen,
-Player,玩家,玩家,official-anshashen,
-godslayer,弑神者,弑神者,official-anshashen,
-Vigil,祈夜,祈夜,official-anshashen,
-Samael the Fallen,堕落之神萨麦尔,堕落之神萨麦尔,official-anshashen,
-Chronicle of the Godslayer,弑神编年史,弑神编年史,official-anshashen,
-Return of the Fallen,邪神归来,邪神归来,official-anshashen,
-Storm of Souls,灵魂风暴,灵魂风暴,official-anshashen,
+Fanatic,狂信者,狂信者,official-anshashen,维基。灵魂风暴始终可用。
+Chronicle of the Godslayer,弑神编年史,弑神编年史,official-anshashen,方盒子365。
+10th Anniversary,十周年,十周年,community,
+Chronicle of the Godslayer 10th Anniversary,弑神编年史十周年,弑神编年史十周年,community,
+Return of the Fallen,邪神归来,邪神归来,official-anshashen,方盒子365。
+Storm of Souls,灵魂风暴,灵魂风暴,official-anshashen,方盒子365。
 Immortal Heroes,不朽英雄,不朽英雄,official-anshashen,
 Rise of Vigil,祈夜崛起,祈夜崛起,community,
 Darkness Unleashed,黑暗释放,黑暗释放,community,
@@ -57,14 +149,57 @@ Realms Unraveled,领域解开,领域解开,community,
 Dawn of Champions,冠军黎明,冠军黎明,community,
 Dreamscape,梦境,梦境,community,
 War of Shadows,暗影之战,暗影之战,community,
-Gift of the Elements,元素的馈赠,元素的馈赠,official-chuangsheng,
-Valley of the Ancients,上古山谷,上古山谷,new,
+Gift of the Elements,元素的馈赠,元素的馈赠,official-chuangsheng,米宝海豚《创升纪元：元素的馈赠》。
+Ascension: Gift of the Elements,创升纪元：元素的馈赠,创升纪元：元素的馈赠,official-chuangsheng,
+Valley of the Ancients,上古山谷,上古山谷,community,
 Delirium,谵妄,谵妄,new,
 Deliverance,救赎,救赎,new,
 Legends,史诗传奇,史诗传奇,community,
-Promo,推广卡,推广卡,community,
+Promo,推广卡,推广卡,community,界面「Promo N」作「特典 N」。
+Promos,推广卡,推广卡,community,
+App Store,商店,商店,new,主菜单。勿用「内购店/应用商店」。
+In-App Store,商店,商店,new,
+内购店,商店,商店,new,旧译兼容。
+应用商店,商店,商店,new,旧译兼容。
+Card Gallery,卡牌图鉴,卡牌图鉴,new,
+Rulebook,规则书,规则书,new,
+Tutorial,教程,教程,new,
+Main Menu,主菜单,主菜单,new,
+Menu,菜单,菜单,new,
+Settings,设置,设置,new,
+Options,选项,选项,new,
+Offline,离线,离线,new,
+Online,在线,在线,new,
+Exit,退出,退出,new,
+Back,返回,返回,new,
+Continue,继续,继续,new,
+Cancel,取消,取消,new,
+Owned,已拥有,已拥有,new,
+Coming Soon,即将推出,即将推出,new,
+Now Available,现已推出,现已推出,new,
+Downloadable Content,可下载内容,可下载内容,new,
+END TURN,结束回合,结束回合,new,
+End Turn,结束回合,结束回合,new,
+Play Your Turn,请出牌,请出牌,new,
+Play All,全部打出,全部打出,new,
+PLAY ALL,全部打出,全部打出,new,
+Loading cards please wait...,正在加载卡牌，请稍候…,正在加载卡牌，请稍候…,new,
+"Loading cards, please wait...",正在加载卡牌，请稍候…,正在加载卡牌，请稍候…,new,
+Player,玩家,玩家,official-anshashen,
+Turn,回合,回合,official-anshashen,
+Lobby,大厅,大厅,new,
+Music,音乐,音乐,new,
+Sound Effects,音效,音效,new,
+Cultist Screams,邪教徒惨叫,邪教徒惨叫,new,
+Easy,简单,简单,new,
+Normal,普通,普通,new,
+Hard,困难,困难,new,
+Expert,专家,专家,new,
+Beginner,入门,入门,new,
+Language,语言,语言,new,
+English,英语,英语,new,
+Chinese,中文,中文,new,
 Simplified Chinese,简体中文,简体中文,new,
 Traditional Chinese,繁体中文,繁体中文,new,
-Language,语言,语言,new,
 Enable Chinese,启用中文,启用中文,new,
 Disable Chinese,关闭中文,关闭中文,new,

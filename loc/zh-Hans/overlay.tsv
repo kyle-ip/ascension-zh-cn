@@ -452,7 +452,7 @@ K	CARDNAME_LEOTANSFAMILIAR	莱奥坦的使魔
 K	CARDNAME_LEPRECHAUN	小矮妖
 K	CARDNAME_LIBRARYFAMILIAR	图书馆使魔
 K	CARDNAME_LIEUTENANTDUROS	副官杜洛斯
-K	CARDNAME_LIFEBOUNDINITIATE	生命新兵
+K	CARDNAME_LIFEBOUNDINITIATE	命约新兵
 K	CARDNAME_LIFEBOUNDINITIATE10TH	生命新兵
 K	CARDNAME_LIFEBOUNDMUSE	生命缪斯
 K	CARDNAME_LIFEBOUNDREMNANT	生命残响
@@ -989,7 +989,7 @@ K	EFFECT_ABOLISHERETER	获得${ICON_RUNE1}.<br>你可以放逐一张卡牌在你
 K	EFFECT_ACIDICCRAWLER	${LABEL_REWARD} 获得${ICON_HONOR5}. 若对手控制最多的神器s, 摧毁所有神器s该玩家控制. <i>(若多名对手为 平手以 最多的神器s, 他们所有摧毁它们. 若你控制的最多的, 不hing.)</i>
 K	EFFECT_ADAMBUILDERADEPT	当你 获取此, 你可以获取神器在中央牌列无需支付费用.<br>获得${ICON_RUNE4}.
 K	EFFECT_ADAYUTHEOMNIPOTENT	获取或 击败任意卡牌在中央牌列. (你无需支付 ${ICON_RUNE} 或 ${ICON_POWER}).
-K	EFFECT_ADAYUTHESERENE	此英雄视为作为所有派系.<br>获得${ICON_RUNE1}, ${ICON_POWER1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_MULTIUNITE} 获得${ICON_RUNE1} 以每个机械英雄, ${ICON_POWER1} 以每个虚空英雄, ${ICON_HONOR1} 以每个生命英雄, 和抽一张牌以 每个启迪英雄你 打出或 拥有打出过本回合.
+K	EFFECT_ADAYUTHESERENE	此英雄视为作为所有派系.<br>获得${ICON_RUNE1}, ${ICON_POWER1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_MULTIUNITE} 获得${ICON_RUNE1} 以每个机械英雄, ${ICON_POWER1} 以每个虚空英雄, ${ICON_HONOR1} 以每个命约英雄, 和抽一张牌以 每个圣贤英雄你 打出或 拥有打出过本回合.
 K	EFFECT_ADAYUTHETORMENTED	${LABEL_REWARD} 将此牌转化为阿达尤宁静和 获取它.
 K	EFFECT_AEGISKNIGHT	放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.
 K	EFFECT_AETHERCHANNELER	放逐一张卡牌从你的手牌. 若你如此做，获取随机英雄从 任意Ascension扩展无需支付费用. 将它放置置入你的手牌.
@@ -1003,7 +1003,7 @@ K	EFFECT_AIYANASMESSENGERETER	获得${ICON_RUNE1}.<br>你可以支付 ${ICON_RUN
 K	EFFECT_AKAMTHEGENIE	${LABEL_REWARD} 获得${ICON_HONOR3}.
 K	EFFECT_AKLYSTHESCOURGE	${LABEL_REWARD} 获得${ICON_HONOR6}.
 K	EFFECT_ALLURINGSHAMAN	获得${ICON_RUNE1}.<br>你可以支付 ${ICON_INSIGHT1} 以获得${ICON_HONOR3}.
-K	EFFECT_ALOSYANGUIDE	当你 获取此, 若你 拥有打出过生命英雄本回合, 放置此 直接置入你的手牌.<br>获得${ICON_HONOR3}.
+K	EFFECT_ALOSYANGUIDE	当你 获取此, 若你 拥有打出过命约英雄本回合, 放置此 直接置入你的手牌.<br>获得${ICON_HONOR3}.
 K	EFFECT_ALSETMONKPRODIGY	当此 为在你的手牌中, 若你控制的两 或更高神器s, 将此牌转化为阿尔塞特, 反应堆学者.<br>获得${ICON_RUNE3}.
 K	EFFECT_ALSETREACTORSAVANT	获得${ICON_RUNE4}.<br>当你 获取神器本回合, 你可以将它放置进入战场.
 K	EFFECT_ANCIENTSTAG	获得${ICON_HONOR3}.<br>${LABEL_UNITE} 获得${ICON_LIFE}.
@@ -1049,7 +1049,7 @@ K	EFFECT_ASKARAOFFORTUNE	每位玩家展示顶部卡牌的 其牌库. 选择一�
 K	EFFECT_ASKARAOFJUDGEMENT	抽一张牌.
 K	EFFECT_ASKARAOFSOULS	获得灵魂宝石.
 K	EFFECT_ASTROBLADETRX	每回合一次，当你 打出机械神器 (包括此牌一), 获得${ICON_HONOR1}.
-K	EFFECT_AURAOFTHEASKARA	若你打出过两 启迪英雄以 同名本回合, 你可以获取此 无需支付费用.<br>${LABEL_ONGOING} 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合.
+K	EFFECT_AURAOFTHEASKARA	若你打出过两 圣贤英雄以 同名本回合, 你可以获取此 无需支付费用.<br>${LABEL_ONGOING} 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合.
 K	EFFECT_AUSPICIOUSASKARA	抽一张牌.<br>${LABEL_UNITE} 你可以放逐一张卡牌在中央牌列.
 K	EFFECT_AUSTERESAGE	抽一张牌.<br>你可以放逐一张卡牌在中央牌列, 然后 ${LABEL_RALLY_ENLIGHTENED}.
 K	EFFECT_AUTOBUILDER50	你可以摧毁此 以支付 ${ICON_RUNE2} 更低下次你获取机械神器本回合.
@@ -1163,7 +1163,7 @@ K	EFFECT_CULTISTROV	${LABEL_REWARD} 获得${ICON_HONOR1}.
 K	EFFECT_CULTISTRU	${LABEL_REWARD} 获得${ICON_HONOR1}.
 K	EFFECT_CULTISTSOS	${LABEL_REWARD} 获得${ICON_HONOR1}.
 K	EFFECT_CULTOFTHEFALSECIRCLE	${LABEL_REWARD} 获得${ICON_HONOR5}. 你可以获取一个英雄以 费用 ${ICON_RUNE5} 或更低无需支付费用.
-K	EFFECT_DANDELIONWITCH	抽一张牌.<br>获得${ICON_HONOR1} 以每个生命英雄你 打出或 拥有打出过本回合 (包括此牌一).
+K	EFFECT_DANDELIONWITCH	抽一张牌.<br>获得${ICON_HONOR1} 以每个命约英雄你 打出或 拥有打出过本回合 (包括此牌一).
 K	EFFECT_DARKENERGYSHARD	获得${ICON_ENERGY1}. 抽一张牌.
 K	EFFECT_DARKGLADIATOR	获得${ICON_POWER2}.
 K	EFFECT_DARKMONK	获得${ICON_POWER2}.<br>${LABEL_UNITE} 抽一张牌.
@@ -1182,7 +1182,7 @@ K	EFFECT_DECEITFULGHOUL	${LABEL_REWARD} 获得${ICON_HONOR2}.
 K	EFFECT_DEEPDRONE	获得${ICON_RUNE2}.<br>放置下一神器你 获取本回合直接进入战场.
 K	EFFECT_DEFENDEROFVIGIL	获得${ICON_RUNE2} 和 ${ICON_POWER2}.<br>获得${ICON_RUNE1} 以每个学徒你 打出或 拥有打出过本回合.<br>获得${ICON_POWER1} 以每个民兵你 打出或 拥有打出过本回合.
 K	EFFECT_DEFENSEGENERATOR	每回合一次，当你 获取机械卡牌, 获得${ICON_POWER2}.
-K	EFFECT_DELIRIUMNYMPH	获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽 2 卡牌. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_DELIRIUMNYMPH	获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽 2 卡牌. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_DELIRIUMPIXIES	${LABEL_REWARD} 获得${ICON_HONOR2} 和 ${ICON_RUNE3}.
 K	EFFECT_DELIRIUMPIXIESETER	${LABEL_REWARD} 获得${ICON_HONOR2} 和 ${ICON_RUNE3}.
 K	EFFECT_DELUDINGDJINN	${LABEL_REWARD} 获得${ICON_HONOR5}.<br>你可以花费 ${ICON_INSIGHT} 视为 ${ICON_POWER} 以击败此.
@@ -1208,10 +1208,10 @@ K	EFFECT_DHARTHATHEETERNAL	展示传送门牌库顶的卡牌. 获取或 击败�
 K	EFFECT_DIMENSIONDIVER	获得${ICON_RUNE2}.<br>你可以将所有神器s作为机械神器本回合.
 K	EFFECT_DIMENSIONDIVERETER	获得${ICON_RUNE2}.<br>你可以将所有神器s作为机械神器本回合.
 K	EFFECT_DIMENSIONMONK	抽一张牌.<br>你可以支付 ${ICON_INSIGHT1} 以 <b>再次发生</b>. <i>(获得效果列出的上方额外的次. 你可以只再次发生一次.)</i>
-K	EFFECT_DISCIPLEOFCETRA	当此 为在你的手牌中, 若你 拥有打出过另一生命英雄本回合, 将此牌转化为后裔· 塞特拉.<br>获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
+K	EFFECT_DISCIPLEOFCETRA	当此 为在你的手牌中, 若你 拥有打出过另一命约英雄本回合, 将此牌转化为后裔· 塞特拉.<br>获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
 K	EFFECT_DISCIPLEOFEMRI	当此 为在你的手牌中, 若你 拥有打出过另一虚空英雄本回合, 将此牌转化为后裔· 艾姆瑞.<br>获得${ICON_POWER1}.<br>你可以放逐一张卡牌在你的弃牌堆.
 K	EFFECT_DISCIPLEOFEULOTH	当此 为在你的手牌中, 若你 拥有打出过另一机械英雄本回合, 将此牌转化为后裔· 尤洛斯.<br>获得${ICON_RUNE1} 和 ${ICON_POWER1}.
-K	EFFECT_DISCIPLEOFOZIAH	当此 为在你的手牌中, 若你 拥有打出过另一启迪英雄本回合, 将此牌转化为后裔· 奥齐亚.<br>击败一个怪物以 费用 ${ICON_POWER3} 或更低无需支付费用.
+K	EFFECT_DISCIPLEOFOZIAH	当此 为在你的手牌中, 若你 拥有打出过另一圣贤英雄本回合, 将此牌转化为后裔· 奥齐亚.<br>击败一个怪物以 费用 ${ICON_POWER3} 或更低无需支付费用.
 K	EFFECT_DIVINEASKARA	复制本回合打出的一张英雄的效果。<br>你可以支付 ${ICON_INSIGHT3} 以复制所选效果两次改为.<br>此效果不能是 被复制.
 K	EFFECT_DOGSOFWAR	获得${ICON_POWER1}.<br>你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，获得额外的 ${ICON_POWER1}.
 K	EFFECT_DOOMWEEPER	${LABEL_REWARD} 获得${ICON_HONOR2}. 获得${ICON_RUNE2}.
@@ -1237,12 +1237,12 @@ K	EFFECT_DREAMSTONE	你可以放逐此牌以 掷谵妄骰.
 K	EFFECT_DREAMTITAN	${LABEL_REWARD} 获得${ICON_HONOR6}.
 K	EFFECT_DREAMTYRANT	${LABEL_REWARD} 获得${ICON_HONOR5} 和 ${ICON_INSIGHT5}.
 K	EFFECT_DREAMWALKER	放逐一张卡牌在中央牌列.<br>若它 为被替换被 怪物, 获得${ICON_INSIGHT2}.<br>若它 为被替换被 英雄, 获得${ICON_HONOR2}.<br>若它 为被替换被 神器, 抽 2 卡牌.
-K	EFFECT_DREAMWILLOW	每回合一次，获得${ICON_RUNE1}.<br>每回合你首次打出生命英雄时, 获得${ICON_INSIGHT1}.
+K	EFFECT_DREAMWILLOW	每回合一次，获得${ICON_RUNE1}.<br>每回合你首次打出命约英雄时, 获得${ICON_INSIGHT1}.
 K	EFFECT_DREAMWILLOWDRUIDS	选择一项： 获取一个英雄以 费用 ${ICON_RUNE5} 或更低无需支付费用; 或将一张卡牌加入你的梦境.
 K	EFFECT_DRILLERMARKIV	每回合一次，当你 打出机械神器 (包括此牌一), 获得灵魂宝石.
 K	EFFECT_DRUIDSOFTHESTONECIRCLE	无需支付费用获取一个费用不高于3符文的英雄。将其放到你的牌库顶。
 K	EFFECT_DRUIDSOFTHESTONECIRCLE10TH	获取一个英雄费用为${ICON_RUNE4} 或更低无需支付费用无需支付费用. 将它放到你的牌库顶.
-K	EFFECT_DRUIDSWREATH	若你打出过两 或更高生命英雄本回合, 将此牌转化为翠绿冠冕.
+K	EFFECT_DRUIDSWREATH	若你打出过两 或更高命约英雄本回合, 将此牌转化为翠绿冠冕.
 K	EFFECT_DUSTTODUST	摧毁所有神器s你的对手控制.
 K	EFFECT_EARTHMENDERPURA	获得${ICON_RUNE3}.<br>你可以放置怪物从你的手牌或 弃牌堆置入对手之弃牌堆.
 K	EFFECT_EARTHTYRANT	奖励：获得5荣誉。抽两张牌。
@@ -1279,7 +1279,7 @@ K	EFFECT_ENERGYSHARD	获得${ICON_ENERGY1}. 抽一张牌.
 K	EFFECT_ENERGYSHARDSTART	获得${ICON_ENERGY1}. 抽一张牌.
 K	EFFECT_ENGULFINGKRAKEN	${LABEL_REWARD} 获得${ICON_HONOR6}. 拿取一张卡牌随机从 每位对手之梦境, 和将它们加入你的梦境.
 K	EFFECT_ENLIGHTENEDREMNANT	${LABEL_REWARD} 获得${ICON_HONOR5}.<br>若你打出过或 已获取启迪卡牌本回合, 抽两张牌.
-K	EFFECT_ENTROPHANTASM	获得${ICON_RUNE1} 和 ${ICON_INSIGHT1}.<br>${LABEL_UNITE} 抽一张牌. (<i>获得此效果若 你打出或 拥有打出过另一生命英雄本回合.</i>)
+K	EFFECT_ENTROPHANTASM	获得${ICON_RUNE1} 和 ${ICON_INSIGHT1}.<br>${LABEL_UNITE} 抽一张牌. (<i>获得此效果若 你打出或 拥有打出过另一命约英雄本回合.</i>)
 K	EFFECT_EPHEMERALDRUID	获得${ICON_HONOR5}, 然后放逐此牌.
 K	EFFECT_EPHEMERALINVENTOR	获得${ICON_RUNE3}, 然后放逐此牌.
 K	EFFECT_EPHEMERALMONK	抽 2 卡牌, 然后放逐此牌.
@@ -1290,9 +1290,9 @@ K	EFFECT_ETERNALASKARA	放逐一张卡牌在中央牌列. 若你 放逐怪物以
 K	EFFECT_ETERNALTORMENTOR	击败一个随机怪物在 虚空区无需支付费用s和将它放置置于其底： 传送门牌库.
 K	EFFECT_ETHEREALHUNTRESS	获得${ICON_POWER3}.<br>你可以放置怪物从虚空区在 顶部的 传送门牌库.
 K	EFFECT_EVERBLOOM	每回合一次，获得${ICON_HONOR1}.
-K	EFFECT_EVERBLOOMCLIQUE	获得${ICON_HONOR2}.<br>${LABEL_MULTIUNITE} 获得${ICON_HONOR1}. <i>(获得此效果以 每个其他生命英雄你 打出或 拥有打出过本回合.)
+K	EFFECT_EVERBLOOMCLIQUE	获得${ICON_HONOR2}.<br>${LABEL_MULTIUNITE} 获得${ICON_HONOR1}. <i>(获得此效果以 每个其他命约英雄你 打出或 拥有打出过本回合.)
 K	EFFECT_EVERBLOOMETER	每回合一次，获得${ICON_HONOR1}.
-K	EFFECT_EVERBLOOMWITCH	获得${ICON_HONOR3}.<br>${LABEL_UNITE} 获得${ICON_HONOR3}.<br><i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_EVERBLOOMWITCH	获得${ICON_HONOR3}.<br>${LABEL_UNITE} 获得${ICON_HONOR3}.<br><i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_EVVYOGOSGIFT	获取一个英雄无需支付费用和 将它放置放到你的牌库顶.<br>你可以支付 ${ICON_INSIGHT3} 以 <b>再次发生</b>. <i>(获得效果列出的上方额外的次. 你可以只再次发生一次.)</i>
 K	EFFECT_EXCAVATIONSENTRY	获得${ICON_POWER2}.<br>放置你牌库顶的卡牌置入你的弃牌堆, 然后你可以放逐一张卡牌在你的手牌或弃牌堆.
 K	EFFECT_EXCAVATORPILOT	获得${ICON_RUNE2}.<br>若你控制的两 或更高神器s, 获得${ICON_LIFE}.
@@ -1323,7 +1323,7 @@ K	EFFECT_FLYTRAPWITCH10TH	获得${ICON_HONOR2}.<br>抽一张牌.
 K	EFFECT_FORESTEMISSARY	抽一张牌.<br>联合-使者: 获得${ICON_HONOR2}. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)
 K	EFFECT_FORGEMASTERSSUIT	每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得${ICON_HONOR1}.
 K	EFFECT_FORGEMOTHERREYSA	选择一项： 抽一张牌OR获取任意数量的 神器s在中央牌列无需支付其 费用.
-K	EFFECT_FORGOTTENSCRIPTURE	若你打出过两 或更高启迪英雄本回合, 将此牌转化为真言的 真正视界.
+K	EFFECT_FORGOTTENSCRIPTURE	若你打出过两 或更高圣贤英雄本回合, 将此牌转化为真言的 真正视界.
 K	EFFECT_FORRESTBEASTWARDEN	获得${ICON_RUNE2}.<br>一次本回合, 你可以获取一个英雄在 虚空区视为在中央牌列.
 K	EFFECT_FOUNDATIONBURROWER	${LABEL_REWARD} 获得${ICON_HONOR1}. 你可以放逐一张卡牌在中央牌列.
 K	EFFECT_FOUNDRYHOUND	每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 获得${ICON_RUNE2}.
@@ -1331,12 +1331,12 @@ K	EFFECT_GARDENATTENDANT	获得${ICON_INSIGHT1}.<br>抽一张牌.
 K	EFFECT_GEARSEER	${LABEL_PHANTASM}当此 为在中央牌列, 你可以支付 ${ICON_INSIGHT6} 以放逐和 打出此.<br>获得${ICON_RUNE3}.
 K	EFFECT_GEMCATCHERSPIRIT	抽一张牌.
 K	EFFECT_GEMEATERLEPRECHAUN	获得${ICON_RUNE2} 和 ${ICON_ENERGY2}.
-K	EFFECT_GENESISCAPSULE	每回合一次，当你 获取生命英雄或 机械神器, 你可以将它放置放到你的牌库顶.
+K	EFFECT_GENESISCAPSULE	每回合一次，当你 获取命约英雄或 机械神器, 你可以将它放置放到你的牌库顶.
 K	EFFECT_GIANTRAT	置于其下的任何卡牌巨人Rat不能被获取、放逐或击败直到巨鼠被放逐或击败.<br>${LABEL_REWARD} 获得${ICON_HONOR1}.
 K	EFFECT_GLOVERDREAMTITAN	${LABEL_REWARD} 获得${ICON_HONOR7}.<br>选择一名玩家和 拿取所有的 其 ${ICON_INSIGHT} 和随机卡牌从其手牌.<br>加入该卡牌以 你的手牌.
 K	EFFECT_GNOMEREPAIRBOT	每回合一次，你可以放置机械神器从 你的弃牌堆放到你的牌库顶.
 K	EFFECT_GRANDARBITERTODD	赋力 <i>(当你 获取此, 你可以放逐一张卡牌你 拥有打出过本回合.)</i><br>抽两张牌.<br>放逐一张卡牌在你的手牌中. 若你 被放逐怪物以此方式, 抽额外的卡牌.
-K	EFFECT_GRANGER	获得${ICON_RUNE1} 和 ${ICON_HONOR1}.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_GRANGER	获得${ICON_RUNE1} 和 ${ICON_HONOR1}.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_GRAVEGOLEM	${LABEL_REWARD} 获得${ICON_HONOR4}. 每位对手展示顶部卡牌的 其牌库和 放置它 置入其弃牌堆. 选择一个英雄已展示以此方式和 复制其效果.
 K	EFFECT_GREASEMONK	获得${ICON_RUNE1}.<br>你可以支付 ${ICON_RUNE1} 更低下次你获取神器本回合.
 K	EFFECT_GREATOMENRAVEN	命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得${ICON_HONOR3}.
@@ -1399,13 +1399,13 @@ K	EFFECT_KARION	${LABEL_REWARD} 获得${ICON_HONOR5} 和 ${ICON_INSIGHT10}.
 K	EFFECT_KEENEYEDASPIRANT	赋力 <i>(当你 获取此, 你可以放逐一张卡牌你 拥有打出过本回合.)</i><br>获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
 K	EFFECT_KEEPEROFSECRETS	放逐一张卡牌在你的手牌中和 将它替换以 秘教士或 重装步兵.<br>若你 打出或 拥有打出过秘教士和 重装步兵本回合, 获得${ICON_DEATH}.
 K	EFFECT_KIRIMEADOWWITCH	抽一张牌.<br>${LABEL_UNITE} 获得${ICON_HONOR5}.
-K	EFFECT_KIRIMEADOWWITCHETER	抽一张牌.<br>${LABEL_UNITE} 若你 打出或 拥有打出过生命英雄本回合, 获得${ICON_HONOR5}.
+K	EFFECT_KIRIMEADOWWITCHETER	抽一张牌.<br>${LABEL_UNITE} 若你 打出或 拥有打出过命约英雄本回合, 获得${ICON_HONOR5}.
 K	EFFECT_KORMASTERINNOVATOR	获得${ICON_POWER4}.<br>若你控制的两 或更高神器s, 抽两张牌.
 K	EFFECT_KORPSEMAKER	每回合一次，当你 打出机械神器 (包括此牌一), 获得${ICON_POWER2}.
 K	EFFECT_KORTHEFERROMANCER	获得${ICON_POWER2}.<br>抽一张牌若 你控制的 2 或更高神器s.
 K	EFFECT_KORTHEFERROMANCER10TH	获得${ICON_POWER2}.<br>若你控制的 2 或更高神器s,<br>抽一张牌.
 K	EFFECT_KORTHEIRONMIND	获得${ICON_RUNE2} 和 ${ICON_POWER2}.<br>若你控制的两 或更高神器s, 抽一张牌.
-K	EFFECT_KORWORLDBREAKER	获得${ICON_RUNE2} 和抽一张牌.<br>若你 打出或 拥有打出过在least两其他生命英雄本回合, 获得${ICON_POWER6}.
+K	EFFECT_KORWORLDBREAKER	获得${ICON_RUNE2} 和抽一张牌.<br>若你 打出或 拥有打出过在least两其他命约英雄本回合, 获得${ICON_POWER6}.
 K	EFFECT_KYL3REPAIRBOT	每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 抽一张牌.
 K	EFFECT_KYTHISREBELGODLING	${LABEL_REWARD} 获得${ICON_HONOR8}.
 K	EFFECT_KYTHISREBELGODLINGV2	${LABEL_REWARD} 获得${ICON_HONOR8}.
@@ -1437,7 +1437,7 @@ K	EFFECT_LIFEBOUNDINITIATE10TH	获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
 K	EFFECT_LIFEBOUNDMUSE	获取一个英雄以 费用 ${ICON_RUNE4} 或更低无需支付费用.
 K	EFFECT_LIFEBOUNDREMNANT	${LABEL_REWARD} 获得${ICON_HONOR3}.<br>若你打出过或 已获取生命卡牌本回合, 获得额外的 ${ICON_HONOR2}.
 K	EFFECT_LIGHTOFFALSEHOPE	${LABEL_REWARD} 获得${ICON_HONOR4}.
-K	EFFECT_LIONHEART	获得${ICON_HONOR3}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_LIONHEART	获得${ICON_HONOR3}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_LOADREAMDRAGON	掷谵妄骰。
 K	EFFECT_LOAMSPEAKERDRUID	获得${ICON_RUNE3}.
 K	EFFECT_LOAMSUMMONER	将一张卡牌加入你的梦境.<br>你可以放逐一张卡牌在你的手牌或弃牌堆.
@@ -1460,7 +1460,7 @@ K	EFFECT_MANTRAOFRENEWAL	每回合一次，若你 拥有打出过两 或更高�
 K	EFFECT_MANTRAOFTRUESIGHT	每回合一次，你可以抽一张牌.
 K	EFFECT_MAPOFTHESTARS	每回合一次，获得${ICON_RUNE1} 和 ${ICON_POWER1}.
 K	EFFECT_MARROWWYRMRIDER	${LABEL_REWARD} 获得${ICON_HONOR3}. 你可以获取一个英雄以 费用 ${ICON_RUNE5} 或更低无需支付费用.
-K	EFFECT_MARSHRANGER	获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br><i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_MARSHRANGER	获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br>${LABEL_UNITE} 获得${ICON_RUNE1} 和 ${ICON_HONOR1}. 抽一张牌.<br><i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_MASTERDHARTHA	抽三张牌。
 K	EFFECT_MASTERDHARTHA10TH	抽三张牌.
 K	EFFECT_MASTERDHARTHAETER	抽三张牌.
@@ -1508,7 +1508,7 @@ K	EFFECT_MYSTICROV	获得${ICON_RUNE2}.
 K	EFFECT_MYSTICRU	获得${ICON_RUNE2}.
 K	EFFECT_MYSTICSOS	获得${ICON_RUNE2}.
 K	EFFECT_NAIRIHENGEQUEEN	获得${ICON_HONOR5}.
-K	EFFECT_NAIRISBLESSING	若你打出过三 或更高生命英雄本回合, 你可以获取此 无需支付费用.<br>获得${ICON_HONOR10}.<br>${LABEL_ONGOING} 你为 视为以 拥有打出过生命英雄每回合.
+K	EFFECT_NAIRISBLESSING	若你打出过三 或更高命约英雄本回合, 你可以获取此 无需支付费用.<br>获得${ICON_HONOR10}.<br>${LABEL_ONGOING} 你为 视为以 拥有打出过命约英雄每回合.
 K	EFFECT_NAIRIWILDQUEEN	获得${ICON_HONOR1}. 抽一张牌.<br>${LABEL_UNITE} 获得${ICON_HONOR1}. 抽一张牌.
 K	EFFECT_NAKAEMRISCHOSEN	获得${ICON_POWER4}.<br>此回合, 你可以支付 ${ICON_INSIGHT0} 以梦缚费用为.
 K	EFFECT_NAKASHADEBORN	获得${ICON_POWER3}.<br>你可以返回虚空卡牌在你的弃牌堆以 你的手牌.<br>你可以支付 ${ICON_INSIGHT3} 以 <b>再次发生</b>.
@@ -1542,7 +1542,7 @@ K	EFFECT_OBFUSCASPIRIT	${LABEL_REWARD} 获得${ICON_HONOR4}. 选择一名对手�
 K	EFFECT_OBLIVIONBLOSSOMS	每回合一次，获得${ICON_POWER1}.<br>每回合一次，若你 拥有被放逐卡牌, 获得${ICON_HONOR1}.
 K	EFFECT_OGOCOURIER	获得${ICON_RUNE2}.<br>下次你获取一个英雄在中央牌列, ${LABEL_RALLY_LIFEBOUND}.
 K	EFFECT_OGODEMONTRAP	每回合一次，获得${ICON_POWER1}.
-K	EFFECT_OGORISING	首先英雄打出过本回合为 也生命英雄.<br>${LABEL_EVENT_TROPHY} 获得${ICON_RUNE1}.
+K	EFFECT_OGORISING	首先英雄打出过本回合为 也命约英雄.<br>${LABEL_EVENT_TROPHY} 获得${ICON_RUNE1}.
 K	EFFECT_OGOWARTREE	每回合一次，当你 获取一个英雄在中央牌列, 你可以将它放置放到你的牌库顶.
 K	EFFECT_OMINOUSAUGUR	获取一个英雄或 神器以 费用 ${ICON_RUNE5} 或更低无需支付费用.<br>${LABEL_SERENITY} 放置所获取的卡牌在你的手牌中. <i>(获得此效果若 那里为 没有卡牌在你的弃牌堆.)</i>
 K	EFFECT_OMNICRON	每回合一次，获得${ICON_ENERGY1} 以每个机械神器你控制的.
@@ -1565,7 +1565,7 @@ K	EFFECT_PASYTHEASSCIMITAR	此神器视为作为所有派系.<br>当你 打出�
 K	EFFECT_PASYTHEASWARD	每回合一次，获得${ICON_INSIGHT1}.
 K	EFFECT_PASYTHEATHEAEGIS	此英雄视为作为所有派系.<br>获得${ICON_RUNE3}, ${ICON_POWER3}, 和 ${ICON_HONOR3}.<br>若你控制的帕西提亚的守护, 你可以获取此 无需支付费用和 将它放置置入你的手牌.
 K	EFFECT_PASYTHEATHEREDEEMED	此英雄视为作为所有派系.<br>当你 获取此, 它goes直接以 你的手牌.<br>获得${ICON_RUNE2}, ${ICON_POWER2}, ${ICON_HONOR2} 和抽一张牌.
-K	EFFECT_PATHFINDERSTOTEM	${LABEL_UNITE} 每回合一次，获得${ICON_RUNE1}. <i>(获得此效果若 你拥有打出过生命英雄本回合.)</i>
+K	EFFECT_PATHFINDERSTOTEM	${LABEL_UNITE} 每回合一次，获得${ICON_RUNE1}. <i>(获得此效果若 你拥有打出过命约英雄本回合.)</i>
 K	EFFECT_PATHSEEKERSENSEI	击败一个怪物的 ${ICON_POWER4} 或更低无需支付费用.
 K	EFFECT_PATHWARDEN	获得${ICON_RUNE2}.<br>你可以花费 ${ICON_RUNE} 视为 ${ICON_POWER} 本回合.
 K	EFFECT_PATIENTASSASSIN	获得${ICON_POWER2}.<br>若存在虚空卡牌在你的弃牌堆, 获得额外的 ${ICON_POWER1}.
@@ -1637,7 +1637,7 @@ K	EFFECT_RIFTGATECONJUROR	获得${ICON_POWER3}.<br>下次你击败虚空怪物�
 K	EFFECT_RIFTWATCHOUTPOST	每回合一次，获得${ICON_POWER1}.<br>你可以摧毁此 以获得${ICON_POWER1}.
 K	EFFECT_RIFTWATCHTURRET	每回合一次，获得${ICON_POWER1}.<br>每回合一次，当你 打出机械神器 (包括此牌一), 获得${ICON_POWER1}.
 K	EFFECT_RIGHTEOUSTEMPLAR	击败一个怪物费用为${ICON_POWER4} 或更低无需支付费用.
-K	EFFECT_RINGOFLIFE	每回合一次，若你 拥有打出过生命英雄, 获得${ICON_RUNE1}. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也生命英雄.
+K	EFFECT_RINGOFLIFE	每回合一次，若你 拥有打出过命约英雄, 获得${ICON_RUNE1}. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也命约英雄.
 K	EFFECT_RISEOFTHECULT	邪教徒和 狂信者拥有+1战力和 其奖励拥有+1荣誉.<br>${LABEL_EVENT_TROPHY} 获得${ICON_HONOR1}.
 K	EFFECT_RIVERREAPER	${LABEL_REWARD} 获得${ICON_HONOR6}. 每位对手摧毁只留一个，其余神器其控制的.
 K	EFFECT_ROCKETCOURIERX99	每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。
@@ -1645,9 +1645,9 @@ K	EFFECT_ROCKETCOURIERX9910TH	每回合一次，当你 获取机械神器, 你�
 K	EFFECT_ROCKETCOURIERX99ETER	每回合一次，当你 获取机械神器, 你可以将它放置置入你的手牌.
 K	EFFECT_ROOTSCRYER	展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为启迪或 生命, 获得${ICON_HONOR3}.
 K	EFFECT_RUNICHONISKROT	获得${ICON_RUNE2}.
-K	EFFECT_RUNICLYCANTHROPE	获得2符文。若你本回合打出过生命英雄，获得2战力。
-K	EFFECT_RUNICLYCANTHROPE10TH	获得${ICON_RUNE2}.<br>${LABEL_UNITE} 若你 打出或 拥有打出过生命英雄本回合, 获得${ICON_POWER2}.
-K	EFFECT_RUNICLYCANTHROPEETER	获得${ICON_RUNE2}.<br>${LABEL_UNITE} 若你 打出或 拥有打出过生命英雄本回合, 获得${ICON_POWER2}.
+K	EFFECT_RUNICLYCANTHROPE	获得2符文。若你本回合打出过命约英雄，获得2战力。
+K	EFFECT_RUNICLYCANTHROPE10TH	获得${ICON_RUNE2}.<br>${LABEL_UNITE} 若你 打出或 拥有打出过命约英雄本回合, 获得${ICON_POWER2}.
+K	EFFECT_RUNICLYCANTHROPEETER	获得${ICON_RUNE2}.<br>${LABEL_UNITE} 若你 打出或 拥有打出过命约英雄本回合, 获得${ICON_POWER2}.
 K	EFFECT_RUSTGREMLIN	${LABEL_REWARD} 获得${ICON_HONOR1}. 抽一张牌.
 K	EFFECT_RUTOAKENMASTER	获得${ICON_HONOR3} 和抽一张牌.<br>${LABEL_PLUNDER}每回合一次，若你 获取卡牌和 击败一个怪物, 两者在中央牌列, 获得额外的 ${ICON_HONOR3}.
 K	EFFECT_SABLESPARKSISTERS	抽一张牌.<br>获得${ICON_RUNE1}, 然后放逐此牌.
@@ -1714,8 +1714,8 @@ K	EFFECT_SISTEROFTHEWIND	放逐姐妹的 风和 卡牌在你的手牌中. 若你
 K	EFFECT_SKYROCKETDRONE	获得${ICON_RUNE1} 和额外的 ${ICON_RUNE1} 若你控制的神器.
 K	EFFECT_SMOKETYRANT	${LABEL_REWARD} 获得${ICON_HONOR4}. 放逐顶部七张卡牌的 传送门牌库. 放置所有宝藏s被放逐以此方式其下此.
 K	EFFECT_SNAKESHAMAN	获得${ICON_RUNE1}. 若当前事件为 生命, 获得额外的 ${ICON_RUNE1}.<br>一次本回合, 你可以花费至多 ${ICON_RUNE4} 以获得该等量的 ${ICON_HONOR}.
-K	EFFECT_SNAPDRAGON	每回合一次，获得1符文。每回合你首次打出生命英雄时，获得1荣誉。
-K	EFFECT_SNAPDRAGON10TH	每回合一次，获得${ICON_RUNE1}.<br>${LABEL_UNITE} 每回合一次，若你 拥有打出过生命英雄, 获得${ICON_HONOR1}.
+K	EFFECT_SNAPDRAGON	每回合一次，获得1符文。每回合你首次打出命约英雄时，获得1荣誉。
+K	EFFECT_SNAPDRAGON10TH	每回合一次，获得${ICON_RUNE1}.<br>${LABEL_UNITE} 每回合一次，若你 拥有打出过命约英雄, 获得${ICON_HONOR1}.
 K	EFFECT_SNAPDRAGONWITCH	获得${ICON_HONOR1}.<br>抽一张牌.<br>若你 拥有更多 ${ICON_HONOR} 于每个其他玩家, 抽额外的卡牌.
 K	EFFECT_SNOWSTRIDERLYCAN	获得${ICON_RUNE1}, ${ICON_HONOR1}, ${ICON_POWER1}, 和抽一张牌.
 K	EFFECT_SOCKETALTAR	每回合一次，当你 放置机械神器进入战场 (包括此牌一), 获得${ICON_RUNE2}.
@@ -1739,7 +1739,7 @@ K	EFFECT_SOULGEMLIFEBOUNDINITIATE	获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
 K	EFFECT_SOULGEMMASTERDHARTHA	抽三张牌.
 K	EFFECT_SOULGEMMECHANAINITIATE	获得${ICON_RUNE1} 或 ${ICON_POWER1}.
 K	EFFECT_SOULGEMREACTORMONK	获得${ICON_RUNE2}.<br>你支付 ${ICON_RUNE1} 更低下次你获取神器本回合.
-K	EFFECT_SOULGEMRUNICLYCANTHROPE	获得${ICON_RUNE2}.<br>若你打出过生命英雄本回合, 获得${ICON_POWER2}.
+K	EFFECT_SOULGEMRUNICLYCANTHROPE	获得${ICON_RUNE2}.<br>若你打出过命约英雄本回合, 获得${ICON_POWER2}.
 K	EFFECT_SOULGEMSEEROFTHEFORKEDPATH	抽一张牌. 你可以放逐一张卡牌在中央牌列.
 K	EFFECT_SOULGEMSHADEOFTHEBLACKWATCH	获得${ICON_POWER2}.<br>你可以放逐一张卡牌在你的手牌或弃牌堆.
 K	EFFECT_SOULGEMSPIKEVIXEN	获得${ICON_POWER1}.<br>抽一张牌.
@@ -1752,7 +1752,7 @@ K	EFFECT_SOWEROFBETRAYAL	${LABEL_REWARD} 获得${ICON_HONOR3}. 命名派系. 获
 K	EFFECT_SOWEROFDISCONTENT	${LABEL_REWARD} 获得${ICON_HONOR2}. 命名派系. 获得额外的 ${ICON_HONOR1} 以每个英雄的 该派系你 拥有打出过本回合.
 K	EFFECT_SPARKBUG	每回合一次，若你 拥有打出过两 或更高机械卡牌 (包括此牌一), 获得${ICON_RUNE2}.
 K	EFFECT_SPARKSPRAYER	每回合一次，你可以摧毁机械神器你控制的以 获得${ICON_POWER1}. 若当前事件为 机械, 获得额外的 ${ICON_POWER1}.
-K	EFFECT_SPIDERWITCH	获得${ICON_HONOR2}.<br>${LABEL_UNITE} 获得灵魂宝石. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_SPIDERWITCH	获得${ICON_HONOR2}.<br>${LABEL_UNITE} 获得灵魂宝石. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_SPIKEVIXEN	获得1战力。抽一张牌。
 K	EFFECT_SPIKEVIXEN10TH	获得${ICON_POWER1}. 抽一张牌.
 K	EFFECT_SPIKEVIXENETER	获得${ICON_POWER1}.<br>抽一张牌.
@@ -1760,7 +1760,7 @@ K	EFFECT_SPIKEVIXENRU	获得${ICON_POWER1}.<br>抽一张牌.
 K	EFFECT_SPIREOFINSIGHT	每回合一次，若你控制的四 或更高机械神器, 你可以抽两张牌.
 K	EFFECT_SPIREOFTHEWIND	每回合一次，你可以弃掉卡牌从你的手牌以 抽一张牌.<br>若它 为秘教士或 重装步兵, 抽 2 卡牌改为.
 K	EFFECT_SPIRITMERCHANT	获得${ICON_ENERGY1}.<br>你可以放逐一张卡牌在你的手牌或弃牌堆.
-K	EFFECT_SPIRITOFTHEANCIENTS	选择生命英雄从 任意Ascension扩展该 尚未被选择此 游戏. 复制效果的 所选英雄.
+K	EFFECT_SPIRITOFTHEANCIENTS	选择命约英雄从 任意Ascension扩展该 尚未被选择此 游戏. 复制效果的 所选英雄.
 K	EFFECT_SPITEFULGLADIATOR	获得${ICON_POWER2}.<br>${LABEL_ECHO} 获得额外的 ${ICON_POWER2}. <i>(获得此效果若 存在虚空卡牌在你的弃牌堆.)</i>
 K	EFFECT_STALKTHESHADOWS	此回合你可以击败怪物在 虚空区视为在中央牌列.
 K	EFFECT_STARCALLERLEOTAN	获得${ICON_HONOR4}.
@@ -1780,7 +1780,7 @@ K	EFFECT_SURGEPROTECTOR	选择一项： 获取一个神器以 费用 ${ICON_RUNE
 K	EFFECT_SURYALIGHTSSWORD	击败一个怪物在中央牌列无需支付费用. 若它 费用 ${ICON_POWER7} 或更高, 拿取额外回合在此之后.
 K	EFFECT_SYNAPSESPIRE	每回合一次，当你 打出机械神器 (包括此牌一), 将一张卡牌加入你的梦境.
 K	EFFECT_SYNCHRONIZER	每回合一次，当你 打出机械神器 (包括此牌一), 获得${ICON_RUNE1}.
-K	EFFECT_SYRILRUNICALPHA	获得${ICON_RUNE3}.<br>${LABEL_UNITE} 获得${ICON_POWER3}. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_SYRILRUNICALPHA	获得${ICON_RUNE3}.<br>${LABEL_UNITE} 获得${ICON_POWER3}. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_TABLETOFTHETEMPLAR	你可以摧毁此 以击败一个怪物的 费用 ${ICON_POWER4} 或更低无需支付费用.
 K	EFFECT_TABLETOFTIMESDAWN	放逐此神器，然后在本回合后再进行一个额外回合。
 K	EFFECT_TABLETOFTIMESDAWN10TH	你可以放逐此神器以 拿取额外回合在此之后.
@@ -1798,7 +1798,7 @@ K	EFFECT_TEMPLELIBRARIAN	弃一张牌。若你如此做，抽两张牌。
 K	EFFECT_TEMPLELIBRARIAN10TH	弃掉卡牌. 若你如此做，抽两张牌.
 K	EFFECT_TEMPLEOFARHA	每回合一次，若你 拥有打出过秘教士或 重装步兵, 你可以抽一张牌.
 K	EFFECT_TEMPLEOFDEATH	${ICON_DEATH}: 获得对以下的控制： 不朽神殿. 你可以放逐一张卡牌在你的手牌或弃牌堆.
-K	EFFECT_TEMPLEOFHEROES	每回合一次，若你 拥有打出过生命英雄或 怪物, 获得${ICON_HONOR2}.
+K	EFFECT_TEMPLEOFHEROES	每回合一次，若你 拥有打出过命约英雄或 怪物, 获得${ICON_HONOR2}.
 K	EFFECT_TEMPLEOFIMMORTALITY	每回合一次，选择派系. 当你 获取卡牌的 该派系, 若下一卡牌以 进入中央牌列为 也该 派系, 获取它 无需支付费用.
 K	EFFECT_TEMPLEOFLIFE	${ICON_LIFE}: 获得对以下的控制： 不朽神殿. 获得${ICON_RUNE2}.
 K	EFFECT_TEMPLEOFTHEWIND	每回合一次，你可以放逐一张卡牌在你的弃牌堆和 将它替换以 秘教士或 重装步兵.
@@ -1808,7 +1808,7 @@ K	EFFECT_TERMINITES	${LABEL_REWARD} 获得${ICON_HONOR3}. 每位对手摧毁最�
 K	EFFECT_TERRORIZINGFIEND	${LABEL_REWARD} 获得${ICON_HONOR2}. 抽两张牌.
 K	EFFECT_TERRUSPARAGONOFSTRIFE	${LABEL_REWARD} 获得${ICON_HONOR5}. 每位对手弃掉随机卡牌从其手牌. 你可以选择卡牌已弃掉以此方式和 将它放置在你的手牌中.
 K	EFFECT_TESTOFFAITH	展示传送门牌库顶的卡牌. 获取或 击败它 无需支付费用. 若你 获取一个英雄以此方式, 将它放置置入你的手牌.
-K	EFFECT_TEYNWOLFKING	获得${ICON_RUNE4}.<br>${LABEL_UNITE} 若你 打出或gave打出过生命英雄本回合, 获得${ICON_POWER4}.
+K	EFFECT_TEYNWOLFKING	获得${ICON_RUNE4}.<br>${LABEL_UNITE} 若你 打出或gave打出过命约英雄本回合, 获得${ICON_POWER4}.
 K	EFFECT_TH07TANK	每回合一次，你可以支付 ${ICON_INSIGHT1} 以获得${ICON_RUNE3}. 你可以花费它们只 以获取机械神器.
 K	EFFECT_THEAETHERMOURNE	每回合一次，获得${ICON_POWER} 相等以 数量为怪物在 中央牌列.
 K	EFFECT_THEALLSEEINGEYE	每回合一次，你可以抽一张牌。
@@ -1818,10 +1818,10 @@ K	EFFECT_THEDRAGONSEYE	当你 打出此, 获得${ICON_INSIGHT1}.<br>${LABEL_SERE
 K	EFFECT_THEDREAMSCRAPE	每回合一次，你可以摧毁另一一 的你的机械神器以 获得${ICON_RUNE2}.
 K	EFFECT_THEGRANDDESIGN	每回合一次，获得2符文。你只能用它来获取机械神器。
 K	EFFECT_THEGRANDDESIGN10TH	每回合一次，获得${ICON_RUNE2}. 你只能用它来获取机械神器。
-K	EFFECT_THEGREATECLIPSE	当玩家获取生命英雄, 该玩家可以将它放置在 顶部的 其牌库.<br>${LABEL_EVENT_TROPHY} 命名英雄. 该英雄为 也生命本回合.
+K	EFFECT_THEGREATECLIPSE	当玩家获取命约英雄, 该玩家可以将它放置在 顶部的 其牌库.<br>${LABEL_EVENT_TROPHY} 命名英雄. 该英雄为 也生命本回合.
 K	EFFECT_THEIRONHEART	每回合一次，获得${ICON_RUNE3}, ${ICON_POWER3}, 和 ${ICON_HONOR3}.
 K	EFFECT_THEIRONSEVEN	${LABEL_REWARD} 获得${ICON_HONOR3}. 选择和 摧毁至多一 神器在 打出, 或返回神器从 你的弃牌堆以 你的手牌.
-K	EFFECT_THEWORLDTREE	每回合一次，你可以支付至多 ${ICON_RUNE5} 以获得该等量的 ${ICON_HONOR}.<br>当你 打出生命英雄, 获得${ICON_RUNE1}.
+K	EFFECT_THEWORLDTREE	每回合一次，你可以支付至多 ${ICON_RUNE5} 以获得该等量的 ${ICON_HONOR}.<br>当你 打出命约英雄, 获得${ICON_RUNE1}.
 K	EFFECT_THICKETFAMILIAR	赋力 <i>(当你 获取此, 你可以放逐一张卡牌你 拥有打出过本回合.)</i><br>展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为卡牌以 赋力, 获得${ICON_HONOR2}.
 K	EFFECT_THIEVINGGRYPHON	${LABEL_REWARD} 获得${ICON_HONOR2}. 获得${ICON_RUNE2}.
 K	EFFECT_THORNEDCHARGER	${LABEL_REWARD} Gain${ICON_HONOR3}. 你可以放置英雄从 你的弃牌堆放到你的牌库顶.<br>${LABEL_RALLY_LIFEBOUND}.
@@ -1921,7 +1921,7 @@ K	EFFECT_WILDGEARSOWER	获得${ICON_RUNE2}.<br>获得${ICON_HONOR1} 以每个派
 K	EFFECT_WILDRIFTDRAKE	${LABEL_REWARD} 获得${ICON_HONOR4}. 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.
 K	EFFECT_WINDTYRANT	奖励：获得3荣誉。获得3符文。
 K	EFFECT_WINDTYRANT10TH	${LABEL_REWARD} 获得${ICON_HONOR3} 和 ${ICON_RUNE3}.
-K	EFFECT_WOLFACOLYTE	获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一生命英雄本回合.)</i>
+K	EFFECT_WOLFACOLYTE	获得${ICON_RUNE1}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 K	EFFECT_WOLFSHAMAN	获得1符文。抽一张牌。
 K	EFFECT_WOLFSHAMAN10TH	获得${ICON_RUNE1}.<br>抽一张牌.
 K	EFFECT_WOLFSHAMANRU	获得${ICON_RUNE1}.<br>抽一张牌.
@@ -1935,7 +1935,7 @@ K	EFFECT_XERONFALSEALLY	获得${ICON_RUNE5}.<br>获得额外的 ${ICON_RUNE2} �
 K	EFFECT_XERONLORDOFDEOFOL	${LABEL_REWARD} 获得${ICON_HONOR6}.
 K	EFFECT_XERONSTRIAL	当你 打出怪物, 获得${ICON_POWER2}.<br>支付 ${ICON_POWER8}: 将此牌转化为泽伦, 伪盟者和 获取它.
 K	EFFECT_YGGDRASILCANOPY	当你 会获得${ICON_HONOR} 没有击败怪物, 获得两次该 等量的 ${ICON_HONOR} 改为.
-K	EFFECT_YGGDRASILSTAFF	每回合一次，获得1战力。若你本回合打出过生命英雄，获得2荣誉。
+K	EFFECT_YGGDRASILSTAFF	每回合一次，获得1战力。若你本回合打出过命约英雄，获得2荣誉。
 K	EFFECT_YGGDRASILSTAFF10TH	每回合一次，获得${ICON_POWER1}.<br>每回合一次，你可以花费 ${ICON_RUNE4} 以获得${ICON_HONOR3}.
 K	EFFECT_YOLOCRYXTHEGUARDIAN	获得${ICON_POWER5} 和额外的 ${ICON_POWER1} 以每个机械神器你控制的.<br>当你 打出机械神器, 你可以将此牌返回从 你的弃牌堆以 你的手牌.
 K	EFFECT_YUKTRIBEGREMLIN	${LABEL_REWARD} 获得${ICON_HONOR1}.<br>${LABEL_INFEST} 当你 击败尤克部落小妖, 你可以将它放置置入玩家之弃牌堆.<br><i>(怪物拥有没有效果当 打出过从 手牌.)</i>
@@ -2616,7 +2616,7 @@ K	Key_AndroidNotifications	Android 通知
 K	Key_Animation_Speed	动画速度
 K	Key_Announcements	公告
 K	Key_AnyRating	任意评分
-K	Key_AppStore	应用商店
+K	Key_AppStore	商店
 K	Key_AudioLevels	音量
 K	Key_AutoPlay	自动出牌
 K	Key_Back	返回
@@ -2738,7 +2738,7 @@ K	Key_Honor	荣誉
 K	Key_Hour	小时
 K	Key_Hours	小时
 K	Key_Human	人类
-K	Key_InApp	应用商店
+K	Key_InApp	商店
 K	Key_In_Progress	进行中
 K	Key_InvalidCharacters	名称包含无效字符
 K	Key_InvalidEmail	邮箱无效
@@ -2931,16 +2931,16 @@ K	LABEL_INFEST	<b>感染 - </b>
 K	LABEL_MULTIUNITE	<b>多重联合：</b>
 K	LABEL_NIGHT	<b>夜：</b>
 K	LABEL_ONGOING	<b>持续：</b>
-K	LABEL_PHANTASM	<B><I>Phantasm - </I></B>
-K	LABEL_PLUNDER	<B><I>Plunder - </I></B>
-K	LABEL_RALLY_ENLIGHTENED	<b>集结：启迪</b>
-K	LABEL_RALLY_LIFEBOUND	<b>集结：生命</b>
+K	LABEL_PHANTASM	<B><I>幻象 - </I></B>
+K	LABEL_PLUNDER	<B><I>掠夺 - </I></B>
+K	LABEL_RALLY_ENLIGHTENED	<b>集结：圣贤</b>
+K	LABEL_RALLY_LIFEBOUND	<b>集结：命约</b>
 K	LABEL_RALLY_MECHANA	<b>集结：机械</b>
 K	LABEL_RALLY_MONSTER	<b>集结：怪物</b>
 K	LABEL_RALLY_VOID	<b>集结：虚空</b>
 K	LABEL_REWARD	<B>奖励：</B>
 K	LABEL_SERENITY	<b>宁静：</b>
-K	LABEL_TRANSFORM	<B>Transform - </B>
+K	LABEL_TRANSFORM	<B>转化 - </B>
 K	LABEL_TROPHY	<color=#951719FF><B>战利品：</B></color>
 K	LABEL_TROPHY_ONGOING	<color=#951719FF><B>持续战利品：</B></color>
 K	LABEL_UNITE	<b>联合：</b>
@@ -3028,7 +3028,7 @@ K	TUTORIAL_TEXT_41	他用 4 点符文获取了恶魔杀手。
 K	TUTORIAL_TEXT_42	对手只剩 1 点战力，没有能击败的目标，所以那张民兵会未被使用地进入弃牌堆。
 K	TUTORIAL_TEXT_43	现在又轮到你了。<br><br>你的手牌提供 3 点符文和 2 点战力。
 K	TUTORIAL_TEXT_44	花费 3 点符文可以获取狼萨满。<br><br>狼萨满与金鱼草搭配很好。
-K	TUTORIAL_TEXT_45	狼萨满是生命英雄。金鱼草在战场时，打出生命英雄会额外获得荣誉 <sprite=64>。
+K	TUTORIAL_TEXT_45	狼萨满是命约英雄。金鱼草在战场时，打出命约英雄会额外获得荣誉 <sprite=64>。
 K	TUTORIAL_TEXT_46	获取狼萨满需要 3 点符文。
 K	TUTORIAL_TEXT_47	现在可以获取狼萨满了。
 K	TUTORIAL_TEXT_48	你还剩 2 点战力，可以<br>用来击败邪教徒。
@@ -3057,7 +3057,7 @@ K	TUTORIAL_TEXT_68	放逐达萨大师不但拿走了你本可能使用的牌，�
 K	TUTORIAL_TEXT_69	对手现在可以花 3 点符文获取<br>暗影之星。
 K	TUTORIAL_TEXT_7	游戏区左上角的卡牌在整局中始终可用。
 K	TUTORIAL_TEXT_70	对手资源用尽，结束了回合。
-K	TUTORIAL_TEXT_71	打出狼萨满获得 1 点符文并额外抽一张牌。因为狼萨满是生命英雄，金鱼草还会让你获得 1 点荣誉。
+K	TUTORIAL_TEXT_71	打出狼萨满获得 1 点符文并额外抽一张牌。因为狼萨满是命约英雄，金鱼草还会让你获得 1 点荣誉。
 K	TUTORIAL_TEXT_72	加上本回合额外获得的资源，<br>你现在有 6 点符文和 1 点战力。
 K	TUTORIAL_TEXT_73	符文够了，可以获取与虚空合一的艾姆瑞！
 K	TUTORIAL_TEXT_74	没有能用 1 点战力击败的目标，<br>你的回合结束。
@@ -3111,6 +3111,7 @@ E	Are you sure you want to delete this profile?	确定要删除此档案吗？
 E	Unable to join.<br>Lost connection to server.	无法加入。<br>与服务器的连接已断开。
 E	Unable to create.<br>Too many games created.	无法创建。<br>已创建的对局过多。
 E	Are you sure you want to forfeit this game?	确定要放弃这局游戏吗？
+E	Chronicle of the Godslayer 10th Anniversary	弑神编年史十周年
 E	You have been Disconnected from the Server	你已断开<br>与服务器的连接
 E	Unable to join.<br>Game no longer exists.	无法加入。<br>对局已不存在。
 E	Unable to join.Lost connection to server.	无法加入。<br>与服务器的连接已断开。
@@ -3127,6 +3128,7 @@ E	Drag a profile tab to the player slot	将档案标签拖到玩家栏位
 E	Successfully added "{0}" as a friend.	已成功添加好友“{0}”。
 E	Successfully added "{0}" as a friend.	已成功添加好友“{0}”。
 E	Unable to join.Game no longer exists.	无法加入。<br>对局已不存在。
+E	<size=141%>V</size><space=-.15em>oid	虚空
 E	Would you like to play the Tutorial?	要进行教程吗？
 E	Please enter a valid E-mail address	请输入有效的电子邮箱地址
 E	Subscribe to Stone Blade Newsletter	订阅 Stone Blade 通讯
@@ -3140,13 +3142,23 @@ E	%d honor tokens remain in pool\\n	荣誉池剩余%d点\\n
 E	Do you want to delete this game?	要删除此对局吗？
 E	Name contains invalid characters	名称包含无效字符
 E	Unable to join.<br>Game is full.	无法加入。<br>对局已满。
+E	<size=141%>A</size>nnouncements	公告
+E	<size=141%>N</size>otifications	通知
+E	Ascension: Gift of the Elements	创升纪元：元素的馈赠
 E	Unable to connect to the server	无法连接到服务器
+E	<size=141%>A</size>chievements	成就
+E	<size=141%>U</size>nbanishable	不可放逐
 E	Creating a Quick Match game...	正在创建快速匹配对局...
 E	STONE BLADE NEWSLETTER SIGN-UP	订阅 Stone Blade 通讯
 E	Stone Blade Newsletter Sign-Up	订阅 Stone Blade 通讯
 E	Stone Blade Newsletter Sign-up	订阅 Stone Blade 通讯
 E	Unable to create.Unknown error	无法创建。<br>未知错误
 E	You May Convert Runes To Honor	你可以将符文转化为荣誉
+E	<size=141%>D</size>eliverance	救赎
+E	<size=141%>E</size>nlightened	圣贤
+E	<size=141%>M</size>ULTI-UNITE	多重联合
+E	<size=141%>M</size>ulti-Unite	多重联合
+E	<size=141%>R</size>esolutions	分辨率
 E	Change resolution to {0}x{1}?	要将分辨率改为 {0}x{1} 吗？
 E	Don't show this warning again	不再显示此警告
 E	Enter your Email or User Name	请输入邮箱或用户名
@@ -3154,10 +3166,31 @@ E	Loading Cards, please wait...	正在加载卡牌，请稍候…
 E	Loading cards, please wait...	正在加载卡牌，请稍候…
 E	Unable to join.Unknown error.	无法加入。<br>未知错误。
 E	%s now has %d honor tokens\\n	%s现在拥有%d点荣誉\\n
+E	<size=141%>A</size>pprentice	学徒
+E	<size=141%>D</size>reamscape	梦境
+E	<size=141%>F</size>ullscreen	全屏
+E	<size=141%>L</size>oading...	加载中...
+E	<size=141%>P</size>ortuguese	葡萄牙语
+E	<size=141%>R</size>esolution	分辨率
+E	Loading cards please wait...	正在加载卡牌，请稍候…
 E	Successfully removed friend.	已移除好友。
 E	Unable to join.Game is full.	无法加入。<br>对局已满。
 E	%s gains %d power from %s\\n	%s从%s获得%d点战力\\n
 E	%s gains %d runes from %s\\n	%s从%s获得%d点符文\\n
+E	<size=141%>A</size>scension	创升纪元
+E	<size=141%>C</size>ompleted	已完成
+E	<size=141%>C</size>onstruct	神器
+E	<size=141%>D</size>reambind	梦缚
+E	<size=141%>D</size>reamborn	梦生
+E	<size=141%>G</size>odslayer	弑神者
+E	<size=141%>L</size>anguages	语言
+E	<size=141%>L</size>egendary	传奇
+E	<size=141%>L</size>ifebound	命约
+E	<size=141%>P</size>urchased	已购买
+E	<size=141%>T</size>RANSFORM	转化
+E	<size=141%>T</size>ransform	转化
+E	<size=141%>T</size>utorials	教程
+E	<size=141%>W</size>ednesday	星期三
 E	Failed to Connect to Server	连接服务器失败
 E	Removing "{0}" as a friend.	正在移除好友“{0}”。
 E	You must provide a password	必须设置密码
@@ -3165,27 +3198,232 @@ E	{0} is already your friend.	{0} 已经是你的好友。
 E	%s discards %s from play\\n	%s从战场弃掉%s\\n
 E	%s gains %d honor tokens\\n	%s获得%d点荣誉\\n
 E	%s loses %d honor tokens\\n	%s失去%d点荣誉\\n
+E	<size=141%>B</size>eginner	入门
+E	<size=141%>C</size>ONTINUE	继续
+E	<size=141%>C</size>hampion	冠军
+E	<size=141%>C</size>ontinue	继续
+E	<size=141%>D</size>elirium	谵妄
+E	<size=141%>E</size>ND\nTURN	结束回合
+E	<size=141%>E</size>NERGIZE	充能
+E	<size=141%>E</size>lements	元素
+E	<size=141%>E</size>nd\nTurn	结束回合
+E	<size=141%>E</size>nergize	充能
+E	<size=141%>F</size>orfeits	认输次数
+E	<size=141%>J</size>apanese	日语
+E	<size=141%>L</size>anguage	语言
+E	<size=141%>O</size>NGOING:	持续：
+E	<size=141%>P</size>assword	密码
+E	<size=141%>P</size>hantasm	幻象
+E	<size=141%>P</size>rofiles	档案
+E	<size=141%>P</size>urchase	购买
+E	<size=141%>R</size>ulebook	规则书
+E	<size=141%>S</size>ERENITY	宁静
+E	<size=141%>S</size>aturday	星期六
+E	<size=141%>S</size>erenity	宁静
+E	<size=141%>S</size>ettings	设置
+E	<size=141%>T</size>hursday	星期四
+E	<size=141%>T</size>reasure	宝藏
+E	<size=141%>T</size>utorial	教程
+E	<size=141%>U</size>sername	用户名
+E	<size=141%>V</size>ersion:	版本：
+E	<size=141%>W</size>ithdraw	退出对局
 E	Chronicle of the Godslayer	弑神编年史
 E	Loading cards, please wait	正在加载卡牌，请稍候
 E	Successfully Created Game!	对局创建成功！
+E	<size=141%>A</size>cquire	获取
+E	<size=141%>A</size>uction	竞拍
+E	<size=141%>C</size>hinese	中文
+E	<size=141%>C</size>onfirm	确认
+E	<size=141%>C</size>ontrol	控制
+E	<size=141%>C</size>redits	制作人员
+E	<size=141%>C</size>ultist	邪教徒
+E	<size=141%>D</size>estroy	摧毁
+E	<size=141%>D</size>etails	详情
+E	<size=141%>D</size>iscard	弃牌堆
+E	<size=141%>D</size>ismiss	关闭
+E	<size=141%>E</size>MPOWER	赋力
+E	<size=141%>E</size>mpower	赋力
+E	<size=141%>E</size>nglish	英语
+E	<size=141%>F</size>anatic	狂信者
+E	<size=141%>F</size>orfeit	认输
+E	<size=141%>F</size>riends	好友
+E	<size=141%>I</size>nsight	洞察
+E	<size=141%>I</size>nvited	已邀请
+E	<size=141%>I</size>talian	意大利语
+E	<size=141%>L</size>egends	史诗传奇
+E	<size=141%>L</size>oading	加载中
+E	<size=141%>M</size>echana	机械
+E	<size=141%>M</size>ilitia	民兵
+E	<size=141%>M</size>inutes	分钟
+E	<size=141%>M</size>onster	怪物
+E	<size=141%>O</size>NGOING	持续
+E	<size=141%>O</size>ffline	离线
+E	<size=141%>O</size>ngoing	持续
+E	<size=141%>O</size>ptions	选项
+E	<size=141%>P</size>lunder	掠夺
+E	<size=141%>P</size>rofile	档案
+E	<size=141%>R</size>ematch	再来一局
+E	<size=141%>R</size>eplace	替换
+E	<size=141%>R</size>eward:	奖励：
+E	<size=141%>R</size>ussian	俄语
+E	<size=141%>S</size>econds	秒
+E	<size=141%>S</size>huffle	洗牌
+E	<size=141%>S</size>panish	西班牙语
+E	<size=141%>T</size>rophy:	战利品：
+E	<size=141%>T</size>uesday	星期二
+E	<size=141%>V</size>erify:	验证：
+E	<size=141%>W</size>aiting	等待中
+E	<size=141%>W</size>arning	警告
 E	Adding "{0}" as a friend.	正在将“{0}”加为好友。
 E	Adding "{0}" as a friend.	正在将“{0}”加为好友。
 E	Check your password again	请再次确认密码
 E	Searching for Games . . .	正在搜索对局 . . .
 E	Successfully Joined Game!	已成功加入对局！
+E	<size=141%>A</size>ccept	接受
+E	<size=141%>B</size>anish	放逐
+E	<size=141%>C</size>ancel	取消
+E	<size=141%>C</size>hoose	选择
+E	<size=141%>C</size>ommit	确认
+E	<size=141%>C</size>ommon	普通
+E	<size=141%>D</size>efeat	击败
+E	<size=141%>D</size>efend	防御
+E	<size=141%>D</size>elete	删除
+E	<size=141%>E</size>nergy	能量
+E	<size=141%>E</size>xpert	专家
+E	<size=141%>F</size>inish	完成
+E	<size=141%>F</size>rench	法语
+E	<size=141%>F</size>riday	星期五
+E	<size=141%>G</size>erman	德语
+E	<size=141%>H</size>edron	多面体
+E	<size=141%>I</size>NFEST	感染
+E	<size=141%>I</size>nfest	感染
+E	<size=141%>I</size>nvite	邀请
+E	<size=141%>L</size>ocked	已锁定
+E	<size=141%>M</size>edium	中
+E	<size=141%>M</size>inute	分钟
+E	<size=141%>M</size>onday	星期一
+E	<size=141%>M</size>ystic	秘教士
+E	<size=141%>N</size>IGHT:	夜：
+E	<size=141%>N</size>ormal	普通
+E	<size=141%>O</size>nline	在线
+E	<size=141%>P</size>layer	玩家
+E	<size=141%>P</size>ortal	传送门
+E	<size=141%>P</size>romos	推广卡
+E	<size=141%>R</size>ating	评分
+E	<size=141%>R</size>eject	拒绝
+E	<size=141%>R</size>enown	声望
+E	<size=141%>R</size>esume	继续游戏
+E	<size=141%>R</size>eveal	展示
+E	<size=141%>R</size>eward	奖励
+E	<size=141%>S</size>amael	萨麦尔
+E	<size=141%>S</size>econd	秒
+E	<size=141%>S</size>unday	星期日
+E	<size=141%>T</size>arget	选择
+E	<size=141%>T</size>emple	神殿
+E	<size=141%>T</size>rophy	战利品
 E	Account creation failed.	账号创建失败。
 E	Retrieving Profile . . .	正在读取档案 . . .
 E	Username already in use.	用户名已被使用。
+E	<size=141%>C</size>lose	关闭
+E	<size=141%>D</size>eath	死亡
+E	<size=141%>E</size>mail	电子邮箱
+E	<size=141%>E</size>mpty	空
+E	<size=141%>E</size>rror	错误
+E	<size=141%>E</size>vent	事件
+E	<size=141%>F</size>ATE:	天命：
+E	<size=141%>H</size>onor	荣誉
+E	<size=141%>H</size>ours	小时
+E	<size=141%>H</size>uman	人类
+E	<size=141%>L</size>obby	大厅
+E	<size=141%>L</size>ogin	登录
+E	<size=141%>L</size>ogos	逻各斯
+E	<size=141%>M</size>usic	音乐
+E	<size=141%>N</size>IGHT	夜
+E	<size=141%>N</size>ight	夜
+E	<size=141%>O</size>wned	已拥有
+E	<size=141%>P</size>ause	暂停
+E	<size=141%>P</size>ower	战力
+E	<size=141%>P</size>romo	推广卡
+E	<size=141%>R</size>ally	集结
+E	<size=141%>R</size>ound	回合
+E	<size=141%>R</size>unes	符文
+E	<size=141%>S</size>etup	设置
+E	<size=141%>S</size>pend	花费
+E	<size=141%>S</size>tart	开始
+E	<size=141%>T</size>hurs	四
+E	<size=141%>U</size>NITE	联合
+E	<size=141%>U</size>nite	联合
+E	<size=141%>V</size>igil	祈夜
+E	<size=141%>X</size>eron	泽伦
 E	Double Tap to Continue…	双击继续…
 E	Please enter a Username	请输入用户名
+E	without paying its cost	无需支付费用
+E	<size=141%>A</size>rha	亚哈
+E	<size=141%>B</size>ack	返回
+E	<size=141%>C</size>opy	复制
+E	<size=141%>D</size>AY:	昼：
+E	<size=141%>D</size>ays	天
+E	<size=141%>D</size>eck	牌库
+E	<size=141%>D</size>one	完成
+E	<size=141%>D</size>raw	抽
+E	<size=141%>E</size>CHO	回响
+E	<size=141%>E</size>asy	简单
+E	<size=141%>E</size>cho	回响
+E	<size=141%>E</size>xit	退出
+E	<size=141%>F</size>ATE	天命
+E	<size=141%>F</size>ast	快
+E	<size=141%>F</size>ate	天命
+E	<size=141%>G</size>ain	获得
+E	<size=141%>G</size>ame	对局
+E	<size=141%>G</size>ive	交给
+E	<size=141%>H</size>and	手牌
+E	<size=141%>H</size>ard	困难
+E	<size=141%>H</size>ero	英雄
+E	<size=141%>H</size>our	小时
+E	<size=141%>J</size>oin	加入
+E	<size=141%>L</size>ife	生命
+E	<size=141%>L</size>ose	失去
+E	<size=141%>M</size>enu	菜单
+E	<size=141%>N</size>one	无
+E	<size=141%>P</size>lay	打出
+E	<size=141%>R</size>une	符文
+E	<size=141%>S</size>low	慢
+E	<size=141%>T</size>ues	二
+E	<size=141%>T</size>urn	回合
+E	<size=141%>U</size>ndo	撤销
+E	<size=141%>V</size>OID	虚空
+E	<size=141%>V</size>iew	查看
+E	<size=141%>V</size>oid	虚空
+E	<size=141%>应</size>用商店	商店
 E	Confirm Revealed Cards	确认已展示的卡牌
+E	Enlightened Constructs	圣贤神器
 E	Passwords do not match	两次输入的密码不一致
 E	STONE BLADE NEWSLETTER	Stone Blade 通讯
 E	Terms of Use Agreement	使用条款
 E	Valley of the Ancients	上古山谷
 E	You Must End Your Turn	你必须结束回合
+E	<size=141%>B</size>uy	获取
+E	<size=141%>D</size>AY	昼
+E	<size=141%>D</size>ay	天
+E	<size=141%>F</size>ri	五
+E	<size=141%>H</size>rs	时
+E	<size=141%>L</size>OG	记录
+E	<size=141%>L</size>og	记录
+E	<size=141%>M</size>in	分
+E	<size=141%>M</size>on	一
+E	<size=141%>N</size>ew	新建
+E	<size=141%>O</size>go	奥戈
+E	<size=141%>P</size>ay	支付
+E	<size=141%>S</size>at	六
+E	<size=141%>S</size>ec	秒
+E	<size=141%>S</size>un	日
+E	<size=141%>U</size>se	使用
+E	<size=141%>W</size>ed	三
+E	<size=141%>内</size>购店	商店
 E	Android Notifications	Android 通知
-E	Enlightened Construct	启迪神器
+E	Enlightened Construct	圣贤神器
+E	Enlightened Soul Gems	圣贤灵魂宝石
+E	Enlightened Treasures	圣贤宝藏
 E	Enter Name for Player	请输入玩家名称
 E	Keep this resolution?	保留此分辨率？
 E	Press the new key for	请按下新的按键：
@@ -3193,13 +3431,19 @@ E	Reward: Gain 1 Honor.	奖励：获得1荣誉。
 E	User "{0}" not found.	未找到用户“{0}”。
 E	User "{0}" not found.	未找到用户“{0}”。
 E	You May End Your Turn	你可以结束回合
+E	<size=141%>H</size>R	时
+E	<size=141%>O</size>K	确定
+E	Center Row Draw Pile	中央牌库
 E	Choose Life or Death	选择生命或死亡
 E	Choose Rune or Power	选择符文或战力
 E	Commit Your Decision	确认你的决定
 E	Confirmation Pop-ups	确认弹窗
 E	Connecting to Server	正在连接服务器
 E	Downloadable Content	可下载内容
+E	Enlightened Soul Gem	圣贤灵魂宝石
+E	Enlightened Treasure	圣贤宝藏
 E	Gift of the Elements	元素的馈赠
+E	Lifebound Constructs	命约神器
 E	Return of the Fallen	邪神归来
 E	%s gains %d power\\n	%s获得%d点战力\\n
 E	%s gains %d runes\\n	%s获得%d点符文\\n
@@ -3207,8 +3451,12 @@ E	Add Computer Player	添加电脑玩家
 E	Creating Account...	正在创建账号...
 E	Creating Game . . .	正在创建对局 . . .
 E	Email Notifications	邮件通知
-E	Enlightened Monster	启迪怪物
-E	Lifebound Construct	生命神器
+E	Enlightened Monster	圣贤怪物
+E	Enlightened Portals	圣贤传送门
+E	Enlightened Temples	圣贤神殿
+E	Lifebound Construct	命约神器
+E	Lifebound Soul Gems	命约灵魂宝石
+E	Lifebound Treasures	命约宝藏
 E	Offline Create Game	离线创建对局
 E	Please enter a name	请输入名称
 E	Quick Match Request	快速匹配请求
@@ -3218,59 +3466,116 @@ E	Confirmation Pause	确认暂停
 E	Create New Account	创建新账号
 E	Darkness Unleashed	黑暗释放
 E	Delete Matchmaking	删除匹配
+E	Enlightened Events	圣贤事件
+E	Enlightened Portal	圣贤传送门
+E	Enlightened Temple	圣贤神殿
 E	Joining Game . . .	正在加入对局 . . .
+E	Lifebound Soul Gem	命约灵魂宝石
+E	Lifebound Treasure	命约宝藏
+E	Mechana Constructs	机械神器
+E	Monster Constructs	怪物神器
 E	Not a valid target	不是有效目标
 E	Online Create Game	在线创建对局
 E	Playdek Newsletter	Playdek 通讯
+E	Rally: Enlightened	集结：圣贤
 E	Select your avatar	选择头像
 E	Simplified Chinese	简体中文
 E	Waiting for Player	等待玩家
+E	Common Constructs	普通神器
 E	Dawn of Champions	冠军黎明
+E	Deckbuilding Game	牌组构筑游戏
 E	Drag below to add	拖到下方添加
-E	Lifebound Monster	生命怪物
+E	Enlightened Event	圣贤事件
+E	Enlightened Heros	圣贤英雄
+E	Lifebound Monster	命约怪物
+E	Lifebound Portals	命约传送门
+E	Lifebound Temples	命约神殿
 E	Mechana Construct	机械神器
+E	Mechana Soul Gems	机械灵魂宝石
+E	Mechana Treasures	机械宝藏
+E	Monster Construct	怪物神器
+E	Monster Soul Gems	怪物灵魂宝石
+E	Monster Treasures	怪物宝藏
 E	Offline Game List	离线对局列表
 E	Rating Difference	评分差
 E	Remember Password	记住密码
 E	Restore Purchases	恢复购买
+E	Samael the Fallen	堕落之神萨麦尔
 E	Unable to create.	无法创建。
 E	Waiting for Start	等待开始
 E	iOS Notifications	iOS 通知
+E	10th Anniversary	十周年
 E	Add Human Player	添加人类玩家
 E	Always Available	始终可用
 E	Always available	始终可用
+E	Common Construct	普通神器
+E	Common Soul Gems	普通灵魂宝石
+E	Common Treasures	普通宝藏
 E	Confirm Password	确认密码
 E	Delete Your Game	删除你的对局
-E	Enlightened Hero	启迪英雄
+E	Enlightened Hero	圣贤英雄
+E	Infested Monster	感染怪物
 E	Invalid Password	密码无效
+E	Lifebound Events	命约事件
+E	Lifebound Portal	命约传送门
+E	Lifebound Temple	命约神殿
+E	Mechana Soul Gem	机械灵魂宝石
+E	Mechana Treasure	机械宝藏
+E	Monster Soul Gem	怪物灵魂宝石
+E	Monster Treasure	怪物宝藏
 E	No Card Selected	未选择卡牌
 E	Online Game List	在线对局列表
+E	Player Draw Pile	玩家牌库
+E	Rally: Lifebound	集结：命约
 E	Realms Unraveled	领域解开
 E	Restore Defaults	恢复默认
 E	Reward: Gain 1H.	奖励：获得1荣誉。
 E	%s defeats %s\\n	%s击败了%s\\n
 E	Animation Speed	动画速度
 E	Clear Purchases	清除购买
+E	Common Soul Gem	普通灵魂宝石
+E	Common Treasure	普通宝藏
 E	Cultist Screams	邪教徒惨叫
+E	Disable Chinese	关闭中文
 E	Immortal Heroes	不朽英雄
+E	Lifebound Event	命约事件
+E	Lifebound Heros	命约英雄
 E	Loading... %d%%	加载中... %d%%
 E	Mechana Monster	机械怪物
+E	Mechana Portals	机械传送门
+E	Mechana Temples	机械神殿
+E	Monster Portals	怪物传送门
+E	Monster Temples	怪物神殿
 E	Return to Lobby	返回大厅
 E	Reward: 1 Honor	奖励：1荣誉
 E	Select Language	选择语言
 E	Send Login Info	发送登录信息
 E	Tap to Continue	点击继续
 E	Theme Selection	主题选择
+E	Transform Event	转化事件
+E	Trophy Monsters	战利品怪物
+E	Void Constructs	虚空神器
 E	Account error.	账号出错。
 E	Ambient Volume	环境音量
-E	Common Monster	中立怪物
+E	Common Monster	普通怪物
+E	Common Portals	普通传送门
+E	Common Temples	普通神殿
 E	Confirm Change	确认更改
 E	Create Account	创建账号
+E	Enable Chinese	启用中文
 E	Enter Password	输入密码
 E	Enter Username	输入用户名
 E	Friend Request	好友请求
 E	Game Completed	对局结束
-E	Lifebound Hero	生命英雄
+E	Heavy Infantry	重装步兵
+E	Legendary Boon	传奇恩赐
+E	Lifebound Hero	命约英雄
+E	Mechana Events	机械事件
+E	Mechana Portal	机械传送门
+E	Mechana Temple	机械神殿
+E	Monster Events	怪物事件
+E	Monster Portal	怪物传送门
+E	Monster Temple	怪物神殿
 E	No Player Data	无玩家数据
 E	Offline Record	离线战绩
 E	Ongoing Trophy	持续战利品
@@ -3278,15 +3583,23 @@ E	Opponent Stats	对手统计
 E	Play Your Turn	请出牌
 E	Please wait...	请稍候...
 E	Privacy Policy	隐私政策
+E	Rally: Mechana	集结：机械
+E	Rally: Monster	集结：怪物
 E	Ready to Start	准备开始
 E	Remove Profile	删除档案
 E	Storm of Souls	灵魂风暴
+E	Trophy Monster	战利品怪物
 E	Viewing Player	正在查看玩家
 E	Void Construct	虚空神器
+E	Void Soul Gems	虚空灵魂宝石
+E	Void Treasures	虚空宝藏
 E	War of Shadows	暗影之战
 E	AI Difficulty	AI 难度
 E	Accept Invite	接受邀请
 E	Announcements	公告
+E	Common Events	普通事件
+E	Common Portal	普通传送门
+E	Common Temple	普通神殿
 E	Delete Friend	删除好友
 E	Enter text...	请输入文字...
 E	Forgot Login?	忘记登录信息？
@@ -3294,17 +3607,28 @@ E	Invalid Email	邮箱无效
 E	Invite Friend	邀请好友
 E	Loading Cards	正在加载卡牌
 E	Losses Versus	对战负场
+E	Mechana Event	机械事件
+E	Mechana Heros	机械英雄
+E	Monster Event	怪物事件
+E	Monster Heros	怪物英雄
 E	Notifications	通知
 E	Now Available	现已推出
 E	Offline Games	离线对局
 E	Offline Lobby	离线大厅
+E	Once per turn	每回合一次
 E	Online Record	在线战绩
+E	Put into play	进入战场
 E	Remote Player	远程玩家
 E	Remove Friend	删除好友
 E	Request Match	请求对局
 E	Rise of Vigil	祈夜崛起
+E	Soul counters	灵魂指示物
 E	Sound Effects	音效
+E	Void Soul Gem	虚空灵魂宝石
+E	Void Treasure	虚空宝藏
 E	Windowed Mode	窗口模式
+E	Wish counters	愿望指示物
+E	put into play	进入战场
 E	AI Player 10	AI 玩家 10
 E	AI Player 11	AI 玩家 11
 E	AI Player 12	AI 玩家 12
@@ -3320,21 +3644,33 @@ E	Achievements	成就
 E	Audio Levels	音量
 E	Card Gallery	卡牌图鉴
 E	Clear Invite	清除邀请
+E	Common Event	普通事件
+E	Common Heros	普通英雄
+E	Delirium Die	谵妄骰
+E	Discard Pile	弃牌堆
+E	Discard Zone	弃牌区
 E	Event Trophy	事件战利品
 E	Expire Timer	超时计时
 E	Friends List	好友列表
 E	Help Enabled	启用帮助
-E	In-App Store	应用商店
+E	Honor tokens	荣誉点数
+E	In-App Store	商店
 E	Key Bindings	按键绑定
 E	Login failed	登录失败
 E	Mechana Hero	机械英雄
+E	Monster Hero	怪物英雄
 E	Music Volume	音乐音量
 E	Online Games	在线对局
 E	Online Lobby	在线大厅
 E	Online Login	在线登录
 E	Play Offline	离线游戏
+E	Soul counter	灵魂指示物
 E	Sound Volume	音效音量
+E	Unbanishable	不可放逐
 E	Void Monster	虚空怪物
+E	Void Portals	虚空传送门
+E	Void Temples	虚空神殿
+E	Wish counter	愿望指示物
 E	AI Opponent	AI 对手
 E	AI Player 1	AI 玩家 1
 E	AI Player 2	AI 玩家 2
@@ -3346,26 +3682,36 @@ E	AI Player 7	AI 玩家 7
 E	AI Player 8	AI 玩家 8
 E	AI Player 9	AI 玩家 9
 E	Add Profile	添加档案
+E	Center Deck	中央牌库
 E	Coming Soon	即将推出
+E	Common Hero	普通英雄
 E	Create Game	创建对局
 E	Delete Game	删除对局
 E	Deliverance	救赎
-E	Enlightened	启迪
+E	Enlightened	圣贤
 E	Enter Email	输入邮箱
 E	Game Paused	游戏已暂停
+E	Honor token	荣誉点数
 E	In Progress	进行中
 E	MULTI-UNITE	多重联合
+E	Multi-Unite	多重联合
 E	Play Online	在线游戏
 E	Player Name	玩家名称
+E	Portal Deck	传送门牌库
 E	Quick Match	快速匹配
+E	Rally: Void	集结：虚空
 E	Resolutions	分辨率
 E	Resume Game	继续游戏
+E	Void Events	虚空事件
+E	Void Portal	虚空传送门
+E	Void Temple	虚空神殿
 E	Wins Versus	对战胜场
 E	2 Players:	2 名玩家：
 E	3 Players:	3 名玩家：
 E	4 Players:	4 名玩家：
 E	Add Friend	添加好友
 E	Any Rating	任意评分
+E	Apprentice	学徒
 E	Center Row	中央牌列
 E	Dreamscape	梦境
 E	Fullscreen	全屏
@@ -3384,22 +3730,30 @@ E	Start Menu	开始菜单
 E	Timer: Any	计时：任意
 E	User Name:	用户名：
 E	View Cards	查看卡牌
+E	Void Event	虚空事件
+E	Void Heros	虚空英雄
 E	2 Players	2 名玩家
 E	3 Players	3 名玩家
 E	4 Players	4 名玩家
 E	AI Player	AI 玩家
-E	App Store	应用商店
+E	App Store	商店
+E	Ascension	创升纪元
 E	Auto Play	自动出牌
 E	Completed	已完成
 E	Construct	神器
+E	Dreambind	梦缚
+E	Dreamborn	梦生
 E	Find Game	查找对局
 E	Game Chat	对局聊天
 E	Game List	对局列表
 E	Game Type	对局类型
+E	Godslayer	弑神者
 E	Join Game	加入对局
 E	Languages	语言
-E	Lifebound	生命
+E	Legendary	传奇
+E	Lifebound	命约
 E	Main Menu	主菜单
+E	Play Area	战场
 E	Player 10	玩家 10
 E	Player 11	玩家 11
 E	Player 12	玩家 12
@@ -3412,6 +3766,8 @@ E	Player 18	玩家 18
 E	Player 19	玩家 19
 E	Player 20	玩家 20
 E	Purchased	已购买
+E	TRANSFORM	转化
+E	Transform	转化
 E	Tutorials	教程
 E	View Game	观看对局
 E	Void Hero	虚空英雄
@@ -3419,18 +3775,25 @@ E	Wednesday	星期三
 E	(Closed)	(已关闭)
 E	Beginner	入门
 E	CONTINUE	继续
+E	Champion	冠军
 E	Continue	继续
 E	Delirium	谵妄
 E	END\nTURN	结束回合
 E	END TURN	结束回合
+E	ENERGIZE	充能
+E	Elements	元素
 E	End\nTurn	结束回合
 E	End Game	结束对局
 E	End Turn	结束回合
+E	Energize	充能
 E	Forfeits	认输次数
 E	Game Log	对局记录
 E	Japanese	日语
+E	Language	语言
+E	ONGOING:	持续：
 E	PLAY ALL	全部打出
 E	Password	密码
+E	Phantasm	幻象
 E	Play All	全部打出
 E	Player 1	玩家 1
 E	Player 2	玩家 2
@@ -3455,33 +3818,55 @@ E	Round 18	第 18 回合
 E	Round 19	第 19 回合
 E	Round 20	第 20 回合
 E	Rulebook	规则书
+E	SERENITY	宁静
 E	Saturday	星期六
+E	Serenity	宁静
 E	Settings	设置
+E	Soul Gem	灵魂宝石
 E	Thursday	星期四
+E	Treasure	宝藏
 E	Tutorial	教程
 E	Username	用户名
 E	Version:	版本：
 E	Withdraw	退出对局
+E	the Void	虚空区
+E	the void	虚空区
+E	Acquire	获取
+E	Auction	竞拍
 E	Chinese	中文
+E	Control	控制
 E	Credits	制作人员
+E	Cultist	邪教徒
+E	Destroy	摧毁
 E	Details	详情
+E	EMPOWER	赋力
+E	Empower	赋力
 E	English	英语
+E	Fanatic	狂信者
 E	Forfeit	认输
 E	Friends	好友
 E	I Agree	我同意
+E	Insight	洞察
 E	Invited	已邀请
 E	Italian	意大利语
 E	Legends	史诗传奇
 E	Loading	加载中
 E	Log Out	退出登录
+E	Look at	查看
 E	Mechana	机械
+E	Militia	民兵
 E	Minutes	分钟
 E	Monster	怪物
+E	ONGOING	持续
 E	Offline	离线
+E	Ongoing	持续
 E	Options	选项
+E	Plunder	掠夺
 E	Profile	档案
 E	Promo 7	特典 7
 E	Rematch	再来一局
+E	Replace	替换
+E	Reward:	奖励：
 E	Round 1	第 1 回合
 E	Round 2	第 2 回合
 E	Round 3	第 3 回合
@@ -3493,54 +3878,98 @@ E	Round 8	第 8 回合
 E	Round 9	第 9 回合
 E	Russian	俄语
 E	Seconds	秒
+E	Shuffle	洗牌
 E	Spanish	西班牙语
+E	Trophy:	战利品：
 E	Tuesday	星期二
 E	Verify:	验证：
 E	Waiting	等待中
 E	Warning	警告
+E	in play	战场
 E	(Open)	(开放)
 E	Accept	接受
+E	Banish	放逐
 E	Cancel	取消
-E	Common	中立
+E	Choose	选择
+E	Common	普通
+E	Defeat	击败
+E	Energy	能量
 E	Expert	专家
 E	Finish	完成
 E	French	法语
 E	Friday	星期五
 E	German	德语
+E	Hedron	多面体
+E	INFEST	感染
+E	Infest	感染
 E	Invite	邀请
 E	Locked	已锁定
 E	Medium	中
 E	Minute	分钟
 E	Monday	星期一
+E	Mystic	秘教士
+E	NIGHT:	夜：
 E	Normal	普通
 E	Online	在线
 E	Player	玩家
+E	Portal	传送门
+E	Promos	推广卡
 E	Rating	评分
 E	Reject	拒绝
+E	Renown	声望
 E	Resume	继续游戏
+E	Reward	奖励
+E	Samael	萨麦尔
 E	Second	秒
 E	Sunday	星期日
+E	Temple	神殿
+E	Trophy	战利品
+E	Death	死亡
 E	Email	电子邮箱
 E	Empty	空
 E	Error	错误
+E	Event	事件
+E	FATE:	天命：
 E	Honor	荣誉
 E	Hours	小时
 E	Human	人类
 E	Lobby	大厅
 E	Login	登录
+E	Logos	逻各斯
 E	Music	音乐
+E	NIGHT	夜
+E	Night	夜
 E	Owned	已拥有
 E	Pause	暂停
 E	Power	战力
+E	Promo	推广卡
+E	Rally	集结
 E	Round	回合
 E	Runes	符文
 E	Setup	设置
+E	Spend	花费
 E	Thurs	四
+E	UNITE	联合
+E	Unite	联合
+E	Vigil	祈夜
+E	Xeron	泽伦
+E	Deck	牌库
+E	Draw	抽
+E	ECHO	回响
 E	Easy	简单
+E	Echo	回响
 E	Exit	退出
+E	FATE	天命
+E	Fate	天命
+E	Hand	手牌
 E	Hard	困难
 E	Hero	英雄
+E	Life	生命
 E	Menu	菜单
+E	Rune	符文
 E	VOID	虚空
+E	Void	虚空
+E	DAY	昼
+E	Day	天
 E	LOG	记录
 E	Log	记录

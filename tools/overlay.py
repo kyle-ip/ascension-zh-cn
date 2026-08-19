@@ -14,9 +14,14 @@ from translate import strip_drop_cap  # noqa: E402
 
 ZH = ROOT / "loc" / "zh-Hans"
 EN_SHEETS = ROOT / "loc" / "en" / "sheets"
+GLOSSARY = ROOT / "glossary" / "zh-Hans.csv"
 OUT = ZH / "overlay.tsv"
 
 TAG_RE = re.compile(r"</?(?:size|space|color|b|i|B|I|sprite)[^>]*>", re.I)
+DROP_CAP_RE = re.compile(
+    r"<size=\s*[^>]*>\s*(.)\s*</size>(?:<space=[^>]*>)?(.*)",
+    re.I | re.S,
+)
 
 
 def load_pairs(path: Path, key_col: str, val_col: str) -> dict[str, str]:
@@ -41,11 +46,36 @@ def load_two_col(path: Path) -> dict[str, str]:
     return out
 
 
+def load_glossary() -> list[dict[str, str]]:
+    if not GLOSSARY.is_file():
+        return []
+    with GLOSSARY.open(encoding="utf-8", newline="") as f:
+        return [
+            row
+            for row in csv.DictReader(f)
+            if (row.get("en") or "").strip()
+            and not row["en"].strip().startswith("#")
+            and (row.get("zh") or "").strip()
+        ]
+
+
 def strip_tags(text: str) -> str:
     text = strip_drop_cap(text)
+    text = DROP_CAP_RE.sub(r"\1\2", text)
     text = TAG_RE.sub("", text)
     text = text.replace("<br>", "\n").replace("<BR>", "\n")
     return re.sub(r"\s+", " ", text).strip()
+
+
+def drop_cap_variants(en: str) -> list[str]:
+    """Gallery faction filters use TMP drop-cap markup."""
+    if not en or not en[0].isalpha() or " " in en or "<" in en:
+        return []
+    first, rest = en[0], en[1:]
+    variants = [f"<size=141%>{first}</size>{rest}"]
+    if en == "Void":
+        variants.append(f"<size=141%>{first}</size><space=-.15em>{rest}")
+    return variants
 
 
 SKIP_EXACT = {
@@ -82,6 +112,7 @@ ALLOW_SHORT = {
     "Menu",
     "Exit",
     "VOID",
+    "Void",
     "Offline",
     "Online",
     "Back",
@@ -93,6 +124,17 @@ ALLOW_SHORT = {
     "Continue",
     "Cancel",
     "Owned",
+    "Fate",
+    "FATE",
+    "Echo",
+    "ECHO",
+    "Rune",
+    "Deck",
+    "Hand",
+    "Day",
+    "DAY",
+    "Life",
+    "Draw",
 }
 
 
@@ -110,7 +152,7 @@ def put_exact(exact: dict[str, str], en: str, zh: str) -> None:
             return
         if key in SKIP_EXACT:
             return
-        if len(key) <= 4 and key not in ALLOW_SHORT:
+        if len(key) <= 4 and key not in ALLOW_SHORT and "<" not in key:
             return
         exact[src] = zh
         if key != src:
@@ -123,11 +165,33 @@ def put_exact(exact: dict[str, str], en: str, zh: str) -> None:
     plain = strip_drop_cap(en)
     if plain and plain != zh:
         add(plain)
+    for variant in drop_cap_variants(en):
+        add(variant)
+
+
+def apply_glossary(exact: dict[str, str]) -> None:
+    factions: dict[str, str] = {}
+    types: dict[str, str] = {}
+    for row in load_glossary():
+        en = row["en"].strip()
+        zh = row["zh"].strip()
+        scope = (row.get("scope") or "").strip()
+        put_exact(exact, en, zh)
+        if scope == "faction":
+            factions[en] = zh
+        elif scope == "type":
+            types[en] = zh
+    for fen, fzh in factions.items():
+        for ten, tzh in types.items():
+            put_exact(exact, f"{fen} {ten}", fzh + tzh)
+            put_exact(exact, f"{fen} {ten}s", fzh + tzh)
 
 
 def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
     keys: dict[str, str] = {}
     exact: dict[str, str] = {}
+
+    apply_glossary(exact)
 
     ui = load_pairs(ZH / "ui.csv", "key", "zh")
     keys.update(ui)
@@ -168,8 +232,10 @@ def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
         "Exit": "退出",
         "Offline": "离线",
         "Online": "在线",
-        "App Store": "应用商店",
-        "In-App Store": "应用商店",
+        "App Store": "商店",
+        "In-App Store": "商店",
+        "内购店": "商店",
+        "应用商店": "商店",
         "END TURN": "结束回合",
         "End Turn": "结束回合",
         "END\nTURN": "结束回合",
@@ -179,7 +245,7 @@ def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
         "Loading cards, please wait...": "正在加载卡牌，请稍候…",
         "Loading Cards, please wait...": "正在加载卡牌，请稍候…",
         "Loading cards, please wait": "正在加载卡牌，请稍候",
-        "Common": "中立",
+        "Common": "普通",
         "Reward: Gain 1H.": "奖励：获得1荣誉。",
         "Reward: Gain 1 Honor.": "奖励：获得1荣誉。",
         "Reward: 1 Honor": "奖励：1荣誉",
@@ -198,11 +264,11 @@ def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
         "Now Available": "现已推出",
         "Downloadable Content": "可下载内容",
         "Promo 7": "特典 7",
-        "Enlightened Monster": "启迪怪物",
-        "Lifebound Monster": "生命怪物",
+        "Enlightened Monster": "圣贤怪物",
+        "Lifebound Monster": "命约怪物",
         "Mechana Monster": "机械怪物",
         "Void Monster": "虚空怪物",
-        "Common Monster": "中立怪物",
+        "Common Monster": "普通怪物",
         "Offline Games": "离线对局",
         "Offline Game List": "离线对局列表",
         "Online Games": "在线对局",
@@ -219,17 +285,17 @@ def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
         "Settings": "设置",
         "Key Bindings": "按键绑定",
         "VOID": "虚空",
-        "Void": "虚空区",
+        "Void": "虚空",
         "Hero": "英雄",
         "Construct": "神器",
         "Monster": "怪物",
-        "Enlightened": "启迪",
-        "Lifebound": "生命",
+        "Enlightened": "圣贤",
+        "Lifebound": "命约",
         "Mechana": "机械",
-        "Enlightened Hero": "启迪英雄",
-        "Enlightened Construct": "启迪神器",
-        "Lifebound Hero": "生命英雄",
-        "Lifebound Construct": "生命神器",
+        "Enlightened Hero": "圣贤英雄",
+        "Enlightened Construct": "圣贤神器",
+        "Lifebound Hero": "命约英雄",
+        "Lifebound Construct": "命约神器",
         "Mechana Hero": "机械英雄",
         "Mechana Construct": "机械神器",
         "Void Hero": "虚空英雄",
