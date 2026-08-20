@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Reflection;
 using System.Text.RegularExpressions;
 using BepInEx;
@@ -8,8 +9,10 @@ using BepInEx.Configuration;
 using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
 using Il2CppInterop.Runtime.Injection;
+using Il2CppInterop.Runtime;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace AscensionZhCn;
@@ -20,8 +23,11 @@ public class Plugin : BasePlugin
     internal static Plugin Instance;
     static TMP_FontAsset _cjk;
     static bool _installed;
-    static bool _attempted;
+    const int CjkMaxAttempts = 5;
+    static int _cjkAttempts;
     static bool _locPatched;
+    static bool _setterPatched;
+    static bool _sceneHooked;
     static bool _ready;
     internal static bool IsReady
     {
@@ -81,11 +87,34 @@ public class Plugin : BasePlugin
         LoadOverlay();
         PatchLocalization();
 
+        // Sync CJK fallback install: avoids the tofu flash where L1 already
+        // returns Chinese but the font isn't attached yet. If TMP isn't ready
+        // at Load() time, CjkFontBehaviour retries and arms the L2 hooks once
+        // the font is in place.
+        try
+        {
+            EnsureCjkFallback();
+            if (_ready)
+            {
+                PatchTextSetters();
+                PatchSceneLoaded();
+                Trace("sync CJK install OK; L2 hooks active");
+            }
+            else
+            {
+                Trace("sync CJK install not ready; will retry via CjkFontBehaviour");
+            }
+        }
+        catch (Exception ex)
+        {
+            Trace("sync CJK install failed: " + ex.Message);
+        }
+
         try
         {
             ClassInjector.RegisterTypeInIl2Cpp<CjkFontBehaviour>();
             AddComponent<CjkFontBehaviour>();
-            Trace("injected delayed CjkFontBehaviour");
+            Trace("injected CjkFontBehaviour (fallback + safety sweep)");
         }
         catch (Exception ex)
         {
@@ -311,6 +340,10 @@ public class Plugin : BasePlugin
         add("Are you sure you wish to end your turn?", "确定要结束你的回合吗？");
         add("Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.", "向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改。");
         add("Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu", "向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改");
+        // ======= 梦境选择界面 =======
+        add("Choose 1 More Card for your Dreamscape", "为你的梦境选择一张额外的卡牌");
+        add("Choose 2 More Cards for your Dreamscape", "为你的梦境选择两张额外的卡牌");
+        add("Choose 3 Cards for your Dreamscape", "为你的梦境选择三张卡牌");
     }
 
     static string Unescape(string value)
@@ -320,12 +353,12 @@ public class Plugin : BasePlugin
 
     internal static void EnsureCjkFallback()
     {
-        if (_installed || _attempted)
+        if (_installed || _cjkAttempts >= CjkMaxAttempts)
             return;
-        _attempted = true;
+        _cjkAttempts++;
         try
         {
-            Trace("EnsureCjkFallback begin");
+            Trace("EnsureCjkFallback attempt " + _cjkAttempts);
             _cjk = CreateCjkFont();
             if (_cjk == null)
             {
@@ -404,6 +437,371 @@ public class Plugin : BasePlugin
         catch (Exception ex)
         {
             Trace("Harmony loc patch failed: " + ex);
+        }
+    }
+
+    internal static void PatchTextSetters()
+    {
+        if (_setterPatched)
+            return;
+        _setterPatched = true;
+        if (_harmony == null)
+            _harmony = new Harmony("ascension.zh.cn");
+        try
+        {
+            // set_text: rewrite incoming text to Chinese PREFIX (visual),
+            // cache original English for state-markers so the game's own
+            // toggle logic still sees the original value when it reads back.
+            PatchTextProp(typeof(TMP_Text), "set_text", nameof(TmpTextSetPrefix), null);
+            PatchTextProp(typeof(Text), "set_text", nameof(UiTextSetPrefix), null);
+            PatchTextProp(typeof(TextMesh), "set_text", nameof(TextMeshSetPrefix), null);
+
+            // get_text: return cached original English for state-markers so
+            // the game's internal comparison (`text == "Play Your Turn"`)
+            // keeps working while the player sees Chinese visually.
+            PatchTextProp(typeof(TMP_Text), "get_text", null, nameof(TmpTextGetPostfix));
+            PatchTextProp(typeof(Text), "get_text", null, nameof(UiTextGetPostfix));
+            PatchTextProp(typeof(TextMesh), "get_text", null, nameof(TextMeshGetPostfix));
+
+            // TMP_Text.SetText(string) is an overload Unity uses in addition
+            // to the property setter. Patch it with the same logic.
+            PatchTextProp(typeof(TMP_Text), "SetText", nameof(TmpTextSetPrefix), null);
+        }
+        catch (Exception ex)
+        {
+            Trace("text setter patch failed: " + ex);
+        }
+    }
+
+    static void PatchTextProp(Type type, string methodName, string prefixName, string postfixName)
+    {
+        try
+        {
+            var methods = type.GetMethods(BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+            MethodInfo method = null;
+            var allCandidates = new List<string>();
+            foreach (var m in methods)
+            {
+                if (m.Name != methodName)
+                    continue;
+                var ps = m.GetParameters();
+                var sig = string.Join(", ", ps.Select(p => p.ParameterType.Name + " " + p.Name)) + " -> " + m.ReturnType.Name;
+                allCandidates.Add(sig);
+                if (methodName == "get_text")
+                {
+                    if (ps.Length == 0 && m.ReturnType == typeof(string))
+                    {
+                        method = m;
+                        break;
+                    }
+                }
+                else if (ps.Length == 1 && ps[0].ParameterType == typeof(string))
+                {
+                    method = m;
+                    break;
+                }
+            }
+            if (method == null)
+            {
+                Trace(methodName + " not found on " + type.FullName + " (candidates: " + string.Join("; ", allCandidates.ToArray()) + ")");
+                return;
+            }
+            HarmonyMethod pre = prefixName != null ? new HarmonyMethod(typeof(Plugin), prefixName) : null;
+            HarmonyMethod post = postfixName != null ? new HarmonyMethod(typeof(Plugin), postfixName) : null;
+            _harmony.Patch(method, prefix: pre, postfix: post);
+            Trace("patched " + type.FullName + "." + methodName + " (prefix=" + (prefixName ?? "-") + ", postfix=" + (postfixName ?? "-") + ")");
+        }
+        catch (Exception ex)
+        {
+            Trace("patch " + type.FullName + "." + methodName + " failed: " + ex.Message);
+        }
+    }
+
+    // Per-instance cache: when we rewrite a state-marker to Chinese for display,
+    // we keep the original English here so get_text can return it to the game's
+    // own read-back logic (prevents the oscillation, eliminates the flash).
+    // Keyed by the text object's GetInstanceID().
+    static readonly Dictionary<int, string> StateMarkerOriginals = new Dictionary<int, string>();
+    static readonly List<int> _recentTextIds = new List<int>(64);
+    static int _forceMarkerCalls;
+    static int _forceMarkerHits;
+
+    // Cached state-marker TMP_Text instances. Once found, we reuse them every
+    // frame instead of calling Resources.FindObjectsOfTypeAll (expensive).
+    static readonly List<TMP_Text> _cachedMarkerTexts = new List<TMP_Text>();
+
+    internal static void ForceStateMarkersToChinese()
+    {
+        ForceStateMarkersToChineseCore();
+    }
+
+    static void ForceStateMarkersToChineseCore()
+    {
+        _forceMarkerCalls++;
+        try
+        {
+            // First call: scan all TMP_Text and find state-markers.
+            // Cache them so we don't scan every frame.
+            if (_cachedMarkerTexts.Count == 0)
+            {
+                var scan = Resources.FindObjectsOfTypeAll<TMP_Text>();
+                if (scan == null)
+                {
+                    if (_forceMarkerCalls <= 3)
+                        Trace("ForceStateMarkers: first scan returned null");
+                    return;
+                }
+                int found = 0;
+                foreach (var tmp in scan)
+                {
+                    if (tmp == null || tmp.gameObject == null)
+                        continue;
+                    if (!tmp.gameObject.scene.IsValid())
+                        continue;
+                    var raw = tmp.text;
+                    if (string.IsNullOrEmpty(raw))
+                        continue;
+                    if (IsTutorialProtected(raw))
+                        continue;
+                    if (!PrefixStateMarkers.Contains(raw))
+                        continue;
+                    _cachedMarkerTexts.Add(tmp);
+                    found++;
+                }
+                Trace("ForceStateMarkers: first scan found=" + found + " state-marker texts");
+                if (found == 0)
+                {
+                    // No state markers yet (maybe game hasn't loaded the board).
+                    // Retry the full scan periodically (every 60 frames).
+                    if (_forceMarkerCalls % 60 != 0)
+                        return;
+                }
+            }
+
+            // Apply Chinese to all cached marker texts every call.
+            var stillValid = new List<TMP_Text>(_cachedMarkerTexts.Count);
+            int changed = 0;
+            for (int i = 0; i < _cachedMarkerTexts.Count; i++)
+            {
+                var tmp = _cachedMarkerTexts[i];
+                if (tmp == null || tmp.gameObject == null)
+                    continue;
+                if (!tmp.gameObject.scene.IsValid())
+                    continue;
+                var raw = tmp.text;
+                if (string.IsNullOrEmpty(raw))
+                {
+                    stillValid.Add(tmp);
+                    continue;
+                }
+                // If the cached text changed to something else (e.g., game
+                // progressed to a different turn state), update our cache.
+                if (!PrefixStateMarkers.Contains(raw))
+                {
+                    stillValid.Add(tmp);
+                    continue;
+                }
+                var zh = Rewrite(raw);
+                if (zh == null || zh == raw)
+                {
+                    stillValid.Add(tmp);
+                    continue;
+                }
+                CacheOriginal(tmp.GetInstanceID(), raw);
+                // Write Chinese via property setter (goes through our Prefix
+                // which already has the translation logic).
+                tmp.text = zh;
+                try { tmp.ForceMeshUpdate(); } catch { }
+                changed++;
+                stillValid.Add(tmp);
+            }
+            _cachedMarkerTexts.Clear();
+            _cachedMarkerTexts.AddRange(stillValid);
+
+            if (changed > 0 && _forceMarkerHits < 10)
+            {
+                _forceMarkerHits++;
+                Trace("ForceStateMarkers changed=" + changed + " (call " + _forceMarkerCalls + ")");
+            }
+        }
+        catch (Exception ex)
+        {
+            Trace("ForceStateMarkers error: " + ex.Message + "\n" + ex.StackTrace);
+        }
+    }
+
+    static void CacheOriginal(int id, string original)
+    {
+        if (id == 0 || string.IsNullOrEmpty(original))
+            return;
+        StateMarkerOriginals[id] = original;
+        _recentTextIds.Add(id);
+        if (_recentTextIds.Count > 64)
+        {
+            var oldId = _recentTextIds[0];
+            _recentTextIds.RemoveAt(0);
+            StateMarkerOriginals.Remove(oldId);
+        }
+    }
+
+    static string GetCachedOriginal(int id)
+    {
+        if (id == 0)
+            return null;
+        return StateMarkerOriginals.TryGetValue(id, out var v) ? v : null;
+    }
+
+    static string RewriteIncoming(string value)
+    {
+        if (string.IsNullOrEmpty(value))
+            return null;
+        if (HasCjk(value))
+            return null; // already Chinese; also short-circuits the recursion
+                          // when our own write re-enters set_text
+        if (IsTutorialProtected(value))
+            return null; // never rewrite tutorial prompts
+        // Fast path: most UI strings have a direct Exact entry. Skipping
+        // Rewrite's regex chain here keeps the per-set_text cost low since
+        // set_text fires on every text change (turn counters, card draws...).
+        if (Exact.TryGetValue(value, out var direct) && direct != value)
+            return direct;
+        return Rewrite(value);
+    }
+
+    // === set_text / SetText Prefixes: rewrite incoming text to Chinese ===
+
+    static void TmpTextSetPrefix(ref string value, TMP_Text __instance)
+    {
+        if (string.IsNullOrEmpty(value))
+            return;
+        if (IsTutorialProtected(value))
+            return;
+        // State markers: rewrite to Chinese visually AND cache the original
+        // English so the game's own read-back (via get_text) still works.
+        if (PrefixStateMarkers.Contains(value))
+        {
+            var zh = Rewrite(value);
+            if (zh != null && zh != value)
+            {
+                CacheOriginal(__instance != null ? __instance.GetInstanceID() : 0, value);
+                value = zh;
+            }
+            return;
+        }
+        var translated = RewriteIncoming(value);
+        if (translated != null)
+            value = translated;
+    }
+
+    static void UiTextSetPrefix(ref string value, Text __instance)
+    {
+        if (string.IsNullOrEmpty(value))
+            return;
+        if (IsTutorialProtected(value))
+            return;
+        if (PrefixStateMarkers.Contains(value))
+        {
+            var zh = Rewrite(value);
+            if (zh != null && zh != value)
+            {
+                CacheOriginal(__instance != null ? __instance.GetInstanceID() : 0, value);
+                value = zh;
+            }
+            return;
+        }
+        var translated = RewriteIncoming(value);
+        if (translated != null)
+            value = translated;
+    }
+
+    static void TextMeshSetPrefix(ref string value, TextMesh __instance)
+    {
+        if (string.IsNullOrEmpty(value))
+            return;
+        if (IsTutorialProtected(value))
+            return;
+        if (PrefixStateMarkers.Contains(value))
+        {
+            var zh = Rewrite(value);
+            if (zh != null && zh != value)
+            {
+                CacheOriginal(__instance != null ? __instance.GetInstanceID() : 0, value);
+                value = zh;
+            }
+            return;
+        }
+        var translated = RewriteIncoming(value);
+        if (translated != null)
+            value = translated;
+    }
+
+    // === get_text Postfixes: return cached original English for state markers ===
+
+    static void TmpTextGetPostfix(TMP_Text __instance, ref string __result)
+    {
+        if (__instance == null || string.IsNullOrEmpty(__result))
+            return;
+        if (IsTutorialProtected(__result))
+            return;
+        if (!PrefixStateMarkers.Contains(__result))
+            return;
+        var original = GetCachedOriginal(__instance.GetInstanceID());
+        if (original != null)
+            __result = original;
+    }
+
+    static void UiTextGetPostfix(Text __instance, ref string __result)
+    {
+        if (__instance == null || string.IsNullOrEmpty(__result))
+            return;
+        if (IsTutorialProtected(__result))
+            return;
+        if (!PrefixStateMarkers.Contains(__result))
+            return;
+        var original = GetCachedOriginal(__instance.GetInstanceID());
+        if (original != null)
+            __result = original;
+    }
+
+    static void TextMeshGetPostfix(TextMesh __instance, ref string __result)
+    {
+        if (__instance == null || string.IsNullOrEmpty(__result))
+            return;
+        if (IsTutorialProtected(__result))
+            return;
+        if (!PrefixStateMarkers.Contains(__result))
+            return;
+        var original = GetCachedOriginal(__instance.GetInstanceID());
+        if (original != null)
+            __result = original;
+    }
+
+    internal static void PatchSceneLoaded()
+    {
+        if (_sceneHooked)
+            return;
+        _sceneHooked = true;
+        try
+        {
+            SceneManager.sceneLoaded += DelegateSupport.ConvertDelegate<UnityEngine.Events.UnityAction<Scene, LoadSceneMode>>(OnSceneLoaded);
+            Trace("sceneLoaded hooked");
+        }
+        catch (Exception ex)
+        {
+            Trace("sceneLoaded hook failed: " + ex);
+        }
+    }
+
+    static void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        try
+        {
+            RelocalizeUi();
+            Trace("sceneLoaded: " + scene.name + " relocalized");
+        }
+        catch (Exception ex)
+        {
+            Trace("sceneLoaded relocalize failed: " + ex.Message);
         }
     }
 
@@ -584,6 +982,11 @@ public class Plugin : BasePlugin
     {
         if (string.IsNullOrEmpty(text))
             return null;
+        // Tutorial click prompts are game-critical (hit-testing for the
+        // continue button). Never translate them — the overlay generator
+        // also deliberately skips them in Phase 0 (project memory).
+        if (IsTutorialProtected(text))
+            return null;
         if (text.IndexOf("CLICK", StringComparison.OrdinalIgnoreCase) >= 0
             || text.IndexOf("<link", StringComparison.OrdinalIgnoreCase) >= 0)
         {
@@ -654,6 +1057,58 @@ public class Plugin : BasePlugin
     }
 
     static readonly HashSet<int> FontsHooked = new HashSet<int>();
+
+    // Text that the game uses for internal state comparison / toggle logic.
+    // If the Prefix rewrites these, the game's own read-back sees Chinese,
+    // takes the wrong branch, and oscillates on the next click. These fall
+    // back to the Postfix (which rewrites AFTER the game's toggle logic ran)
+    // for translation, giving a one-frame lag but stable game behavior.
+    static readonly HashSet<string> PrefixStateMarkers = new HashSet<string>(StringComparer.Ordinal)
+    {
+        "Play Your Turn",
+        "PLAY YOUR TURN",
+        "End Turn",
+        "END TURN",
+        "End\nTurn",
+        "END\nTURN",
+    };
+
+    // Tutorial click prompts contain "CLICK" or <link> tags that the game
+    // uses for hit-testing the tutorial continue button. Rewriting these
+    // breaks the click relay (memory: tutorial translation deliberately
+    // disabled in overlay.py Phase 0 until click functionality is restored).
+    // These are NEVER rewritten by either Prefix or Postfix.
+    static bool IsTutorialProtected(string value)
+    {
+        if (string.IsNullOrEmpty(value))
+            return false;
+        if (value.IndexOf("CLICK", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        if (value.IndexOf("<link", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        return false;
+    }
+
+    static bool IsPrefixDenied(string value)
+    {
+        if (string.IsNullOrEmpty(value))
+            return false;
+        if (IsTutorialProtected(value))
+            return true; // never touch tutorial prompts in the Prefix
+        if (PrefixStateMarkers.Contains(value))
+            return true;
+        return false;
+    }
+
+    // Postfix helper: rewrite only state markers (tutorial text stays untouched).
+    static bool IsPostfixCandidate(string value)
+    {
+        if (string.IsNullOrEmpty(value))
+            return false;
+        if (IsTutorialProtected(value))
+            return false; // tutorial text: NEVER rewrite
+        return PrefixStateMarkers.Contains(value);
+    }
 
     internal static void RelocalizeUi()
     {
@@ -936,14 +1391,36 @@ public class CjkFontBehaviour : MonoBehaviour
         if (!_loggedFirst)
         {
             _loggedFirst = true;
-            Plugin.Trace("first Update frame (waiting before touching TMP)");
+            Plugin.Trace("first Update frame (CJK fallback watcher)");
         }
-        if (_frames == 50)
-            Plugin.Trace("delay elapsed, installing CJK font");
-        if (_frames < 50)
+        if (!Plugin.IsReady)
+        {
+            if (_frames >= 30 && _frames % 30 == 0)
+            {
+                Plugin.EnsureCjkFallback();
+                if (Plugin.IsReady)
+                {
+                    Plugin.PatchTextSetters();
+                    Plugin.PatchSceneLoaded();
+                }
+            }
             return;
-        Plugin.EnsureCjkFallback();
-        if (_frames % 30 == 0)
+        }
+        if (_frames % 60 == 0)
             Plugin.RelocalizeUi();
+    }
+
+    // LateUpdate runs AFTER all Update() calls in the scene, meaning
+    // the game's per-frame text resets (Play Your Turn → English) have
+    // already happened. We run the watchdog here as a belt-and-suspenders
+    // approach — Camera.onPreRender also handles it for the absolute last
+    // write before render.
+    void LateUpdate()
+    {
+        if (!Plugin.IsReady)
+            return;
+        // Run every frame (not every 3) to minimize the window where
+        // English might be visible.
+        Plugin.ForceStateMarkersToChinese();
     }
 }
