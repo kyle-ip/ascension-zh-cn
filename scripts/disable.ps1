@@ -1,4 +1,4 @@
-﻿﻿#Requires -Version 5.1
+﻿﻿﻿﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Disable the Chinese patch and restore the game to pre-patch state (idempotent).

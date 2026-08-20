@@ -1,216 +1,474 @@
-en,zh,scope,source,notes
-# 系列,,,,游戏内系列名只用「创升纪元」。早期官方/维基「暗杀神」不进游戏。
-Ascension,创升纪元,series,official-chuangsheng,游戏内系列名。方盒子365/维基作「暗杀神」，游戏内不使用。
-Deckbuilding Game,牌组构筑游戏,series,community,
-# 世界,,,,
-Vigil,祈夜,world,official-anshashen,维基/360百科。世界与王都同名。
-Godslayer,弑神者,world,official-anshashen,荣誉最高者获得的称号。
-Samael,萨麦尔,world,official-anshashen,
-Samael the Fallen,堕落之神萨麦尔,world,official-anshashen,维基亦作「萨麦尔 堕落之神」。
-Arha,亚哈,world,official-anshashen,官方卡名「亚哈新兵」。360百科作「阿罗汉」，不用。
-Ogo,奥戈,world,community,360百科作「奥歌」；卡名与扩展沿用「奥戈」。
-Hedron,多面体,world,community,机械派故乡。360百科未译专名。
-Logos,逻各斯,world,community,
-Xeron,泽伦,world,community,卡名用「泽伦」。《创升纪元：元素的馈赠》背景作「希戎」。
-Elements,元素,world,official-chuangsheng,《创升纪元：元素的馈赠》
-# 派系,,,,图鉴侧栏。Monster 兼作卡牌类型，scope 留 faction 以生成首字放大。
-Enlightened,圣贤,faction,community,360百科/方塔桌游。勿用「启迪」。
-Lifebound,命约,faction,community,360百科/方塔桌游。勿用「生命」（与上古山谷生命指示物冲突）。
-Mechana,机械,faction,community,360百科/方塔桌游。
-Void,虚空,faction,official-anshashen,派系名。区域名用「虚空区」。
-Common,普通,faction,community,图鉴侧栏。勿用「中立」。
-Monster,怪物,faction,official-anshashen,图鉴侧栏 / 卡牌类型。
-# 类型,,,,
-Hero,英雄,type,official-anshashen,
-Construct,神器,type,official-anshashen,早期官方译法。勿用「建筑/构装」。
-Event,事件,type,community,
-Treasure,宝藏,type,community,灵魂风暴起。
-Soul Gem,灵魂宝石,type,community,不朽英雄。
-Portal,传送门,type,community,推广卡。
-Temple,神殿,type,community,上古山谷 / 元素的馈赠。
-# 资源,,,,
-Rune,符文,resource,official-anshashen,维基。勿用「符石/魔力」。
-Runes,符文,resource,official-anshashen,
-Power,战力,resource,official-anshashen,维基。勿用「力量」。
-Honor,荣誉,resource,official-anshashen,维基。
-Honor token,荣誉点数,resource,official-anshashen,维基。360百科亦作「荣誉标示物」。
-Honor tokens,荣誉点数,resource,official-anshashen,
-Honor Pool,荣誉池,zone,community,
-Energy,能量,resource,community,祈夜崛起起的资源。关键字 Energize 译「充能」。
-Insight,洞察,resource,community,梦境。
-Renown,声望,resource,new,史诗传奇。
-Life,生命,resource,community,上古山谷指示物。勿与命约（Lifebound）混淆。
-Death,死亡,resource,community,上古山谷指示物。
-# 区域,,,,
-Center Row,中央牌列,zone,official-anshashen,维基。公共6张。
-Center Row Draw Pile,中央牌库,zone,official-anshashen,维基。
-Center Deck,中央牌库,zone,official-anshashen,
-the void,虚空区,zone,official-anshashen,区域。派系仍为「虚空」。
-the Void,虚空区,zone,official-anshashen,
-Discard Pile,弃牌堆,zone,official-anshashen,维基亦作「弃牌区」。界面用「弃牌堆」。
-Discard Zone,弃牌区,zone,official-anshashen,
-Player Draw Pile,玩家牌库,zone,official-anshashen,维基。
-Deck,牌库,zone,official-anshashen,
-Hand,手牌,zone,official-anshashen,
-in play,战场,zone,official-anshashen,维基：牌库、手牌、弃牌堆和战场。
-Play Area,战场,zone,community,
-Portal Deck,传送门牌库,zone,community,
-Always Available,始终可用,zone,community,360百科。起始可招募区。
-Always available,始终可用,zone,community,
-# 行动,,,,
-Acquire,获取,verb,official-anshashen,花费符文取得英雄/神器。
-Defeat,击败,verb,official-anshashen,花费战力消灭怪物。
-Banish,放逐,verb,official-anshashen,移入虚空区。
-Discard,弃牌,verb,official-anshashen,手牌放入弃牌堆。
-Destroy,摧毁,verb,official-anshashen,灵魂风暴：将神器放入弃牌区。此前版本称弃牌。
-Draw,抽,verb,official-anshashen,抽一张牌。
-Play,打出,verb,official-anshashen,
-put into play,进入战场,verb,community,
-Put into play,进入战场,verb,community,
-Shuffle,洗牌,verb,official-anshashen,
-Reveal,展示,verb,community,
-Look at,查看,verb,community,
-Gain,获得,verb,official-anshashen,
-Lose,失去,verb,community,
-Choose,选择,verb,community,
-Control,控制,verb,community,
-Replace,替换,verb,community,
-Copy,复制,verb,community,
-Spend,花费,verb,community,
-Pay,支付,verb,community,
-# 关键字 / 卡面标签,,,,
-Reward,奖励,label,official-anshashen,击败怪物。
-Reward:,奖励：,label,official-anshashen,卡面残留英文。
-Fate,天命,label,official-anshashen,邪神归来。进入中央牌列时结算。
-FATE,天命,label,official-anshashen,
-FATE:,天命：,label,official-anshashen,
-Trophy,战利品,label,official-anshashen,灵魂风暴。击败后可置于玩家前。
-Trophy:,战利品：,label,official-anshashen,
-Trophy Monster,战利品怪物,label,official-anshashen,维基。
-Trophy Monsters,战利品怪物,label,official-anshashen,
-Ongoing,持续,label,community,
-ONGOING,持续,label,community,
-ONGOING:,持续：,label,community,
-Ongoing Trophy,持续战利品,label,community,
-Event Trophy,事件战利品,label,community,
-Unbanishable,不可放逐,label,official-anshashen,维基。如堕落之神萨麦尔。
-Unite,联合,label,community,冠军黎明。
-UNITE,联合,label,community,
-MULTI-UNITE,多重联合,label,community,
-Multi-Unite,多重联合,label,community,
-Energize,充能,label,community,祈夜崛起 / 领域解开。资源名是「能量」。
-ENERGIZE,充能,label,community,
-Rally,集结,label,community,冠军黎明。
-Rally: Enlightened,集结：圣贤,label,community,
-Rally: Lifebound,集结：命约,label,community,
-Rally: Mechana,集结：机械,label,community,
-Rally: Void,集结：虚空,label,community,
-Rally: Monster,集结：怪物,label,community,
-Day,昼,label,community,黑暗释放。
-DAY,昼,label,community,
-DAY:,昼：,label,community,
-Night,夜,label,community,黑暗释放。
-NIGHT,夜,label,community,
-NIGHT:,夜：,label,community,
-Empower,赋力,label,official-chuangsheng,《创升纪元：元素的馈赠》评测/规则用语。
-EMPOWER,赋力,label,official-chuangsheng,
-Infest,感染,label,official-chuangsheng,《创升纪元：元素的馈赠》。
-INFEST,感染,label,official-chuangsheng,
-Infested Monster,感染怪物,label,official-chuangsheng,
-Transform,转化,label,official-chuangsheng,《创升纪元：元素的馈赠》转化事件。
-TRANSFORM,转化,label,official-chuangsheng,
-Transform Event,转化事件,label,official-chuangsheng,
-Serenity,宁静,label,community,谵妄。
-SERENITY,宁静,label,community,
-Echo,回响,label,community,谵妄。
-ECHO,回响,label,community,
-Dreambind,梦缚,label,community,梦境。
-Phantasm,幻象,label,community,救赎。
-Plunder,掠夺,label,community,救赎。
-Champion,冠军,label,community,冠军黎明。
-Legendary,传奇,label,community,史诗传奇。
-Legendary Boon,传奇恩赐,label,community,
-Auction,竞拍,label,community,
-Dreamborn,梦生,label,community,
-Delirium Die,谵妄骰,label,new,谵妄。
-Soul counter,灵魂指示物,label,community,
-Soul counters,灵魂指示物,label,community,
-Wish counter,愿望指示物,label,community,
-Wish counters,愿望指示物,label,community,
-Once per turn,每回合一次,label,community,
-without paying its cost,无需支付费用,label,community,
-# 始终可用,,,,
-Apprentice,学徒,card,official-anshashen,起始牌库。维基/360百科。
-Militia,民兵,card,official-anshashen,起始牌库。
-Mystic,秘教士,card,official-anshashen,维基/官方卡面。360百科偶作「秘修士」，不用。
-Heavy Infantry,重装步兵,card,official-anshashen,
-Cultist,邪教徒,card,official-anshashen,
-Fanatic,狂信者,card,official-anshashen,维基。灵魂风暴始终可用。
-# 扩展,,,,CotG–SoS 跟《暗杀神》；2017 年后跟《创升纪元》。
-Chronicle of the Godslayer,弑神编年史,set,official-anshashen,方盒子365。
-10th Anniversary,十周年,set,community,
-Chronicle of the Godslayer 10th Anniversary,弑神编年史十周年,set,community,
-Return of the Fallen,邪神归来,set,official-anshashen,方盒子365。
-Storm of Souls,灵魂风暴,set,official-anshashen,方盒子365。
-Immortal Heroes,不朽英雄,set,official-anshashen,
-Rise of Vigil,祈夜崛起,set,community,
-Darkness Unleashed,黑暗释放,set,community,
-Realms Unraveled,领域解开,set,community,
-Dawn of Champions,冠军黎明,set,community,
-Dreamscape,梦境,set,community,
-War of Shadows,暗影之战,set,community,
-Gift of the Elements,元素的馈赠,set,official-chuangsheng,米宝海豚《创升纪元：元素的馈赠》。
-Ascension: Gift of the Elements,创升纪元：元素的馈赠,set,official-chuangsheng,
-Valley of the Ancients,上古山谷,set,community,
-Delirium,谵妄,set,new,
-Deliverance,救赎,set,new,
-Legends,史诗传奇,set,community,
-Promo,推广卡,set,community,界面「Promo N」作「特典 N」。
-Promos,推广卡,set,community,
-# 界面,,,,无官方菜单中文；译名跟术语表对齐。
-App Store,商店,ui,new,主菜单。勿用「内购店/应用商店」。
-In-App Store,商店,ui,new,
-内购店,商店,ui,new,旧译兼容。
-应用商店,商店,ui,new,旧译兼容。
-Card Gallery,卡牌图鉴,ui,new,
-Rulebook,规则书,ui,new,
-Tutorial,教程,ui,new,
-Main Menu,主菜单,ui,new,
-Menu,菜单,ui,new,
-Settings,设置,ui,new,
-Options,选项,ui,new,
-Offline,离线,ui,new,
-Online,在线,ui,new,
-Exit,退出,ui,new,
-Back,返回,ui,new,
-Continue,继续,ui,new,
-Cancel,取消,ui,new,
-Owned,已拥有,ui,new,
-Coming Soon,即将推出,ui,new,
-Now Available,现已推出,ui,new,
-Downloadable Content,可下载内容,ui,new,
-END TURN,结束回合,ui,new,
-End Turn,结束回合,ui,new,
-Play Your Turn,请出牌,ui,new,
-Play All,全部打出,ui,new,
-PLAY ALL,全部打出,ui,new,
-Loading cards please wait...,正在加载卡牌，请稍候…,ui,new,
-"Loading cards, please wait...",正在加载卡牌，请稍候…,ui,new,
-Player,玩家,ui,official-anshashen,
-Turn,回合,ui,official-anshashen,
-Lobby,大厅,ui,new,
-Music,音乐,ui,new,
-Sound Effects,音效,ui,new,
-Cultist Screams,邪教徒惨叫,ui,new,
-Easy,简单,ui,new,
-Normal,普通,ui,new,
-Hard,困难,ui,new,
-Expert,专家,ui,new,
-Beginner,入门,ui,new,
-Language,语言,ui,new,
-English,英语,ui,new,
-Chinese,中文,ui,new,
-Simplified Chinese,简体中文,ui,new,
-Traditional Chinese,繁体中文,ui,new,
-Enable Chinese,启用中文,ui,new,
-Disable Chinese,关闭中文,ui,new,
+en,zh,scope,source,status,notes
+# 系列					游戏内系列名只用「创升纪元」。早期官方/维基「暗杀神」不进游戏。,,,,,
+Ascension,创升纪元,series,official-chuangsheng,approved,游戏内系列名。方盒子365/维基作「暗杀神」，游戏内不使用。
+Chronicles of the Godslayer,《弑神编年史》,series,official-anshashen,approved,（旧：Chronicles的弑神者）
+Deckbuilding Game,牌组构筑游戏,series,community,approved,
+# 世界,,,,,
+Arha,亚哈,world,official-anshashen,approved,官方卡名「亚哈新兵」。360百科作「阿罗汉」，不用。
+Elements,元素,world,official-chuangsheng,approved,《创升纪元：元素的馈赠》
+Godslayer,弑神者,world,official-anshashen,approved,荣誉最高者获得的称号。
+Hedron,多面体,world,community,approved,机械派故乡。360百科未译专名。
+Kor,科尔,world,community,approved,FLAVOR_KOR 人物名（救赎）
+Logos,逻各斯,world,community,approved,
+Ogo,奥戈,world,community,approved,360百科作「奥歌」；卡名与扩展沿用「奥戈」。
+Samael,萨麦尔,world,official-anshashen,approved,
+Samael the Fallen,堕落之神萨麦尔,world,official-anshashen,approved,维基亦作「萨麦尔 堕落之神」。
+Vigil,祈夜,world,official-anshashen,approved,维基/360百科。世界与王都同名。
+Xeron,泽伦,world,community,approved,卡名用「泽伦」。《创升纪元：元素的馈赠》背景作「希戎」。
+# 派系					图鉴侧栏。Monster 兼作卡牌类型，scope 留 faction 以生成首字放大。,,,,,
+Common,普通,faction,community,approved,图鉴侧栏。勿用「中立」。
+Enlightened,圣贤,faction,community,approved,360百科/方塔桌游。勿用「启迪」。
+Lifebound,命约,faction,community,approved,360百科/方塔桌游。勿用「生命」（与上古山谷生命指示物冲突）。
+Mechana,机械,faction,community,approved,360百科/方塔桌游。
+Monster,怪物,faction,official-anshashen,approved,图鉴侧栏 / 卡牌类型。
+Void,虚空,faction,official-anshashen,approved,派系名。区域名用「虚空区」。
+# 类型,,,,,
+Construct,神器,type,official-anshashen,approved,早期官方译法。勿用「建筑/构装」。
+Event,事件,type,community,approved,
+Hero,英雄,type,official-anshashen,approved,
+Portal,传送门,type,community,approved,推广卡。
+Soul Gem,灵魂宝石,type,community,approved,不朽英雄。
+Temple,神殿,type,community,approved,上古山谷 / 元素的馈赠。
+Treasure,宝藏,type,community,approved,灵魂风暴起。
+# 资源,,,,,
+Death,死亡,resource,community,approved,上古山谷指示物。
+Energy,能量,resource,community,approved,祈夜崛起起的资源。关键字 Energize 译「充能」。
+Honor,荣誉,resource,official-anshashen,approved,维基。
+Honor token,荣誉点数,resource,official-anshashen,approved,维基。360百科亦作「荣誉标示物」。
+Honor tokens,荣誉点数,resource,official-anshashen,approved,
+Insight,洞察,resource,community,approved,梦境。
+Life,生命,resource,community,approved,上古山谷指示物。勿与命约（Lifebound）混淆。
+Power,战力,resource,official-anshashen,approved,维基。勿用「力量」。
+Renown,声望,resource,new,approved,史诗传奇。
+Rune,符文,resource,official-anshashen,approved,维基。勿用「符石/魔力」。
+Runes,符文,resource,official-anshashen,approved,
+# 区域,,,,,
+Always Available,始终可用,zone,community,approved,360百科。起始可招募区。
+Always available,始终可用,zone,community,approved,
+Center Deck,中央牌库,zone,official-anshashen,approved,
+Center Row,中央牌列,zone,official-anshashen,approved,维基。公共6张。
+Center Row Draw Pile,中央牌库,zone,official-anshashen,approved,维基。
+Deck,牌库,zone,official-anshashen,approved,
+Discard Pile,弃牌堆,zone,official-anshashen,approved,维基亦作「弃牌区」。界面用「弃牌堆」。
+Discard Zone,弃牌区,zone,official-anshashen,approved,
+Hand,手牌,zone,official-anshashen,approved,
+Honor Pool,荣誉池,zone,community,approved,
+in play,战场,zone,official-anshashen,approved,维基：牌库、手牌、弃牌堆和战场。
+Play Area,战场,zone,community,approved,
+Player Draw Pile,玩家牌库,zone,official-anshashen,approved,维基。
+Portal Deck,传送门牌库,zone,community,approved,
+the void,虚空区,zone,official-anshashen,approved,区域。派系仍为「虚空」。
+the Void,虚空区,zone,official-anshashen,approved,
+# 行动,,,,,
+Acquire,获取,verb,official-anshashen,approved,花费符文取得英雄/神器。
+Banish,放逐,verb,official-anshashen,approved,移入虚空区。
+Choose,选择,verb,community,approved,
+Control,控制,verb,community,approved,
+Copy,复制,verb,community,approved,
+Defeat,击败,verb,official-anshashen,approved,花费战力消灭怪物。
+Destroy,摧毁,verb,official-anshashen,approved,灵魂风暴：将神器放入弃牌区。此前版本称弃牌。
+Discard,弃牌,verb,official-anshashen,approved,手牌放入弃牌堆。
+Draw,抽,verb,official-anshashen,approved,抽一张牌。
+Gain,获得,verb,official-anshashen,approved,
+Look at,查看,verb,community,approved,
+Lose,失去,verb,community,approved,
+Pay,支付,verb,community,approved,
+Play,打出,verb,official-anshashen,approved,
+put into play,进入战场,verb,community,approved,
+Put into play,进入战场,verb,community,approved,
+Replace,替换,verb,community,approved,
+Reveal,展示,verb,community,approved,
+Shuffle,洗牌,verb,official-anshashen,approved,
+Spend,花费,verb,community,approved,
+# 关键字 / 卡面标签,,,,,
+Auction,竞拍,label,community,approved,
+Champion,冠军,label,community,approved,冠军黎明。
+Day,昼,label,community,approved,黑暗释放。
+DAY,昼,label,community,approved,
+DAY:,昼：,label,community,approved,
+Delirium Die,谵妄骰,label,new,approved,谵妄。
+Dream Construct,梦铸神器,label,community,approved,Dreamscape subtype
+Dream Vision,梦境视域,label,community,approved,"DoC 冠军卡 系列名, 原 ui_runtime 梦Vision错译"
+Dreambind,梦缚,label,community,approved,梦境。
+Dreamborn,梦生,label,community,approved,
+Echo,回响,label,community,approved,谵妄。
+ECHO,回响,label,community,approved,
+Empower,赋力,label,official-chuangsheng,approved,《创升纪元：元素的馈赠》评测/规则用语。
+EMPOWER,赋力,label,official-chuangsheng,approved,
+Energize,充能,label,community,approved,祈夜崛起 / 领域解开。资源名是「能量」。
+ENERGIZE,充能,label,community,approved,
+Enlightened Champion,圣贤勇士,label,community,approved,配套 subtitle
+Enlightened Dream Vision,圣贤梦境视域,label,community,approved,原 启迪梦Vision 错译
+Event Trophy,事件战利品,label,community,approved,
+Fate,天命,label,official-anshashen,approved,邪神归来。进入中央牌列时结算。
+FATE,天命,label,official-anshashen,approved,
+FATE:,天命：,label,official-anshashen,approved,
+Infest,感染,label,official-chuangsheng,approved,《创升纪元：元素的馈赠》。
+INFEST,感染,label,official-chuangsheng,approved,
+Infested Monster,感染怪物,label,official-chuangsheng,approved,
+Legendary,传奇,label,community,approved,史诗传奇。
+Legendary Boon,传奇恩赐,label,community,approved,
+Legendary Boons,传奇恩赐,label,community,approved,复数同译
+Lifebound Champion,命约勇士,label,community,approved,"DoC 冠军面板 subtitle, 原 生命冠军 错译"
+Mechana Champion,机械勇士,label,community,approved,配套 subtitle
+Mechana Dream Hero,机械梦英雄,label,community,approved,Dreamscape subtitle
+MULTI-UNITE,多重联合,label,community,approved,
+Multi-Unite,多重联合,label,community,approved,
+Night,夜,label,community,approved,黑暗释放。
+NIGHT,夜,label,community,approved,
+NIGHT:,夜：,label,community,approved,
+Once per turn,每回合一次,label,community,approved,
+Ongoing,持续,label,community,approved,
+ONGOING,持续,label,community,approved,
+Ongoing Trophy,持续战利品,label,community,approved,
+ONGOING:,持续：,label,community,approved,
+Phantasm,幻象,label,community,approved,救赎。
+Plunder,掠夺,label,community,approved,救赎。
+Rally,集结,label,community,approved,冠军黎明。
+Rally: Enlightened,集结：圣贤,label,community,approved,
+Rally: Lifebound,集结：命约,label,community,approved,
+Rally: Mechana,集结：机械,label,community,approved,
+Rally: Monster,集结：怪物,label,community,approved,
+Rally: Void,集结：虚空,label,community,approved,
+Renown 1,名望 1,label,community,approved,
+Renown 2,名望 2,label,community,approved,
+Renown 3,名望 3,label,community,approved,
+Renown 4,名望 4,label,community,approved,
+Renown 5,名望 5,label,community,approved,
+Renown Track,名望轨道,label,community,approved,
+Reward,奖励,label,official-anshashen,approved,击败怪物。
+Reward:,奖励：,label,official-anshashen,approved,卡面残留英文。
+Serenity,宁静,label,community,approved,谵妄。
+SERENITY,宁静,label,community,approved,
+Soul counter,灵魂指示物,label,community,approved,
+Soul counters,灵魂指示物,label,community,approved,
+Squire's Challenge,侍从挑战,label,community,draft,
+Transform,转化,label,official-chuangsheng,approved,《创升纪元：元素的馈赠》转化事件。
+TRANSFORM,转化,label,official-chuangsheng,approved,
+Transform Event,转化事件,label,official-chuangsheng,approved,
+Trophy,战利品,label,official-anshashen,approved,灵魂风暴。击败后可置于玩家前。
+Trophy Monster,战利品怪物,label,official-anshashen,approved,维基。
+Trophy Monsters,战利品怪物,label,official-anshashen,approved,
+Trophy:,战利品：,label,official-anshashen,approved,
+Unbanishable,不可放逐,label,official-anshashen,approved,维基。如堕落之神萨麦尔。
+Unite,联合,label,community,approved,冠军黎明。
+UNITE,联合,label,community,approved,
+Void Champion,虚空勇士,label,community,approved,配套 subtitle
+Void Dream Vision,虚空梦境视域,label,community,approved,原 虚空梦Vision 错译
+Wish counter,愿望指示物,label,community,approved,
+Wish counters,愿望指示物,label,community,approved,
+without paying its cost,无需支付费用,label,community,approved,
+# 始终可用,,,,,
+Apprentice,学徒,card,official-anshashen,approved,起始牌库。维基/360百科。
+Avatar of the Fallen,堕落者化身,card,community,approved,FLAVOR_AVATAROFTHEFALLEN
+Cultist,邪教徒,card,official-anshashen,approved,
+Defender of Vigil,祈夜守卫者,card,community,approved,Promo 英雄（带官方译名以官方为准）
+Explosive Swarm,爆裂虫群,card,community,approved,Promo 怪物
+Fanatic,狂信者,card,official-anshashen,approved,维基。灵魂风暴始终可用。
+Heavy Infantry,重装步兵,card,official-anshashen,approved,
+"Kor, the Ferromancer",铁术师科尔,card,official-anshashen,approved,
+Militia,民兵,card,official-anshashen,approved,起始牌库。
+Mystic,秘教士,card,official-anshashen,approved,维基/官方卡面。360百科偶作「秘修士」，不用。
+"Nova, Born of Chaos",诺娃·混沌所生,card,community,approved,Promo 英雄
+Puggageddon,巴哥末日,card,official-anshashen,approved,官方 lua_cards 定名，入 glossary 防漏匹配
+Squire,侍从,card,community,draft,救赎机制？待确认卡图是否出现
+# 扩展					CotG–SoS 跟《暗杀神》；2017 年后跟《创升纪元》。,,,,,
+10th Anniversary,十周年,set,community,approved,
+Ascension: Gift of the Elements,创升纪元：元素的馈赠,set,official-chuangsheng,approved,
+Chronicle of the Godslayer,弑神编年史,set,official-anshashen,approved,方盒子365。
+Chronicle of the Godslayer 10th Anniversary,弑神编年史十周年,set,community,approved,
+Darkness Unleashed,黑暗释放,set,community,approved,
+Dawn of Champions,冠军黎明,set,community,approved,
+Delirium,谵妄,set,new,approved,
+Deliverance,救赎,set,new,approved,
+Dreamscape,梦境,set,community,approved,
+Gift of the Elements,元素的馈赠,set,official-chuangsheng,approved,米宝海豚《创升纪元：元素的馈赠》。
+Immortal Heroes,不朽英雄,set,official-anshashen,approved,
+Legends,史诗传奇,set,community,approved,
+Promo,推广卡,set,community,approved,界面「Promo N」作「特典 N」。
+Promos,推广卡,set,community,approved,
+Realms Unraveled,领域解开,set,community,approved,
+Return of the Fallen,邪神归来,set,official-anshashen,approved,方盒子365。
+Rise of Vigil,祈夜崛起,set,community,approved,
+Storm of Souls,灵魂风暴,set,official-anshashen,approved,方盒子365。
+Valley of the Ancients,上古山谷,set,community,approved,
+War of Shadows,暗影之战,set,community,approved,
+# 特典 / 推广卡,,,,,
+Promo Card,特典卡,promo,community,approved,
+Promo Cards,特典卡,promo,community,approved,统一称『卡』不称『卡牌』
+Promo Pack #1,特典包 1,promo,community,approved,
+Promo Pack #2,特典包 2,promo,community,approved,
+Promo Pack #3,特典包 3,promo,community,approved,
+Promo Pack #4,特典包 4,promo,community,approved,
+Promo Pack #5,特典包 5,promo,community,approved,
+Promo Pack #6,特典包 6,promo,community,approved,
+Promo Pack #7,特典包 7,promo,community,approved,
+Promo Pack 1,特典包 1,promo,community,approved,（旧 ui_runtime 机翻：Promo兽群 1）
+Promo Pack 2,特典包 2,promo,community,approved,
+Promo Pack 3,特典包 3,promo,community,approved,
+Promo Pack 4,特典包 4,promo,community,approved,
+Promo Pack 5,特典包 5,promo,community,approved,
+Promo Pack 6,特典包 6,promo,community,approved,（旧 ui_runtime 机翻：Promo兽群 6）
+Promo Pack 7,特典包 7,promo,community,approved,
+Promo1,特典 1,promo,community,approved,UI 内部名
+Promo2,特典 2,promo,community,approved,
+Promo3,特典 3,promo,community,approved,
+Promo4,特典 4,promo,community,approved,
+Promo5,特典 5,promo,community,approved,
+Promo6,特典 6,promo,community,approved,
+Promo7,特典 7,promo,community,approved,
+# 界面					无官方菜单中文；译名跟术语表对齐。,,,,,
+30 Minutes,30 分钟,ui,community,approved,对局时长选项
+60 Minutes,60 分钟,ui,community,draft,若未出现则跳过
+AI Player,AI 玩家,ui,community,approved,单机对局
+App Store,商店,ui,new,approved,主菜单。勿用「内购店/应用商店」。
+Back,返回,ui,new,approved,
+Beginner,入门,ui,new,approved,
+Bottom Area,底部区域,ui,community,draft,若未出现则跳过
+Cancel,取消,ui,new,approved,
+Card Gallery,卡牌图鉴,ui,new,approved,
+Chinese,中文,ui,new,approved,
+Claim Victory,宣告胜利,ui,community,approved,结束条件达成
+Coming Soon,即将推出,ui,new,approved,
+Confirmation Popup Text Here,确认弹窗占位文本,ui,community,approved,开发者占位符；若运行时不出现则不译
+Continue,继续,ui,new,approved,
+Create Game,创建对局,ui,community,approved,菜单按钮
+Create Offline Game,创建离线对局,ui,community,approved,页面大标题
+Cultist Screams,邪教徒惨叫,ui,new,approved,
+Disable Chinese,关闭中文,ui,new,approved,
+Downloadable Content,可下载内容,ui,new,approved,
+Easy,简单,ui,new,approved,
+Enable Chinese,启用中文,ui,new,approved,
+END TURN,结束回合,ui,new,approved,
+End Turn,结束回合,ui,new,approved,
+English,英语,ui,new,approved,
+Exit,退出,ui,new,approved,
+Expert,专家,ui,new,approved,
+Hard,困难,ui,new,approved,
+Hot Seat,热座模式,ui,community,draft,同屏多人模式（若存在）
+In-App Store,商店,ui,new,approved,
+Info block of Info,信息区块（调试占位符）,ui,community,approved,开发者残留文本
+Info block of Info block of Info,信息区块的信息区块（调试占位符）,ui,community,approved,开发者残留文本
+Info blocky of Info,信息区块（调试占位符）,ui,community,approved,变体（拼错）
+Info Line,信息栏,ui,community,approved,
+Keep Playing,继续对局,ui,community,approved,延迟结束结算
+Language,语言,ui,new,approved,
+Loading cards please wait...,正在加载卡牌，请稍候…,ui,new,approved,
+"Loading cards, please wait...",正在加载卡牌，请稍候…,ui,new,approved,
+"Loading rulebook, please wait",正在加载规则书，请稍候…,ui,community,approved,不带句号变体
+"Loading rulebook, please wait.",正在加载规则书，请稍候…,ui,community,approved,
+Lobby,大厅,ui,new,approved,
+Main Menu,主菜单,ui,new,approved,
+Menu,菜单,ui,new,approved,
+Music,音乐,ui,new,approved,
+Next Game,下一局,ui,community,approved,结算页
+Normal,普通,ui,new,approved,
+Now Available,现已推出,ui,new,approved,
+Offline,离线,ui,new,approved,
+Offline Games,离线对局,ui,community,approved,页面标题
+Online,在线,ui,new,approved,
+Opponent,对手,ui,community,approved,
+Opponent Area,对手区域,ui,community,approved,
+Opponent Bids:,对手竞拍：,ui,community,approved,命运竞拍
+Opponents,对手,ui,community,approved,玩家区域外的统称
+Options,选项,ui,new,approved,
+Owned,已拥有,ui,new,approved,
+Play All,全部打出,ui,new,approved,
+PLAY ALL,全部打出,ui,new,approved,
+Play Your Turn,请出牌,ui,new,approved,
+Player,玩家,ui,official-anshashen,approved,
+Player 1,玩家 1,ui,official-anshashen,approved,
+Player 2,玩家 2,ui,official-anshashen,approved,
+Player 3,玩家 3,ui,official-anshashen,approved,
+Player 4,玩家 4,ui,official-anshashen,approved,
+Player Area,玩家区域,ui,community,approved,教学提示
+Roll Results:,掷骰结果：,ui,community,approved,谵妄骰结算
+Rulebook,规则书,ui,new,approved,
+Settings,设置,ui,new,approved,
+Simplified Chinese,简体中文,ui,new,approved,
+Sound Effects,音效,ui,new,approved,
+Top Area,顶部区域,ui,community,approved,荣誉池/回合区
+Traditional Chinese,繁体中文,ui,new,approved,
+Turn,回合,ui,official-anshashen,approved,
+Tutorial,教程,ui,new,approved,
+Unlimited,不限时,ui,community,approved,对局时长
+内购店,商店,ui,new,approved,旧译兼容。
+应用商店,商店,ui,new,approved,旧译兼容。
+# 系统按钮,,,,,
+All,全部,button,community,approved,
+Bid,竞拍,button,community,approved,谵妄命运竞拍
+Buy,获取,button,community,approved,商店语境可理解为「购买」，但沿用卡牌术语以避免歧义
+Chat,聊天,button,community,approved,在线对局聊天
+Close,关闭,button,community,approved,
+Commit,确认,button,community,approved,与 Confirm 同译，用于设置提交
+Confirm,确认,button,community,approved,P0 删除对局 / 通用弹窗确认按钮
+Copy,复制,button,community,approved,
+Defend,防御,button,community,approved,
+Delete,删除,button,community,approved,删除对局 / 删除档案
+Discard,弃牌,button,official-anshashen,approved,
+Dismiss,关闭,button,community,approved,
+Done,完成,button,community,approved,
+Even,偶数,button,community,approved,谵妄骰结算
+FAQ,常见问题,button,community,approved,Playdek 登录页面 FAQ
+Give,给予,button,community,approved,
+No,否,button,community,approved,
+None,无,button,community,approved,无选中 / 无可选
+Odd,奇数,button,community,approved,谵妄骰结算
+OK,好,button,community,approved,与 ui.csv Key_OK 保持一致
+or,或,button,community,approved,扩展选择面板 弑神编 or 十周年
+Pass,跳过,button,community,approved,命运竞拍跳过
+Play,打出,button,official-anshashen,approved,卡牌打出；商店 Playdek 处不适用
+Reveal,展示,button,community,approved,卡牌操作
+SBT,SBT,button,official-chuangsheng,approved,Stone Blade Tournament 官方缩写不译
+Select,选择,button,community,approved,
+Start,开始,button,community,approved,P0 创建对局右下角开始按钮
+Target,指定,button,community,approved,卡牌目标指定
+Undo,撤销,button,community,approved,
+Use,使用,button,community,approved,
+XII,12,button,community,approved,罗马数字 12，用于命运/名望数值显示
+Yes,是,button,community,approved,
+# 登录 / 账号（Playdek / Asmodee.net）,,,,,
+"""Player Name"" has not logged into the Ascension servers.",「玩家姓名」尚未登录《创升纪元》服务器。,login,community,approved,
+(OPEN),（开放）,login,community,approved,大厅标签
+(Unavailable),（不可用）,login,community,approved,大厅标签
+1-7 Days,1–7 天,login,community,approved,（旧：1-7 往日）
+< 1 Day,< 1 天,login,community,approved,（旧：< 1 昼）
+Add a Friend,添加好友,login,community,approved,（旧：加入Friend）
+Avatar,头像,login,community,approved,
+Create Account,创建账号,login,community,approved,
+Email,邮箱,login,community,approved,
+Email:,邮箱：,login,community,approved,
+Enter email here,在此输入邮箱,login,community,approved,placeholder
+Enter password here,在此输入密码,login,community,draft,若未出现则跳过
+Enter username here,在此输入用户名,login,community,approved,placeholder
+Forgot Login,忘记登录信息,login,community,approved,登录页按钮
+Friend,好友,login,community,approved,
+Friends,好友,login,community,approved,社交
+has not logged into the Ascension servers.,尚未登录《创升纪元》服务器。,login,community,approved,（旧：具有不logged置入Ascension servers.）
+Have Asmodee.net Account,我有 Asmodee.net 账号,login,community,approved,保留原名以区分两个平台
+Have Playdek Account,我有 Playdek 账号,login,community,approved,
+Have Valid Asmodee.net Account,我有可用的 Asmodee.net 账号,login,community,approved,
+Have Valid Playdek Account,我有可用的 Playdek 账号,login,community,approved,
+Log in,登录,login,community,approved,
+Log Out,登出,login,community,approved,
+Login,登录,login,community,approved,
+Logout,登出,login,community,approved,
+Name,姓名,login,community,approved,创建账号输入字段
+Name:,姓名：,login,community,approved,
+Network Connection,网络连接,login,community,approved,旧 ui_runtime 把 Network Connection迷失 译错
+Network Connection Lost,网络连接已断开,login,community,approved,（旧 ui_runtime 机翻：Network Connection迷失）
+Notification Options,通知偏好,login,community,approved,
+Open Games,开放对局,login,community,approved,大厅
+Opt In,加入,login,community,approved,通知 / 通讯订阅
+Opt Out,退出,login,community,approved,
+Password,密码,login,community,approved,
+Password:,密码：,login,community,approved,
+Playdek Account Required,需要 Playdek 账号,login,community,approved,弹窗标题
+Player Name,玩家姓名,login,community,approved,（旧：Player命名）
+Profile,个人,login,community,approved,
+Profile & Settings,个人与设置,login,community,approved,右侧边栏入口
+Sign Up,注册,login,community,approved,
+StoneBlade Newsletter,StoneBlade 通讯,login,community,approved,公司名保留原文
+Username,用户名,login,community,approved,
+Username:,用户名：,login,community,approved,
+Verify PW,确认密码,login,community,approved,
+Verify PW:,确认密码：,login,community,approved,
+"Would you like to delete
+this friend from your list?",确定要将此好友从你的好友列表中删除吗？,login,community,approved,（旧：Would你like以delete此friend从你的list?）
+Would you like to delete this friend from your list?,确定要将此好友从你的好友列表中删除吗？,login,community,approved,不带换行变体
+# DLC 商店文案术语,,,,,
+Bundle,合集,shop,community,approved,
+Bundles,合集,shop,community,approved,商店合集分类
+Collection Bundle,收藏合集,shop,community,approved,
+Expansion,扩展,shop,community,approved,
+Expansion Bundle,扩展合集,shop,community,approved,
+Expansions,扩展,shop,community,approved,创建对局左侧扩展列表
+Promo Pack,特典包,shop,community,approved,promo兽群 严重错误修正
+Promos,特典,shop,community,approved,Promo N → 特典 N 单独映射
+Purchase all the Ascension bundles for one low price!,以超划算的价格一次购买全部《创升纪元》合集！,shop,community,approved,L长句整句，不拆
+Purchase Separately,单独购买,shop,community,approved,
+Purchase:,购买：,shop,community,approved,价格前缀
+Purchaseable in Steam,可在 Steam 购买,shop,community,approved,in/on 变体同译
+Purchaseable on Steam,可在 Steam 购买,shop,community,approved,旧译 Purchaseable在Steam 需修正
+Required Expansions,所需扩展,shop,community,approved,在线对局
+Select Expansions/Promos,选择扩展/特典,shop,community,approved,创建对局底部标题
+# 规则书章节标题 / DLC 节标题,,,,,
+Delirium Rulebook,谵妄规则书,chapter,new,approved,
+Deliverance Rulebook,救赎规则书,chapter,new,approved,
+Description:,简介：,chapter,community,approved,DLC 详情
+FACTIONS:,派系：,chapter,community,approved,
+FATE CARDS:,天命卡：,chapter,community,approved,邪神归来机制说明
+Features,特性,chapter,community,approved,每本扩展规则书都有
+Honor Pool:,荣誉池：,chapter,community,approved,结束条件段
+HONOR:,荣誉：,chapter,community,approved,
+Includes 35 unique new cards.,包含 35 张全新卡牌。,chapter,community,approved,黑暗释放
+Includes 43 unique new cards.,包含 43 张全新卡牌。,chapter,community,approved,暗影之战
+Includes 47 unique new cards.,包含 47 张全新卡牌。,chapter,community,approved,祈夜崛起
+Includes 49 unique new cards.,包含 49 张全新卡牌。,chapter,community,approved,谵妄
+Includes 51 unique new cards.,包含 51 张全新卡牌。,chapter,community,approved,救赎
+Includes 51 unique<br>new cards.,包含 51 张全新<br>卡牌。,chapter,community,approved,救赎版本（带换行）
+Includes 53 unique new cards.,包含 53 张全新卡牌。,chapter,community,approved,领域解开
+Includes 55 unique new cards.,包含 55 张全新卡牌。,chapter,community,approved,元素的馈赠
+Includes 72 unique new cards.,包含 72 张全新卡牌。,chapter,community,approved,冠军黎明
+Includes 76 unique new cards.,包含 76 张全新卡牌。,chapter,community,approved,梦境
+Includes XX unique new cards.,包含 XX 张全新卡牌。,chapter,community,draft,模板句，L# 实际每段带数字
+Introduction,简介,chapter,community,approved,弑神编年史前言
+POWER:,战力：,chapter,community,approved,
+Promo Cards Included:,包含的特典卡：,chapter,community,approved,特典卡合集描述
+RESOURCES,资源,chapter,community,approved,大标题（allcaps）
+Resources:,资源：,chapter,community,approved,弑神编年史规则书第 1 大章
+RulebookASCL,史诗传奇规则书,chapter,community,approved,Prefab 名
+RulebookDC,冠军黎明规则书,chapter,community,approved,
+RulebookDLRM,谵妄规则书,chapter,community,approved,Prefab 名
+RulebookDLV,救赎规则书,chapter,community,approved,Prefab 名
+RulebookDS,梦境规则书,chapter,community,approved,
+RulebookDU,黑暗释放规则书,chapter,community,approved,Prefab 内部名（Manifest 里有）
+RulebookGE,元素的馈赠规则书,chapter,community,approved,
+RulebookRU,领域解开规则书,chapter,community,approved,
+RulebookRV,祈夜崛起规则书,chapter,community,approved,
+RulebookVA,上古山谷规则书,chapter,community,approved,
+RulebookWA,暗影之战规则书,chapter,community,approved,
+RUNES:,符文：,chapter,community,approved,截图里混杂段的左侧标题
+Temples:,神庙：,chapter,community,approved,上古山谷机制
+Unique new cards per set:,每款扩展的全新卡牌数：,chapter,community,approved,DLC 合集描述标题
+What's New,新增内容,chapter,community,approved,每本扩展规则书都有
+# Credits / 制作人员职务标签（人名保留原文，仅译职务）,,,,,
+Additional Design,附加设计,credits,community,approved,
+Additional IP Development,附加 IP 开发,credits,community,approved,Credits 职位标签（可选译，人名保留）
+Administration,管理层,credits,community,approved,Credits 大标题
+Art Direction,美术指导,credits,community,approved,
+Assistant Producer,助理制作人,credits,community,approved,
+Associate Producer,副制作人,credits,community,approved,
+Based on the Game Designed by Justin Gary,基于 Justin Gary 设计的桌游,credits,community,approved,设计师名保留原文
+"Chief Executive Officer, Playdek",Playdek 首席执行官,credits,community,approved,人名 Joel Goodman 保留原文
+Design,设计,credits,community,approved,
+Development,开发,credits,community,approved,
+Executive Producer,执行制作人,credits,community,approved,
+Game Design,游戏设计,credits,community,approved,
+Graphic Design,平面设计,credits,community,approved,
+Illustrations,插画,credits,community,approved,
+Lead Engineer,首席工程师,credits,community,approved,
+Lead Producer,首席制作人,credits,community,approved,
+Playtesting,试玩,credits,community,approved,
+Produced by,制作,credits,community,approved,
+Producer,制作人,credits,community,approved,
+Senior Producer,高级制作人,credits,community,approved,
+Software Engineer,软件工程师,credits,community,approved,
+Special Thanks,特别感谢,credits,community,approved,
+# 规则书完整段落 / 商店完整整句 / 常用整句,,,,,
+"At the end of the game, the Honor token pool empties and each player counts up their total Honor to determine the winner.",游戏结束时，荣誉点数池耗尽，每位玩家清点其荣誉总数以决定胜者。,phrase,new,approved,荣誉池结束条件
+"Each faction has a different play style and strategy. Heroes and Constructs belong to one of the four factions, and Monsters are a separate card type.",每个派系都有不同的玩法和策略。英雄与神器分属四大派系之一，而怪物则是独立的卡牌类型。,phrase,new,approved,FACTIONS 段后续
+"For millennia, the world of Vigil has been isolated and protected from other realms.",千百年来，祈夜世界一直与其他领域隔绝并受其庇护。,phrase,new,approved,CotG 规则书前言 — L#39 第一段
+"Now, the barrier between dimensions is failing, and Samael, the Fallen God, has returned with his army of Monsters from the beyond!",如今，次元之间的屏障正在崩塌，堕落之神萨麦尔率领他的怪物大军从异界归来！,phrase,new,approved,CotG 前言 — 第二段
+Power is the second resource in Ascension. Power is used to defeat Monsters and earn rewards.,战力是《创升纪元》的第二大资源。战力用于击败怪物并获得奖励。,phrase,new,approved,RESOURCES 段 — POWER — 原句
+Runes are one of the two main resources in Ascension. Runes are used to acquire Heroes and Constructs so you can add them to your deck.,符文是《创升纪元》的两大核心资源之一。符文用于获取英雄和神器，将它们加入你的牌库。,phrase,new,approved,截图中 RESOURCES 段 — RUNES — 原句（解决符文为一的两main resources在Ascension问题）
+The final resource is Honor. The player with the most Honor at the end of the game wins.,最后一种资源是荣誉。游戏结束时荣誉最多的玩家获胜。,phrase,new,approved,RESOURCES 段 — HONOR — 原句
+The player who gains the most Honor Points will lead his army to defeat the Fallen One and earn the title of Godslayer.,获得最多荣誉点数的玩家将率领军队击败堕神，并赢得弑神者的称号。,phrase,new,approved,CotG 前言 — 第五段
+"There are four factions in Ascension: Enlightened, Lifebound, Mechana, and Void.",《创升纪元》共有四大派系：圣贤、命约、机械和虚空。,phrase,new,approved,FACTIONS 段
+"You are one of the few warriors capable of facing this threat and defending your world, but you cannot do it alone!",你是少数能够直面此威胁、守护你世界的战士之一，但你无法孤军奋战！,phrase,new,approved,CotG 前言 — 第三段
+You must summon powerful Heroes and Constructs to aid you in your battles.,你必须召集强大的英雄与神器，助你投入战斗。,phrase,new,approved,CotG 前言 — 第四段
+# 其他 scope 未识别条目,,,,,
+reputation,声望,mechanic,community,approved,"DoC rep 资源, 原机翻保留 rep 英文"
+Nairi,奈莉,champion,community,approved,FLAVOR_NAIRI 命约冠军
+Dhartha,达萨,champion,community,approved,FLAVOR_DHARTHA 圣贤冠军
+Sadranis,萨德拉尼斯,champion,community,approved,FLAVOR_SADRANIS 虚空冠军

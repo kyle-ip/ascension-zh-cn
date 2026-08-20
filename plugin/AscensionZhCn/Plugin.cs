@@ -17,7 +17,7 @@ using UnityEngine.UI;
 
 namespace AscensionZhCn;
 
-[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.3.2")]
+[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.4.0")]
 public class Plugin : BasePlugin
 {
     internal static Plugin Instance;
@@ -36,13 +36,39 @@ public class Plugin : BasePlugin
     static string LogPath = "";
     static string DumpPath = "";
     static ConfigEntry<bool> DumpUntranslated;
+    static ConfigEntry<bool> DumpLongStrings;
     static readonly HashSet<string> Dumped = new HashSet<string>();
-    const int DumpMax = 2500;
+    const int DumpMax = 5000;
+    const int DumpLongMaxLen = 10000;
+    // Re-entrancy guard: when we rewrite text and write it back via
+    // tmp.text = zh, Unity's layout system may fire set_text again.
+    // Without this guard, long rulebook text can trigger infinite loops.
+    [ThreadStatic] static bool _inRewrite;
+    const int RewriteMaxLen = 8000;  // Skip regex chain for very long text (catastrophic backtracking risk)
     static Harmony _harmony;
     static MethodInfo _convertEmbedded;
 
     internal static readonly Dictionary<string, string> Keys = new Dictionary<string, string>();
     internal static readonly Dictionary<string, string> Exact = new Dictionary<string, string>();
+    // Normalized key → zh: keys are produced by stripping all rich-text tags
+    // and normalizing whitespace.  This lets us match game-rendered text that
+    // has subtle whitespace/tag differences from the dump.
+    internal static readonly Dictionary<string, string> NormalizedExact = new Dictionary<string, string>();
+    // Prefix index: maps normalized text prefixes (>=40 chars) to zh translations.
+    // This handles the case where the game sends individual paragraphs but our
+    // overlay stores the full concatenated multi-paragraph text.
+    internal static readonly Dictionary<string, string> NormalizedPrefix = new Dictionary<string, string>();
+    // Sentence index: maps normalized individual sentences to their zh translations.
+    // Built by splitting overlay entries into sentences so that even if the game
+    // renders text at sentence-level granularity, we can still match.
+    internal static readonly Dictionary<string, string> NormalizedSentence = new Dictionary<string, string>();
+    // Contains index: maps short normalized fragments to zh translations.
+    // For game text that is a substring of an overlay entry, we can find
+    // the full overlay entry and return its Chinese translation.
+    internal static readonly Dictionary<string, string> NormalizedContains = new Dictionary<string, string>();
+    // Sorted list of normalized keys for binary-search reverse prefix matching
+    private static List<string> _sortedNormKeys;
+    private static List<string> _sortedNormValues;
 
     static readonly Regex DropCap = new Regex(
         @"<size=\s*[^>]*>\s*(.)\s*</size>(?:<space=[^>]*>)?(.*)",
@@ -60,7 +86,7 @@ public class Plugin : BasePlugin
             LogPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "plugin.log");
             DumpPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "untranslated.tsv");
             Directory.CreateDirectory(Path.GetDirectoryName(LogPath));
-            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.3.2 (gallery drop-cap + glossary)\n");
+            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.3.3 (rulebook + DLC long-string dump)\n");
         }
         catch
         {
@@ -76,6 +102,11 @@ public class Plugin : BasePlugin
                 "DumpUntranslated",
                 true,
                 "Write unseen English loc keys and TMP strings to StreamingAssets/zh-cn/untranslated.tsv");
+            DumpLongStrings = Config.Bind(
+                "Debug",
+                "DumpLongStrings",
+                true,
+                "Also dump long English strings (>400 chars, with <sprite> tags) as kind 'L' for rulebook/DLC store copy capture. Set false after ingest to reduce disk writes.");
             if (DumpUntranslated.Value && !string.IsNullOrEmpty(DumpPath) && !File.Exists(DumpPath))
                 File.WriteAllText(DumpPath, "# kind\tsrc\tsample\n# play menus/gallery once, then: python tools/ingest_untranslated.py\n");
         }
@@ -191,7 +222,11 @@ public class Plugin : BasePlugin
                     Exact[src] = zh;
                 }
             }
-            Trace("loaded overlay " + path + " keys=" + Keys.Count + " exact=" + Exact.Count);
+            // Build normalized index: strip all TMP rich-text tags and collapse
+            // whitespace so that game-rendered text with minor formatting
+            // differences still matches our rulebook.csv / overlay entries.
+            BuildNormalizedExact();
+            Trace("loaded overlay " + path + " keys=" + Keys.Count + " exact=" + Exact.Count + " normExact=" + NormalizedExact.Count);
         }
         catch (Exception ex)
         {
@@ -348,7 +383,255 @@ public class Plugin : BasePlugin
 
     static string Unescape(string value)
     {
-        return value.Replace("\\n", "\n").Replace("\\t", "\t").Replace("\\\\", "\\");
+        return value
+            .Replace("\\r", " ")
+            .Replace("\\n", "\n")
+            .Replace("\\t", "\t")
+            .Replace("\\\\", "\\");
+    }
+
+    static readonly Regex StripAllTags = new Regex(@"<[^>]*>", RegexOptions.Compiled);
+    static readonly Regex NormalizeWs = new Regex(@"\s+", RegexOptions.Compiled);
+
+    // Common Unicode → ASCII punctuation mappings for fuzzy matching
+    static readonly Dictionary<char, char> UnicodePuncMap = new Dictionary<char, char>
+    {
+        ['\u2014'] = '-', // em dash
+        ['\u2013'] = '-', // en dash
+        ['\u2018'] = '\'', // left single quote
+        ['\u2019'] = '\'', // right single quote
+        ['\u201C'] = '"', // left double quote
+        ['\u201D'] = '"', // right double quote
+        ['\u2026'] = '.', // ellipsis
+        ['\u00A0'] = ' ', // non-breaking space
+        ['\u3000'] = ' ', // CJK space
+        ['\uff0c'] = ',', // full-width comma
+        ['\uff0e'] = '.', // full-width period
+        ['\uff1a'] = ':', // full-width colon
+        ['\uff01'] = '!', // full-width exclaim
+        ['\uff1f'] = '?', // full-width question
+        ['\uff08'] = '(', // full-width paren
+        ['\uff09'] = ')', // full-width paren
+        ['\u300A'] = '[', // left angle bracket
+        ['\u300B'] = ']', // right angle bracket
+        ['\u3010'] = '[', // left black square
+        ['\u3011'] = ']', // right black square
+    };
+
+    static string NormalizeForLookup(string text)
+    {
+        if (string.IsNullOrEmpty(text))
+            return "";
+        // Strip all TMP/HTML-style tags
+        var stripped = StripAllTags.Replace(text, " ");
+        // Map Unicode punctuation to ASCII equivalents
+        var sb = new System.Text.StringBuilder(stripped.Length);
+        foreach (char c in stripped)
+        {
+            if (UnicodePuncMap.TryGetValue(c, out var mapped))
+                sb.Append(mapped);
+            else
+                sb.Append(c);
+        }
+        stripped = sb.ToString();
+        // Collapse whitespace (including \r\n → space)
+        stripped = NormalizeWs.Replace(stripped, " ");
+        return stripped.Trim().ToLowerInvariant();
+    }
+
+    static void BuildNormalizedExact()
+    {
+        NormalizedExact.Clear();
+        NormalizedPrefix.Clear();
+        NormalizedSentence.Clear();
+        NormalizedContains.Clear();
+        foreach (var kv in Exact)
+        {
+            var norm = NormalizeForLookup(kv.Key);
+            if (norm.Length >= 4)
+            {
+                // Prefer the entry with the longest zh translation
+                // (most complete). This handles the case where multiple
+                // Exact keys normalize to the same form (e.g. different
+                // whitespace/escape variants of the same rulebook paragraph).
+                if (!NormalizedExact.ContainsKey(norm)
+                    || kv.Value.Length > NormalizedExact[norm].Length)
+                {
+                    NormalizedExact[norm] = kv.Value;
+                }
+
+                // Build prefix index: for every entry >= 30 chars, register
+                // prefixes at 5-char intervals so we can match partial paragraphs
+                // that the game renders as individual TMP_Text components.
+                if (norm.Length >= 30)
+                {
+                    for (int len = 30; len <= Math.Min(norm.Length, 120); len += 5)
+                    {
+                        var prefix = norm.Substring(0, len);
+                        if (!NormalizedPrefix.ContainsKey(prefix)
+                            || kv.Value.Length > NormalizedPrefix[prefix].Length)
+                        {
+                            NormalizedPrefix[prefix] = kv.Value;
+                        }
+                    }
+                }
+
+                // Build sentence index: split long entries into individual
+                // sentences and index each one. This handles the case where
+                // the game renders each sentence as a separate TMP_Text.
+                if (norm.Length >= 80)
+                {
+                    var sentences = norm.Split(new[] { ". ", "! ", "? " }, StringSplitOptions.None);
+                    foreach (var sent in sentences)
+                    {
+                        var s = sent.Trim();
+                        if (s.Length >= 25)
+                        {
+                            if (!NormalizedSentence.ContainsKey(s)
+                                || kv.Value.Length > NormalizedSentence[s].Length)
+                            {
+                                NormalizedSentence[s] = kv.Value;
+                            }
+                        }
+                    }
+                }
+
+                // Build contains index: for entries >= 60 chars, register
+                // 30-char substrings so we can match game text that is a
+                // fragment of an overlay entry.
+                if (norm.Length >= 60)
+                {
+                    int step = Math.Max(1, (norm.Length - 30) / 20);
+                    for (int pos = 0; pos <= norm.Length - 30; pos += step)
+                    {
+                        var fragment = norm.Substring(pos, 30);
+                        if (!NormalizedContains.ContainsKey(fragment)
+                            || kv.Value.Length > NormalizedContains[fragment].Length)
+                        {
+                            NormalizedContains[fragment] = kv.Value;
+                        }
+                    }
+                }
+            }
+        }
+
+        // Build sorted lists for binary-search reverse prefix matching
+        _sortedNormKeys = new List<string>(NormalizedExact.Keys);
+        _sortedNormKeys.Sort(StringComparer.Ordinal);
+        _sortedNormValues = new List<string>(_sortedNormKeys.Count);
+        foreach (var k in _sortedNormKeys)
+            _sortedNormValues.Add(NormalizedExact[k]);
+    }
+
+    static string LookupExactOrNormalized(string text)
+    {
+        // 1) Direct exact match
+        string zh;
+        if (Exact.TryGetValue(text, out zh) && zh != text)
+            return zh;
+        // 2) Trimmed exact
+        var trimmed = text.Trim();
+        if (trimmed != text && Exact.TryGetValue(trimmed, out zh) && zh != trimmed)
+            return zh;
+        // 3) Normalized full-text match
+        var norm = NormalizeForLookup(text);
+        if (norm.Length >= 4 && NormalizedExact.TryGetValue(norm, out zh))
+            return zh;
+        // 4) Prefix-based match: the game may render individual paragraphs
+        //    that are prefixes of our overlay entries. Check progressively
+        //    shorter prefixes (down to 30 chars).
+        if (norm.Length >= 30)
+        {
+            int maxLen = Math.Min(norm.Length, 120);
+            for (int len = maxLen; len >= 30; len -= 5)
+            {
+                var prefix = norm.Substring(0, len);
+                if (NormalizedPrefix.TryGetValue(prefix, out zh))
+                    return zh;
+            }
+        }
+        // 5) Sentence-level match: the game text might be a single sentence
+        //    extracted from a multi-sentence overlay entry.
+        if (norm.Length >= 25 && norm.Length <= 200)
+        {
+            if (NormalizedSentence.TryGetValue(norm, out zh))
+                return zh;
+        }
+        // 6) Contains-based match: check if any 30-char fragment of the game
+        //    text exists in our contains index, or vice versa.
+        if (norm.Length >= 30 && norm.Length <= 300)
+        {
+            for (int pos = 0; pos <= norm.Length - 30; pos++)
+            {
+                var fragment = norm.Substring(pos, 30);
+                if (NormalizedContains.TryGetValue(fragment, out zh))
+                    return zh;
+            }
+            // Also check if any overlay key contains the game text
+            if (norm.Length >= 40)
+            {
+                zh = FindByContains(norm);
+                if (zh != null)
+                    return zh;
+            }
+        }
+        // 7) Reverse prefix: the game text might be the START of an overlay
+        //    entry (e.g. game renders first sentence only). Use binary search.
+        if (norm.Length >= 30 && norm.Length <= 300)
+        {
+            zh = FindByReversePrefixBinary(norm);
+            if (zh != null)
+                return zh;
+        }
+        return null;
+    }
+
+    static string FindByReversePrefix(string norm)
+    {
+        // Search for overlay keys that start with the given normalized text.
+        // This handles the case where the game renders only a portion of
+        // the paragraph that's stored in the overlay.
+        foreach (var kv in NormalizedExact)
+        {
+            if (kv.Key.StartsWith(norm, StringComparison.Ordinal))
+                return kv.Value;
+        }
+        return null;
+    }
+
+    static string FindByReversePrefixBinary(string norm)
+    {
+        // Binary search: find the first key >= norm, then check if it starts with norm
+        if (_sortedNormKeys == null || _sortedNormKeys.Count == 0)
+            return null;
+        int idx = _sortedNormKeys.BinarySearch(norm);
+        if (idx < 0)
+            idx = ~idx; // First key >= norm
+        // Check nearby entries
+        for (int i = Math.Max(0, idx - 2); i < Math.Min(_sortedNormKeys.Count, idx + 5); i++)
+        {
+            if (_sortedNormKeys[i].StartsWith(norm, StringComparison.Ordinal))
+                return _sortedNormValues[i];
+        }
+        return null;
+    }
+
+    static string FindByContains(string norm)
+    {
+        // Find an overlay key that contains the given normalized text.
+        // This is the reverse of the contains index: it checks if the game
+        // text is fully contained within an overlay entry.
+        // Limit search to entries that are likely matches (similar length).
+        int targetLen = norm.Length;
+        foreach (var kv in NormalizedExact)
+        {
+            if (kv.Key.Length >= targetLen && kv.Key.Length <= targetLen + 300)
+            {
+                if (kv.Key.IndexOf(norm, StringComparison.Ordinal) >= 0)
+                    return kv.Value;
+            }
+        }
+        return null;
     }
 
     internal static void EnsureCjkFallback()
@@ -544,6 +827,11 @@ public class Plugin : BasePlugin
             // Cache them so we don't scan every frame.
             if (_cachedMarkerTexts.Count == 0)
             {
+                // Only scan every 60 frames when no markers found yet.
+                // This avoids a full scene scan every single frame.
+                if (_forceMarkerCalls % 60 != 0)
+                    return;
+
                 var scan = Resources.FindObjectsOfTypeAll<TMP_Text>();
                 if (scan == null)
                 {
@@ -568,13 +856,13 @@ public class Plugin : BasePlugin
                     _cachedMarkerTexts.Add(tmp);
                     found++;
                 }
-                Trace("ForceStateMarkers: first scan found=" + found + " state-marker texts");
+                if (found <= 10)
+                    Trace("ForceStateMarkers: first scan found=" + found + " state-marker texts");
                 if (found == 0)
                 {
                     // No state markers yet (maybe game hasn't loaded the board).
-                    // Retry the full scan periodically (every 60 frames).
-                    if (_forceMarkerCalls % 60 != 0)
-                        return;
+                    // Don't scan again next frame - wait for the 60-frame timer.
+                    return;
                 }
             }
 
@@ -656,16 +944,292 @@ public class Plugin : BasePlugin
         if (string.IsNullOrEmpty(value))
             return null;
         if (HasCjk(value))
-            return null; // already Chinese; also short-circuits the recursion
-                          // when our own write re-enters set_text
+            return null;
         if (IsTutorialProtected(value))
-            return null; // never rewrite tutorial prompts
-        // Fast path: most UI strings have a direct Exact entry. Skipping
-        // Rewrite's regex chain here keeps the per-set_text cost low since
-        // set_text fires on every text change (turn counters, card draws...).
-        if (Exact.TryGetValue(value, out var direct) && direct != value)
-            return direct;
+            return null;
+
+        bool isRulebook = LooksLikeRulebookText(value);
+        bool hasKw = ContainsRulebookGameplayKeyword(value);
+
+        // Try overlay lookup (exact, normalized, then prefix-based)
+        var zh = LookupExactOrNormalized(value);
+        if (zh != null)
+        {
+            if (isRulebook || hasKw)
+                LogRulebookMatch(value, zh);
+            return zh;
+        }
+
+        // If full lookup failed, try partial rewrite: split into sentences
+        // and match each individually. This handles the case where the game
+        // renders a multi-sentence paragraph but our overlay has only
+        // individual sentences.
+        if (value.Length >= 80 && isRulebook)
+        {
+            var partialZh = TryPartialRewrite(value);
+            if (partialZh != null && partialZh != value)
+            {
+                LogRulebookMatch(value, partialZh);
+                return partialZh;
+            }
+        }
+
+        // Rulebook-like text: do NOT fall through to ReplaceRemainders.
+        // Instead, log the miss so we can diagnose why the lookup failed.
+        if (isRulebook || hasKw)
+        {
+            var norm = NormalizeForLookup(value);
+            WriteRulebookDiagnostic($"MISS len={value.Length} normLen={norm.Length} text='{value.Substring(0, Math.Min(150, value.Length))}'");
+            return null; // return original text unchanged (no garbage)
+        }
+
         return Rewrite(value);
+    }
+
+    static void LogRulebookMatch(string original, string translated)
+    {
+        try
+        {
+            var snippet = original.Substring(0, Math.Min(100, original.Length));
+            File.AppendAllText(DumpPath, $"MATCH\t{original.Length}\t{snippet.Replace('\t', ' ').Replace('\r', ' ').Replace('\n', ' ')}\t→\t{translated.Substring(0, Math.Min(80, translated.Length))}\n");
+        }
+        catch { }
+    }
+
+    static void WriteRulebookDiagnostic(string message)
+    {
+        try
+        {
+            var diagPath = DumpPath.Replace("untranslated.tsv", "rulebook_diagnostic.log");
+            File.AppendAllText(diagPath, DateTime.Now.ToString("HH:mm:ss.fff") + " " + message + "\n");
+        }
+        catch { }
+    }
+
+    static string TryPartialRewrite(string text)
+    {
+        // Split text into sentences and try to match each one.
+        // Returns the text with matched sentences replaced by their translations.
+        // If no sentences match, returns null.
+        var sentences = new List<string>();
+        var separators = new List<string>();
+        int i = 0;
+        while (i < text.Length)
+        {
+            // Find sentence boundaries: ". ", "! ", "? ", or newlines
+            int nextEnd = -1;
+            int endLen = 0;
+            string[] patterns = { ". ", "! ", "? ", ".\n", "!\n", "?\n", "\n", "\r" };
+            foreach (var p in patterns)
+            {
+                int idx = text.IndexOf(p, i, StringComparison.Ordinal);
+                if (idx > 0 && (nextEnd < 0 || idx < nextEnd))
+                {
+                    nextEnd = idx;
+                    endLen = p.Length;
+                }
+            }
+            if (nextEnd < 0)
+            {
+                sentences.Add(text.Substring(i));
+                separators.Add("");
+                break;
+            }
+            sentences.Add(text.Substring(i, nextEnd - i));
+            separators.Add(text.Substring(nextEnd, endLen));
+            i = nextEnd + endLen;
+        }
+
+        var result = new System.Text.StringBuilder(text.Length);
+        int matchedCount = 0;
+        for (int j = 0; j < sentences.Count; j++)
+        {
+            var sent = sentences[j].Trim();
+            if (sent.Length >= 25)
+            {
+                var zhSent = LookupExactOrNormalized(sent);
+                if (zhSent != null && zhSent != sent)
+                {
+                    result.Append(zhSent);
+                    matchedCount++;
+                }
+                else
+                {
+                    result.Append(sent);
+                }
+            }
+            else
+            {
+                result.Append(sent);
+            }
+            if (j < separators.Count)
+                result.Append(separators[j]);
+        }
+
+        // Only return the result if we matched at least one sentence
+        if (matchedCount > 0 && matchedCount >= sentences.Count / 2)
+            return result.ToString();
+        return null;
+    }
+
+    static bool ContainsRulebookGameplayKeyword(string text)
+    {
+        if (string.IsNullOrEmpty(text) || text.Length < 40)
+            return false;
+        var lower = text.ToLowerInvariant();
+        foreach (var kw in RulebookGameplayKeywords)
+        {
+            if (lower.IndexOf(kw, StringComparison.Ordinal) >= 0)
+                return true;
+        }
+        return false;
+    }
+
+    static readonly HashSet<string> RulebookGameplayKeywords = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
+    {
+        "runes", "heroes", "constructs", "monsters", "honor",
+        "play cards", "acquire", "defeat", "discard pile", "personal deck",
+        "shuffled", "deck building", "gain runes", "future turns",
+        "replenish", "eligible to be acquired", "glow green",
+        "earn rewards", "play your turn",
+    };
+
+    // Rulebook-specific keywords that indicate text is part of a rulebook
+    // flavor narrative. These are unique enough to not appear in normal UI text.
+    static readonly HashSet<string> RulebookKeywords = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
+    {
+        // Lore / story keywords
+        "kythis", "gatekeeper", "samael", "deofol", "vigil", "divinations",
+        "fallen one", "fallen god", "storm of souls", "godslayer",
+        "souls", "afterlife", "purgatory",
+        "mortal will", "divine spirit", "yawning gate", "stream of souls",
+        "pulsating force", "cosmic events", "darkest portent",
+        "frightful tale", "reddened", "wrathful and red",
+        "the cultist", "end turn", "end your turn",
+        "flames of war", "war's wake", "storm looms", "call echo",
+        "reckoning", "ghostly tide", "event zone", "trophy monster",
+        "fanatic", "construct tray", "center row", "honor points",
+        "play order", "end game", "lifebound", "mechana", "void",
+        "dream vision", "champion", "dreams", "nightmares",
+        "insight", "dreamborn", "goblin", "temple",
+        "multi-faction", "war of shadows", "dawn of champions",
+        "realms unraveled", "dreamscape", "valley of the ancients",
+        "rise of vigil", "darkness unleashed", "delirium",
+        "portal deck", "portal cards", "ethereal",
+        // Gameplay keywords (for detecting plain-text rulebook paragraphs)
+        "runes", "heroes", "constructs", "monsters", "honor",
+        "play cards", "acquire", "defeat", "discard pile", "personal deck",
+        "shuffled", "deck building", "card from your hand",
+        "gain runes", "future turns", "rewards", "replenish",
+        "placed into your discard", "eligible to be acquired",
+        "glow green", "play your turn", "earn rewards",
+    };
+
+    static bool LooksLikeRulebookText(string text)
+    {
+        if (string.IsNullOrEmpty(text))
+            return false;
+        int len = text.Length;
+
+        // Has rich-text tags — hallmark of rulebook body text
+        if (text.IndexOf("<br", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        if (text.IndexOf("<sprite", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        if (text.IndexOf("<allcaps", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        if (text.IndexOf("<indent=", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        if (text.IndexOf("<margin=", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        if (text.IndexOf("<smallcaps", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+
+        // Long text with multiple lines (may have <br> or actual newlines)
+        if (len > 200 && (text.IndexOf('\n') >= 0 || text.IndexOf('\r') >= 0))
+            return true;
+
+        // Plain-text rulebook paragraph detection:
+        // 1) Numbered list items (e.g., "1. Play cards...", "2. After you...")
+        //    with rulebook keywords
+        if (len >= 80)
+        {
+            var lower = text.ToLowerInvariant();
+            int kwCount = 0;
+            foreach (var kw in RulebookKeywords)
+            {
+                if (lower.IndexOf(kw, StringComparison.Ordinal) >= 0)
+                    kwCount++;
+            }
+            if (kwCount >= 2)
+                return true;
+        }
+
+        // 2) Plain text >= 100 chars that starts with a number prefix ("1.", "2.", etc.)
+        //    followed by rulebook content
+        if (len >= 100 && len <= 600)
+        {
+            var trimmed = text.TrimStart();
+            if (trimmed.Length > 0 && char.IsDigit(trimmed[0]))
+            {
+                // Check if there's a period or paren after the digit(s)
+                int idx = 0;
+                while (idx < trimmed.Length && char.IsDigit(trimmed[idx]))
+                    idx++;
+                if (idx < trimmed.Length && (trimmed[idx] == '.' || trimmed[idx] == ')' || trimmed[idx] == ' '))
+                {
+                    // Numbered item — likely rulebook list
+                    return true;
+                }
+            }
+        }
+
+        // 3) Long plain text with multiple sentences and rulebook keywords
+        if (len >= 120 && len <= 800)
+        {
+            var lower = text.ToLowerInvariant();
+            int kwCount = 0;
+            foreach (var kw in RulebookKeywords)
+            {
+                if (lower.IndexOf(kw, StringComparison.Ordinal) >= 0)
+                    kwCount++;
+            }
+            if (kwCount >= 1)
+            {
+                // Count sentences
+                int sentences = 0;
+                for (int i = 0; i < text.Length; i++)
+                {
+                    char c = text[i];
+                    if (c == '.' || c == '!' || c == '?')
+                    {
+                        if (i == text.Length - 1 || char.IsWhiteSpace(text[i + 1]))
+                            sentences++;
+                    }
+                }
+                if (sentences >= 2)
+                    return true;
+            }
+        }
+
+        return false;
+    }
+
+    static bool ShouldDumpAsLong(string text)
+    {
+        if (string.IsNullOrEmpty(text))
+            return false;
+        // Always dump long text
+        if (text.Length > 400)
+            return true;
+        // Always dump text with sprite tags
+        if (text.IndexOf("<sprite", StringComparison.OrdinalIgnoreCase) >= 0)
+            return true;
+        // Also dump rulebook-like short text (has <br>, <allcaps>, <indent>, <margin>, <smallcaps>)
+        // These are individual rulebook paragraphs that need full-sentence translation.
+        if (LooksLikeRulebookText(text))
+            return true;
+        return false;
     }
 
     // === set_text / SetText Prefixes: rewrite incoming text to Chinese ===
@@ -674,13 +1238,17 @@ public class Plugin : BasePlugin
     {
         if (string.IsNullOrEmpty(value))
             return;
+        if (_inRewrite)
+            return; // re-entrancy guard
         if (IsTutorialProtected(value))
             return;
         // State markers: rewrite to Chinese visually AND cache the original
         // English so the game's own read-back (via get_text) still works.
         if (PrefixStateMarkers.Contains(value))
         {
+            _inRewrite = true;
             var zh = Rewrite(value);
+            _inRewrite = false;
             if (zh != null && zh != value)
             {
                 CacheOriginal(__instance != null ? __instance.GetInstanceID() : 0, value);
@@ -688,20 +1256,28 @@ public class Plugin : BasePlugin
             }
             return;
         }
+        _inRewrite = true;
         var translated = RewriteIncoming(value);
+        _inRewrite = false;
         if (translated != null)
             value = translated;
+        else if (ShouldDumpAsLong(value))
+            MaybeDump("L", value, null);
     }
 
     static void UiTextSetPrefix(ref string value, Text __instance)
     {
         if (string.IsNullOrEmpty(value))
             return;
+        if (_inRewrite)
+            return;
         if (IsTutorialProtected(value))
             return;
         if (PrefixStateMarkers.Contains(value))
         {
+            _inRewrite = true;
             var zh = Rewrite(value);
+            _inRewrite = false;
             if (zh != null && zh != value)
             {
                 CacheOriginal(__instance != null ? __instance.GetInstanceID() : 0, value);
@@ -709,20 +1285,28 @@ public class Plugin : BasePlugin
             }
             return;
         }
+        _inRewrite = true;
         var translated = RewriteIncoming(value);
+        _inRewrite = false;
         if (translated != null)
             value = translated;
+        else if (ShouldDumpAsLong(value))
+            MaybeDump("L", value, null);
     }
 
     static void TextMeshSetPrefix(ref string value, TextMesh __instance)
     {
         if (string.IsNullOrEmpty(value))
             return;
+        if (_inRewrite)
+            return;
         if (IsTutorialProtected(value))
             return;
         if (PrefixStateMarkers.Contains(value))
         {
+            _inRewrite = true;
             var zh = Rewrite(value);
+            _inRewrite = false;
             if (zh != null && zh != value)
             {
                 CacheOriginal(__instance != null ? __instance.GetInstanceID() : 0, value);
@@ -730,9 +1314,13 @@ public class Plugin : BasePlugin
             }
             return;
         }
+        _inRewrite = true;
         var translated = RewriteIncoming(value);
+        _inRewrite = false;
         if (translated != null)
             value = translated;
+        else if (ShouldDumpAsLong(value))
+            MaybeDump("L", value, null);
     }
 
     // === get_text Postfixes: return cached original English for state markers ===
@@ -822,6 +1410,24 @@ public class Plugin : BasePlugin
                 if (!LooksEnglishUi(src))
                     return;
             }
+            else if (kind == "L")
+            {
+                // Long-string path: rulebook body text + DLC store copy.
+                // Skip ${...} templates (LocalizationService placeholders);
+                // allow <sprite> tags and strings up to DumpLongMaxLen.
+                if (DumpLongStrings == null || !DumpLongStrings.Value)
+                    return;
+                if (src.IndexOf("${", StringComparison.Ordinal) >= 0)
+                    return;
+                if (src.Length > DumpLongMaxLen)
+                    return;
+                if (!LooksLongEnglish(src))
+                    return;
+            }
+            else
+            {
+                // kind == "K" or anything else: fall through to dedup/write.
+            }
             var token = kind + "\t" + src;
             if (!Dumped.Add(token))
                 return;
@@ -833,6 +1439,19 @@ public class Plugin : BasePlugin
         catch
         {
         }
+    }
+
+    static bool LooksLongEnglish(string text)
+    {
+        if (text.Length < 3 || HasCjk(text))
+            return false;
+        var letters = 0;
+        foreach (var ch in text)
+        {
+            if ((ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z'))
+                letters++;
+        }
+        return letters >= 3;
     }
 
     static bool LooksEnglishUi(string text)
@@ -956,6 +1575,12 @@ public class Plugin : BasePlugin
 
     static string ReplaceRemainders(string text)
     {
+        if (string.IsNullOrEmpty(text))
+            return null;
+        // Skip regex chain for very long text to avoid catastrophic
+        // backtracking (rulebook pages are often 2000+ chars).
+        if (text.Length > RewriteMaxLen)
+            return null;
         var next = text;
         next = Regex.Replace(
             next,
@@ -991,6 +1616,21 @@ public class Plugin : BasePlugin
             || text.IndexOf("<link", StringComparison.OrdinalIgnoreCase) >= 0)
         {
             return RewriteClickPrompt(text);
+        }
+        // Safety: skip word-by-word rewriting for rulebook-like text.
+        // This prevents the mixed Chinese/English garbage seen in rulebook pages.
+        if (LooksLikeRulebookText(text) || ContainsRulebookGameplayKeyword(text))
+        {
+            // Try overlay lookup one last time
+            var translated = LookupExactOrNormalized(text);
+            return translated; // null if not found (preserve original)
+        }
+        // For very long text (rulebook pages), skip regex chain and go
+        // straight to Exact / Normalized lookup to avoid catastrophic
+        // backtracking.
+        if (text.Length > RewriteMaxLen)
+        {
+            return LookupExactOrNormalized(text);
         }
         var remainder = ReplaceRemainders(text);
         if (remainder != null)
@@ -1054,6 +1694,85 @@ public class Plugin : BasePlugin
             }
         }
         return _uiCjk;
+    }
+
+    // Rulebook sweep state
+    static readonly HashSet<int> RulebookSeenIds = new HashSet<int>();
+    const int RulebookSweepInterval = 3; // frames
+    static int _rulebookSweepCounter;
+    static int _rulebookMissLogged;
+
+    internal static void SweepAllTexts()
+    {
+        try
+        {
+            _rulebookSweepCounter++;
+            if (_rulebookSweepCounter < RulebookSweepInterval)
+                return;
+            _rulebookSweepCounter = 0;
+
+            var texts = Resources.FindObjectsOfTypeAll<TMP_Text>();
+            if (texts == null)
+                return;
+            int changed = 0;
+            foreach (var tmp in texts)
+            {
+                if (tmp == null || tmp.gameObject == null || !tmp.gameObject.scene.IsValid())
+                    continue;
+                var text = tmp.text;
+                if (string.IsNullOrEmpty(text) || HasCjk(text))
+                    continue;
+                // Skip tutorial-protected text
+                if (IsTutorialProtected(text))
+                    continue;
+                // State markers are handled by ForceStateMarkers
+                if (PrefixStateMarkers.Contains(text))
+                    continue;
+
+                // Try full lookup (both exact and normalized)
+                var zh = LookupExactOrNormalized(text);
+                if (zh != null && zh != text)
+                {
+                    _inRewrite = true;
+                    tmp.text = zh;
+                    _inRewrite = false;
+                    try { tmp.ForceMeshUpdate(); } catch { }
+                    changed++;
+                    continue;
+                }
+
+                // If it looks like rulebook text, log the miss and skip
+                // word-by-word rewriting to avoid garbage output.
+                if (LooksLikeRulebookText(text))
+                {
+                    _rulebookMissLogged++;
+                    if (_rulebookMissLogged <= 50)
+                    {
+                        var norm = NormalizeForLookup(text);
+                        Trace($"RULEBOOK_MISS: len={text.Length} normLen={norm.Length} sample='{text.Substring(0, Math.Min(100, text.Length))}'...");
+                    }
+                    // Still dump it so we can ingest it
+                    MaybeDump("L", text, null);
+                    continue;
+                }
+
+                // For non-rulebook text, try Rewrite for word-level fixes
+                var rewritten = Rewrite(text);
+                if (rewritten != null && rewritten != text)
+                {
+                    _inRewrite = true;
+                    tmp.text = rewritten;
+                    _inRewrite = false;
+                    try { tmp.ForceMeshUpdate(); } catch { }
+                    changed++;
+                }
+            }
+            if (changed > 0)
+                Trace("sweep translated " + changed + " texts");
+        }
+        catch
+        {
+        }
     }
 
     static readonly HashSet<int> FontsHooked = new HashSet<int>();
@@ -1139,15 +1858,37 @@ public class Plugin : BasePlugin
                         }
                     }
                     var text = tmp.text;
-                    var zh = Rewrite(text);
-                    if (zh != null && zh != text)
+                    if (string.IsNullOrEmpty(text) || HasCjk(text))
+                        continue;
+
+                    // Rulebook-like text: skip word-by-word Rewrite (causes garbage).
+                    // Try overlay lookup first; if found, apply; otherwise skip.
+                    if (LooksLikeRulebookText(text))
                     {
-                        tmp.text = zh;
-                        text = zh;
+                        var zh = LookupExactOrNormalized(text);
+                        if (zh != null && zh != text)
+                        {
+                            _inRewrite = true;
+                            tmp.text = zh;
+                            _inRewrite = false;
+                            changed++;
+                        }
+                        continue; // skip MaybeDump for rulebook text
+                    }
+
+                    var rewriteResult = Rewrite(text);
+                    if (rewriteResult != null && rewriteResult != text)
+                    {
+                        tmp.text = rewriteResult;
+                        text = rewriteResult;
                         changed++;
                     }
                     else
+                    {
                         MaybeDump("E", text, null);
+                        if (text != null && (text.Length > 400 || text.IndexOf("<sprite", StringComparison.OrdinalIgnoreCase) >= 0))
+                            MaybeDump("L", text, null);
+                    }
                     if (HasCjk(text) && text.Length <= 40)
                     {
                         try
@@ -1181,7 +1922,11 @@ public class Plugin : BasePlugin
                                 changed++;
                             }
                             else
+                            {
                                 MaybeDump("E", label.text, null);
+                                if (label.text != null && (label.text.Length > 400 || label.text.IndexOf("<sprite", StringComparison.OrdinalIgnoreCase) >= 0))
+                                    MaybeDump("L", label.text, null);
+                            }
                             if (HasCjk(label.text))
                             {
                                 var font = UiCjkFont();
@@ -1406,7 +2151,7 @@ public class CjkFontBehaviour : MonoBehaviour
             }
             return;
         }
-        if (_frames % 60 == 0)
+        if (_frames % 300 == 0)
             Plugin.RelocalizeUi();
     }
 
@@ -1422,5 +2167,11 @@ public class CjkFontBehaviour : MonoBehaviour
         // Run every frame (not every 3) to minimize the window where
         // English might be visible.
         Plugin.ForceStateMarkersToChinese();
+        // SweepAllTexts is intentionally NOT called here — it did a full
+        // scene scan (Resources.FindObjectsOfTypeAll) every 3 frames which
+        // caused the game to freeze when entering rulebook scenes with many
+        // TMP_Text components. The set_text PREFIX hook already handles
+        // runtime text changes; the sweep is only needed once on scene load
+        // (handled by RelocalizeScene).
     }
 }

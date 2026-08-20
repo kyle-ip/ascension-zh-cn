@@ -28,8 +28,6 @@ Void Construct,虚空神器
 Monster,怪物
 Hero,英雄
 Construct,神器
-END TURN,结束回合
-End Turn,结束回合
 Music,音乐
 Sound Effects,音效
 Cultist Screams,邪教徒惨叫
@@ -40,12 +38,11 @@ Back,返回
 Offline Games,离线对局
 Continue,继续
 Common,普通
-"Loading cards, please wait...","正在加载卡牌，请稍候…"
-"Loading Cards, please wait...","正在加载卡牌，请稍候…"
+"Loading cards, please wait...",正在加载卡牌，请稍候…
+"Loading Cards, please wait...",正在加载卡牌，请稍候…
 Reward: Gain 1H.,奖励：获得1荣誉。
 Reward: 1 Honor,奖励：1荣誉
-"The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.","邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。"
-Monster,怪物
+The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.,邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。
 Enlightened,圣贤
 Lifebound,命约
 Mechana,机械
@@ -128,7 +125,189 @@ LeftArrow,← 方向键左
 RightArrow,→ 方向键右
 Escape,Esc 键
 Space,空格键
-Share Analytics,分享分析数据
-Gameplay Analytics,游戏分析
-"Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.","向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改。"
-"Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu","向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改"
+Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.,向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改。
+Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu,向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改
+"If you have never created a Playdek account, please click on the ""Create Account"" button and follow the process to create a new online account.","若你 拥有从不created Playdek account, please click在 ""Create Account"" button和跟随process以create新online account."
+"Loading rulebook,
+please wait。.","Loading rulebook,
+please wait。"
+Draw two cards. Each other player may draw a card.  Then you may banish a card in the center row.,抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.
+"<color=#fdc60eff>Fate:</color> When this enters the center row, each player may draw a card.","<color=#fdc60eff>天命：</color> 当此牌进入中央牌列时, 每位玩家可以抽一张牌."
+<size=104>A</size>skara of Fate,<size=104></size>skara的天命
+Fate Cards:,天命卡牌:
+PlayerName Player Name,PlayerName Player命名
+"Info blocky of Info
+Info block of Info
+Info block of Info block of Info
+Info block of Info
+Info block of Info
+Info block of Info","Info blocky的Info
+Info block的Info
+Info block的Info block的Info
+Info block的Info
+Info block的Info
+Info block的Info"
+Terms of Use,Terms的Use
+In Progress:,在Progress:
+No Games Available,没有Games Available
+"No Cards
+Available","没有卡牌
+Available"
+14+ Days,14+ 往日
+All Games,万民Games
+"
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for playing.
+
+
+
+
+
+
+
+
+
+",Thank你以playing.
+"You can invite a friend
+by pressing their name.","你能invite friend
+被pressing其name."
+Current Games,当前Games
+No active game,没有active游戏
+Press the avatar to invite Friends from your Friends List,Press avatar以invite Friends从你的Friends List
+Waiting on Player,Waiting在Player
+"Loading rulebook,
+please wait...","Loading rulebook,
+please wait。."
+"Purchase all the Ascension bundles for one low price!<br><br>Includes Bundle #1 through Bundle #5.  
+
+That's 630 <b>unique</b> new cards to play with.","Purchase所有Ascension bundles以一low price!<br><br>Includes Bundle #1 穿过Bundle #5. 
+
+该之 630 <b>unique</b> 新卡牌以 打出以."
+See Cards,See卡牌
+"Purchase both <b>Delirium</b> and <b>Deliverance</b> expansions together for a greater value!
+
+",Purchase两者 <b>谵妄</b> 和 <b>Deliverance</b> 扩展s together以greater值!
+"You already own one or more items contained in this bundle.
+Individual items can be purchased from the ""Purchase Separately"" menu.
+Are you sure you wish to purchase the bundle?","你already own一或更高items contained在此bundle.
+Individual items能是purchased从 ""Purchase Separately"" menu.
+Are你sure你wish以purchase bundle?"
+If you previously had a Playdek account or use one for our other games you may login with that account email and password.,若你previously曾有Playdek account或use一以 我们的其他games你可以login以该account email和password.
+Purchase all for 99.99.99,Purchase所有以 99.99.99
+No Account at All,没有Account在万民
+Vault of the Ancients,宝库的Ancients
+For any questions or issues please contact us at support@playdekgames.com.,以任意questions或issues please contact我们在support@playdekgames.com.
+"All opponents have forfeited!
+Claim victory & end the game?","万民对手拥有forfeited!
+Claim victory & 结束游戏?"
+Defeat as Construct,击败作为神器
+PlayerName Name,PlayerName命名
+Are you sure you want to spend 5 Insight to roll the Delirium Die?,Are你sure你want以花费5 洞察以 掷谵妄骰?
+Are you sure you want to acquire that to the discard pile?,Are你sure你want以获取该 以弃牌堆?
+Please play a card or end your turn,Please打出卡牌或 结束你的回合
+Hold To Show Transform,Hold以Show转化
+Needed to defeat:,Needed以击败:
+Press to continue,Press以continue
+Your Bid:,你的Bid:
+Current Highest Bid:,当前Highest Bid:
+Void Legend,虚空传奇
+Mechana Legend,机械传奇
+Lifebound Legend,生命传奇
+Enlightened Legend,启迪传奇
+Death is eternal.,死亡为eternal.
+Life finds a way.,生命finds方式.
+A player may have no more than one Fanatic Trophy in play at a time.,玩家可以拥有没有超过一 狂信者战利品在 打出在 次.
+Lifebound Champion,生命冠军
+"Whenever you acquire or defeat a Lifebound card in the center row, Rally: Lifebound.","每当你 获取或 击败生命卡牌在中央牌列, 集结: 生命."
+"Acquire Nairi, Wild Queen.","获取奈莉, 荒野女王."
+Nairi,奈莉
+Enlightened Champion,启迪冠军
+"Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.","每当你 获取或 击败启迪卡牌在中央牌列, 集结: 启迪."
+"Acquire Dhartha, Master of Sight.","获取达萨, 大师的 视界."
+Dhartha,达萨
+"A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.","remnant的something long since forgotten, 其appearance在祈夜为shrouded在mystery."
+Void Champion,虚空冠军
+"Whenever you acquire or defeat a Void card in the center row, Rally: Void.","每当你 获取或 击败虚空卡牌在中央牌列, 集结: 虚空."
+"Acquire Sadranis, Dark Savant.","获取萨德拉尼斯, 黑暗学者."
+Sadranis,萨德拉尼斯
+Mechana Champion,机械冠军
+"Whenever you acquire or defeat a Mechana card in the center row, Rally: Mechana.","每当你 获取或 击败机械卡牌在中央牌列, 集结: 机械."
+"Acquire Kor, the Ironmind.","获取科尔, 铁心."
+Heroes,英雄
+28 Days,28 往日
+honor points,荣誉points
+Draw Deck,抽Deck
+Honor Points,荣誉Points
+Power Card Deck,战力卡牌Deck
+Rune Card Deck,符文卡牌Deck
+"COST
+The amount of Power you must spend to acquire this card.","COST
+ amount的战力你 须花费以获取此牌."
+"REWARD
+What this monster does when defeated.","REWARD
+What此怪物does当被击败."
+<size=104>E</size>arth Tyrant,<size=104>E</size>arth暴君
+Monsters,怪物
+"FLAVOR TEXT
+Flavor text has no game effect.","FLAVOR TEXT
+Flavor text具有没有游戏效果."
+"EFFECT
+What the card does when played or in play.","EFFECT
+What卡牌does当打出过或 在打出."
+"COST
+The number of Runes you must spend to acquire this card.","COST
+ 数量的 符文你 须花费以获取此牌."
+"HONOR
+How much Honor this card is worth.","HONOR
+How等量的荣誉此牌为 价值为."
+"FACTION
+There are 4 different factions:
+<color=#4cbbeb>Enlightened
+<color=#7fc241>Lifebound
+<color=#b6b6b6>Mechana
+<color=#bb8bbe>Void
+","FACTION
+There为 4 different派系:
+<color=#4cbbeb>启迪
+<color=#7fc241>生命
+<color=#b6b6b6>机械
+<color=#bb8bbe>虚空"
+This is the flavor part.,此为flavor part.
+"Once per turn, when you acquire another Mechana Construct, you may put it directly in play.","每回合一次，当你 获取另一机械神器, 你可以将它放置直接在 打出."
+<size=104>R</size>ocket Courier X-99,<size=104>R</size>ocket信使X-99
+Constructs,神器s
+Sharpen the mind and the sword will follow.,Sharpen心智和sword将跟随.
+<size=104>A</size>rha Templar,<size=104></size>rha圣殿武士
+Game End:,Game终结:
+"<margin-right=8em>To defeat a Monster, you must have enough Power.  You may defeat any number of Monsters as long as you have enough Power.  Cards that are eligible to be defeated will glow red. 
+
+
+
+","<margin-right=8em>以击败一个怪物, 你须拥有enough战力. 你可以击败任意数量的 怪物作为long作为你 拥有enough战力. 卡牌该 为eligible以是 被击败将glow red."
+Defeating Monsters:,Defeating怪物:
+Acquiring Heroes and Constructs:,Acquiring英雄和 神器s:
+Play Order:,打出秩序:
+Destroy:,摧毁:
+<color=#951719FF><B>Trophy:</B></color> You may banish this to gain the current Trophy Effect.,<color=#951719FF><B>战利品:</B></color> 你可以放逐此牌以 获得当前战利品效果.
+Fanatic:,狂信者:
+<size=104>H</size>oarding Tyrant,<size=104>H</size>oarding暴君
+<color=#d8a6ffff>Event - Void,<color=#d8a6ffff>事件 - 虚空
+Void Rising,虚空崛起
+Event Cards:,事件卡牌:
+Hold To Show Hero,Hold以Show英雄
+Void Dream Vision,虚空梦Vision
+Enlightened Dream Vision,启迪梦Vision
+Dream Vision,梦Vision
+Dream Construct,梦神器
+Mechana Dream Hero,机械梦 英雄

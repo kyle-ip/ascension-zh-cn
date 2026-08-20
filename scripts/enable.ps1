@@ -1,4 +1,4 @@
-﻿﻿#Requires -Version 5.1
+﻿﻿﻿﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Enable / update the Chinese patch (idempotent). Re-run after any code or

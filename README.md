@@ -28,7 +28,7 @@ Requires [.NET 8](https://dotnet.microsoft.com/download) (or `scripts/download-t
 .\scripts\publish-installer.ps1
 ```
 
-Output: `dist/AscensionZhCn-Setup.exe`. String tables live in `loc/`; rebuild them with Python (`tools/build_zh.py`). Contributor notes: [docs/](docs/README.md).
+Output: `dist/AscensionZhCn-Setup.exe`. String tables live in `loc/`; rebuild them with Python (`tools/build_zh.py`). Contributor notes: [docs/](docs/README.md). **Glossary (term-table) maintenance guide**: [docs/GLOSSARY.md](docs/GLOSSARY.md).
 
 ## License
 

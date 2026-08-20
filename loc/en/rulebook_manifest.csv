@@ -1,0 +1,725 @@
+prefab,path,component
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Insight/TMP Text,TMP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/LegendaryCards/TMP Text,TMP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Cards/CardBack/LLH_Nairi/Title/TMP Title,TMP Title
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Cards/CardFront/LLH_Nairi/Card_Top/Title/TMP Title,TMP Title
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Cards/CardFront/LLH_Nairi/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Cards/CardFront/LLH_Nairi/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Cards/CardFront/LLH_Nairi/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Cards/CardFront/LLH_Nairi/Card_Bottom/RulesFlavor/TMP Flavor Text,TMP Flavor Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/LegendaryTrack/TMP Text,TMP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/GainingRenown/TMP Text,TMP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Top/Title/TMP Title,TMP Title
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/Card_ArhaRecruit/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer /TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Boons/TMP Text,TMP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer /TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/LegendaryStatus/TMP Text,TMP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body LegendaryStatus Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/RenownThresholdEffects/TMP Text,TMP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Top/Title/TMP Title,TMP Title
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/RulesFlavor/ASCFrame01/Art/TMP Rules Text,TMP Rules Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/RulesFlavor/ASCFrame01/Art/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text/Card_Askara/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body RenownThresholdEffects Text (1)/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer /TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer /TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer /TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookASCL,RulebookASCL/Scroll View/Viewport/Content/Spacer /TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/Rulebook/TitleBar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/Resources/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayOrder/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/AcquiringHeroesConstructs/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Top/Title/Spacer/TMP Title,TMP Title
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/Card_Rune/TMP Cost,TMP Cost
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/DefeatingMonsters/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_M_Top/Title/Spacer/TMP Title,TMP Title
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_M_Bottom/TMP Rules Text,TMP Rules Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/Card/Card_M_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/GameEnd/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/Heroes/TitleBar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Top/Title/TMP Title,TMP Title
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Card Hero/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Name/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Faction/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Honor/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Cost/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Effect/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Flavor Text/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Rarity Set Icon/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/HeroesCallouts/Rarity Set Icon/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCards/TitleBar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Top/Title/TMP Title,TMP Title
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Card Construct/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Name/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Faction/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Honor/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Cost/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Effect/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Flavor Text/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Rarity Set Icon/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/ConstructCallouts/Rarity Set Icon/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCards/TitleBar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Card Monster/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Card Monster/Card_M_Top/Title/TMP Title,TMP Title
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Card Monster/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Card Monster/Card_M_Bottom/TMP Rules Text,TMP Rules Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Card Monster/Card_M_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Card Monster/Card_M_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Card Monster/Card_M_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Name/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Reward/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Cost/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Rarity Set Icon/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/MonsterCallouts/Rarity Set Icon/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopArea/TitleBar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/OpponentArea/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/RuneCardDeck/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/PowerCardDeck/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/Cultist/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/GlobalHonorPool/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/CenterRow/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/CenterRowDrawPile/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/CenterRowDrawPile/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/RlayersRunes/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/RlayersPower/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/TopAreaCallouts/Void/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerArea/TitleBar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/InfoLine/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/Avatar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/HonorPoints/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/DrawDeck/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/ConstructTray/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/PlayersHand/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/Menu/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/PlayAll/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/EndTurn/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/PlayerAreaCallouts/DiscardPile/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentArea/TitleBar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/Name/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/Avatar/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/HonorPoints/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/Deck/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/OnlineIndicator/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/OpponentBox/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/Constructs/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/Constructs/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/Hand/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/DiscardPile/TMP Text,TMP Text
+RulebookCotG,RulebookCotG/Scroll View/Viewport/Content/OpponentAreaCallouts/Log/TMP Text,TMP Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/WhatsNew,WhatsNew
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/WhatsNew/TMP Text,TMP Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/HonorPool/TMP Text,TMP Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/FateCards/TMP Text,TMP Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Top/Title/TMP Title,TMP Title
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/Fate Rules Area/Fate Box/TMP Fate Text,TMP Fate Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/Fate Rules Area/Fate Box/TMP Fate Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/Fate Rules Area/TMP Rules Text,TMP Rules Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/Fate Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text/CardAskaraFate/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TitleBar/TMP Text,TMP Text
+RulebookRotF,RulebookRotF/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/WhatsNew,WhatsNew
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/WhatsNew/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/EventCards/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/E_VoidRising/Card_Art/TMP Title,TMP Title
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/E_VoidRising/Card_Art/TMP Class Text,TMP Class Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/E_VoidRising/Card_Art/RulesBase/TMP Rules Text,TMP Rules Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/E_VoidRising/Card_Art/RulesBase/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TrophyCards/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Top/Title/TMP Title,TMP Title
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Bottom/Trophy Rules Area/TMP Rules Text,TMP Rules Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Bottom/Trophy Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Bottom/Trophy Rules Area/Trophy Box/TMP Trophy Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardHoardingTyrant/Card_M_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/Fanatic/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardFanatic/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardFanatic/Card_M_Top/Title/TMP Title,TMP Title
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardFanatic/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardFanatic/Card_M_Bottom/Trophy Rules Area/TMP Rules Text,TMP Rules Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardFanatic/Card_M_Bottom/Trophy Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardFanatic/Card_M_Bottom/Trophy Rules Area/TMP Rules Text,TMP Rules Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text/CardFanatic/Card_M_Bottom/Trophy Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/Destroy/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopArea/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/OpponentArea/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/RuneCardDeck/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/PowerCardDeck/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/Cultist/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/GlobalHonorPool/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/CenterRow/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/CenterRowDrawPile/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/CenterRowDrawPile/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/RlayersRunes/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/RlayersPower/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/Void/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/Fanatic/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TopAreaCallouts/EventZone/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TitleBar/TMP Text,TMP Text
+RulebookSoS,RulebookSoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TitleBar/TMP Text,TMP Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/SoulGems/TMP Text,TMP Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/CardSoulGem/Base/Title/TMP Title,TMP Title
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/CardSoulGem/Base/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/CardSoulGem/Base/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/CardSoulGem/Base/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/CardSoulGem/Base/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/CardSoulGem/Base/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/CardSoulGem/Base/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TrophyMonsters:/TMP Text,TMP Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Top/Title/TMP Title,TMP Title
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Bottom/Trophy Rules Area/TMP Rules Text,TMP Rules Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Bottom/Trophy Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Bottom/Trophy Rules Area/Trophy Box/TMP Trophy Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text/MonsterTrophy/Card_M_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TitleBar/TMP Text,TMP Text
+RulebookIH,RulebookIH/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/WhatsNew,WhatsNew
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/WhatsNew/TitleBar/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/Treasure/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/TMP Title,TMP Title
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/Card_Energize/TMP Cost,TMP Cost
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/Card_Cards/TMP Cost,TMP Cost
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardEnergyShard/Base/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/Energize/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Top/Title/TMP Title,TMP Title
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/Energize Rules Area/TMP Rules Text,TMP Rules Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/Energize Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/Energize Rules Area/Energize Box/TMP Energize Text,TMP Energize Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/Energize Rules Area/Energize Box/TMP Energize Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text/CardDarkwalker/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopArea/TitleBar/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/RlayersRunes/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/RlayersPower/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/Void/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/TreasureCard/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/TreasureCount/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/TreasureCount/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/GlobalHonorPool/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/CenterRow/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TopAreaCallouts/Energize/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/Introduction/TitleBar/TMP Text,TMP Text
+RulebookRoV,RulebookRoV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/WhatsNew,WhatsNew
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/WhatsNew/Glow/TMP Text,TMP Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/DarkEnergyShards/TMP Text,TMP Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/TMP Title,TMP Title
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/TMP Fate Text,TMP Fate Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/Card_Energize/TMP Cost,TMP Cost
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/Card_Cards/TMP Cost,TMP Cost
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardDarkEnergyShard/Base/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TransformCards/TMP Text,TMP Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Top/Title/TMP Title,TMP Title
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/Energize Rules Area/Energize Box/TMP Energize Text,TMP Energize Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/Energize Rules Area/Energize Box/TMP Energize Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/Energize Rules Area/TMP Rules Text,TMP Rules Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/Energize Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardTribesman/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Top/Title/TMP Title,TMP Title
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text/CardTransform/CardChieftan/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/Introduction/Glow/TMP Text,TMP Text
+RulebookDU,RulebookDU/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionsReputation/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCard/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text,TMP Body Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Title,TMP Title
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Class Text,TMP Class Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability01 Text,TMP Ability01 Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability01Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability02 Text,TMP Ability02 Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability02Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability03 Text,TMP Ability03 Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability03Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability04 Text,TMP Ability04 Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Ability04Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/CardChampion/TMP Flavor Text,TMP Flavor Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/Name/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/Effect/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/ChampionCardCallout/TMP Body Text/Flavor Text/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Rally/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Top/Title/TMP Title,TMP Title
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/CardUndauntedScout/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/MultifactionHeroesConstructs/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Top/Title/TMP Title,TMP Title
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardLibraryFamiliar/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Top/Title/TMP Title,TMP Title
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/Cards/CardChieftan/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/Text/TMP Body Text,TMP Body Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/FactionMonsters/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Top/Title/TMP Title,TMP Title
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text/Cards/CardWildRiftdrake/Card_M_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TheSunRisesOnaNewWorld/TMP Text,TMP Text
+RulebookDoC,RulebookDoC/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/DreamscapeDreamDeck/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Top/Cost_Insight/TMP Cost,TMP Cost
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Top/Title/TMP Title,TMP Title
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardStalkShadows/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/Insight/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/DreambornCards/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Top/Title/TMP Title,TMP Title
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardSynapseSpire/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCards/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Top/Cost_Insight/TMP Cost,TMP Cost
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Top/Title/TMP Title,TMP Title
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text/CardWickedEnd/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Top/Cost_Insight/TMP Cost,TMP Cost
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Top/Title/TMP Title,TMP Title
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/CardCetrasRespite/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/Name/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/Faction/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/Flavor/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/Cost/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/Effect/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/Rarity Set Icon/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/VisionCallouts/Rarity Set Icon/TMP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/EndlessPossibilitiesAwait/TMP Text,TMP Text
+RulebookDS,RulebookDS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/LightDarkCards /TMP Text,TMP Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Top/Cost_Base/Cost_Rune/TMP Cost,TMP Cost
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Top/Title/TMP Title,TMP Title
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/Rules Area/TMP Rules Text,TMP Rules Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/Rules Area/Day Box/TMP Day Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/HonorBase/TMP VP Text,TMP VP Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/HonorBase/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardTahyrSun/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Top/Cost_Base/Cost_Power/TMP Cost,TMP Cost
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Top/Title/TMP Title,TMP Title
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Bottom/Trophy Rules Area/TMP Rules Text,TMP Rules Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Bottom/Trophy Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Bottom/Trophy Rules Area/Trophy Box/TMP Trophy Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Bottom/Trophy Rules Area/Trophy Box Alt/TMP Trophy Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/Cards/CardLegionAklys/Card_M_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/DualCostCards /TMP Text,TMP Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Top/Cost_PowerRuneBas/Cost_Rune/TMP Cost,TMP Cost
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Top/Cost_PowerRuneBas/Cost_Power/TMP Cost,TMP Cost
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Top/Title/TMP Title,TMP Title
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/Rules Area/TMP Rules Text,TMP Rules Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/Rules Area/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/HonorBase/TMP VP Text,TMP VP Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/HonorBase/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text/CardFoundryHound/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/WarIsUponUs/TMP Text,TMP Text
+RulebookWoS,RulebookWoS/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Empower/TMP Text,TMP Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Top/Title/TMP Title,TMP Title
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/Card/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/InfestMonsters/TMP Text,TMP Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Top/Title/TMP Title,TMP Title
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Bottom/TMP Rules Text,TMP Rules Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/CardYukTribeGremlin/Card_M_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TransformingEvents/TMP Text,TMP Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardReysasTrial/Card_Top/Title/TMP Title,TMP Title
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardReysasTrial/Card_Bot/TMP Class Text,TMP Class Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardReysasTrial/Card_Bot/TMP Rules Text,TMP Rules Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardReysasTrial/Card_Bot/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Top/Title/TMP Title,TMP Title
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/Cards/CardForgemotherReysa/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/ElementsHaveAwoken/TMP Text,TMP Text
+RulebookGotE,RulebookGotE/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Temples/TMP Text,TMP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Title/TMP Title,TMP Title
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleLife/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Title/TMP Title,TMP Title
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleImmortality/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Title/TMP Title,TMP Title
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP Flavor Text,TMP Flavor Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/TMP_TempleDeath/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/Effect/TMP Text,TMP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Cards/Cost/TMP Text,TMP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Keystones/TMP Text,TMP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Death Keystone Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Life Keystone Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/New Keywords/TMP Text,TMP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/Center Row Effects/TMP Text,TMP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Top/Title/TMP Title,TMP Title
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/RulesFlavor/TMP Flavor Text,TMP Flavor Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text/MC_TyranyxPillager/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/UnlockSecrets/TMP Text,TMP Text
+RulebookVotA,RulebookVotA/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/Insight/TMP Text,TMP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/DreambornCards/TMP Text,TMP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Top/Title/TMP Title,TMP Title
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardStoneArtificers/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/Dreamseeker/TMP Text,TMP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Top/Title/TMP Title,TMP Title
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Bottom/RulesFlavor/TMP Flavor Text,TMP Flavor Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/HeroDreamseeker/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/Pasythea/TMP Text,TMP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Top/Cost_Insight/TMP Cost,TMP Cost
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Top/Title/TMP Title,TMP Title
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardPasythea/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/Phantasm/TMP Text,TMP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Top/Title/TMP Title,TMP Title
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/RulesFlavor/TMP Flavor Text,TMP Flavor Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/CardHero/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/DreambindMonsters/TMP Text,TMP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Top/Cost_Power/TMP Cost,TMP Cost
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Top/Title/TMP Title,TMP Title
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Bottom/TMP Class Text,TMP Class Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Bottom/RulesFlavor,RulesFlavor
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Bottom/RulesFlavor/TMP Flavor Text,TMP Flavor Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text/MonsterDreambind/Card_M_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/NeverTheSame/TMP Text,TMP Text
+RulebookDLV,RulebookDLV/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/Insight/TMP Text,TMP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/DreambornCards/TMP Text,TMP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Top/Title/TMP Title,TMP Title
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Bottom/TMP Rules Text,TMP Rules Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Bottom/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardEmriLightbringer/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/Recur/TMP Text,TMP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Top/Title/TMP Title,TMP Title
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardNihilChemist/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/FateAuction/TMP Text,TMP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Top/Cost_Rune/TMP Cost,TMP Cost
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Top/Title/TMP Title,TMP Title
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/TMP Class Text,TMP Class Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/TMP Fate Text,TMP Fate Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/TMP Fate Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/RulesFlavor,RulesFlavor
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/RulesFlavor/TMP Rules Text,TMP Rules Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/RulesFlavor/TMP Rules Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/RulesFlavor/TMP Flavor Text,TMP Flavor Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/TMP VP Text,TMP VP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/TMP VP Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/TMP Cardset Text,TMP Cardset Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/CardInfernaTemplar/Card_Bottom/TMP Cardset Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/DeliriumDie/TMP Text,TMP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/DieChart/Result/DescriptionRune/Label/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/DieChart/Result/DescriptionPower/Label/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/DieChart/Result/DescriptionHonor/Label/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text/DieChart/Result/DescriptionInsight/Label/TMP SubMeshUI [TextMeshPro/Sprite],TMP SubMeshUI [TextMeshPro/Sprite]
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/EndlessPossibilitiesAwait/TMP Text,TMP Text
+RulebookDLRM,RulebookDLRM/Scroll View/Viewport/Content/TMP Body Text,TMP Body Text
+Rulebook,Rulebook/TitleBar/TMP Text,TMP Text

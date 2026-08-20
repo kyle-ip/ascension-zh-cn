@@ -18,9 +18,9 @@ LABEL_INFEST,<b>感染 - </b>
 LABEL_SERENITY,<b>宁静：</b>
 LABEL_ECHO,<b>回响：</b>
 LABEL_DREAMBIND,<B>梦缚：</B>
-LABEL_PHANTASM,<B><I>幻象 - </I></B>
-LABEL_TRANSFORM,<B>转化 - </B>
-LABEL_PLUNDER,<B><I>掠夺 - </I></B>
+LABEL_PHANTASM,<B><I>Phantasm - </I></B>
+LABEL_TRANSFORM,<B>Transform - </B>
+LABEL_PLUNDER,<B><I>Plunder - </I></B>
 FLAVOR_DRUIDSOFTHESTONECIRCLE,<sprite=32>
 CARDNAME_MECHANAINITIATE,机械新兵
 EFFECT_MECHANAINITIATE,获得1符文或1战力。
@@ -281,7 +281,7 @@ EFFECT_TEMPLELIBRARIAN10TH,弃掉卡牌. 若你如此做，抽两张牌.
 FLAVOR_TEMPLELIBRARIAN10TH,"""Without知识, 战力为illusory. Without秩序, 知识为fragmented. Without我, 秩序为 不可能."""
 CARDNAME_HEDRONLINKDEVICE10TH,多面体连接装置
 EFFECT_HEDRONLINKDEVICE10TH,你可以将所有神器s作为机械神器.
-FLAVOR_HEDRONLINKDEVICE10TH,"以机械, magic为只是另一form的充能."
+FLAVOR_HEDRONLINKDEVICE10TH,"以机械, magic为只是另一form的能量."
 CARDNAME_HEDRONCANNON10TH,多面体加农
 EFFECT_HEDRONCANNON10TH,每回合一次，获得${ICON_POWER1} 以每个机械神器你控制的.
 FLAVOR_HEDRONCANNON10TH,"""Now I am become死亡, 摧毁er的worlds."""
@@ -547,7 +547,7 @@ EFFECT_RECYCLICRAB,"当你 打出机械神器, 若此 为在你的弃牌堆你�
 FLAVOR_RECYCLICRAB,Waste不. Want所有.
 CARDNAME_DRILLERMARKIV,钻机型号IV
 EFFECT_DRILLERMARKIV,"每回合一次，当你 打出机械神器 (包括此牌一), 获得灵魂宝石."
-FLAVOR_DRILLERMARKIV,Depth: Unknown. Sensors indicate unknown充能source ahead.
+FLAVOR_DRILLERMARKIV,Depth: Unknown. Sensors indicate unknown能量source ahead.
 CARDNAME_DEATHSWORNWARRIOR,誓死战士
 EFFECT_DEATHSWORNWARRIOR,"获得${ICON_POWER1}.<br>你可以放逐一张卡牌在你的手牌或弃牌堆. 然后, 你可以放逐此牌以 放逐第二卡牌在你的手牌或弃牌堆."
 FATE_DEATHSWORNWARRIOR,${LABEL_FATE} 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.

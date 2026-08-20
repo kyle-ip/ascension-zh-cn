@@ -26,7 +26,7 @@ Steam 版《Ascension: Deckbuilding Game》的非官方简体中文语言包。
 .\scripts\publish-installer.ps1
 ```
 
-产物在 `dist/AscensionZhCn-Setup.exe`。译表在 `loc/`，可用 `python tools/build_zh.py` 重建。开发说明见 [docs/](docs/README.md)。
+产物在 `dist/AscensionZhCn-Setup.exe`。译表在 `loc/`，可用 `python tools/build_zh.py` 重建。开发说明见 [docs/](docs/README.md)。**对照表（术语表）维护指南**：[docs/GLOSSARY.zh.md](docs/GLOSSARY.zh.md)。
 
 ## 许可
 

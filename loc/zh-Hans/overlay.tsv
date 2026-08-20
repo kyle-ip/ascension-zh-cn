@@ -1,4 +1,4 @@
-# kind	src	zh
+﻿# kind	src	zh
 K	CARDNAME_AARONTHEGODSLAYER	亚伦·弑神者
 K	CARDNAME_ABOLISHER	废除者
 K	CARDNAME_ABOLISHERETER	废除者
@@ -2136,8 +2136,9 @@ K	FLAVOR_DEMONSLAYER10TH	Having accepted死亡, 其拥有虚无left以fear.
 K	FLAVOR_DERANGEDASPIRANT	他们看见知识哪里存在madness.
 K	FLAVOR_DERANGEDDIRGE	screams和wails weave tortured hymn.
 K	FLAVOR_DESTROYERSGATE	"他将 来在 一的pre-所选forms."
+K	FLAVOR_DHARTHA	许久之前，逻各斯便授予达萨使用亚哈众神的眼界与智慧，而达萨藉此济世代代相传。身形虽矮，他却印证了一个道理：真正的力量，从不来自凌驾于人，而来自人们甘愿为你俯首。
 K	FLAVOR_DHARTHAETERNALSEER	"Empty你的心智, 是formless, shapeless -- like water."
-K	FLAVOR_DHARTHAMASTEROFSIGHT	Tell我什么你 看见, 不什么你think你看见.
+K	FLAVOR_DHARTHAMASTEROFSIGHT	许久之前，逻各斯便授予达萨使用亚哈众神的眼界与智慧，而达萨藉此济世代代相传。身形虽矮，他却印证了一个道理：真正的力量，从不来自凌驾于人，而来自人们甘愿为你俯首。
 K	FLAVOR_DHARTHATHEETERNAL	"时光为merely另一illusion."
 K	FLAVOR_DIMENSIONDIVER	greaT seal具有fallen. exploration project approVeD.
 K	FLAVOR_DIMENSIONDIVERETER	伟大seal具有fallen. Exploration project approved.
@@ -2158,7 +2159,7 @@ K	FLAVOR_DREAMTITAN	gold giant: taller于mountains<br>和silent作为sun.
 K	FLAVOR_DREAMTYRANT	manifestation的forest之vengeful dreams.
 K	FLAVOR_DREAMWILLOW	梦柳之lullaby echoes throughout奥戈.
 K	FLAVOR_DREAMWILLOWDRUIDS	Their rituals为beautiful combination的dance, lullaby, 和sleep.
-K	FLAVOR_DRILLERMARKIV	Depth: Unknown. Sensors indicate unknown充能source ahead.
+K	FLAVOR_DRILLERMARKIV	Depth: Unknown. Sensors indicate unknown能量source ahead.
 K	FLAVOR_DRUIDSOFTHESTONECIRCLE	<sprite=32>
 K	FLAVOR_DRUIDSOFTHESTONECIRCLE10TH	spacing的stones为geometry.<br> space itself为magic.
 K	FLAVOR_DRUIDSWREATH	During其initiation, druids receive lifeless wreath. 当它 为reborn, 如此为 他们.
@@ -2229,7 +2230,7 @@ K	FLAVOR_HEDRONCANNON10TH	"Now I am become死亡, 摧毁er的worlds."
 K	FLAVOR_HEDRONDREDGER	侦测到碎片。挖掘进行中。
 K	FLAVOR_HEDRONFLARE	过来！
 K	FLAVOR_HEDRONLINKDEVICE	situation: 伟大seal breached. scattered devices从across所有realms为reconnecting. miracle或Tragedy? please advise.
-K	FLAVOR_HEDRONLINKDEVICE10TH	以机械, magic为只是另一form的充能.
+K	FLAVOR_HEDRONLINKDEVICE10TH	以机械, magic为只是另一form的能量.
 K	FLAVOR_HEDRONPYROMANIAC	Like他的creations, 生命的 多面体纵火狂often结束以bang.
 K	FLAVOR_HEDRONWATCHTOWER	none的它们along line知道什么任意的 它为 价值为
 K	FLAVOR_HELLFROSTIMPS	"当hell freezes超过, huh?"
@@ -2255,10 +2256,11 @@ K	FLAVOR_KARION	梦境gate为corrupt, hellish wound在两worlds.
 K	FLAVOR_KEENEYEDASPIRANT	他们看见那些该wish以remain hidden.
 K	FLAVOR_KIRIMEADOWWITCH	她的domain offers tranquility当everyplace else为embroiled在turmoil.
 K	FLAVOR_KIRIMEADOWWITCHETER	她的domain offers tranquility当everyplace else为embroiled在turmoil.
+K	FLAVOR_KOR	自棱堡（Hedron）创立之初，铁术士（Ferromancers）便担负着为造物注入生命火花的使命。科尔教导这一教团：机械之中所蕴藏的不只是生命，更是勇气，亦是使命。
 K	FLAVOR_KORMASTERINNOVATOR	Where你看见nature, I看见raw materials.
-K	FLAVOR_KORTHEFERROMANCER	Warning: junkyard可以是hazardous. Proceed以caution
+K	FLAVOR_KORTHEFERROMANCER	自棱堡（Hedron）创立之初，铁术士（Ferromancers）便担负着为造物注入生命火花的使命。科尔教导这一教团：机械之中所蕴藏的不只是生命，更是勇气，亦是使命。
 K	FLAVOR_KORTHEFERROMANCER10TH	mountian, 其metals, 这些ruins,<br>他们为 所有他的weapons.
-K	FLAVOR_KORTHEIRONMIND	"我们不give metal生命, 我们只help它找到其form."
+K	FLAVOR_KORTHEIRONMIND	自棱堡（Hedron）创立之初，铁术士（Ferromancers）便担负着为造物注入生命火花的使命。科尔教导这一教团：机械之中所蕴藏的不只是生命，更是勇气，亦是使命。
 K	FLAVOR_KYL3REPAIRBOT	他们live以preserve.
 K	FLAVOR_LAGOONTROLL	嗯嗯嗯咕噜咕噜！
 K	FLAVOR_LAGOONTROLLETER	嗯嗯嗯咕噜咕噜！
@@ -2293,7 +2295,7 @@ K	FLAVOR_MANIACALCRUSHER	Nailed它.
 K	FLAVOR_MANTRAOFRENEWAL	"I将permit它以pass超过我 和穿过我. 和当 它具有gone past I将回合inner eye以看见其 道路."
 K	FLAVOR_MANTRAOFTRUESIGHT	"以看见该 其你 寻求, 你须首先close你的eyes." -Scroll Inscription
 K	FLAVOR_MAPOFTHESTARS	Even在unnatural夜晚, 塞特拉guides我们.
-K	FLAVOR_MASTERDHARTHA	<sprite=120>
+K	FLAVOR_MASTERDHARTHA	许久之前，逻各斯便授予达萨使用亚哈众神的眼界与智慧，而达萨藉此济世代代相传。身形虽矮，他却印证了一个道理：真正的力量，从不来自凌驾于人，而来自人们甘愿为你俯首。
 K	FLAVOR_MASTERDHARTHA10TH	存在超过一 道路以 顶部的mountain.
 K	FLAVOR_MASTERDHARTHAETER	At height的war, 弑神者ascended六-thousand, 六-hundred sixty-六steps以寻求达萨的counsel, 只以 是turned away.
 K	FLAVOR_MATRONOFDISCOVERY	万民blueprints began作为dreams.
@@ -2312,8 +2314,9 @@ K	FLAVOR_MURAMASA	Wield devil, 和hell将tremble before你.
 K	FLAVOR_MURAMASA10TH	last的她的swords和bearing她的name.
 K	FLAVOR_MUSEOFREBIRTH	"死亡和decay为不 只是结束时old生命, 他们为beginning的新 一."
 K	FLAVOR_MUTATEDSCAVENGER	以centuries, Temples拥有warped每个aspect的valley surrounding它们.
-K	FLAVOR_NAIRIHENGEQUEEN	若当walking你应当找到lock的hair, 平局一 结束around finger和跟随它deeper置入wood. 它将lead你要么以queen, 或以 你的doom -- whichever你deserve.
-K	FLAVOR_NAIRIWILDQUEEN	她sees所有. 她loves所有. 她为 所有.
+K	FLAVOR_NAIRI	奈莉一手竖起了石柱阵，教导德鲁伊们如何与赛特尔及她的星眷沟通。当她穿行林间，为严酷的荒野带来和平之时，万物皆以她为表率。她正是风暴之中那一抹宁静。
+K	FLAVOR_NAIRIHENGEQUEEN	奈莉一手竖起了石柱阵，教导德鲁伊们如何与赛特尔及她的星眷沟通。当她穿行林间，为严酷的荒野带来和平之时，万物皆以她为表率。她正是风暴之中那一抹宁静。
+K	FLAVOR_NAIRIWILDQUEEN	奈莉一手竖起了石柱阵，教导德鲁伊们如何与赛特尔及她的星眷沟通。当她穿行林间，为严酷的荒野带来和平之时，万物皆以她为表率。她正是风暴之中那一抹宁静。
 K	FLAVOR_NEOPHYTEMENTOR	"卫队你的step."
 K	FLAVOR_NIGHTMARAUDERS	它们无处不在！
 K	FLAVOR_NIGHTMAREDELVER	以其 异能augmented被多面体technology, Sadranis' followers处于able以venture甚至further置入darkness.
@@ -2402,7 +2405,9 @@ K	FLAVOR_RUSTGREMLIN	very embodiment的一切该 能进入wrong在多面体.
 K	FLAVOR_SABRETHEMOONLIT	Sometimes它是best以让sleeping bears lie.
 K	FLAVOR_SACREDPOT	"Indulge你的imagination在每个possible flight."
 K	FLAVOR_SADISTICGIANT	shifting planes served至多从不-ending supply的victims以cruel Estryne clan.
-K	FLAVOR_SADRANISDARKSAVANT	达萨assured它们, "不所有谁look置入darkness look以serve它. Just作为我们wield光, 他wields darkness."
+K	FLAVOR_SADRANIS	无数人为尼克斯的黑暗低语所奴役，但萨德拉尼斯是少数学会仅凭自己便能念出那些话语的人。外人把他的举止当作疯狂，而智者则会告诉你：他不过是心无旁骛地瞄准了一盘更大的棋局。
+K	FLAVOR_SADRANISDARKEMISSARY	无数人为尼克斯的黑暗低语所奴役，但萨德拉尼斯是少数学会仅凭自己便能念出那些话语的人。外人把他的举止当作疯狂，而智者则会告诉你：他不过是心无旁骛地瞄准了一盘更大的棋局。
+K	FLAVOR_SADRANISDARKSAVANT	无数人为尼克斯的黑暗低语所奴役，但萨德拉尼斯是少数学会仅凭自己便能念出那些话语的人。外人把他的举止当作疯狂，而智者则会告诉你：他不过是心无旁骛地瞄准了一盘更大的棋局。
 K	FLAVOR_SALVAGEMASTERMILA	best creations能来 从放置我们least expect.
 K	FLAVOR_SALVAGEYARD	回收。重建。再利用。
 K	FLAVOR_SAMAELETERNALSINNER	I am永恒. What hope拥有你以 击败我?
@@ -2931,8 +2936,8 @@ K	LABEL_INFEST	<b>感染 - </b>
 K	LABEL_MULTIUNITE	<b>多重联合：</b>
 K	LABEL_NIGHT	<b>夜：</b>
 K	LABEL_ONGOING	<b>持续：</b>
-K	LABEL_PHANTASM	<B><I>幻象 - </I></B>
-K	LABEL_PLUNDER	<B><I>掠夺 - </I></B>
+K	LABEL_PHANTASM	<B><I>Phantasm - </I></B>
+K	LABEL_PLUNDER	<B><I>Plunder - </I></B>
 K	LABEL_RALLY_ENLIGHTENED	<b>集结：圣贤</b>
 K	LABEL_RALLY_LIFEBOUND	<b>集结：命约</b>
 K	LABEL_RALLY_MECHANA	<b>集结：机械</b>
@@ -2940,7 +2945,7 @@ K	LABEL_RALLY_MONSTER	<b>集结：怪物</b>
 K	LABEL_RALLY_VOID	<b>集结：虚空</b>
 K	LABEL_REWARD	<B>奖励：</B>
 K	LABEL_SERENITY	<b>宁静：</b>
-K	LABEL_TRANSFORM	<B>转化 - </B>
+K	LABEL_TRANSFORM	<B>Transform - </B>
 K	LABEL_TROPHY	<color=#951719FF><B>战利品：</B></color>
 K	LABEL_TROPHY_ONGOING	<color=#951719FF><B>持续战利品：</B></color>
 K	LABEL_UNITE	<b>联合：</b>
@@ -3078,54 +3083,204 @@ K	TUTORIAL_TEXT_87	你已经掌握足够知识来完整进行一局创升纪元�
 K	TUTORIAL_TEXT_88	若仍需帮助，可点右下角菜单按钮查看详细规则和界面图解。
 K	TUTORIAL_TEXT_89	你可以继续完成这局对电脑的教程，或随时用菜单开始新对局。
 K	TUTORIAL_TEXT_9	右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。
+E	<smallcaps><size=120%><b>Ascension: Deck Building Game\\r</B></size></smallcaps>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Product Manager\\r</color></smallcaps>\nBriana Covill\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Director, Engineering\\r</color></smallcaps>\nTimothy Parker\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Programmers\\r\\r</color></smallcaps>\nRandall Stevenson\\r\nAlan Hickman\\r\nAdam Dickinson\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Programmers\\r</color></smallcaps>\nMatthew Schock\\r\nSulaiman Abdul-Khabir\\r\n\\rAlex Shank\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Art Director\\r</color></smallcaps>\nJeff Garstecki\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Technical Artist\\r</color></smallcaps>\n\\rJames Graham\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Artist\\r</color></smallcaps>\nEric “Dark Lynx” Lin\\r\n\n\\r<smallcaps><color=#1C4E80C8>Artists</color></smallcaps>\nRon Bourbeau\nAdam del Rosario\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Music and Sound Design\\r</color></smallcaps>\n\\rJung Park\\r\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Development Director\\r</color></smallcaps>\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Marketing Manager\\r</color></smallcaps>\n\\r\\rGeorge Rothrock\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Assistant Producer\\r</color></smallcaps>\nRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\nAmanda Rea\\r\n\\rJesse Dorman\\r\n\\rCameron Dove\\r\n\\rRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Play Testers\\r</color></smallcaps>\n\\r\\rJesse Abrahamson\\r\n\\rRolo Andreola\\r\n\\rClaire Baker\\r\n\\rSean Copeland\\r\n\\rMike Drysdale\\r\n\\rCory Damone Enriquez\\r\n\\rJeff Evans\\r\n\\rIan Estrin\\r\n\\rJason Finn\\r\n\\rDavid Fowler\\r\n\\rSam Grover\\r\n\\rJen Gidner\\r\n\\rMike Girard\\r\n\\rJeff W. Hastings\\r\n\\rGlenn Jones\\r\n\\rMichael Lampert\\r\n\\rLauren Lee\\r\n\\rScott Lelivelt\\r\n\\rNoah Lesgold\\r\n\\rShawn E. A. Lockard\\r\n\\rJason Long\\r\n\\rDan Massek\\r\n\\rPatrick McAlpine\\r\n\\rMark McEvoy\\r\n\\rJames McMahon\\r\n\\rZach Mitchell\\r\n\\rJoey Morgan\\r\n\\rCharles Morton\\r\n\\rTre’ Morton\\r\n\\rJason Mosley\\r\n\\rEngku Nasrun\\r\n\\rJeremy Norstad\\r\n\\rRyan O’Connor\\r\n\\rDavid Pazmino\\r\n\\rJames Prater\\r\n\\rDaniel Reigner\\r\n\\rVictor Rogachevsky\\r\n\\rGraham Russell\\r\n\\rBrian Sagocio\\r\n\\rVernon Shurtz\\r\n\\rAlex Shvartsman\\r\n\\rRyan Soots\\r\n\\rLaszlo Stadler\\r\n\\rBenjamin D. Stanley\\r\n\\rJosh Wilhelmi\\r\n\\rGreg Willis\\r\n\\rMichael Zimmerman\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Special Thanks\\r</color></smallcaps>\nFrank Silas\\r\n\\rPhil Straka\n\n\n	
+E	<smallcaps><size=120%><b>Ascension: Deck Building Game\\r</B></size></smallcaps>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Product Manager\\r</color></smallcaps>\nBriana Covill\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Director, Engineering\\r</color></smallcaps>\nTimothy Parker\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Programmers\\r\\r</color></smallcaps>\nRandall Stevenson\\r\nAlan Hickman\\r\nAdam Dickinson\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Programmers\\r</color></smallcaps>\nMatthew Schock\\r\nSulaiman Abdul-Khabir\\r\n\\rAlex Shank\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Art Director\\r</color></smallcaps>\nJeff Garstecki\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Technical Artist\\r</color></smallcaps>\n\\rJames Graham\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Artist\\r</color></smallcaps>\nEric “Dark Lynx” Lin\\r\n\n\\r<smallcaps><color=#1C4E80C8>Artists</color></smallcaps>\nRon Bourbeau\nAdam del Rosario\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Music and Sound Design\\r</color></smallcaps>\n\\rJung Park\\r\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Development Director\\r</color></smallcaps>\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Marketing Manager\\r</color></smallcaps>\n\\r\\rGeorge Rothrock\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Assistant Producer\\r</color></smallcaps>\nRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\nAmanda Rea\\r\n\\rJesse Dorman\\r\n\\rCameron Dove\\r\n\\rRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Play Testers\\r</color></smallcaps>\n\\r\\rJesse Abrahamson\\r\n\\rRolo Andreola\\r\n\\rClaire Baker\\r\n\\rSean Copeland\\r\n\\rMike Drysdale\\r\n\\rCory Damone Enriquez\\r\n\\rJeff Evans\\r\n\\rIan Estrin\\r\n\\rJason Finn\\r\n\\rDavid Fowler\\r\n\\rSam Grover\\r\n\\rJen Gidner\\r\n\\rMike Girard\\r\n\\rJeff W. Hastings\\r\n\\rGlenn Jones\\r\n\\rMichael Lampert\\r\n\\rLauren Lee\\r\n\\rScott Lelivelt\\r\n\\rNoah Lesgold\\r\n\\rShawn E. A. Lockard\\r\n\\rJason Long\\r\n\\rDan Massek\\r\n\\rPatrick McAlpine\\r\n\\rMark McEvoy\\r\n\\rJames McMahon\\r\n\\rZach Mitchell\\r\n\\rJoey Morgan\\r\n\\rCharles Morton\\r\n\\rTre’ Morton\\r\n\\rJason Mosley\\r\n\\rEngku Nasrun\\r\n\\rJeremy Norstad\\r\n\\rRyan O’Connor\\r\n\\rDavid Pazmino\\r\n\\rJames Prater\\r\n\\rDaniel Reigner\\r\n\\rVictor Rogachevsky\\r\n\\rGraham Russell\\r\n\\rBrian Sagocio\\r\n\\rVernon Shurtz\\r\n\\rAlex Shvartsman\\r\n\\rRyan Soots\\r\n\\rLaszlo Stadler\\r\n\\rBenjamin D. Stanley\\r\n\\rJosh Wilhelmi\\r\n\\rGreg Willis\\r\n\\rMichael Zimmerman\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Special Thanks\\r</color></smallcaps>\nFrank Silas\\r\n\\rPhil Straka	
+E	<smallcaps><b>Ascension: Deck Building Game\\r</B></smallcaps>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Product Manager\\r</color></smallcaps>\nBriana Covill\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Director, Engineering\\r</color></smallcaps>\nTimothy Parker\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Programmers\\r\\r</color></smallcaps>\nRandall Stevenson\\r\nAlan Hickman\\r\nAdam Dickinson\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Programmers\\r</color></smallcaps>\nMatthew Schock\\r\nSulaiman Abdul-Khabir\\r\n\\rAlex Shank\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Art Director\\r</color></smallcaps>\nJeff Garstecki\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Technical Artist\\r</color></smallcaps>\n\\rJames Graham\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Artist\\r</color></smallcaps>\nEric “Dark Lynx” Lin\\r\n\n\\r<smallcaps><color=#1C4E80C8>Artists</color></smallcaps>\nRon Bourbeau\nAdam del Rosario\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Music and Sound Design\\r</color></smallcaps>\n\\rJung Park\\r\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Development Director\\r</color></smallcaps>\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Marketing Manager\\r</color></smallcaps>\n\\r\\rGeorge Rothrock\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Assistant Producer\\r</color></smallcaps>\nRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\nAmanda Rea\\r\n\\rJesse Dorman\\r\n\\rCameron Dove\\r\n\\rRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Play Testers\\r</color></smallcaps>\n\\r\\rJesse Abrahamson\\r\n\\rRolo Andreola\\r\n\\rClaire Baker\\r\n\\rSean Copeland\\r\n\\rMike Drysdale\\r\n\\rCory Damone Enriquez\\r\n\\rJeff Evans\\r\n\\rIan Estrin\\r\n\\rJason Finn\\r\n\\rDavid Fowler\\r\n\\rSam Grover\\r\n\\rJen Gidner\\r\n\\rMike Girard\\r\n\\rJeff W. Hastings\\r\n\\rGlenn Jones\\r\n\\rMichael Lampert\\r\n\\rLauren Lee\\r\n\\rScott Lelivelt\\r\n\\rNoah Lesgold\\r\n\\rShawn E. A. Lockard\\r\n\\rJason Long\\r\n\\rDan Massek\\r\n\\rPatrick McAlpine\\r\n\\rMark McEvoy\\r\n\\rJames McMahon\\r\n\\rZach Mitchell\\r\n\\rJoey Morgan\\r\n\\rCharles Morton\\r\n\\rTre’ Morton\\r\n\\rJason Mosley\\r\n\\rEngku Nasrun\\r\n\\rJeremy Norstad\\r\n\\rRyan O’Connor\\r\n\\rDavid Pazmino\\r\n\\rJames Prater\\r\n\\rDaniel Reigner\\r\n\\rVictor Rogachevsky\\r\n\\rGraham Russell\\r\n\\rBrian Sagocio\\r\n\\rVernon Shurtz\\r\n\\rAlex Shvartsman\\r\n\\rRyan Soots\\r\n\\rLaszlo Stadler\\r\n\\rBenjamin D. Stanley\\r\n\\rJosh Wilhelmi\\r\n\\rGreg Willis\\r\n\\rMichael Zimmerman\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Special Thanks\\r</color></smallcaps>\nFrank Silas\\r\n\\rPhil Straka\n\n\n	
+E	<smallcaps><b>Ascension: Deck Building Game\\r</B></smallcaps>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Product Manager\\r</color></smallcaps>\nBriana Covill\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Director, Engineering\\r</color></smallcaps>\nTimothy Parker\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Programmers\\r\\r</color></smallcaps>\nRandall Stevenson\\r\nAlan Hickman\\r\nAdam Dickinson\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Programmers\\r</color></smallcaps>\nMatthew Schock\\r\nSulaiman Abdul-Khabir\\r\n\\rAlex Shank\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Art Director\\r</color></smallcaps>\nJeff Garstecki\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Technical Artist\\r</color></smallcaps>\n\\rJames Graham\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Senior Artist\\r</color></smallcaps>\nEric “Dark Lynx” Lin\\r\n\n\\r<smallcaps><color=#1C4E80C8>Artists</color></smallcaps>\nRon Bourbeau\nAdam del Rosario\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Music and Sound Design\\r</color></smallcaps>\n\\rJung Park\\r\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Development Director\\r</color></smallcaps>\nTodd Masten\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Marketing Manager\\r</color></smallcaps>\n\\r\\rGeorge Rothrock\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Assistant Producer\\r</color></smallcaps>\nRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\nAmanda Rea\\r\n\\rJesse Dorman\\r\n\\rCameron Dove\\r\n\\rRebecca Doyle\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Play Testers\\r</color></smallcaps>\n\\r\\rJesse Abrahamson\\r\n\\rRolo Andreola\\r\n\\rClaire Baker\\r\n\\rSean Copeland\\r\n\\rMike Drysdale\\r\n\\rCory Damone Enriquez\\r\n\\rJeff Evans\\r\n\\rIan Estrin\\r\n\\rJason Finn\\r\n\\rDavid Fowler\\r\n\\rSam Grover\\r\n\\rJen Gidner\\r\n\\rMike Girard\\r\n\\rJeff W. Hastings\\r\n\\rGlenn Jones\\r\n\\rMichael Lampert\\r\n\\rLauren Lee\\r\n\\rScott Lelivelt\\r\n\\rNoah Lesgold\\r\n\\rShawn E. A. Lockard\\r\n\\rJason Long\\r\n\\rDan Massek\\r\n\\rPatrick McAlpine\\r\n\\rMark McEvoy\\r\n\\rJames McMahon\\r\n\\rZach Mitchell\\r\n\\rJoey Morgan\\r\n\\rCharles Morton\\r\n\\rTre’ Morton\\r\n\\rJason Mosley\\r\n\\rEngku Nasrun\\r\n\\rJeremy Norstad\\r\n\\rRyan O’Connor\\r\n\\rDavid Pazmino\\r\n\\rJames Prater\\r\n\\rDaniel Reigner\\r\n\\rVictor Rogachevsky\\r\n\\rGraham Russell\\r\n\\rBrian Sagocio\\r\n\\rVernon Shurtz\\r\n\\rAlex Shvartsman\\r\n\\rRyan Soots\\r\n\\rLaszlo Stadler\\r\n\\rBenjamin D. Stanley\\r\n\\rJosh Wilhelmi\\r\n\\rGreg Willis\\r\n\\rMichael Zimmerman\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Special Thanks\\r</color></smallcaps>\nFrank Silas\\r\n\\rPhil Straka	
+E	<smallcaps>Ascension: Deck Building Game\\r</smallcaps> \\r \\r<smallcaps>Senior Product Manager\\r</smallcaps> Briana Covill\\r \\r \\r<smallcaps>Lead Programmer\\r</smallcaps> Gary Weis\\r \\r \\r<smallcaps>Director, Engineering\\r</smallcaps> Timothy Parker\\r \\r \\r<smallcaps>Senior Programmers\\r\\r</smallcaps> Randall Stevenson\\r Alan Hickman\\r Adam Dickinson\\r \\r \\r<smallcaps>Programmers\\r</smallcaps> Matthew Schock\\r Sulaiman Abdul-Khabir\\r \\rAlex Shank\\r \\r \\r<smallcaps>Art Director\\r</smallcaps> Jeff Garstecki\\r \\r \\r<smallcaps>Senior Technical Artist\\r</smallcaps> \\rJames Graham\\r \\r \\r<smallcaps>Senior Artist\\r</smallcaps> Eric “Dark Lynx” Lin\\r \\r<smallcaps>Artists</smallcaps> Ron Bourbeau Adam del Rosario\\r \\r \\r<smallcaps>Music and Sound Design\\r</smallcaps> \\rJung Park\\r Todd Masten\\r \\r \\r<smallcaps>Development Director\\r</smallcaps> Todd Masten\\r \\r \\r<smallcaps>Marketing Manager\\r</smallcaps> \\r\\rGeorge Rothrock\\r \\r \\r<smallcaps>Assistant Producer\\r</smallcaps> Rebecca Doyle\\r \\r \\r<smallcaps>QA Analysts\\r</smallcaps> Amanda Rea\\r \\rJesse Dorman\\r \\rCameron Dove\\r \\rRebecca Doyle\\r \\r \\r<smallcaps>Play Testers\\r</smallcaps> \\r\\rJesse Abrahamson\\r \\rRolo Andreola\\r \\rClaire Baker\\r \\rSean Copeland\\r \\rMike Drysdale\\r \\rCory Damone Enriquez\\r \\rJeff Evans\\r \\rIan Estrin\\r \\rJason Finn\\r \\rDavid Fowler\\r \\rSam Grover\\r \\rJen Gidner\\r \\rMike Girard\\r \\rJeff W. Hastings\\r \\rGlenn Jones\\r \\rMichael Lampert\\r \\rLauren Lee\\r \\rScott Lelivelt\\r \\rNoah Lesgold\\r \\rShawn E. A. Lockard\\r \\rJason Long\\r \\rDan Massek\\r \\rPatrick McAlpine\\r \\rMark McEvoy\\r \\rJames McMahon\\r \\rZach Mitchell\\r \\rJoey Morgan\\r \\rCharles Morton\\r \\rTre’ Morton\\r \\rJason Mosley\\r \\rEngku Nasrun\\r \\rJeremy Norstad\\r \\rRyan O’Connor\\r \\rDavid Pazmino\\r \\rJames Prater\\r \\rDaniel Reigner\\r \\rVictor Rogachevsky\\r \\rGraham Russell\\r \\rBrian Sagocio\\r \\rVernon Shurtz\\r \\rAlex Shvartsman\\r \\rRyan Soots\\r \\rLaszlo Stadler\\r \\rBenjamin D. Stanley\\r \\rJosh Wilhelmi\\r \\rGreg Willis\\r \\rMichael Zimmerman\\r \\r \\r<smallcaps>Special Thanks\\r</smallcaps> Frank Silas\\r \\rPhil Straka	
+E	\nMy divinations relate a frightful tale- I have seen cosmic events of the darkest portent. There lately came to the yawning gate of death a divine spirit, wrathful and red, not to be mistaken for a mortal will. The Gatekeeper knelt and, with two hands, plucked it from the stream of souls, brushing stars from the pulsating force like so many burrs.\\r\n\n"This soul is familiar," said the Gatekeeper. Then was heard a viper's voice, as if spoken from five mouths at once: It is because I created you. You must release me.\\r\n\n"Yet, I am bound to send you on your way," the Gatekeeper replied.  "You wore a mortal skin. You must suffer a mortal fate."\\r\n\n<i>No, Kythis. You are bound no longer. Forbear my fate, Gatekeeper, and I shall absolve you of yours. It is still within my power.\\r</i>\n\n\\rThus, Samael the Fallen was spared exile to Deofol—at the cost of leaving death's riverbank forever unwatched, the gate untended, and all wills condemned to purgatory.\\r\n\nNow, the flames of war again decorate the horizon. Terror grips the frontier, so recently resettled, only to be submerged anew in the blood of mortals. With the Gatekeeper gone, the souls torn from the bodies of Vigil's defenders will know no respite unless all is set right.\n\n\\rLet a call echo across all of Vigil. The bickering that came in war's wake must end. A Godslayer must take up arms a second time.\\r\n\nThe Fallen has returned.	
+E	My divinations relate a frightful tale- I have seen cosmic events of the darkest portent. There lately came to the yawning gate of death a divine spirit, wrathful and red, not to be mistaken for a mortal will. The Gatekeeper knelt and, with two hands, plucked it from the stream of souls, brushing stars from the pulsating force like so many burrs.\\r\n\n"This soul is familiar," said the Gatekeeper. Then was heard a viper's voice, as if spoken from five mouths at once: It is because I created you. You must release me.\\r\n\n"Yet, I am bound to send you on your way," the Gatekeeper replied.  "You wore a mortal skin. You must suffer a mortal fate."\\r\n\n<i>No, Kythis. You are bound no longer. Forbear my fate, Gatekeeper, and I shall absolve you of yours. It is still within my power.\\r</i>\n\n\\rThus, Samael the Fallen was spared exile to Deofol—at the cost of leaving death's riverbank forever unwatched, the gate untended, and all wills condemned to purgatory.\\r\n\nNow, the flames of war again decorate the horizon. Terror grips the frontier, so recently resettled, only to be submerged anew in the blood of mortals. With the Gatekeeper gone, the souls torn from the bodies of Vigil's defenders will know no respite unless all is set right.\n\n\\rLet a call echo across all of Vigil. The bickering that came in war's wake must end. A Godslayer must take up arms a second time.\\r\n\nThe Fallen has returned.	
+E	A favorite fan bundle of expansions!\\r<br><br><size=28><align=center><smallcaps>Unique new cards per set:</smallcaps></size><br><br><b>Realms Unraveled:</b><br>53 cards<br><br><b>Dawn of Champions:</b><br>72 cards<br><br><b>Dreamscape:</b><br>76 cards<br><br><b>War of Shadows:</b><br>43 cards<br><br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br><b>Realms Unraveled</b> introduces multi-faction cards to Ascension, which use a muti-unite ability to create turns, unlike anything you've seen before from Ascension.\\r<br><br>Completing the in-game quests listed on cards reward you with extraordinary transformations.\\r<br><br>In <b>Dawn of Champions,</b> you become one of Ascension's greatest Champions with unique player cards that power up as you buy cards from their faction.\\r<br><br><b>Dawn of Champion's</b> Rally mechanic will make each card that flips off the deck more exciting than ever.\\r<br><br><b>Dreamscape</b> will take you to an all-new world within the Ascension universe. Acquire insight from Dreamborn cards and spend it to acquire the personal Dreamscape cards you secretly selected at the beginning of the game!\\r<br><br><b>War of Shadows</b> introduces night and day to Ascension. Acquire and defeat cards, shifting the board back and forth from day and night, empowering different cards in your hand.<br><br>	
+E	A favorite fan bundle of expansions!\\r<br><br><align=center><smallcaps>Unique new cards per set:</smallcaps><br><br><b>Realms Unraveled:</b><br>53 cards<br><br><b>Dawn of Champions:</b><br>72 cards<br><br><b>Dreamscape:</b><br>76 cards<br><br><b>War of Shadows:</b><br>43 cards<br><br><br><align=center><smallcaps>Description:</smallcaps><br><br><b>Realms Unraveled</b> introduces multi-faction cards to Ascension, which use a muti-unite ability to create turns, unlike anything you've seen before from Ascension.\\r<br><br>Completing the in-game quests listed on cards reward you with extraordinary transformations.\\r<br><br>In <b>Dawn of Champions,</b> you become one of Ascension's greatest Champions with unique player cards that power up as you buy cards from their faction.\\r<br><br><b>Dawn of Champion's</b> Rally mechanic will make each card that flips off the deck more exciting than ever.\\r<br><br><b>Dreamscape</b> will take you to an all-new world within the Ascension universe. Acquire insight from Dreamborn cards and spend it to acquire the personal Dreamscape cards you secretly selected at the beginning of the game!\\r<br><br><b>War of Shadows</b> introduces night and day to Ascension. Acquire and defeat cards, shifting the board back and forth from day and night, empowering different cards in your hand.<br><br>	
+E	<size=120%><smallcaps><b>Ascension:\nDeck Building Game\\r</b></smallcaps></size>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension™ Game Design</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Rise of Vigil™ Lead Design</color>\\r</smallcaps>\n\\rJustin Gary\\r\n\\r\n<smallcaps><color=#1C4E80C8>Storm of Souls™ Lead Design</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\r\n<smallcaps><color=#1C4E80C8>Lead Development\\r</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\rBrian Kibler\\r\n\\r\n<smallcaps><color=#1C4E80C8>Additional Game Design / Development\\r</color></smallcaps>\n\\rGary Arant\\r\n\\rDave Baumgartner\\r\n\\rPete Baumgartner\\r\n\\rRob Dougherty\\r\n\\rKaile Dutton\\r\n\\rIan Estrin\\r\n\\rWill Garner\\r\n\\rDarwin Kastle\\r\n\\rBrian Kibler\\r\n\\rJeff Liu\\r\n\\rRyan O’Connor\\r\n\\rMike Rosenberg\\r\n\\rMatt Sperling\\r\n\\rPatrick Sullivan\\r\n\\rSteve Terry\\r\n\\rJake Woods\\r\n\n<smallcaps><color=#1C4E80C8>\\rWebsite and Marketing\\r</color></smallcaps>\n\\rRyan O'Connor\\r\n\\r\n<smallcaps><color=#1C4E80C8>Graphic Design Leads</color></smallcaps>\n\\rRyan O’Connor\\r\n\\rGeordie Tait\\r\n\\r\n<smallcaps><color=#1C4E80C8>Card Art</color></smallcaps>\n\\rEric Sabee\\r\n\\r\n<smallcaps><color=#1C4E80C8>IP Development Lead\\r</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n<smallcaps><color=#1C4E80C8>Creative Director/Storm of Souls IP Development Lead\\r</color></smallcaps>\n\\rGeordie Tait\n\n	
+E	<size=120%><smallcaps><b>Ascension:\nDeck Building Game\\r</b></smallcaps></size>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension™ Game Design</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Rise of Vigil™ Lead Design</color>\\r</smallcaps>\n\\rJustin Gary\\r\n\\r\n<smallcaps><color=#1C4E80C8>Storm of Souls™ Lead Design</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\r\n<smallcaps><color=#1C4E80C8>Lead Development\\r</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\rBrian Kibler\\r\n\\r\n<smallcaps><color=#1C4E80C8>Additional Game Design / Development\\r</color></smallcaps>\n\\rGary Arant\\r\n\\rDave Baumgartner\\r\n\\rPete Baumgartner\\r\n\\rRob Dougherty\\r\n\\rKaile Dutton\\r\n\\rIan Estrin\\r\n\\rWill Garner\\r\n\\rDarwin Kastle\\r\n\\rBrian Kibler\\r\n\\rJeff Liu\\r\n\\rRyan O’Connor\\r\n\\rMike Rosenberg\\r\n\\rMatt Sperling\\r\n\\rPatrick Sullivan\\r\n\\rSteve Terry\\r\n\\rJake Woods\\r\n\n<smallcaps><color=#1C4E80C8>\\rWebsite and Marketing\\r</color></smallcaps>\n\\rRyan O'Connor\\r\n\\r\n<smallcaps><color=#1C4E80C8>Graphic Design Leads</color></smallcaps>\n\\rRyan O’Connor\\r\n\\rGeordie Tait\\r\n\\r\n<smallcaps><color=#1C4E80C8>Card Art</color></smallcaps>\n\\rEric Sabee\\r\n\\r\n<smallcaps><color=#1C4E80C8>IP Development Lead\\r</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n<smallcaps><color=#1C4E80C8>Creative Director/Storm of Souls IP Development Lead\\r</color></smallcaps>\n\\rGeordie Tait	
+E	This bundle of promo cards has some of our wildest additions to Ascension.<br><br><size=28><align=center><smallcaps>Promo Cards Included:</smallcaps></size><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Explosive Swarm<br>Tollmaster Ky'lek<br>Nova, Born of Chaos<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Æther Channeler<br>Æther Curator<br>David, Prophetic Guide<br>Eye of Potential<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Spirit of the Ancients<br>Ætherspring Witch<br>Forrest, Beastwarden<br>Lunar Matriarch<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Temporal Excavator<br>Destroyer's Gate<br>N.I.N.E.<br>Tinkering Monk<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>Eternal Tormentor<br>Æther Ritualist<br>Chaos Rider<br>Ethereal Hunteress<br><br><smallcaps><b>Common:</b></smallcaps><br>The Portal Card<br>Defender of Vigil<br><br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br>Acquire portal cards, which can transform into random cards from any Ascension set. Fill the board with <b>Explosive Swarm</b> monsters. Add a seventh card to the Center Row with the <b>Temporal Excavator</b>. This bundle also includes the first and only Center Row Hero with no faction, the <b>Defender of Vigil</b>!\\r<br><br>	
+E	This bundle of promo cards has some of our wildest additions to Ascension.<br><br><align=center><smallcaps>Promo Cards Included:</smallcaps><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Explosive Swarm<br>Tollmaster Ky'lek<br>Nova, Born of Chaos<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Aether Channeler<br>Aether Curator<br>David, Prophetic Guide<br>Eye of Potential<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Spirit of the Ancients<br>Aetherspring Witch<br>Forrest, Beastwarden<br>Lunar Matriarch<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Temporal Excavator<br>Destroyer's Gate<br>N.I.N.E.<br>Tinkering Monk<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>Eternal Tormentor<br>Aether Ritualist<br>Chaos Rider<br>Ethereal Hunteress<br><br><smallcaps><b>Common:</b></smallcaps><br>The Portal Card<br>Defender of Vigil<br><br><br><align=center><smallcaps>Description:</smallcaps><br><br>Acquire portal cards, which can transform into random cards from any Ascension set. Fill the board with <b>Explosive Swarm</b> monsters. Add a seventh card to the Center Row with the <b>Temporal Excavator</b>. This bundle also includes the first and only Center Row Hero with no faction, the <b>Defender of Vigil</b>!\\r<br><br>	
+E	A favorite fan bundle of expansions!\\r<align=center><smallcaps>Unique new cards per set:</smallcaps>Realms Unraveled:53 cardsDawn of Champions:72 cardsDreamscape:76 cardsWar of Shadows:43 cards<align=center><smallcaps>Description:</smallcaps>Realms Unraveled introduces multi-faction cards to Ascension, which use a muti-unite ability to create turns, unlike anything you've seen before from Ascension.\\rCompleting the in-game quests listed on cards reward you with extraordinary transformations.\\rIn Dawn of Champions, you become one of Ascension's greatest Champions with unique player cards that power up as you buy cards from their faction.\\rDawn of Champion's Rally mechanic will make each card that flips off the deck more exciting than ever.\\rDreamscape will take you to an all-new world within the Ascension universe. Acquire insight from Dreamborn cards and spend it to acquire the personal Dreamscape cards you secretly selected at the beginning of the game!\\rWar of Shadows introduces night and day to Ascension. Acquire and defeat cards, shifting the board back and forth from day and night, empowering different cards in your hand.	
+E	A favorite fan bundle of expansions!<align=center><smallcaps>Unique new cards per set:</smallcaps>Realms Unraveled:53 cardsDawn of Champions:72 cardsDreamscape:76 cardsWar of Shadows:43 cards<align=center><smallcaps>Description:</smallcaps>Realms Unraveled introduces multi-faction cards to Ascension, which use a muti-unite ability to create turns, unlike anything you've seen before from Ascension.Completing the in-game quests listed on cards reward you with extraordinary transformations.In Dawn of Champions, you become one of Ascension's greatest Champions with unique player cards that power up as you buy cards from their faction.Dawn of Champion's Rally mechanic will make each card that flips off the deck more exciting than ever.Dreamscape will take you to an all-new world within the Ascension universe. Acquire insight from Dreamborn cards and spend it to acquire the personal Dreamscape cards you secretly selected at the beginning of the game!War of Shadows introduces night and day to Ascension. Acquire and defeat cards, shifting the board back and forth from day and night, empowering different cards in your hand.	
+E	This bundle of promo cards will add a lot of excitement to your games.\\r<br><br><size=28><align=center><smallcaps>Promo Cards Included:</smallcaps></size><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Kythis, the Gatekeeper<br>Rat King & Giant Rat<br>Ender of Days<br>Constricting Horror<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Vedah, Sage of Swords<br>Askara of Fortune<br>Journeyman Sage<br>Miles, Golen Prodigy<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Pathwarden<br>Cetra, Guide of Ogo<br>Moon Staff<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Deep Drone<br>Hedron Flare<br>Control Room<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>Void Mesmer<br>Nethersnare<br>Soul Collector<br><br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br>Use the <b>Rat King</b> to flood the board with rats! Copy other players' hero cards with the <b>Askara of Fortune</b>. End the game instantly with the <b>Ender of Days</b>. The bundle also includes fan-favorite <b>Miles, Golden Prodigy</b>.\\r<br><br>	
+E	The game ends when a certain amount of Honor has been earned, depending on the number of players.\\r\\r\t\\r\\r\n<align=center>\n2 Players = <sprite=77> Honor   3 Players = <sprite=78> Honor   4 Players = <sprite=79> Honor<br></align><br>When the final Honor point is earned, the game ends at the end of the current round (after the last player to start the game takes a turn).  Thus, each player will play the same number of turns during the course of the game and may still gain Honor even when the Honor pool is depleted.<br><br>\\r\\rCards in each player's deck are also worth Honor points, indicated by the number in the Honor symbol (<sprite=64>) in the bottom left corner of each card.  When the game is over, all Honor points from Heroes and Constructs in your deck and hand are added to the Honor you gained during the game.  The player with the most total Honor is the winner!<br><br>If multiple players have the same number of Honor Points, the last player to start wins (i.e., the starting player loses all ties, the second player loses to the third and fouth, etc.).<br><br>	
+E	<smallcaps><color=#1C4E80C8>Additional IP Development\\r</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\rJustin Gary\\r\n\\rBrian Kibler\\r\n\\rRyan O’Connor\\r\n\\rMike Rosenberg\\r\n\\rEric Sabee\\r\n\\rGeordie Tait\\r\n\\rEric Tice\\r\n\\rGreg Wilson\\r\n\\r\n<smallcaps><color=#1C4E80C8>Flavor Text</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\rBrian Kibler\\r\n\\rGeordie Tait\\r\n\\rEric Tice\\r\n\\rGreg Wilson\\r\n\\r\n<smallcaps><color=#1C4E80C8>Project Management Lead</color></smallcaps>\n\\rRob Dougherty\\r\n\\rIan Estrin\\r\n\\r\n<smallcaps><color=#1C4E80C8>Project Management Support\\r</color></smallcaps>\n\\rIan Estrin\\r\n\\r\n<smallcaps><color=#1C4E80C8>Secretary of Keeping it Real\\r</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\r\n<smallcaps><color=#1C4E80C8>Minister of Propaganda</color>\\r</smallcaps>\n\\rBrian Kibler\\r\n\\r\n<smallcaps><color=#1C4E80C8>Editing\\r</color></smallcaps>\n\\rCate Gary\\r\n\\r\n<smallcaps><color=#1C4E80C8>Rulebook</color></smallcaps>\n\\rGary Arant\\r\n\\rJohn Fiorillo\\r\n\\rJustin Gary\\r\n\\rBrian Kibler\\r\n\\rJeff Liu\\r\n\\rRyan O’Connor\\r\n\\rMike Rosenberg\\r\n\\rGeordie Tait\\r\n\\rEmily Zaehring\n\n\n	
+E	\n\\r<b><smallcaps><size=120%>Delirium</size></smallcaps></b>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension™ Game Engine Design\\r\\r</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension: Delirium™ Lead Design\\r</color></smallcaps>\nGary Arant \n\\r\n\\r<smallcaps><color=#1C4E80C8>Design & Development Team\\r\\r</color></smallcaps>\n\\rJustin Gary, Gary Arant, Jason Zila,\nMataio Wilson and Benjamin Lundquist \n\\r\n\\r<smallcaps><color=#1C4E80C8>Project Management Lead\\r\\r</color></smallcaps>\n\\rGary Arant\n\n\\r<smallcaps><color=#1C4E80C8>Creative Direction & Graphic Design\\r\\r</color></smallcaps>\n\\rRyan O’Connor\\r\n\\r\\r\n\\r<smallcaps><color=#1C4E80C8>Graphic Design\\r\\r</color></smallcaps>\nPeter Wocken Design, Ryan O’Connor\\r\n\n\\r<smallcaps><color=#1C4E80C8>Card Art\\r\\r</color></smallcaps>\n\\rEric Sabee, Aaron Nakahara, \nRod Mendez, Thiên Nguyên\n\n\\r<smallcaps><color=#1C4E80C8>Creative Lead</color></smallcaps>\nGeorge Rockwell III\n\n\\r<smallcaps><color=#1C4E80C8>Creative Team\\r\\r</color></smallcaps>\nGary Arant, Justin Gary, Mataio Wilson\n\n\n	
+E	<smallcaps><color=#1C4E80C8>Additional IP Development\\r</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\rJustin Gary\\r\n\\rBrian Kibler\\r\n\\rRyan O’Connor\\r\n\\rMike Rosenberg\\r\n\\rEric Sabee\\r\n\\rGeordie Tait\\r\n\\rEric Tice\\r\n\\rGreg Wilson\\r\n\\r\n<smallcaps><color=#1C4E80C8>Flavor Text</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\rBrian Kibler\\r\n\\rGeordie Tait\\r\n\\rEric Tice\\r\n\\rGreg Wilson\\r\n\\r\n<smallcaps><color=#1C4E80C8>Project Management Lead</color></smallcaps>\n\\rRob Dougherty\\r\n\\rIan Estrin\\r\n\\r\n<smallcaps><color=#1C4E80C8>Project Management Support\\r</color></smallcaps>\n\\rIan Estrin\\r\n\\r\n<smallcaps><color=#1C4E80C8>Secretary of Keeping it Real\\r</color></smallcaps>\n\\rJohn Fiorillo\\r\n\\r\n<smallcaps><color=#1C4E80C8>Minister of Propaganda</color>\\r</smallcaps>\n\\rBrian Kibler\\r\n\\r\n<smallcaps><color=#1C4E80C8>Editing\\r</color></smallcaps>\n\\rCate Gary\\r\n\\r\n<smallcaps><color=#1C4E80C8>Rulebook</color></smallcaps>\n\\rGary Arant\\r\n\\rJohn Fiorillo\\r\n\\rJustin Gary\\r\n\\rBrian Kibler\\r\n\\rJeff Liu\\r\n\\rRyan O’Connor\\r\n\\rMike Rosenberg\\r\n\\rGeordie Tait\\r\n\\rEmily Zaehring	
+E	<smallcaps>Ascension: Deck Building Game\\r</smallcaps> \\r \\r<smallcaps>Ascension™ Game Design</smallcaps> \\rJustin Gary\\r \\r \\r<smallcaps>Rise of Vigil™ Lead Design\\r</smallcaps> \\rJustin Gary\\r \\r <smallcaps>Storm of Souls™ Lead Design</smallcaps> \\rJohn Fiorillo\\r \\r <smallcaps>Lead Development\\r</smallcaps> \\rJohn Fiorillo\\r \\rBrian Kibler\\r \\r <smallcaps>Additional Game Design / Development\\r</smallcaps> \\rGary Arant\\r \\rDave Baumgartner\\r \\rPete Baumgartner\\r \\rRob Dougherty\\r \\rKaile Dutton\\r \\rIan Estrin\\r \\rWill Garner\\r \\rDarwin Kastle\\r \\rBrian Kibler\\r \\rJeff Liu\\r \\rRyan O’Connor\\r \\rMike Rosenberg\\r \\rMatt Sperling\\r \\rPatrick Sullivan\\r \\rSteve Terry\\r \\rJake Woods\\r <smallcaps>\\rWebsite and Marketing\\r</smallcaps> \\rRyan O'Connor\\r \\r <smallcaps>Graphic Design Leads</smallcaps> \\rRyan O’Connor\\r \\rGeordie Tait\\r \\r <smallcaps>Card Art</smallcaps> \\rEric Sabee\\r \\r <smallcaps>IP Development Lead\\r</smallcaps> \\rJustin Gary\\r \\r <smallcaps>Creative Director/Storm of Souls IP Development Lead\\r</smallcaps> \\rGeordie Tait	
+E	This bundle of promo cards will add a lot of excitement to your games.\\r<br><br><align=center><smallcaps>Promo Cards Included:</smallcaps><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Kythis, the Gatekeeper<br>Rat King & Giant Rat<br>Ender of Days<br>Constricting Horror<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Vedah, Sage of Swords<br>Askara of Fortune<br>Journeyman Sage<br>Miles, Golen Prodigy<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Pathwarden<br>Cetra, Guide of Ogo<br>Moon Staff<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Deep Drone<br>Hedron Flare<br>Control Room<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>Void Mesmer<br>Nethersnare<br>Soul Collector<br><br><br><align=center><smallcaps>Description:</smallcaps><br><br>Use the <b>Rat King</b> to flood the board with rats! Copy other players' hero cards with the <b>Askara of Fortune</b>. End the game instantly with the <b>Ender of Days</b>. The bundle also includes fan-favorite <b>Miles, Golden Prodigy</b>.\\r<br><br>	
+E	\\r<b><smallcaps><size=120%>Delirium</size></smallcaps></b>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension™ Game Engine Design\\r\\r</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension: Delirium™ Lead Design\\r</color></smallcaps>\nGary Arant \n\\r\n\\r<smallcaps><color=#1C4E80C8>Design & Development Team\\r\\r</color></smallcaps>\n\\rJustin Gary, Gary Arant, Jason Zila,\nMataio Wilson and Benjamin Lundquist \n\\r\n\\r<smallcaps><color=#1C4E80C8>Project Management Lead\\r\\r</color></smallcaps>\n\\rGary Arant\n\n\\r<smallcaps><color=#1C4E80C8>Creative Direction & Graphic Design\\r\\r</color></smallcaps>\n\\rRyan O’Connor\\r\n\\r\\r\n\\r<smallcaps><color=#1C4E80C8>Graphic Design\\r\\r</color></smallcaps>\nPeter Wocken Design, Ryan O’Connor\\r\n\n\\r<smallcaps><color=#1C4E80C8>Card Art\\r\\r</color></smallcaps>\n\\rEric Sabee, Aaron Nakahara, \nRod Mendez, Thiên Nguyên\n\n\\r<smallcaps><color=#1C4E80C8>Creative Lead</color></smallcaps>\nGeorge Rockwell III\n\n\\r<smallcaps><color=#1C4E80C8>Creative Team\\r\\r</color></smallcaps>\nGary Arant, Justin Gary, Mataio Wilson	
+E	This bundle of promo cards has some of our wildest additions to Ascension.<align=center><smallcaps>Promo Cards Included:</smallcaps><smallcaps>Monsters:</smallcaps>Explosive SwarmTollmaster Ky'lekNova, Born of Chaos<smallcaps>Enlightened Faction:</smallcaps>Aether ChannelerAether CuratorDavid, Prophetic GuideEye of Potential<smallcaps>Lifebound Faction:</smallcaps>Spirit of the AncientsAetherspring WitchForrest, BeastwardenLunar Matriarch<smallcaps>Mechana Faction:</smallcaps>Temporal ExcavatorDestroyer's GateN.I.N.E.Tinkering Monk<smallcaps>Void Faction:</smallcaps>Eternal TormentorAether RitualistChaos RiderEthereal Hunteress<smallcaps>Common:</smallcaps>The Portal CardDefender of Vigil<align=center><smallcaps>Description:</smallcaps>Acquire portal cards, which can transform into random cards from any Ascension set. Fill the board with Explosive Swarm monsters. Add a seventh card to the Center Row with the Temporal Excavator. This bundle also includes the first and only Center Row Hero with no faction, the Defender of Vigil!\\r	
+E	\n\\r<b><smallcaps>Delirium</smallcaps></b>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension™ Game Engine Design\\r\\r</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension: Delirium™ Lead Design\\r</color></smallcaps>\nGary Arant \n\\r\n\\r<smallcaps><color=#1C4E80C8>Design & Development Team\\r\\r</color></smallcaps>\n\\rJustin Gary, Gary Arant, Jason Zila,\nMataio Wilson and Benjamin Lundquist \n\\r\n\\r<smallcaps><color=#1C4E80C8>Project Management Lead\\r\\r</color></smallcaps>\n\\rGary Arant\n\n\\r<smallcaps><color=#1C4E80C8>Creative Direction & Graphic Design\\r\\r</color></smallcaps>\n\\rRyan O’Connor\\r\n\\r\\r\n\\r<smallcaps><color=#1C4E80C8>Graphic Design\\r\\r</color></smallcaps>\nPeter Wocken Design, Ryan O’Connor\\r\n\n\\r<smallcaps><color=#1C4E80C8>Card Art\\r\\r</color></smallcaps>\n\\rEric Sabee, Aaron Nakahara, \nRod Mendez, Thiên Nguyên\n\n\\r<smallcaps><color=#1C4E80C8>Creative Lead</color></smallcaps>\nGeorge Rockwell III\n\n\\r<smallcaps><color=#1C4E80C8>Creative Team\\r\\r</color></smallcaps>\nGary Arant, Justin Gary, Mataio Wilson\n\n\n	
+E	\\r<b><smallcaps>Delirium</smallcaps></b>\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension™ Game Engine Design\\r\\r</color></smallcaps>\n\\rJustin Gary\\r\n\\r\n\\r<smallcaps><color=#1C4E80C8>Ascension: Delirium™ Lead Design\\r</color></smallcaps>\nGary Arant \n\\r\n\\r<smallcaps><color=#1C4E80C8>Design & Development Team\\r\\r</color></smallcaps>\n\\rJustin Gary, Gary Arant, Jason Zila,\nMataio Wilson and Benjamin Lundquist \n\\r\n\\r<smallcaps><color=#1C4E80C8>Project Management Lead\\r\\r</color></smallcaps>\n\\rGary Arant\n\n\\r<smallcaps><color=#1C4E80C8>Creative Direction & Graphic Design\\r\\r</color></smallcaps>\n\\rRyan O’Connor\\r\n\\r\\r\n\\r<smallcaps><color=#1C4E80C8>Graphic Design\\r\\r</color></smallcaps>\nPeter Wocken Design, Ryan O’Connor\\r\n\n\\r<smallcaps><color=#1C4E80C8>Card Art\\r\\r</color></smallcaps>\n\\rEric Sabee, Aaron Nakahara, \nRod Mendez, Thiên Nguyên\n\n\\r<smallcaps><color=#1C4E80C8>Creative Lead</color></smallcaps>\nGeorge Rockwell III\n\n\\r<smallcaps><color=#1C4E80C8>Creative Team\\r\\r</color></smallcaps>\nGary Arant, Justin Gary, Mataio Wilson	
+E	The game ends when a certain amount of Honor has been earned, depending on the number of players.\\r\\r \\r\\r <align=center> 2 Players = Honor 3 Players = Honor 4 Players = Honor</align>When the final Honor point is earned, the game ends at the end of the current round (after the last player to start the game takes a turn). Thus, each player will play the same number of turns during the course of the game and may still gain Honor even when the Honor pool is depleted.\\r\\rCards in each player's deck are also worth Honor points, indicated by the number in the Honor symbol () in the bottom left corner of each card. When the game is over, all Honor points from Heroes and Constructs in your deck and hand are added to the Honor you gained during the game. The player with the most total Honor is the winner!If multiple players have the same number of Honor Points, the last player to start wins (i.e., the starting player loses all ties, the second player loses to the third and fouth, etc.).	
+E	<smallcaps>Additional IP Development\\r</smallcaps> \\rJohn Fiorillo\\r \\rJustin Gary\\r \\rBrian Kibler\\r \\rRyan O’Connor\\r \\rMike Rosenberg\\r \\rEric Sabee\\r \\rGeordie Tait\\r \\rEric Tice\\r \\rGreg Wilson\\r \\r <smallcaps>Flavor Text</smallcaps> \\rJohn Fiorillo\\r \\rBrian Kibler\\r \\rGeordie Tait\\r \\rEric Tice\\r \\rGreg Wilson\\r \\r <smallcaps>Project Management Lead</smallcaps> \\rRob Dougherty\\r \\rIan Estrin\\r \\r <smallcaps>Project Management Support\\r</smallcaps> \\rIan Estrin\\r \\r <smallcaps>Secretary of Keeping it Real\\r</smallcaps> \\rJohn Fiorillo\\r \\r <smallcaps>Minister of Propaganda\\r</smallcaps> \\rBrian Kibler\\r \\r <smallcaps>Editing\\r</smallcaps> \\rCate Gary\\r \\r <smallcaps>Rulebook</smallcaps> \\rGary Arant\\r \\rJohn Fiorillo\\r \\rJustin Gary\\r \\rBrian Kibler\\r \\rJeff Liu\\r \\rRyan O’Connor\\r \\rMike Rosenberg\\r \\rGeordie Tait\\r \\rEmily Zaehring	
+E	This bundle of promo cards will add a lot of excitement to your games.\\r<align=center><smallcaps>Promo Cards Included:</smallcaps><smallcaps>Monsters:</smallcaps>Kythis, the GatekeeperRat King & Giant RatEnder of DaysConstricting Horror<smallcaps>Enlightened Faction:</smallcaps>Vedah, Sage of SwordsAskara of FortuneJourneyman SageMiles, Golen Prodigy<smallcaps>Lifebound Faction:</smallcaps>PathwardenCetra, Guide of OgoMoon Staff<smallcaps>Mechana Faction:</smallcaps>Deep DroneHedron FlareControl Room<smallcaps>Void Faction:</smallcaps>Void MesmerNethersnareSoul Collector<align=center><smallcaps>Description:</smallcaps>Use the Rat King to flood the board with rats! Copy other players' hero cards with the Askara of Fortune. End the game instantly with the Ender of Days. The bundle also includes fan-favorite Miles, Golden Prodigy.\\r	
+E	This bundle of promo cards will add a lot of excitement to your games.<align=center><smallcaps>Promo Cards Included:</smallcaps><smallcaps>Monsters:</smallcaps>Kythis, the GatekeeperRat King & Giant RatEnder of DaysConstricting Horror<smallcaps>Enlightened Faction:</smallcaps>Vedah, Sage of SwordsAskara of FortuneJourneyman SageMiles, Golen Prodigy<smallcaps>Lifebound Faction:</smallcaps>PathwardenCetra, Guide of OgoMoon Staff<smallcaps>Mechana Faction:</smallcaps>Deep DroneHedron FlareControl Room<smallcaps>Void Faction:</smallcaps>Void MesmerNethersnareSoul Collector<align=center><smallcaps>Description:</smallcaps>Use the Rat King to flood the board with rats! Copy other players' hero cards with the Askara of Fortune. End the game instantly with the Ender of Days. The bundle also includes fan-favorite Miles, Golden Prodigy.	
+E	\\r<smallcaps>Delirium</smallcaps> \\r \\r<smallcaps>Ascension™ Game Engine Design\\r\\r</smallcaps> \\rJustin Gary\\r \\r \\r<smallcaps>Ascension: Delirium™ Lead Design\\r</smallcaps> Gary Arant \\r \\r<smallcaps>Design & Development Team\\r\\r</smallcaps> \\rJustin Gary, Gary Arant, Jason Zila, Mataio Wilson and Benjamin Lundquist \\r \\r<smallcaps>Project Management Lead\\r\\r</smallcaps> \\rGary Arant \\r<smallcaps>Creative Direction & Graphic Design\\r\\r</smallcaps> \\rRyan O’Connor\\r \\r\\r \\r<smallcaps>Graphic Design\\r\\r</smallcaps> Peter Wocken Design, Ryan O’Connor\\r \\r<smallcaps>Card Art\\r\\r</smallcaps> \\rEric Sabee, Aaron Nakahara, Rod Mendez, Thiên Nguyên \\r<smallcaps>Creative Lead</smallcaps> George Rockwell III \\r<smallcaps>Creative Team\\r\\r</smallcaps> Gary Arant, Justin Gary, Mataio Wilson	
+E	Harness elemental magic and the power of ancient temples with this bundle!\\r<br><br><size=28><align=center><smallcaps>Unique new cards per set:</smallcaps></size><br><br><b>Gift of the Elements:</b><br>55 cards<br><br><b>Valley of the Ancients:</b><br>51 cards<br><br><b>Delirium:</b><br>49 cards<br><br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br>Infest your opponent's deck with rampaging goblins, thin your deck faster than ever with <i>Empower</i>, and transform event cards into Ascension's most powerful Heroes.\\r<br><br><b>Valley of the Ancients</b> pits you against each other as you vie for control over the <i>Temples of Life, Death,</i> and <i>Immortality</i>. Incredible bonuses are available to those who control them.\\r<br><br>	
+E	Harness elemental magic and the power of ancient temples with this bundle!\\r<br><br><align=center><smallcaps>Unique new cards per set:</smallcaps><br><br><b>Gift of the Elements:</b><br>55 cards<br><br><b>Valley of the Ancients:</b><br>51 cards<br><br><b>Delirium:</b><br>49 cards<br><br><br><align=center><smallcaps>Description:</smallcaps><br><br>Infest your opponent's deck with rampaging goblins, thin your deck faster than ever with <i>Empower</i>, and transform event cards into Ascension's most powerful Heroes.\\r<br><br><b>Valley of the Ancients</b> pits you against each other as you vie for control over the <i>Temples of Life, Death,</i> and <i>Immortality</i>. Incredible bonuses are available to those who control them.\\r<br><br>	
+E	<br><size=28><align=center><smallcaps>Promo Cards Included:</smallcaps></size><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Puggageddon<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Spire of the Wind<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Seed of the World<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Chaotic Cannon<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>The Aethermourne<br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br>Harness Spire of the Wind to turn discards into powerful draw, and Seed of the World to gain extra value from the Center Row—opening up new, powerful combo!\\r<br><br>	
+E	<size=28><align=center><smallcaps>Promo Cards Included:</smallcaps></size><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Puggageddon<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Spire of the Wind<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Seed of the World<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Chaotic Cannon<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>The Aethermourne<br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br>Harness Spire of the Wind to turn discards into powerful draw, and Seed of the World to gain extra value from the Center Row—opening up new, powerful combo!\\r<br><br>	
+E	<br><align=center><smallcaps>Promo Cards Included:</smallcaps><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Puggageddon<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Spire of the Wind<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Seed of the World<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Chaotic Cannon<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>The Aethermourne<br><br><align=center><smallcaps>Description:</smallcaps><br><br>Harness Spire of the Wind to turn discards into powerful draw, and Seed of the World to gain extra value from the Center Row—opening up new, powerful combo!\\r<br><br>	
+E	<align=center><smallcaps>Promo Cards Included:</smallcaps><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Puggageddon<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Spire of the Wind<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Seed of the World<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Chaotic Cannon<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>The Aethermourne<br><br><align=center><smallcaps>Description:</smallcaps><br><br>Harness Spire of the Wind to turn discards into powerful draw, and Seed of the World to gain extra value from the Center Row—opening up new, powerful combo!\\r<br><br>	
+E	Harness elemental magic and the power of ancient temples with this bundle!\\r<align=center><smallcaps>Unique new cards per set:</smallcaps>Gift of the Elements:55 cardsValley of the Ancients:51 cardsDelirium:49 cards<align=center><smallcaps>Description:</smallcaps>Infest your opponent's deck with rampaging goblins, thin your deck faster than ever with Empower, and transform event cards into Ascension's most powerful Heroes.\\rValley of the Ancients pits you against each other as you vie for control over the Temples of Life, Death, and Immortality. Incredible bonuses are available to those who control them.\\r	
+E	Harness elemental magic and the power of ancient temples with this bundle!<align=center><smallcaps>Unique new cards per set:</smallcaps>Gift of the Elements:55 cardsValley of the Ancients:51 cardsDelirium:49 cards<align=center><smallcaps>Description:</smallcaps>Infest your opponent's deck with rampaging goblins, thin your deck faster than ever with Empower, and transform event cards into Ascension's most powerful Heroes.Valley of the Ancients pits you against each other as you vie for control over the Temples of Life, Death, and Immortality. Incredible bonuses are available to those who control them.	
+E	1. <indent=4%>Play cards from your hand to gain Runes, Power, and Honor.  Acquire Heroes and Constructs for future turns.  Defeat Monsters for Honor and rewards.\\r\\r</indent>\n\n2. <indent=4%>After you are done acquiring Heroes and Constructs and defeating Monsters, all cards in your hand are placed into your discard pile.\\r\\r</indent>\n\n3. <indent=4%>You are dealt five cards from your personal deck to replenish your hand.  If you run out of cards, your discard pile will automatically be shuffled and the cards will be moved to your personal deck.\\r\\r</indent>\n\n	
+E	1. <indent=4%>Play cards from your hand to gain Runes, Power, and Honor.  Acquire Heroes and Constructs for future turns.  Defeat Monsters for Honor and rewards.\\r\\r</indent>\n\n2. <indent=4%>After you are done acquiring Heroes and Constructs and defeating Monsters, all cards in your hand are placed into your discard pile.\\r\\r</indent>\n\n3. <indent=4%>You are dealt five cards from your personal deck to replenish your hand.  If you run out of cards, your discard pile will automatically be shuffled and the cards will be moved to your personal deck.\\r\\r</indent>	
+E	\n<smallcaps><size=120%><b>Ascension: Deck Building Game</size></b></smallcaps>\n\\r\n<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n<smallcaps><color=#1C4E80C8>Programmer</color>\\r</smallcaps>\nMatthew Schock\\r\n\\r\n<smallcaps><color=#1C4E80C8>CCO/Art Director\\r</color></smallcaps>\nJeff "Stecki" Garstecki\\r\n\\r\n<smallcaps><color=#1C4E80C8>Music and Sound Design</color>\\r</smallcaps>\nAlexander Goodman\\r\n\\r\n<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\n\\rAlexander Goodman\\r\n\\rKyle Scarcia\\r\nChase Balfour\n\\r\n\n	
+E	Return to the world of Vigil as the Muses of Malevolence rise to bring ruin. Legendary Heroes from Ascension’s past have returned to guide you, granting their power to those who prove worthy.Each card you acquire or defeat grants Renown with its factions, advancing you on the Legendary Track. As your Renown grows, unlock powerful Boons from Legendary Characters and, at the pinnacle of a faction’s track, gain Legendry status with the power to acquire or defeat one card from that faction for free each turn.<align=center>Includes 86 unique new cards.	
+E	<smallcaps><size=120%><b>Ascension: Deck Building Game</size></b></smallcaps>\n\\r\n<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n<smallcaps><color=#1C4E80C8>Programmer</color>\\r</smallcaps>\nMatthew Schock\\r\n\\r\n<smallcaps><color=#1C4E80C8>CCO/Art Director\\r</color></smallcaps>\nJeff "Stecki" Garstecki\\r\n\\r\n<smallcaps><color=#1C4E80C8>Music and Sound Design</color>\\r</smallcaps>\nAlexander Goodman\\r\n\\r\n<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\n\\rAlexander Goodman\\r\n\\rKyle Scarcia\\r\nChase Balfour\n\\r	
+E	Return to the world of Vigil as the Muses of Malevolence rise to bring ruin. Legendary Heroes from Ascension’s past have returned to guide you, granting their power to those who prove worthy.Each card you acquire or defeat grants Renown with its factions, advancing you on the Legendary Track. As your Renown grows, unlock powerful Boons from Legendary Characters and, at the pinnacle of a faction’s track, gain Legendry status with the power to acquire or defeat one card from that faction for free each turn.<align=center>Includes 86 uniquenew cards.	
+E	\n<smallcaps><b>Ascension: Deck Building Game</b></smallcaps>\n\\r\n<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n<smallcaps><color=#1C4E80C8>Programmer</color>\\r</smallcaps>\nMatthew Schock\\r\n\\r\n<smallcaps><color=#1C4E80C8>CCO/Art Director\\r</color></smallcaps>\nJeff "Stecki" Garstecki\\r\n\\r\n<smallcaps><color=#1C4E80C8>Music and Sound Design</color>\\r</smallcaps>\nAlexander Goodman\\r\n\\r\n<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\n\\rAlexander Goodman\\r\n\\rKyle Scarcia\\r\nChase Balfour\n\\r\n\n	
+E	<smallcaps><b>Ascension: Deck Building Game</b></smallcaps>\n\\r\n<smallcaps><color=#1C4E80C8>Lead Programmer\\r</color></smallcaps>\nGary Weis\\r\n\\r\n<smallcaps><color=#1C4E80C8>Programmer</color>\\r</smallcaps>\nMatthew Schock\\r\n\\r\n<smallcaps><color=#1C4E80C8>CCO/Art Director\\r</color></smallcaps>\nJeff "Stecki" Garstecki\\r\n\\r\n<smallcaps><color=#1C4E80C8>Music and Sound Design</color>\\r</smallcaps>\nAlexander Goodman\\r\n\\r\n<smallcaps><color=#1C4E80C8>QA Analysts\\r</color></smallcaps>\n\\rAlexander Goodman\\r\n\\rKyle Scarcia\\r\nChase Balfour\n\\r	
+E	<align=center><smallcaps>Promo Cards Included:</smallcaps><smallcaps>Monsters:</smallcaps>Puggageddon<smallcaps>Enlightened Faction:</smallcaps>Spire of the Wind<smallcaps>Lifebound Faction:</smallcaps>Seed of the World<smallcaps>Mechana Faction:</smallcaps>Chaotic Cannon<smallcaps>Void Faction:</smallcaps>The Aethermourne<align=center><smallcaps>Description:</smallcaps>Harness Spire of the Wind to turn discards into powerful draw, and Seed of the World to gain extra value from the Center Row—opening up new, powerful combo!\\r	
+E	This bundle has the two incredible stand alone sets from the third year of Ascension.<align=center><smallcaps>Unique new cards per set:</smallcaps>Rise of Vigil:47 cardsDarkness Unleashed:35 cards<align=center><smallcaps>Description:</smallcaps>Rise of Vigil and Darkness Unleashed provide unparalleled excitement with Energy Shards. These Shards are a new card type called Treasure, that you get by acquiring and defeating cards on top of them. These Shards will power up your cards and even permanently transform your cards.	
+E	Dark forces have taken over the Dreamscape. Team up with Pasythea, collect her legendary weapons, and return order to her world!Use the Insight resources and Dreamborn cards to save the Dreamscape. Bind Monsters to your deck and use them in battle! Transform cards to incredible heroes and Constructs and acquire Pasythea! Pair Deliverance with Dreamscape and Delirium for an even more exciting game!<align=center>Includes 51 unique new cards.	
+E	Dark forces have taken over the Dreamscape. Team up with Pasythea, collect her legendary weapons, and return order to her world!Use the Insight resources and Dreamborn cards to save the Dreamscape. Bind Monsters to your deck and use them in battle! Transform cards to incredible heroes and Constructs and acquire Pasythea! Pair Deliverance with Dreamscape and Delirium for an even more exciting game!<align=center>Includes 51 uniquenew cards.	
+E	<smallcaps>Ascension: Deck Building Game</smallcaps> \\r <smallcaps>Lead Programmer\\r</smallcaps> Gary Weis\\r \\r <smallcaps>Programmer\\r</smallcaps> Matthew Schock\\r \\r <smallcaps>CCO/Art Director\\r</smallcaps> Jeff "Stecki" Garstecki\\r \\r <smallcaps>Music and Sound Design\\r</smallcaps> Alexander Goodman\\r \\r <smallcaps>QA Analysts\\r</smallcaps> \\rAlexander Goodman\\r \\rKyle Scarcia\\r Chase Balfour \\r	
+E	Cards in each player's deck are also worth Honor points, indicated by the number in the Honor symbol (<sprite=64>) in the bottom left corner of each card.  When the game is over, all Honor points from Heroes and Constructs in your deck and hand are added to the Honor you gained during the game.  The player with the most total Honor is the winner!	
+E	Delirium brings players back into the Dreamscape, facing a twisted new reality.Insight and Dreamborn cards are back, but with new powers to unlock with them.Win Fate Auctions, Recur hero effects, and roll the amazing Delirium Die with your Insight to gain an edge against the other players!<align=center>Includes 49 unique new cards.	
+E	The visitors from Arha say that the afterlife itself is in turmoil. Gatekeeper Kythis, who since Time's Dawn had admitted the damned to their final resting place, stands watch no more. Now, a restless and tormented mass of wills churns beneath all existence, welling up between the worlds.	来自阿尔哈的访客说，冥府本身正陷入动荡。自时间破晓以来一直将死者送往最终归宿的守门者凯提斯，已不再值守。如今，一团不安而饱受折磨的意志之潮在所有存在之下翻涌，在诸界之间沸腾。
+E	<margin-right=8em>\\rYou need Runes to acquire Heroes and Constructs.  Runes come from Heroes played from your hand or from Constructs you have in play.  You may acquire any number of cards as long as you have enough Runes.  Cards that are eligible to be acquired will glow green.\n\n	
+E	<margin-right=8em>\\rYou need Runes to acquire Heroes and Constructs.  Runes come from Heroes played from your hand or from Constructs you have in play.  You may acquire any number of cards as long as you have enough Runes.  Cards that are eligible to be acquired will glow green.	
+E	<margin-right=8em>\\rYou need Runes to acquire Heroes and Constructs. Runes come from Heroes played from your hand or from Constructs you have in play. You may acquire any number of cards as long as you have enough Runes. Cards that are eligible to be acquired will glow green.	
+E	For millennia, the world of <b>Vigil</b> has been isolated and protected from other realms.  Now, the barrier between dimensions is failing, and <b>Samael, the Fallen God</b>, has returned with his army of Monsters from the beyond!	
+E	The game ends when a certain amount of Honor has been earned, depending on the number of players.\\r\t\\r\\r\n<align=center>\n2 Players = <sprite=77> Honor     3 Players = <sprite=78> Honor     4 Players = <sprite=79> Honor\n\n	
+E	The game ends when a certain amount of Honor has been earned, depending on the number of players.\\r\t\\r\\r\n<align=center>\n2 Players = <sprite=77> Honor     3 Players = <sprite=78> Honor     4 Players = <sprite=79> Honor	
+E	3. <indent=4%>You are dealt five cards from your personal deck to replenish your hand.  If you run out of cards, your discard pile will automatically be shuffled and the cards will be moved to your personal deck.	
+E	<margin-right=8em>To defeat a Monster, you must have enough Power.  You may defeat any number of Monsters as long as you have enough Power.  Cards that are eligible to be defeated will glow red. \n\n\n\n	
+E	<margin-right=8em>To defeat a Monster, you must have enough Power.  You may defeat any number of Monsters as long as you have enough Power.  Cards that are eligible to be defeated will glow red.	
+E	<margin-right=8em>To defeat a Monster, you must have enough Power. You may defeat any number of Monsters as long as you have enough Power. Cards that are eligible to be defeated will glow red.	
+E	You already own one or more items contained in this bundle.\nIndividual items can be purchased from the "Purchase Separately" menu.\nAre you sure you wish to purchase the bundle?	你already own一或更高items contained在此bundle.\nIndividual items能是purchased从 "Purchase Separately" menu.\nAre你sure你wish以purchase bundle?
+E	You already own one or more items contained in this bundle. Individual items can be purchased from the "Purchase Separately" menu. Are you sure you wish to purchase the bundle?	你already own一或更高items contained在此bundle.\nIndividual items能是purchased从 "Purchase Separately" menu.\nAre你sure你wish以purchase bundle?
+E	The game ends when a certain amount of Honor has been earned, depending on the number of players.\\r \\r\\r <align=center> 2 Players = Honor 3 Players = Honor 4 Players = Honor	
+E	<smallcaps><size=120%><b>Administration\\r</b></size></smallcaps>\n\n\\r<smallcaps><color=#1C4E80C8>Chief Executive Officer, Playdek\\r</color></smallcaps>\n\\r\\rJoel Goodman\\r\n\n\n	
+E	<smallcaps><size=120%><b>Administration\\r</b></size></smallcaps>\n\n\\r<smallcaps><color=#1C4E80C8>Chief Executive Officer, Playdek\\r</color></smallcaps>\n\\r\\rJoel Goodman\\r	
+E	"This soul is familiar," said the Gatekeeper. Then was heard a viper's voice, as if spoken from five mouths at once: It is because I created you. You must release me.	「这魂灵我甚是熟悉，」守门者说道。这时，一条蛇般的声音响起，仿佛从五个口中同时发出：「因为是我创造了你。你必须释放我。」
+E	1. <indent=4%>Play cards from your hand to gain Runes, Power, and Honor.  Acquire Heroes and Constructs for future turns.  Defeat Monsters for Honor and rewards.	
+E	<smallcaps><b>Administration\\r</b></smallcaps>\n\n\\r<smallcaps><color=#1C4E80C8>Chief Executive Officer, Playdek\\r</color></smallcaps>\n\\r\\rJoel Goodman\\r\n\n\n	
+E	<smallcaps><b>Administration\\r</b></smallcaps>\n\n\\r<smallcaps><color=#1C4E80C8>Chief Executive Officer, Playdek\\r</color></smallcaps>\n\\r\\rJoel Goodman\\r	
+E	Purchase all the Ascension bundles for one low price!<br><br>Includes Bundle #1 through Bundle #5.  \n\nThat's 630 <b>unique</b> new cards to play with.	
+E	2. <indent=4%>After you are done acquiring Heroes and Constructs and defeating Monsters, all cards in your hand are placed into your discard pile.	
+E	If you have never created a Playdek account, please click on the "Create Account" button and follow the process to create a new online account.	若你 拥有从不created Playdek account, please click在 "Create Account" button和跟随process以create新online account.
+E	The player who gains the most <b>Honor Points</b> will lead his army to defeat the <b>Fallen One</b> and earn the title of <b>Godslayer.	
+E	FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void\n	
 E	You can get a closer view of any card by double tapping it.  A single tap will then return it to the play field so you can resume play.	双击任意卡牌可查看大图。单击即可回到牌局继续游戏。
 E	You can get a closer view of any card by right clicking it.  A left click will then return it to the play field so you can resume play.	右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。
+E	FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void	
 E	You can get a closer view of any card by double tapping it. A single tap will then return it to the play field so you can resume play.	双击任意卡牌可查看大图。单击即可回到牌局继续游戏。
 E	You can get a closer view of any card by right clicking it. A left click will then return it to the play field so you can resume play.	右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。
+E	Purchase all the Ascension bundles for one low price!Includes Bundle #1 through Bundle #5. That's 630 unique new cards to play with.	Purchase所有Ascension bundles以一low price!<br><br>Includes Bundle #1 穿过Bundle #5. \n\n该之 630 <b>unique</b> 新卡牌以 打出以.
+E	<i>No, Kythis. You are bound no longer. Forbear my fate, Gatekeeper, and I shall absolve you of yours. It is still within my power.	
+E	Info blocky of Info\nInfo block of Info\nInfo block of Info block of Info\nInfo block of Info\nInfo block of Info\nInfo block of Info	Info blocky的Info\nInfo block的Info\nInfo block的Info block的Info\nInfo block的Info\nInfo block的Info\nInfo block的Info
+E	Info blocky of Info Info block of Info Info block of Info block of Info Info block of Info Info block of Info Info block of Info	Info blocky的Info\nInfo block的Info\nInfo block的Info block的Info\nInfo block的Info\nInfo block的Info\nInfo block的Info
+E	No, Kythis. You are bound no longer. Forbear my fate, Gatekeeper, and I shall absolve you of yours. It is still within my power.	「不，凯提斯。你已不再受约束。守门者，请免去我的宿命，我也将免去你的职责。这仍在我的权力之内。」
+E	<indent=4em><b>POWER:</b> Power is the second resource in Ascension.  Power is used to defeat Monsters and earn rewards. \\r\\r\n\n	
+E	<indent=4em><b>POWER:</b> Power is the second resource in Ascension.  Power is used to defeat Monsters and earn rewards. \\r\\r	
+E	"Yet, I am bound to send you on your way," the Gatekeeper replied.  "You wore a mortal skin. You must suffer a mortal fate."	「然而，我必须送你上路，」守门者回答。「你曾披上凡人之躯。你必须承受凡人之命。」
+E	"Yet, I am bound to send you on your way," the Gatekeeper replied. "You wore a mortal skin. You must suffer a mortal fate."	「然而，我必须送你上路，」守门者回答。「你曾披上凡人之躯。你必须承受凡人之命。」
+E	If you previously had a Playdek account or use one for our other games you may login with that account email and password.	若你previously曾有Playdek account或use一以 我们的其他games你可以login以该account email和password.
+E	At the end of the game, the Honor token pool empties and each player counts up their total Honor to determine the winner.	游戏结束时，荣誉点数池耗尽，每位玩家清点其荣誉总数以决定胜者。
+E	<smallcaps>Administration\\r</smallcaps> \\r<smallcaps>Chief Executive Officer, Playdek\\r</smallcaps> \\r\\rJoel Goodman\\r	
 E	Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.	向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改。
 E	Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu	向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改
-E	(The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.)	（邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。）
+E	You are one of the few warriors capable of facing this threat and defending your world, but you cannot do it alone!	你是少数能够直面此威胁、守护你世界的战士之一，但你无法孤军奋战！
 E	Account is not yet activated. Please follow the account activation instructions that were sent to your e-mail.	账号尚未激活。请按发送到你邮箱的说明完成激活。
-E	The Cultist does not go to the void when defeated. You can defeat the Cultist any number of times each turn.	邪教徒被击败后不会进入虚空区。每回合可以任意次数击败邪教徒。
+E	Draw two cards. Each other player may draw a card.  Then you may banish a card in the center row.	抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.
+E	Draw two cards. Each other player may draw a card. Then you may banish a card in the center row.	抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.
+E	Purchase both <b>Delirium</b> and <b>Deliverance</b> expansions together for a greater value!\n\n	Purchase两者 <b>谵妄</b> 和 <b>Deliverance</b> 扩展s together以greater值!
+E	<color=#951719FF><B>Trophy:</B></color> You may banish this to gain the current Trophy Effect.	<color=#951719FF><B>战利品:</B></color> 你可以放逐此牌以 获得当前战利品效果.
 E	<smallcaps><size=120%>O</size></smallcaps>ffline<smallcaps><size=120%>G</size></smallcaps>ames	离线对局
+E	A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.	remnant的something long since forgotten, 其appearance在祈夜为shrouded在mystery.
 E	<smallcaps><size=120%>K</size></smallcaps>ey<smallcaps><size=120%>B</size></smallcaps>indings	按键绑定
-E	There are no available Games at this time.<br>Use the Create Game Menu to create a new game.	目前没有可加入的对局。<br>请使用“创建对局”菜单开一局新游戏。
+E	Purchase both <b>Delirium</b> and <b>Deliverance</b> expansions together for a greater value!	Purchase两者 <b>谵妄</b> 和 <b>Deliverance</b> 扩展s together以greater值!
+E	<color=#fdc60eff>Fate:</color> When this enters the center row, each player may draw a card.	<color=#fdc60eff>天命：</color> 当此牌进入中央牌列时, 每位玩家可以抽一张牌.
+E	There are no available Games at this time.<br>Use the Create Game Menu to create a new game.	
+E	The final resource is Honor. The player with the most Honor at the end of the game wins.	最后一种资源是荣誉。游戏结束时荣誉最多的玩家获胜。
 E	There are no available Games at this time.Use the Create Game Menu to create a new game.	目前没有可加入的对局。<br>请使用“创建对局”菜单开一局新游戏。
-E	An update is available.<br>Please download the latest<br>version to play online.	有可用更新。<br>请下载最新版本后再进行在线游戏。
+E	An update is available.<br>Please download the latest<br>version to play online.	
+E	There are four factions in Ascension: Enlightened, Lifebound, Mechana, and Void.	《创升纪元》共有四大派系：圣贤、命约、机械和虚空。
+E	Whenever you acquire or defeat a Mechana card in the center row, Rally: Mechana.	每当你 获取或 击败机械卡牌在中央牌列, 集结: 机械.
+E	Purchase both Delirium and Deliverance expansions together for a greater value!	Purchase两者 <b>谵妄</b> 和 <b>Deliverance</b> 扩展s together以greater值!
+E	FACTION There are 4 different factions: Enlightened Lifebound Mechana Void	FACTION\nThere为 4 different派系:\n<color=#4cbbeb>启迪\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空
+E	For any questions or issues please contact us at support@playdekgames.com.	以任意questions或issues please contact我们在support@playdekgames.com.
+E	Whenever you acquire or defeat a Void card in the center row, Rally: Void.	每当你 获取或 击败虚空卡牌在中央牌列, 集结: 虚空.
+E	You must summon powerful Heroes and Constructs to aid you in your battles.	你必须召集强大的英雄与神器，助你投入战斗。
 E	An update is available.Please download the latestversion to play online.	有可用更新。<br>请下载最新版本后再进行在线游戏。
 E	Sign up to get the latest information and special deals direct to you.	订阅即可获取最新资讯与优惠，直接发到你的邮箱。
 E	You must accept the Terms of Use Agreement before creating an account	创建账号前必须同意使用条款
+E	A player may have no more than one Fanatic Trophy in play at a time.	玩家可以拥有没有超过一 狂信者战利品在 打出在 次.
+E	Fate: When this enters the center row, each player may draw a card.	<color=#fdc60eff>天命：</color> 当此牌进入中央牌列时, 每位玩家可以抽一张牌.
 E	No saved games found.\\nSelect "Create Game"\\nto start a new game.\\n	暂无保存的对局。\\n选择「创建对局」\\n开始新游戏。\\n
+E	Are you sure you want to spend 5 Insight to roll the Delirium Die?	Are你sure你want以花费5 洞察以 掷谵妄骰?
+E	Trophy: You may banish this to gain the current Trophy Effect.	<color=#951719FF><B>战利品:</B></color> 你可以放逐此牌以 获得当前战利品效果.
+E	COST\nThe amount of Power you must spend to acquire this card.	COST\n amount的战力你 须花费以获取此牌.
+E	COST\nThe number of Runes you must spend to acquire this card.	COST\n 数量的 符文你 须花费以获取此牌.
+E	COST The amount of Power you must spend to acquire this card.	COST\n amount的战力你 须花费以获取此牌.
+E	COST The number of Runes you must spend to acquire this card.	COST\n 数量的 符文你 须花费以获取此牌.
+E	All opponents have forfeited!\nClaim victory & end the game?	万民对手拥有forfeited!\nClaim victory & 结束游戏?
+E	All opponents have forfeited! Claim victory & end the game?	万民对手拥有forfeited!\nClaim victory & 结束游戏?
 E	Would you like to remove this player from your friend list?	要从好友列表中移除这名玩家吗？
 E	<smallcaps>O</smallcaps>ffline<smallcaps>G</smallcaps>ames	离线对局
+E	Are you sure you want to acquire that to the discard pile?	Are你sure你want以获取该 以弃牌堆?
 E	<smallcaps>K</smallcaps>ey<smallcaps>B</smallcaps>indings	按键绑定
 E	Are you sure you want to delete this Quick Match request?	确定要删除此快速匹配请求吗？
 E	Creating this Quick Match failed.<br>Too many games open.	创建快速匹配失败。<br>打开的对局过多。
+E	Press the avatar to invite Friends from your Friends List	Press avatar以invite Friends从你的Friends List
 E	You must be logged<br>in to Game Center<br>to play online	必须登录<br>Game Center<br>才能进行在线游戏
+E	"PLAYER NAME" HAS NOT LOGGED INTO THE ASCENSION SERVERS.	「玩家姓名」尚未登录《创升纪元》服务器。
+E	"Player Name" has not logged into the Ascension servers.	「玩家姓名」尚未登录《创升纪元》服务器。
+E	"player Name" Has Not Logged Into The Ascension Servers.	「玩家姓名」尚未登录《创升纪元》服务器。
+E	"player name" has not logged into the ascension servers.	「玩家姓名」尚未登录《创升纪元》服务器。
 E	Your timer has expired!<br>You have forfeited this game.	计时已耗尽！<br>你已输掉这局游戏。
 E	Would you like to add this player to your friend list?	要将这名玩家加入好友列表吗？
 E	<smallcaps><size=120%>A</size></smallcaps>chievements	成就
 E	An account with this e-mail address is already in use	该邮箱已被使用
 E	Creating this Quick Match failed.Too many games open.	创建快速匹配失败。<br>打开的对局过多。
+E	PURCHASE ALL THE ASCENSION BUNDLES FOR ONE LOW PRICE!	以超划算的价格一次购买全部《创升纪元》合集！
+E	Purchase All The Ascension Bundles For One Low Price!	以超划算的价格一次购买全部《创升纪元》合集！
+E	Purchase all the Ascension bundles for one low price!	以超划算的价格一次购买全部《创升纪元》合集！
+E	purchase all the ascension bundles for one low price!	以超划算的价格一次购买全部《创升纪元》合集！
 E	Please check your email for your account information	请查收邮件以获取账号信息
+E	WOULD YOU LIKE TO DELETE\nTHIS FRIEND FROM YOUR LIST?	确定要将此好友从你的好友列表中删除吗？
+E	WOULD YOU LIKE TO DELETE THIS FRIEND FROM YOUR LIST?	确定要将此好友从你的好友列表中删除吗？
+E	Would You Like To Delete This Friend From Your List?	确定要将此好友从你的好友列表中删除吗？
+E	Would you like to delete\nthis friend from your list?	确定要将此好友从你的好友列表中删除吗？
+E	Would you like to delete this friend from your list?	确定要将此好友从你的好友列表中删除吗？
 E	Your timer has expired!You have forfeited this game.	计时已耗尽！<br>你已输掉这局游戏。
+E	would you like to delete\nthis friend from your list?	确定要将此好友从你的好友列表中删除吗？
+E	would you like to delete this friend from your list?	确定要将此好友从你的好友列表中删除吗？
 E	Account Created.<br>Enter your Password to Login.	账号已创建。<br>请输入密码登录。
 E	Are you sure you want to withdraw from this game?	确定要退出这局游戏吗？
+E	EFFECT\nWhat the card does when played or in play.	EFFECT\nWhat卡牌does当打出过或 在打出.
+E	EFFECT What the card does when played or in play.	EFFECT\nWhat卡牌does当打出过或 在打出.
 E	The Password and Confirmation fields do not match	密码与确认密码不一致
 E	You must be loggedin to Game Centerto play online	必须登录<br>Game Center<br>才能进行在线游戏
 E	<smallcaps><size=120%>G</size></smallcaps>allery	图鉴
 E	<smallcaps><size=120%>O</size></smallcaps>ptions	选项
+E	You can invite a friend\nby pressing their name.	你能invite friend\n被pressing其name.
+E	You can invite a friend by pressing their name.	你能invite friend\n被pressing其name.
 E	You have been Disconnected<br> from the Server	你已断开<br>与服务器的连接
+E	\n\n\n\n\n\n\n\n\n\n\n\n\nThank you for playing.\n\n\n\n\n\n\n\n\n\n	Thank你以playing.
 E	Account Created.Enter your Password to Login.	账号已创建。<br>请输入密码登录。
 E	Are you sure you want to delete this profile?	确定要删除此档案吗？
 E	Unable to join.<br>Lost connection to server.	无法加入。<br>与服务器的连接已断开。
+E	REWARD\nWhat this monster does when defeated.	REWARD\nWhat此怪物does当被击败.
+E	REWARD What this monster does when defeated.	REWARD\nWhat此怪物does当被击败.
 E	Unable to create.<br>Too many games created.	无法创建。<br>已创建的对局过多。
 E	Are you sure you want to forfeit this game?	确定要放弃这局游戏吗？
 E	Chronicle of the Godslayer 10th Anniversary	弑神编年史十周年
+E	FLAVOR TEXT\nFlavor text has no game effect.	FLAVOR TEXT\nFlavor text具有没有游戏效果.
+E	FLAVOR TEXT Flavor text has no game effect.	FLAVOR TEXT\nFlavor text具有没有游戏效果.
+E	Sharpen the mind and the sword will follow.	Sharpen心智和sword将跟随.
+E	HAS NOT LOGGED INTO THE ASCENSION SERVERS.	尚未登录《创升纪元》服务器。
+E	Has Not Logged Into The Ascension Servers.	尚未登录《创升纪元》服务器。
 E	You have been Disconnected from the Server	你已断开<br>与服务器的连接
+E	has not logged into the Ascension servers.	尚未登录《创升纪元》服务器。
+E	has not logged into the ascension servers.	尚未登录《创升纪元》服务器。
+E	Based on the Game Designed by Justin Gary	基于 Justin Gary 设计的桌游
 E	Unable to join.<br>Game no longer exists.	无法加入。<br>对局已不存在。
 E	Unable to join.Lost connection to server.	无法加入。<br>与服务器的连接已断开。
 E	You have no completed Games at this time.	你目前没有已完成的对局。
+E	HONOR\nHow much Honor this card is worth.	HONOR\nHow等量的荣誉此牌为 价值为.
+E	HONOR How much Honor this card is worth.	HONOR\nHow等量的荣誉此牌为 价值为.
 E	Unable to create.Too many games created.	无法创建。<br>已创建的对局过多。
 E	A profile with this name already exists	已存在同名档案
 E	All opponents have forfeited.  You win!	所有对手均已认输。你赢了！
@@ -3138,77 +3293,182 @@ E	Drag a profile tab to the player slot	将档案标签拖到玩家栏位
 E	Successfully added "{0}" as a friend.	已成功添加好友“{0}”。
 E	Successfully added "{0}" as a friend.	已成功添加好友“{0}”。
 E	Unable to join.Game no longer exists.	无法加入。<br>对局已不存在。
+E	<size=104>R</size>ocket Courier X-99	<size=104>R</size>ocket信使X-99
 E	<size=141%>V</size><space=-.15em>oid	虚空
 E	Would you like to play the Tutorial?	要进行教程吗？
 E	<smallcaps>A</smallcaps>chievements	成就
 E	Please enter a valid E-mail address	请输入有效的电子邮箱地址
+E	Please play a card or end your turn	Please打出卡牌或 结束你的回合
 E	Subscribe to Stone Blade Newsletter	订阅 Stone Blade 通讯
 E	Tap opponent  to view their profile	点击对手以查看其档案
 E	%s gains %d honor tokens from %s\\n	%s从%s获得%d点荣誉\\n
 E	Tap opponent to view their profile	点击对手以查看其档案
 E	Unable to create.<br>Unknown error	无法创建。<br>未知错误
+E	Acquire Dhartha, Master of Sight.	获取达萨, 大师的 视界.
 E	Creating this Quick Match failed.	创建快速匹配失败。
 E	Unable to join.<br>Unknown error.	无法加入。<br>未知错误。
 E	Unmagnify Card & Close Card Trays	缩小并关闭卡列表
 E	%d honor tokens remain in pool\\n	荣誉池剩余%d点\\n
+E	<size=104>H</size>oarding Tyrant	<size=104>H</size>oarding暴君
+E	<size=141%>A</size>dministration	管理层
+E	Acquiring Heroes and Constructs:	Acquiring英雄和 神器s:
+E	Chief Executive Officer, Playdek	Playdek 首席执行官
 E	Do you want to delete this game?	要删除此对局吗？
+E	INFO BLOCK OF INFO BLOCK OF INFO	信息区块的信息区块（调试占位符）
+E	Includes 51 unique<br>new cards.	包含 51 张全新<br>卡牌。
+E	Info Block Of Info Block Of Info	信息区块的信息区块（调试占位符）
+E	Info block of Info block of Info	信息区块的信息区块（调试占位符）
+E	Loading rulebook,\nplease wait...	Loading rulebook,\nplease wait。.
+E	Loading rulebook, please wait...	Loading rulebook,\nplease wait。.
 E	Name contains invalid characters	名称包含无效字符
 E	Unable to join.<br>Game is full.	无法加入。<br>对局已满。
+E	info block of info block of info	信息区块的信息区块（调试占位符）
+E	<size=104>A</size>skara of Fate	<size=104></size>skara的天命
 E	<size=141%>A</size>nnouncements	公告
+E	<size=141%>I</size>llustrations	插画
 E	<size=141%>N</size>otifications	通知
 E	Ascension: Gift of the Elements	创升纪元：元素的馈赠
+E	Loading rulebook,\nplease wait。.	Loading rulebook,\nplease wait。
+E	Loading rulebook, please wait。.	Loading rulebook,\nplease wait。
 E	Unable to connect to the server	无法连接到服务器
 E	<size=141%>A</size>chievements	成就
+E	<size=141%>D</size>escription:	简介：
+E	<size=141%>I</size>ntroduction	简介
+E	<size=141%>R</size>ulebookASCL	史诗传奇规则书
+E	<size=141%>R</size>ulebookDLRM	谵妄规则书
+E	<size=141%>U</size>NBANISHABLE	不可放逐
 E	<size=141%>U</size>nbanishable	不可放逐
+E	<size=141%>u</size>nbanishable	不可放逐
 E	<smallcaps>G</smallcaps>allery	图鉴
 E	<smallcaps>O</smallcaps>ptions	选项
+E	Acquire Sadranis, Dark Savant.	获取萨德拉尼斯, 黑暗学者.
 E	Creating a Quick Match game...	正在创建快速匹配对局...
+E	HAVE VALID ASMODEE.NET ACCOUNT	我有可用的 Asmodee.net 账号
+E	Have Valid Asmodee.net Account	我有可用的 Asmodee.net 账号
+E	LOADING RULEBOOK, PLEASE WAIT.	正在加载规则书，请稍候…
+E	Loading Rulebook, Please Wait.	正在加载规则书，请稍候…
+E	Loading rulebook, please wait.	正在加载规则书，请稍候…
 E	STONE BLADE NEWSLETTER SIGN-UP	订阅 Stone Blade 通讯
 E	Stone Blade Newsletter Sign-Up	订阅 Stone Blade 通讯
 E	Stone Blade Newsletter Sign-up	订阅 Stone Blade 通讯
 E	Unable to create.Unknown error	无法创建。<br>未知错误
 E	You May Convert Runes To Honor	你可以将符文转化为荣誉
+E	have valid asmodee.net account	我有可用的 Asmodee.net 账号
+E	loading rulebook, please wait.	正在加载规则书，请稍候…
+E	<color=#d8a6ffff>Event - Void	<color=#d8a6ffff>事件 - 虚空
+E	<size=104>A</size>rha Templar	<size=104></size>rha圣殿武士
+E	<size=104>E</size>arth Tyrant	<size=104>E</size>arth暴君
 E	<size=141%>D</size>eliverance	救赎
+E	<size=141%>D</size>evelopment	开发
 E	<size=141%>E</size>nlightened	圣贤
 E	<size=141%>M</size>ULTI-UNITE	多重联合
 E	<size=141%>M</size>ulti-Unite	多重联合
+E	<size=141%>P</size>laytesting	试玩
+E	<size=141%>P</size>uggageddon	巴哥末日
 E	<size=141%>R</size>esolutions	分辨率
+E	<size=141%>R</size>ulebookDLV	救赎规则书
+E	<size=141%>m</size>ulti-unite	多重联合
 E	Change resolution to {0}x{1}?	要将分辨率改为 {0}x{1} 吗？
 E	Don't show this warning again	不再显示此警告
 E	Enter your Email or User Name	请输入邮箱或用户名
+E	Includes 35 unique new cards.	包含 35 张全新卡牌。
+E	Includes 43 unique new cards.	包含 43 张全新卡牌。
+E	Includes 47 unique new cards.	包含 47 张全新卡牌。
+E	Includes 49 unique new cards.	包含 49 张全新卡牌。
+E	Includes 51 unique new cards.	包含 51 张全新卡牌。
+E	Includes 53 unique new cards.	包含 53 张全新卡牌。
+E	Includes 55 unique new cards.	包含 55 张全新卡牌。
+E	Includes 72 unique new cards.	包含 72 张全新卡牌。
+E	Includes 76 unique new cards.	包含 76 张全新卡牌。
+E	LOADING CARDS, PLEASE WAIT...	正在加载卡牌，请稍候…
+E	LOADING RULEBOOK, PLEASE WAIT	正在加载规则书，请稍候…
+E	Loading Cards, Please Wait...	正在加载卡牌，请稍候…
 E	Loading Cards, please wait...	正在加载卡牌，请稍候…
+E	Loading Rulebook, Please Wait	正在加载规则书，请稍候…
 E	Loading cards, please wait...	正在加载卡牌，请稍候…
+E	Loading rulebook, please wait	正在加载规则书，请稍候…
 E	Unable to join.Unknown error.	无法加入。<br>未知错误。
+E	loading cards, please wait...	正在加载卡牌，请稍候…
+E	loading rulebook, please wait	正在加载规则书，请稍候…
 E	%s now has %d honor tokens\\n	%s现在拥有%d点荣誉\\n
 E	<size=141%>A</size>pprentice	学徒
 E	<size=141%>C</size>ollection	收藏
+E	<size=141%>C</size>onstructs	神器s
 E	<size=141%>D</size>reamscape	梦境
+E	<size=141%>E</size>XPANSIONS	扩展
+E	<size=141%>E</size>xpansions	扩展
 E	<size=141%>F</size>ullscreen	全屏
 E	<size=141%>L</size>oading...	加载中...
 E	<size=141%>P</size>ortuguese	葡萄牙语
 E	<size=141%>R</size>esolution	分辨率
+E	<size=141%>R</size>esources:	资源：
 E	<size=141%>R</size>ightArrow	→ 方向键右
+E	<size=141%>R</size>ulebookDC	冠军黎明规则书
+E	<size=141%>R</size>ulebookDS	梦境规则书
+E	<size=141%>R</size>ulebookDU	黑暗释放规则书
+E	<size=141%>R</size>ulebookGE	元素的馈赠规则书
+E	<size=141%>R</size>ulebookRU	领域解开规则书
+E	<size=141%>R</size>ulebookRV	祈夜崛起规则书
+E	<size=141%>R</size>ulebookVA	上古山谷规则书
+E	<size=141%>R</size>ulebookWA	暗影之战规则书
+E	<size=141%>e</size>xpansions	扩展
+E	<size=141%>r</size>eputation	声望
+E	CONFIRMATION POPUP TEXT HERE	确认弹窗占位文本
+E	Confirmation Popup Text Here	确认弹窗占位文本
+E	Includes 51 uniquenew cards.	包含 51 张全新<br>卡牌。
+E	LOADING CARDS PLEASE WAIT...	正在加载卡牌，请稍候…
+E	Loading Cards Please Wait...	正在加载卡牌，请稍候…
 E	Loading cards please wait...	正在加载卡牌，请稍候…
 E	Successfully removed friend.	已移除好友。
 E	Unable to join.Game is full.	无法加入。<br>对局已满。
+E	confirmation popup text here	确认弹窗占位文本
+E	loading cards please wait...	正在加载卡牌，请稍候…
 E	%s gains %d power from %s\\n	%s从%s获得%d点战力\\n
 E	%s gains %d runes from %s\\n	%s从%s获得%d点符文\\n
 E	<size=141%>A</size>nalytics	分析
 E	<size=141%>A</size>scension	创升纪元
 E	<size=141%>C</size>ompleted	已完成
 E	<size=141%>C</size>onstruct	神器
+E	<size=141%>D</size>REAMBIND	梦缚
+E	<size=141%>D</size>REAMBORN	梦生
 E	<size=141%>D</size>reambind	梦缚
 E	<size=141%>D</size>reamborn	梦生
+E	<size=141%>E</size>XPANSION	扩展
+E	<size=141%>E</size>xpansion	扩展
+E	<size=141%>F</size>ACTIONS:	派系：
 E	<size=141%>G</size>odslayer	弑神者
+E	<size=141%>L</size>EGENDARY	传奇
 E	<size=141%>L</size>anguages	语言
 E	<size=141%>L</size>eftArrow	← 方向键左
 E	<size=141%>L</size>egendary	传奇
 E	<size=141%>L</size>ifebound	命约
+E	<size=141%>O</size>PPONENTS	对手
+E	<size=141%>O</size>pponents	对手
+E	<size=141%>P</size>ASSWORD:	密码：
+E	<size=141%>P</size>URCHASE:	购买：
+E	<size=141%>P</size>assword:	密码：
+E	<size=141%>P</size>urchase:	购买：
 E	<size=141%>P</size>urchased	已购买
+E	<size=141%>R</size>ESOURCES	资源
 E	<size=141%>T</size>RANSFORM	转化
 E	<size=141%>T</size>ransform	转化
 E	<size=141%>T</size>utorials	教程
+E	<size=141%>U</size>NLIMITED	不限时
+E	<size=141%>U</size>SERNAME:	用户名：
+E	<size=141%>U</size>nlimited	不限时
+E	<size=141%>U</size>sername:	用户名：
 E	<size=141%>W</size>ednesday	星期三
+E	<size=141%>d</size>reambind	梦缚
+E	<size=141%>d</size>reamborn	梦生
+E	<size=141%>e</size>xpansion	扩展
+E	<size=141%>l</size>egendary	传奇
+E	<size=141%>o</size>pponents	对手
+E	<size=141%>p</size>assword:	密码：
+E	<size=141%>p</size>urchase:	购买：
+E	<size=141%>t</size>ransform	转化
+E	<size=141%>u</size>nlimited	不限时
+E	<size=141%>u</size>sername:	用户名：
+E	Chronicles of the Godslayer	《弑神编年史》
 E	Failed to Connect to Server	连接服务器失败
 E	Removing "{0}" as a friend.	正在移除好友“{0}”。
 E	Scroll Magnified Card Right	放大卡右翻
@@ -3217,54 +3477,102 @@ E	{0} is already your friend.	{0} 已经是你的好友。
 E	%s discards %s from play\\n	%s从战场弃掉%s\\n
 E	%s gains %d honor tokens\\n	%s获得%d点荣誉\\n
 E	%s loses %d honor tokens\\n	%s失去%d点荣誉\\n
+E	<size=141%>B</size>EGINNER	入门
 E	<size=141%>B</size>eginner	入门
+E	<size=141%>C</size>HAMPION	冠军
 E	<size=141%>C</size>ONTINUE	继续
 E	<size=141%>C</size>hampion	冠军
 E	<size=141%>C</size>ontinue	继续
 E	<size=141%>D</size>elirium	谵妄
+E	<size=141%>D</size>estroy:	摧毁:
 E	<size=141%>E</size>ND\nTURN	结束回合
 E	<size=141%>E</size>NERGIZE	充能
 E	<size=141%>E</size>lements	元素
 E	<size=141%>E</size>nd\nTurn	结束回合
 E	<size=141%>E</size>nergize	充能
+E	<size=141%>F</size>anatic:	狂信者:
+E	<size=141%>F</size>eatures	特性
 E	<size=141%>F</size>orfeits	认输次数
 E	<size=141%>J</size>apanese	日语
+E	<size=141%>L</size>ANGUAGE	语言
 E	<size=141%>L</size>anguage	语言
+E	<size=141%>M</size>onsters	怪物
 E	<size=141%>O</size>NGOING:	持续：
+E	<size=141%>O</size>PPONENT	对手
+E	<size=141%>O</size>ngoing:	持续：
+E	<size=141%>O</size>pponent	对手
+E	<size=141%>P</size>ASSWORD	密码
+E	<size=141%>P</size>HANTASM	幻象
 E	<size=141%>P</size>assword	密码
 E	<size=141%>P</size>hantasm	幻象
+E	<size=141%>P</size>roducer	制作人
 E	<size=141%>P</size>rofiles	档案
 E	<size=141%>P</size>urchase	购买
+E	<size=141%>R</size>ULEBOOK	规则书
 E	<size=141%>R</size>ulebook	规则书
 E	<size=141%>S</size>ERENITY	宁静
+E	<size=141%>S</size>ETTINGS	设置
+E	<size=141%>S</size>adranis	萨德拉尼斯
 E	<size=141%>S</size>aturday	星期六
 E	<size=141%>S</size>erenity	宁静
 E	<size=141%>S</size>ettings	设置
+E	<size=141%>T</size>UTORIAL	教程
+E	<size=141%>T</size>emples:	神庙：
 E	<size=141%>T</size>hursday	星期四
 E	<size=141%>T</size>reasure	宝藏
 E	<size=141%>T</size>utorial	教程
+E	<size=141%>U</size>SERNAME	用户名
 E	<size=141%>U</size>sername	用户名
 E	<size=141%>V</size>ersion:	版本：
 E	<size=141%>W</size>indowed	窗口
 E	<size=141%>W</size>ithdraw	退出对局
+E	<size=141%>b</size>eginner	入门
+E	<size=141%>c</size>hampion	冠军
+E	<size=141%>c</size>ontinue	继续
+E	<size=141%>e</size>nergize	充能
+E	<size=141%>l</size>anguage	语言
+E	<size=141%>o</size>ngoing:	持续：
+E	<size=141%>o</size>pponent	对手
+E	<size=141%>p</size>assword	密码
+E	<size=141%>p</size>hantasm	幻象
+E	<size=141%>r</size>ulebook	规则书
+E	<size=141%>s</size>erenity	宁静
+E	<size=141%>s</size>ettings	设置
+E	<size=141%>t</size>utorial	教程
+E	<size=141%>u</size>sername	用户名
+E	Acquire Kor, the Ironmind.	获取科尔, 铁心.
+E	Acquire Nairi, Wild Queen.	获取奈莉, 荒野女王.
 E	Chronicle of the Godslayer	弑神编年史
+E	HAVE VALID PLAYDEK ACCOUNT	我有可用的 Playdek 账号
+E	Have Valid Playdek Account	我有可用的 Playdek 账号
 E	Loading cards, please wait	正在加载卡牌，请稍候
 E	Scroll Magnified Card Left	放大卡左翻
 E	Successfully Created Game!	对局创建成功！
+E	have valid playdek account	我有可用的 Playdek 账号
+E	<size=141%>A</size>UCTION	竞拍
 E	<size=141%>A</size>cquire	获取
 E	<size=141%>A</size>uction	竞拍
+E	<size=141%>B</size>UNDLES	合集
+E	<size=141%>B</size>undles	合集
+E	<size=141%>C</size>HINESE	中文
+E	<size=141%>C</size>ONFIRM	确认
 E	<size=141%>C</size>hinese	中文
 E	<size=141%>C</size>onfirm	确认
 E	<size=141%>C</size>ontrol	控制
 E	<size=141%>C</size>redits	制作人员
 E	<size=141%>C</size>ultist	邪教徒
+E	<size=141%>D</size>ISCARD	弃牌
+E	<size=141%>D</size>ISMISS	关闭
 E	<size=141%>D</size>estroy	摧毁
 E	<size=141%>D</size>etails	详情
-E	<size=141%>D</size>iscard	弃牌堆
+E	<size=141%>D</size>hartha	达萨
+E	<size=141%>D</size>iscard	弃牌
 E	<size=141%>D</size>ismiss	关闭
 E	<size=141%>E</size>MPOWER	赋力
+E	<size=141%>E</size>NGLISH	英语
 E	<size=141%>E</size>mpower	赋力
 E	<size=141%>E</size>nglish	英语
+E	<size=141%>F</size>RIENDS	好友
 E	<size=141%>F</size>anatic	狂信者
 E	<size=141%>F</size>orfeit	认输
 E	<size=141%>F</size>riends	好友
@@ -3278,12 +3586,17 @@ E	<size=141%>M</size>echana	机械
 E	<size=141%>M</size>ilitia	民兵
 E	<size=141%>M</size>inutes	分钟
 E	<size=141%>M</size>onster	怪物
+E	<size=141%>O</size>FFLINE	离线
 E	<size=141%>O</size>NGOING	持续
+E	<size=141%>O</size>PTIONS	选项
 E	<size=141%>O</size>ffline	离线
 E	<size=141%>O</size>ngoing	持续
 E	<size=141%>O</size>ptions	选项
+E	<size=141%>P</size>LUNDER	掠夺
+E	<size=141%>P</size>ROFILE	个人
 E	<size=141%>P</size>lunder	掠夺
-E	<size=141%>P</size>rofile	档案
+E	<size=141%>P</size>rofile	个人
+E	<size=141%>R</size>EWARD:	奖励：
 E	<size=141%>R</size>ematch	再来一局
 E	<size=141%>R</size>eplace	替换
 E	<size=141%>R</size>eward:	奖励：
@@ -3291,88 +3604,193 @@ E	<size=141%>R</size>ussian	俄语
 E	<size=141%>S</size>econds	秒
 E	<size=141%>S</size>huffle	洗牌
 E	<size=141%>S</size>panish	西班牙语
+E	<size=141%>T</size>ROPHY:	战利品：
 E	<size=141%>T</size>rophy:	战利品：
 E	<size=141%>T</size>uesday	星期二
 E	<size=141%>V</size>erify:	验证：
 E	<size=141%>W</size>aiting	等待中
 E	<size=141%>W</size>arning	警告
+E	<size=141%>a</size>uction	竞拍
+E	<size=141%>b</size>undles	合集
+E	<size=141%>c</size>hinese	中文
+E	<size=141%>c</size>onfirm	确认
+E	<size=141%>d</size>iscard	弃牌
+E	<size=141%>d</size>ismiss	关闭
+E	<size=141%>e</size>mpower	赋力
+E	<size=141%>e</size>nglish	英语
+E	<size=141%>f</size>riends	好友
+E	<size=141%>o</size>ffline	离线
+E	<size=141%>o</size>ngoing	持续
+E	<size=141%>o</size>ptions	选项
+E	<size=141%>p</size>lunder	掠夺
+E	<size=141%>p</size>rofile	个人
+E	<size=141%>r</size>eward:	奖励：
+E	<size=141%>t</size>rophy:	战利品：
 E	Adding "{0}" as a friend.	正在将“{0}”加为好友。
 E	Adding "{0}" as a friend.	正在将“{0}”加为好友。
+E	Additional IP Development	附加 IP 开发
 E	Check your password again	请再次确认密码
 E	Open/Close Construct Tray	打开/关闭神器栏
 E	Open/Close Dreamborn List	打开/关闭梦生列表
+E	Purchase all for 99.99.99	Purchase所有以 99.99.99
 E	Searching for Games . . .	正在搜索对局 . . .
 E	Successfully Joined Game!	已成功加入对局！
+E	Unique new cards per set:	每款扩展的全新卡牌数：
+E	<size=141%>A</size>VATAR	头像
 E	<size=141%>A</size>ccept	接受
+E	<size=141%>A</size>vatar	头像
+E	<size=141%>B</size>UNDLE	合集
 E	<size=141%>B</size>anish	放逐
+E	<size=141%>B</size>undle	合集
+E	<size=141%>C</size>ANCEL	取消
+E	<size=141%>C</size>OMMIT	确认
 E	<size=141%>C</size>ancel	取消
 E	<size=141%>C</size>hoose	选择
 E	<size=141%>C</size>ommit	确认
 E	<size=141%>C</size>ommon	普通
+E	<size=141%>D</size>EFEND	防御
+E	<size=141%>D</size>ELETE	删除
 E	<size=141%>D</size>efeat	击败
 E	<size=141%>D</size>efend	防御
 E	<size=141%>D</size>elete	删除
+E	<size=141%>D</size>esign	设计
+E	<size=141%>E</size>MAIL:	邮箱：
+E	<size=141%>E</size>XPERT	专家
+E	<size=141%>E</size>mail:	邮箱：
 E	<size=141%>E</size>nergy	能量
 E	<size=141%>E</size>scape	Esc 键
 E	<size=141%>E</size>xpert	专家
+E	<size=141%>F</size>RIEND	好友
 E	<size=141%>F</size>inish	完成
 E	<size=141%>F</size>rench	法语
 E	<size=141%>F</size>riday	星期五
+E	<size=141%>F</size>riend	好友
 E	<size=141%>G</size>erman	德语
+E	<size=141%>H</size>ONOR:	荣誉：
 E	<size=141%>H</size>edron	多面体
+E	<size=141%>H</size>eroes	英雄
 E	<size=141%>I</size>NFEST	感染
 E	<size=141%>I</size>nfest	感染
 E	<size=141%>I</size>nvite	邀请
+E	<size=141%>L</size>OGOUT	登出
 E	<size=141%>L</size>ocked	已锁定
+E	<size=141%>L</size>ogout	登出
 E	<size=141%>M</size>edium	中
 E	<size=141%>M</size>inute	分钟
 E	<size=141%>M</size>onday	星期一
 E	<size=141%>M</size>ystic	秘教士
 E	<size=141%>N</size>IGHT:	夜：
+E	<size=141%>N</size>ORMAL	普通
+E	<size=141%>N</size>ight:	夜：
 E	<size=141%>N</size>ormal	普通
+E	<size=141%>O</size>NLINE	在线
 E	<size=141%>O</size>nline	在线
+E	<size=141%>P</size>LAYER	玩家
+E	<size=141%>P</size>OWER:	战力：
+E	<size=141%>P</size>ROMOS	特典
 E	<size=141%>P</size>layer	玩家
 E	<size=141%>P</size>ortal	传送门
-E	<size=141%>P</size>romos	推广卡
+E	<size=141%>P</size>romo1	特典 1
+E	<size=141%>P</size>romo2	特典 2
+E	<size=141%>P</size>romo3	特典 3
+E	<size=141%>P</size>romo4	特典 4
+E	<size=141%>P</size>romo5	特典 5
+E	<size=141%>P</size>romo6	特典 6
+E	<size=141%>P</size>romo7	特典 7
+E	<size=141%>P</size>romos	特典
+E	<size=141%>R</size>EVEAL	展示
+E	<size=141%>R</size>EWARD	奖励
+E	<size=141%>R</size>UNES:	符文：
 E	<size=141%>R</size>ating	评分
 E	<size=141%>R</size>eject	拒绝
 E	<size=141%>R</size>enown	声望
 E	<size=141%>R</size>esume	继续游戏
 E	<size=141%>R</size>eveal	展示
 E	<size=141%>R</size>eward	奖励
+E	<size=141%>S</size>ELECT	选择
 E	<size=141%>S</size>amael	萨麦尔
 E	<size=141%>S</size>econd	秒
+E	<size=141%>S</size>elect	选择
 E	<size=141%>S</size>unday	星期日
-E	<size=141%>T</size>arget	选择
+E	<size=141%>T</size>ARGET	指定
+E	<size=141%>T</size>ROPHY	战利品
+E	<size=141%>T</size>arget	指定
 E	<size=141%>T</size>emple	神殿
 E	<size=141%>T</size>rophy	战利品
+E	<size=141%>a</size>vatar	头像
+E	<size=141%>b</size>undle	合集
+E	<size=141%>c</size>ancel	取消
+E	<size=141%>c</size>ommit	确认
+E	<size=141%>d</size>efend	防御
+E	<size=141%>d</size>elete	删除
+E	<size=141%>e</size>mail:	邮箱：
+E	<size=141%>e</size>xpert	专家
+E	<size=141%>f</size>riend	好友
+E	<size=141%>i</size>nfest	感染
+E	<size=141%>l</size>ogout	登出
+E	<size=141%>n</size>ight:	夜：
+E	<size=141%>n</size>ormal	普通
+E	<size=141%>o</size>nline	在线
+E	<size=141%>p</size>layer	玩家
+E	<size=141%>p</size>romos	特典
+E	<size=141%>r</size>eveal	展示
+E	<size=141%>r</size>eward	奖励
+E	<size=141%>s</size>elect	选择
+E	<size=141%>t</size>arget	指定
+E	<size=141%>t</size>rophy	战利品
 E	Account creation failed.	账号创建失败。
+E	ENLIGHTENED DREAM VISION	圣贤梦境视域
+E	Enlightened Dream Vision	圣贤梦境视域
+E	HAVE ASMODEE.NET ACCOUNT	我有 Asmodee.net 账号
+E	Have Asmodee.net Account	我有 Asmodee.net 账号
+E	PLAYDEK ACCOUNT REQUIRED	需要 Playdek 账号
 E	Play All Cards From Hand	打出全部手牌
+E	Playdek Account Required	需要 Playdek 账号
 E	Retrieving Profile . . .	正在读取档案 . . .
+E	SELECT EXPANSIONS/PROMOS	选择扩展/特典
+E	Select Expansions/Promos	选择扩展/特典
+E	Select Expansions/promos	选择扩展/特典
+E	This is the flavor part.	此为flavor part.
 E	Username already in use.	用户名已被使用。
+E	enlightened dream vision	圣贤梦境视域
+E	have asmodee.net account	我有 Asmodee.net 账号
+E	playdek account required	需要 Playdek 账号
+E	select expansions/promos	选择扩展/特典
+E	<size=141%>C</size>LOSE	关闭
 E	<size=141%>C</size>lose	关闭
 E	<size=141%>D</size>eath	死亡
-E	<size=141%>E</size>mail	电子邮箱
+E	<size=141%>E</size>MAIL	邮箱
+E	<size=141%>E</size>mail	邮箱
 E	<size=141%>E</size>mpty	空
 E	<size=141%>E</size>rror	错误
 E	<size=141%>E</size>vent	事件
 E	<size=141%>F</size>ATE:	天命：
+E	<size=141%>F</size>ate:	天命：
 E	<size=141%>H</size>onor	荣誉
 E	<size=141%>H</size>ours	小时
 E	<size=141%>H</size>uman	人类
+E	<size=141%>L</size>OBBY	大厅
+E	<size=141%>L</size>OGIN	登录
 E	<size=141%>L</size>obby	大厅
 E	<size=141%>L</size>ogin	登录
 E	<size=141%>L</size>ogos	逻各斯
+E	<size=141%>M</size>USIC	音乐
 E	<size=141%>M</size>usic	音乐
+E	<size=141%>N</size>AME:	姓名：
 E	<size=141%>N</size>IGHT	夜
+E	<size=141%>N</size>airi	奈莉
+E	<size=141%>N</size>ame:	姓名：
 E	<size=141%>N</size>ight	夜
+E	<size=141%>O</size>WNED	已拥有
 E	<size=141%>O</size>wned	已拥有
 E	<size=141%>P</size>ause	暂停
 E	<size=141%>P</size>ower	战力
 E	<size=141%>P</size>romo	推广卡
+E	<size=141%>R</size>ALLY	集结
 E	<size=141%>R</size>ally	集结
 E	<size=141%>R</size>ound	回合
 E	<size=141%>R</size>unes	符文
+E	<size=141%>S</size>TART	开始
 E	<size=141%>S</size>etup	设置
 E	<size=141%>S</size>pace	空格键
 E	<size=141%>S</size>pend	花费
@@ -3383,32 +3801,61 @@ E	<size=141%>U</size>NITE	联合
 E	<size=141%>U</size>nite	联合
 E	<size=141%>V</size>igil	祈夜
 E	<size=141%>X</size>eron	泽伦
+E	<size=141%>c</size>lose	关闭
+E	<size=141%>e</size>mail	邮箱
+E	<size=141%>f</size>ate:	天命：
+E	<size=141%>l</size>obby	大厅
+E	<size=141%>l</size>ogin	登录
+E	<size=141%>m</size>usic	音乐
+E	<size=141%>n</size>ame:	姓名：
+E	<size=141%>n</size>ight	夜
+E	<size=141%>o</size>wned	已拥有
+E	<size=141%>r</size>ally	集结
+E	<size=141%>s</size>tart	开始
+E	<size=141%>u</size>nite	联合
 E	Double Tap to Continue…	双击继续…
+E	NETWORK CONNECTION LOST	网络连接已断开
+E	Network Connection Lost	网络连接已断开
 E	Open/Close Discard Pile	打开/关闭弃牌堆
 E	Open/Close Renown Track	打开/关闭名望轨道
 E	Please enter a Username	请输入用户名
+E	WITHOUT PAYING ITS COST	无需支付费用
+E	Without Paying Its Cost	无需支付费用
+E	network connection lost	网络连接已断开
 E	without paying its cost	无需支付费用
 E	<size=141%>A</size>rha	亚哈
+E	<size=141%>B</size>ACK	返回
 E	<size=141%>B</size>ack	返回
+E	<size=141%>C</size>HAT	聊天
+E	<size=141%>C</size>OPY	复制
+E	<size=141%>C</size>hat	聊天
 E	<size=141%>C</size>opy	复制
 E	<size=141%>C</size>otG	弑神编
 E	<size=141%>D</size>AY:	昼：
 E	<size=141%>D</size>LRM	谵妄
+E	<size=141%>D</size>ONE	完成
+E	<size=141%>D</size>ay:	昼：
 E	<size=141%>D</size>ays	天
 E	<size=141%>D</size>eck	牌库
 E	<size=141%>D</size>one	完成
 E	<size=141%>D</size>raw	抽
+E	<size=141%>E</size>ASY	简单
 E	<size=141%>E</size>CHO	回响
+E	<size=141%>E</size>VEN	偶数
+E	<size=141%>E</size>XIT	退出
 E	<size=141%>E</size>asy	简单
 E	<size=141%>E</size>cho	回响
+E	<size=141%>E</size>ven	偶数
 E	<size=141%>E</size>xit	退出
 E	<size=141%>F</size>ATE	天命
 E	<size=141%>F</size>ast	快
 E	<size=141%>F</size>ate	天命
+E	<size=141%>G</size>IVE	给予
 E	<size=141%>G</size>ain	获得
 E	<size=141%>G</size>ame	对局
-E	<size=141%>G</size>ive	交给
+E	<size=141%>G</size>ive	给予
 E	<size=141%>G</size>otE	元素馈赠
+E	<size=141%>H</size>ARD	困难
 E	<size=141%>H</size>and	手牌
 E	<size=141%>H</size>ard	困难
 E	<size=141%>H</size>ero	英雄
@@ -3416,40 +3863,81 @@ E	<size=141%>H</size>our	小时
 E	<size=141%>J</size>oin	加入
 E	<size=141%>L</size>ife	生命
 E	<size=141%>L</size>ose	失去
+E	<size=141%>M</size>ENU	菜单
 E	<size=141%>M</size>enu	菜单
+E	<size=141%>N</size>AME	姓名
+E	<size=141%>N</size>ONE	无
+E	<size=141%>N</size>ame	姓名
 E	<size=141%>N</size>one	无
+E	<size=141%>P</size>ASS	跳过
+E	<size=141%>P</size>LAY	打出
+E	<size=141%>P</size>ass	跳过
 E	<size=141%>P</size>lay	打出
 E	<size=141%>R</size>otF	邪神归来
 E	<size=141%>R</size>une	符文
 E	<size=141%>S</size>low	慢
+E	<size=141%>T</size>URN	回合
 E	<size=141%>T</size>ues	二
 E	<size=141%>T</size>urn	回合
+E	<size=141%>U</size>NDO	撤销
 E	<size=141%>U</size>ndo	撤销
 E	<size=141%>V</size>OID	虚空
 E	<size=141%>V</size>iew	查看
 E	<size=141%>V</size>oid	虚空
 E	<size=141%>V</size>otA	上古山谷
+E	<size=141%>b</size>ack	返回
+E	<size=141%>c</size>hat	聊天
+E	<size=141%>c</size>opy	复制
+E	<size=141%>d</size>ay:	昼：
+E	<size=141%>d</size>one	完成
+E	<size=141%>e</size>asy	简单
+E	<size=141%>e</size>cho	回响
+E	<size=141%>e</size>ven	偶数
+E	<size=141%>e</size>xit	退出
+E	<size=141%>f</size>ate	天命
+E	<size=141%>g</size>ive	给予
+E	<size=141%>h</size>ard	困难
+E	<size=141%>m</size>enu	菜单
+E	<size=141%>n</size>ame	姓名
+E	<size=141%>n</size>one	无
+E	<size=141%>p</size>ass	跳过
+E	<size=141%>p</size>lay	打出
+E	<size=141%>t</size>urn	回合
+E	<size=141%>u</size>ndo	撤销
 E	<size=141%>应</size>用商店	商店
 E	Confirm Revealed Cards	确认已展示的卡牌
 E	Enlightened Constructs	圣贤神器
+E	Hold To Show Transform	Hold以Show转化
 E	Passwords do not match	两次输入的密码不一致
+E	PlayerName Player Name	PlayerName Player命名
 E	STONE BLADE NEWSLETTER	Stone Blade 通讯
 E	Terms of Use Agreement	使用条款
+E	Thank you for playing.	Thank你以playing.
 E	Valley of the Ancients	上古山谷
 E	You Must End Your Turn	你必须结束回合
+E	<size=141%>A</size>LL	全部
+E	<size=141%>A</size>ll	全部
+E	<size=141%>B</size>ID	竞拍
+E	<size=141%>B</size>UY	获取
+E	<size=141%>B</size>id	竞拍
 E	<size=141%>B</size>uy	获取
 E	<size=141%>D</size>AY	昼
 E	<size=141%>D</size>LV	救赎
-E	<size=141%>D</size>ay	天
+E	<size=141%>D</size>ay	昼
 E	<size=141%>D</size>oC	冠军黎明
+E	<size=141%>F</size>AQ	常见问题
+E	<size=141%>F</size>aq	常见问题
 E	<size=141%>F</size>ri	五
 E	<size=141%>H</size>rs	时
+E	<size=141%>K</size>or	科尔
 E	<size=141%>L</size>GS	史诗传奇
 E	<size=141%>L</size>OG	记录
 E	<size=141%>L</size>og	记录
 E	<size=141%>M</size>in	分
 E	<size=141%>M</size>on	一
 E	<size=141%>N</size>ew	新建
+E	<size=141%>O</size>DD	奇数
+E	<size=141%>O</size>dd	奇数
 E	<size=141%>O</size>ff	关闭
 E	<size=141%>O</size>go	奥戈
 E	<size=141%>P</size>ay	支付
@@ -3458,9 +3946,23 @@ E	<size=141%>S</size>at	六
 E	<size=141%>S</size>ec	秒
 E	<size=141%>S</size>oS	灵魂风暴
 E	<size=141%>S</size>un	日
+E	<size=141%>U</size>SE	使用
 E	<size=141%>U</size>se	使用
 E	<size=141%>W</size>ed	三
 E	<size=141%>W</size>oS	暗影之战
+E	<size=141%>X</size>II	12
+E	<size=141%>X</size>ii	12
+E	<size=141%>Y</size>ES	是
+E	<size=141%>Y</size>es	是
+E	<size=141%>a</size>ll	全部
+E	<size=141%>b</size>id	竞拍
+E	<size=141%>b</size>uy	获取
+E	<size=141%>d</size>ay	昼
+E	<size=141%>f</size>aq	常见问题
+E	<size=141%>o</size>dd	奇数
+E	<size=141%>u</size>se	使用
+E	<size=141%>x</size>ii	12
+E	<size=141%>y</size>es	是
 E	<size=141%>内</size>购店	商店
 E	Android Notifications	Android 通知
 E	Enlightened Construct	圣贤神器
@@ -3468,76 +3970,171 @@ E	Enlightened Soul Gems	圣贤灵魂宝石
 E	Enlightened Treasures	圣贤宝藏
 E	Enter Name for Player	请输入玩家名称
 E	Keep this resolution?	保留此分辨率？
+E	PURCHASEABLE IN STEAM	可在 Steam 购买
+E	PURCHASEABLE ON STEAM	可在 Steam 购买
 E	Press the new key for	请按下新的按键：
+E	Promo Cards Included:	包含的特典卡：
+E	Purchaseable In Steam	可在 Steam 购买
+E	Purchaseable On Steam	可在 Steam 购买
+E	Purchaseable in Steam	可在 Steam 购买
+E	Purchaseable on Steam	可在 Steam 购买
 E	Reward: Gain 1 Honor.	奖励：获得1荣誉。
+E	STONEBLADE NEWSLETTER	StoneBlade 通讯
+E	StoneBlade Newsletter	StoneBlade 通讯
+E	Stoneblade Newsletter	StoneBlade 通讯
 E	User "{0}" not found.	未找到用户“{0}”。
 E	User "{0}" not found.	未找到用户“{0}”。
+E	Vault of the Ancients	宝库的Ancients
 E	You May End Your Turn	你可以结束回合
+E	purchaseable in steam	可在 Steam 购买
+E	purchaseable on steam	可在 Steam 购买
+E	stoneblade newsletter	StoneBlade 通讯
 E	<size=141%>D</size>S	梦境
 E	<size=141%>D</size>U	黑暗释放
 E	<size=141%>H</size>R	时
 E	<size=141%>I</size>H	不朽英雄
-E	<size=141%>O</size>K	确定
+E	<size=141%>N</size>O	否
+E	<size=141%>N</size>o	否
+E	<size=141%>O</size>K	好
+E	<size=141%>O</size>R	或
+E	<size=141%>O</size>k	好
 E	<size=141%>O</size>n	开启
+E	<size=141%>O</size>r	或
 E	<size=141%>R</size>U	领域解开
+E	<size=141%>n</size>o	否
+E	<size=141%>o</size>k	好
+E	<size=141%>o</size>r	或
+E	Avatar of the Fallen	堕落者化身
 E	Center Row Draw Pile	中央牌库
 E	Choose Life or Death	选择生命或死亡
 E	Choose Rune or Power	选择符文或战力
 E	Commit Your Decision	确认你的决定
 E	Confirmation Pop-ups	确认弹窗
 E	Connecting to Server	正在连接服务器
+E	Current Highest Bid:	当前Highest Bid:
+E	DOWNLOADABLE CONTENT	可下载内容
+E	Deliverance Rulebook	救赎规则书
 E	Downloadable Content	可下载内容
+E	ENLIGHTENED CHAMPION	圣贤勇士
+E	Enlightened Champion	圣贤勇士
 E	Enlightened Soul Gem	圣贤灵魂宝石
 E	Enlightened Treasure	圣贤宝藏
 E	Gift of the Elements	元素的馈赠
+E	HAVE PLAYDEK ACCOUNT	我有 Playdek 账号
+E	Have Playdek Account	我有 Playdek 账号
+E	Kor, the Ferromancer	铁术师科尔
 E	Lifebound Constructs	命约神器
+E	NOTIFICATION OPTIONS	通知偏好
+E	Notification Options	通知偏好
 E	Open/Close Deck List	打开/关闭牌库列表
 E	Open/Close Void List	打开/关闭虚空列表
 E	Return of the Fallen	邪神归来
 E	Show/Hide Pause Menu	显示/隐藏暂停菜单
+E	downloadable content	可下载内容
+E	enlightened champion	圣贤勇士
+E	have playdek account	我有 Playdek 账号
+E	notification options	通知偏好
 E	%s gains %d power\\n	%s获得%d点战力\\n
 E	%s gains %d runes\\n	%s获得%d点符文\\n
 E	Add Computer Player	添加电脑玩家
+E	CREATE OFFLINE GAME	创建离线对局
+E	Create Offline Game	创建离线对局
 E	Creating Account...	正在创建账号...
 E	Creating Game . . .	正在创建对局 . . .
+E	Defeat as Construct	击败作为神器
+E	Defeating Monsters:	Defeating怪物:
+E	ENTER USERNAME HERE	在此输入用户名
 E	Email Notifications	邮件通知
 E	Enlightened Monster	圣贤怪物
 E	Enlightened Portals	圣贤传送门
 E	Enlightened Temples	圣贤神殿
+E	Enter Username Here	在此输入用户名
+E	Enter username here	在此输入用户名
+E	INFO BLOCKY OF INFO	信息区块（调试占位符）
+E	Info Blocky Of Info	信息区块（调试占位符）
+E	Info blocky of Info	信息区块（调试占位符）
 E	Lifebound Construct	命约神器
 E	Lifebound Soul Gems	命约灵魂宝石
 E	Lifebound Treasures	命约宝藏
+E	Nova, Born of Chaos	诺娃·混沌所生
 E	Offline Create Game	离线创建对局
+E	PURCHASE SEPARATELY	单独购买
 E	Please enter a name	请输入名称
+E	Purchase Separately	单独购买
 E	Quick Match Request	快速匹配请求
+E	REQUIRED EXPANSIONS	所需扩展
+E	Required Expansions	所需扩展
+E	Rocket Courier X-99	<size=104>R</size>ocket信使X-99
+E	TRADITIONAL CHINESE	繁体中文
 E	Traditional Chinese	繁体中文
 E	Waiting for Players	等待玩家
+E	create offline game	创建离线对局
+E	enter username here	在此输入用户名
+E	info blocky of info	信息区块（调试占位符）
+E	purchase separately	单独购买
+E	required expansions	所需扩展
+E	traditional chinese	繁体中文
+E	Assistant Producer	
+E	Associate Producer	副制作人
 E	Confirmation Pause	确认暂停
 E	Create New Account	创建新账号
 E	Darkness Unleashed	黑暗释放
 E	Delete Matchmaking	删除匹配
 E	Enlightened Events	圣贤事件
+E	Enlightened Legend	启迪传奇
 E	Enlightened Portal	圣贤传送门
 E	Enlightened Temple	圣贤神殿
+E	Executive Producer	执行制作人
 E	Gameplay Analytics	游戏分析
+E	INFO BLOCK OF INFO	信息区块（调试占位符）
+E	Info Block Of Info	信息区块（调试占位符）
+E	Info block of Info	信息区块（调试占位符）
 E	Joining Game . . .	正在加入对局 . . .
+E	LIFEBOUND CHAMPION	命约勇士
+E	Lifebound Champion	命约勇士
 E	Lifebound Soul Gem	命约灵魂宝石
 E	Lifebound Treasure	命约宝藏
+E	MECHANA DREAM HERO	机械梦英雄
 E	Mechana Constructs	机械神器
+E	Mechana Dream Hero	机械梦英雄
 E	Monster Constructs	怪物神器
+E	NETWORK CONNECTION	网络连接
+E	Network Connection	网络连接
+E	No Cards\nAvailable	没有卡牌\nAvailable
+E	No Cards Available	没有卡牌\nAvailable
+E	No Games Available	没有Games Available
 E	Not a valid target	不是有效目标
 E	Online Create Game	在线创建对局
+E	PROFILE & SETTINGS	个人与设置
 E	Playdek Newsletter	Playdek 通讯
+E	Profile & Settings	个人与设置
+E	RALLY: ENLIGHTENED	集结：圣贤
 E	Rally: Enlightened	集结：圣贤
+E	SIMPLIFIED CHINESE	简体中文
 E	Select your avatar	选择头像
 E	Simplified Chinese	简体中文
 E	Waiting for Player	等待玩家
+E	info block of info	信息区块（调试占位符）
+E	lifebound champion	命约勇士
+E	mechana dream hero	机械梦英雄
+E	network connection	网络连接
+E	profile & settings	个人与设置
+E	rally: enlightened	集结：圣贤
+E	simplified chinese	简体中文
+E	Additional Design	附加设计
+E	COLLECTION BUNDLE	收藏合集
+E	Collection Bundle	收藏合集
 E	Common Constructs	普通神器
 E	Dawn of Champions	冠军黎明
+E	Death is eternal.	死亡为eternal.
 E	Deckbuilding Game	牌组构筑游戏
+E	Defender of Vigil	祈夜守卫者
+E	Delirium Rulebook	谵妄规则书
 E	Drag below to add	拖到下方添加
 E	Enlightened Event	圣贤事件
 E	Enlightened Heros	圣贤英雄
+E	Hold To Show Hero	Hold以Show英雄
+E	Life finds a way.	生命finds方式.
 E	Lifebound Monster	命约怪物
 E	Lifebound Portals	命约传送门
 E	Lifebound Temples	命约神殿
@@ -3547,14 +4144,23 @@ E	Mechana Treasures	机械宝藏
 E	Monster Construct	怪物神器
 E	Monster Soul Gems	怪物灵魂宝石
 E	Monster Treasures	怪物宝藏
+E	Needed to defeat:	Needed以击败:
+E	No Account at All	没有Account在万民
 E	Offline Game List	离线对局列表
+E	Press to continue	Press以continue
 E	Rating Difference	评分差
 E	Remember Password	记住密码
 E	Restore Purchases	恢复购买
 E	Samael the Fallen	堕落之神萨麦尔
+E	Software Engineer	软件工程师
 E	Unable to create.	无法创建。
+E	VOID DREAM VISION	虚空梦境视域
+E	Void Dream Vision	虚空梦境视域
 E	Waiting for Start	等待开始
+E	Waiting on Player	Waiting在Player
+E	collection bundle	收藏合集
 E	iOS Notifications	iOS 通知
+E	void dream vision	虚空梦境视域
 E	10th Anniversary	十周年
 E	Add Human Player	添加人类玩家
 E	Always Available	始终可用
@@ -3564,12 +4170,21 @@ E	Common Soul Gems	普通灵魂宝石
 E	Common Treasures	普通宝藏
 E	Confirm Password	确认密码
 E	Delete Your Game	删除你的对局
+E	ENTER EMAIL HERE	在此输入邮箱
+E	EXPANSION BUNDLE	扩展合集
 E	Enlightened Hero	圣贤英雄
+E	Enter Email Here	在此输入邮箱
+E	Enter email here	在此输入邮箱
+E	Expansion Bundle	扩展合集
+E	INFESTED MONSTER	感染怪物
 E	Infested Monster	感染怪物
 E	Invalid Password	密码无效
 E	Lifebound Events	命约事件
+E	Lifebound Legend	生命传奇
 E	Lifebound Portal	命约传送门
 E	Lifebound Temple	命约神殿
+E	MECHANA CHAMPION	机械勇士
+E	Mechana Champion	机械勇士
 E	Mechana Soul Gem	机械灵魂宝石
 E	Mechana Treasure	机械宝藏
 E	Monster Soul Gem	怪物灵魂宝石
@@ -3577,18 +4192,32 @@ E	Monster Treasure	怪物宝藏
 E	No Card Selected	未选择卡牌
 E	Online Game List	在线对局列表
 E	Player Draw Pile	玩家牌库
+E	RALLY: LIFEBOUND	集结：命约
 E	Rally: Lifebound	集结：命约
 E	Realms Unraveled	领域解开
 E	Restore Defaults	恢复默认
 E	Reward: Gain 1H.	奖励：获得1荣誉。
+E	enter email here	在此输入邮箱
+E	expansion bundle	扩展合集
+E	infested monster	感染怪物
+E	mechana champion	机械勇士
+E	rally: lifebound	集结：命约
 E	%s defeats %s\\n	%s击败了%s\\n
 E	Animation Speed	动画速度
+E	CULTIST SCREAMS	邪教徒惨叫
 E	Clear Purchases	清除购买
 E	Common Soul Gem	普通灵魂宝石
 E	Common Treasure	普通宝藏
 E	Cultist Screams	邪教徒惨叫
+E	DISABLE CHINESE	关闭中文
+E	DREAM CONSTRUCT	梦铸神器
 E	Disable Chinese	关闭中文
+E	Dream Construct	梦铸神器
+E	Explosive Swarm	爆裂虫群
+E	Hoarding Tyrant	<size=104>H</size>oarding暴君
 E	Immortal Heroes	不朽英雄
+E	LEGENDARY BOONS	传奇恩赐
+E	Legendary Boons	传奇恩赐
 E	Lifebound Event	命约事件
 E	Lifebound Heros	命约英雄
 E	Loading... %d%%	加载中... %d%%
@@ -3597,94 +4226,174 @@ E	Mechana Portals	机械传送门
 E	Mechana Temples	机械神殿
 E	Monster Portals	怪物传送门
 E	Monster Temples	怪物神殿
+E	PlayerName Name	PlayerName命名
+E	Power Card Deck	战力卡牌Deck
 E	Return to Lobby	返回大厅
 E	Reward: 1 Honor	奖励：1荣誉
 E	Select Language	选择语言
 E	Send Login Info	发送登录信息
+E	Senior Producer	高级制作人
 E	Share Analytics	分享分析数据
+E	TRANSFORM EVENT	转化事件
+E	TROPHY MONSTERS	战利品怪物
 E	Tap to Continue	点击继续
 E	Theme Selection	主题选择
 E	Transform Event	转化事件
 E	Trophy Monsters	战利品怪物
 E	Void Constructs	虚空神器
+E	cultist screams	邪教徒惨叫
+E	disable chinese	关闭中文
+E	dream construct	梦铸神器
+E	legendary boons	传奇恩赐
+E	transform event	转化事件
+E	trophy monsters	战利品怪物
 E	Account error.	账号出错。
+E	Administration	管理层
 E	Ambient Volume	环境音量
+E	Askara of Fate	<size=104></size>skara的天命
+E	CREATE ACCOUNT	创建账号
 E	Common Monster	普通怪物
 E	Common Portals	普通传送门
 E	Common Temples	普通神殿
 E	Confirm Change	确认更改
 E	Create Account	创建账号
+E	ENABLE CHINESE	启用中文
 E	Enable Chinese	启用中文
 E	Enter Password	输入密码
 E	Enter Username	输入用户名
 E	Friend Request	好友请求
 E	Game Completed	对局结束
+E	Graphic Design	平面设计
 E	Heavy Infantry	重装步兵
+E	LEGENDARY BOON	传奇恩赐
 E	Legendary Boon	传奇恩赐
 E	Lifebound Hero	命约英雄
 E	Mechana Events	机械事件
+E	Mechana Legend	机械传奇
 E	Mechana Portal	机械传送门
 E	Mechana Temple	机械神殿
 E	Monster Events	怪物事件
 E	Monster Portal	怪物传送门
 E	Monster Temple	怪物神殿
 E	No Player Data	无玩家数据
+E	No active game	没有active游戏
+E	ONGOING TROPHY	持续战利品
+E	OPPONENT BIDS:	对手竞拍：
 E	Offline Games 	离线对局
 E	Offline Record	离线战绩
 E	Ongoing Trophy	持续战利品
+E	Opponent Bids:	对手竞拍：
 E	Opponent Stats	对手统计
+E	PLAY YOUR TURN	请出牌
 E	Play Your Turn	请出牌
 E	Please wait...	请稍候...
 E	Privacy Policy	隐私政策
+E	RALLY: MECHANA	集结：机械
+E	RALLY: MONSTER	集结：怪物
 E	Rally: Mechana	集结：机械
 E	Rally: Monster	集结：怪物
 E	Ready to Start	准备开始
 E	Remove Profile	删除档案
+E	Rune Card Deck	符文卡牌Deck
+E	Special Thanks	特别感谢
 E	Storm of Souls	灵魂风暴
+E	TROPHY MONSTER	战利品怪物
 E	Trophy Monster	战利品怪物
 E	Viewing Player	正在查看玩家
 E	Void Construct	虚空神器
 E	Void Soul Gems	虚空灵魂宝石
 E	Void Treasures	虚空宝藏
 E	War of Shadows	暗影之战
+E	create account	创建账号
+E	enable chinese	启用中文
+E	legendary boon	传奇恩赐
+E	ongoing trophy	持续战利品
+E	opponent bids:	对手竞拍：
+E	play your turn	请出牌
+E	rally: mechana	集结：机械
+E	rally: monster	集结：怪物
+E	trophy monster	战利品怪物
+E	(UNAVAILABLE)	（不可用）
+E	(Unavailable)	（不可用）
+E	(unavailable)	（不可用）
 E	AI Difficulty	AI 难度
 E	Accept Invite	接受邀请
 E	Achievements 	成就
 E	Announcements	公告
+E	Art Direction	美术指导
+E	CLAIM VICTORY	宣告胜利
+E	Claim Victory	宣告胜利
 E	Common Events	普通事件
 E	Common Portal	普通传送门
 E	Common Temple	普通神殿
+E	Current Games	当前Games
 E	Delete Friend	删除好友
 E	End Your Turn	结束回合
 E	Enter text...	请输入文字...
 E	Forgot Login?	忘记登录信息？
+E	Illustrations	插画
 E	Invalid Email	邮箱无效
 E	Invite Friend	邀请好友
 E	Key Bindings 	按键绑定
+E	Lead Engineer	首席工程师
+E	Lead Producer	首席制作人
 E	Loading Cards	正在加载卡牌
 E	Losses Versus	对战负场
 E	Mechana Event	机械事件
 E	Mechana Heros	机械英雄
 E	Monster Event	怪物事件
 E	Monster Heros	怪物英雄
+E	NOW AVAILABLE	现已推出
 E	Notifications	通知
 E	Now Available	现已推出
+E	OFFLINE GAMES	离线对局
+E	ONCE PER TURN	每回合一次
+E	OPPONENT AREA	对手区域
 E	Offline Games	离线对局
 E	Offline Lobby	离线大厅
+E	Once Per Turn	每回合一次
 E	Once per turn	每回合一次
 E	Online Record	在线战绩
+E	Opponent Area	对手区域
+E	Promo Pack #1	特典包 1
+E	Promo Pack #2	特典包 2
+E	Promo Pack #3	特典包 3
+E	Promo Pack #4	特典包 4
+E	Promo Pack #5	特典包 5
+E	Promo Pack #6	特典包 6
+E	Promo Pack #7	特典包 7
 E	Put into play	进入战场
+E	ROLL RESULTS:	掷骰结果：
 E	Remote Player	远程玩家
 E	Remove Friend	删除好友
 E	Request Match	请求对局
 E	Rise of Vigil	祈夜崛起
+E	Roll Results:	掷骰结果：
+E	SOUL COUNTERS	灵魂指示物
+E	SOUND EFFECTS	音效
+E	Soul Counters	灵魂指示物
 E	Soul counters	灵魂指示物
 E	Sound Effects	音效
+E	VOID CHAMPION	虚空勇士
+E	Void Champion	虚空勇士
 E	Void Soul Gem	虚空灵魂宝石
 E	Void Treasure	虚空宝藏
+E	WISH COUNTERS	愿望指示物
 E	Windowed Mode	窗口模式
+E	Wish Counters	愿望指示物
 E	Wish counters	愿望指示物
+E	claim victory	宣告胜利
+E	now available	现已推出
+E	offline games	离线对局
+E	once per turn	每回合一次
+E	opponent area	对手区域
 E	put into play	进入战场
+E	roll results:	掷骰结果：
+E	soul counters	灵魂指示物
+E	sound effects	音效
+E	void champion	虚空勇士
+E	wish counters	愿望指示物
+E	ADD A FRIEND	添加好友
 E	AI Player 10	AI 玩家 10
 E	AI Player 11	AI 玩家 11
 E	AI Player 12	AI 玩家 12
@@ -3697,20 +4406,41 @@ E	AI Player 18	AI 玩家 18
 E	AI Player 19	AI 玩家 19
 E	AI Player 20	AI 玩家 20
 E	Achievements	成就
+E	Add A Friend	添加好友
+E	Add a Friend	添加好友
+E	Arha Templar	<size=104></size>rha圣殿武士
 E	Audio Levels	音量
+E	CARD GALLERY	卡牌图鉴
 E	Card Gallery	卡牌图鉴
 E	Clear Invite	清除邀请
 E	Common Event	普通事件
 E	Common Heros	普通英雄
+E	DELIRIUM DIE	谵妄骰
+E	DREAM VISION	梦境视域
 E	Delirium Die	谵妄骰
+E	Description:	简介：
 E	Discard Pile	弃牌堆
 E	Discard Zone	弃牌区
+E	Dream Vision	梦境视域
+E	EVENT TROPHY	事件战利品
+E	Earth Tyrant	<size=104>E</size>arth暴君
+E	Event - Void	<color=#d8a6ffff>事件 - 虚空
+E	Event Cards:	事件卡牌:
 E	Event Trophy	事件战利品
 E	Expire Timer	超时计时
+E	FORGOT LOGIN	忘记登录信息
+E	Forgot Login	忘记登录信息
 E	Friends List	好友列表
 E	Help Enabled	启用帮助
+E	Honor Points	荣誉Points
 E	Honor tokens	荣誉点数
+E	IN-APP STORE	商店
+E	In Progress:	在Progress:
 E	In-App Store	商店
+E	In-app Store	商店
+E	Introduction	简介
+E	KEEP PLAYING	继续对局
+E	Keep Playing	继续对局
 E	Key Bindings	按键绑定
 E	Login failed	登录失败
 E	Magnify Card	放大卡牌
@@ -3721,13 +4451,43 @@ E	Online Games	在线对局
 E	Online Lobby	在线大厅
 E	Online Login	在线登录
 E	Play Offline	离线游戏
+E	Promo Pack 1	特典包 1
+E	Promo Pack 2	特典包 2
+E	Promo Pack 3	特典包 3
+E	Promo Pack 4	特典包 4
+E	Promo Pack 5	特典包 5
+E	Promo Pack 6	特典包 6
+E	Promo Pack 7	特典包 7
+E	RENOWN TRACK	名望轨道
+E	Renown Track	名望轨道
+E	RulebookASCL	史诗传奇规则书
+E	RulebookDLRM	谵妄规则书
+E	SOUL COUNTER	灵魂指示物
+E	Soul Counter	灵魂指示物
 E	Soul counter	灵魂指示物
 E	Sound Volume	音效音量
+E	Terms of Use	Terms的Use
+E	UNBANISHABLE	不可放逐
 E	Unbanishable	不可放逐
 E	Void Monster	虚空怪物
 E	Void Portals	虚空传送门
 E	Void Temples	虚空神殿
+E	WISH COUNTER	愿望指示物
+E	Wish Counter	愿望指示物
 E	Wish counter	愿望指示物
+E	add a friend	添加好友
+E	card gallery	卡牌图鉴
+E	delirium die	谵妄骰
+E	dream vision	梦境视域
+E	event trophy	事件战利品
+E	forgot login	忘记登录信息
+E	honor points	荣誉points
+E	in-app store	商店
+E	keep playing	继续对局
+E	renown track	名望轨道
+E	soul counter	灵魂指示物
+E	unbanishable	不可放逐
+E	wish counter	愿望指示物
 E	AI Opponent	AI 对手
 E	AI Player 1	AI 玩家 1
 E	AI Player 2	AI 玩家 2
@@ -3739,39 +4499,70 @@ E	AI Player 7	AI 玩家 7
 E	AI Player 8	AI 玩家 8
 E	AI Player 9	AI 玩家 9
 E	Add Profile	添加档案
+E	COMING SOON	即将推出
+E	CREATE GAME	创建对局
 E	Center Deck	中央牌库
 E	Coming Soon	即将推出
 E	Common Hero	普通英雄
 E	Create Game	创建对局
 E	Delete Game	删除对局
 E	Deliverance	救赎
+E	Development	开发
 E	Enlightened	圣贤
 E	Enter Email	输入邮箱
+E	FATE CARDS:	天命卡：
+E	Fate Cards:	天命卡牌:
+E	Game Design	游戏设计
 E	Game Paused	游戏已暂停
+E	Honor Pool:	荣誉池：
 E	Honor token	荣誉点数
 E	In Progress	进行中
 E	MULTI-UNITE	多重联合
 E	Multi-Unite	多重联合
+E	PLAYER AREA	玩家区域
+E	PLAYER NAME	玩家姓名
 E	Play Online	在线游戏
-E	Player Name	玩家名称
+E	Play Order:	打出秩序:
+E	Player Area	玩家区域
+E	Player Name	玩家姓名
+E	Playtesting	试玩
 E	Portal Deck	传送门牌库
+E	Produced by	制作
+E	Promo Cards	特典卡
+E	Puggageddon	巴哥末日
 E	Quick Match	快速匹配
+E	RALLY: VOID	集结：虚空
 E	Rally: Void	集结：虚空
 E	Resolutions	分辨率
 E	Resume Game	继续游戏
+E	RulebookDLV	救赎规则书
 E	Void Events	虚空事件
+E	Void Legend	虚空传奇
 E	Void Portal	虚空传送门
+E	Void Rising	虚空崛起
 E	Void Temple	虚空神殿
 E	Wins Versus	对战胜场
+E	coming soon	即将推出
+E	create game	创建对局
+E	multi-unite	多重联合
+E	player area	玩家区域
+E	player name	玩家姓名
+E	rally: void	集结：虚空
 E	2 Players:	2 名玩家：
 E	3 Players:	3 名玩家：
+E	30 MINUTES	30 分钟
+E	30 Minutes	30 分钟
+E	30 minutes	30 分钟
 E	4 Players:	4 名玩家：
 E	Add Friend	添加好友
 E	Any Rating	任意评分
 E	Apprentice	学徒
 E	Center Row	中央牌列
 E	Collection	收藏
+E	Constructs	神器s
 E	Dreamscape	梦境
+E	EXPANSIONS	扩展
+E	Expansions	扩展
 E	Fullscreen	全屏
 E	Game Speed	游戏速度
 E	Game Stats	对局统计
@@ -3780,40 +4571,85 @@ E	Honor Pool	荣誉池
 E	Loading...	加载中...
 E	Lobby Chat	大厅聊天
 E	More Games	更多游戏
+E	OPEN GAMES	开放对局
 E	On the Web	访问网站
+E	Open Games	开放对局
+E	PROMO PACK	特典包
 E	Portuguese	葡萄牙语
+E	Promo Card	特典卡
+E	Promo Pack	特典包
 E	Resolution	分辨率
+E	Resources:	资源：
 E	RightArrow	→ 方向键右
+E	RulebookDC	冠军黎明规则书
+E	RulebookDS	梦境规则书
+E	RulebookDU	黑暗释放规则书
+E	RulebookGE	元素的馈赠规则书
+E	RulebookRU	领域解开规则书
+E	RulebookRV	祈夜崛起规则书
+E	RulebookVA	上古山谷规则书
+E	RulebookWA	暗影之战规则书
 E	Start Game	开始对局
 E	Start Menu	开始菜单
 E	Timer: Any	计时：任意
 E	User Name:	用户名：
+E	VERIFY PW:	确认密码：
+E	Verify PW:	确认密码：
+E	Verify Pw:	确认密码：
 E	View Cards	查看卡牌
 E	Void Event	虚空事件
 E	Void Heros	虚空英雄
+E	What's New	新增内容
+E	expansions	扩展
+E	open games	开放对局
+E	promo pack	特典包
+E	reputation	声望
+E	verify pw:	确认密码：
 E	2 Players	2 名玩家
 E	3 Players	3 名玩家
 E	4 Players	4 名玩家
+E	AI PLAYER	AI 玩家
 E	AI Player	AI 玩家
+E	APP STORE	商店
+E	Ai Player	AI 玩家
+E	All Games	万民Games
 E	Analytics	分析
 E	App Store	商店
 E	Ascension	创升纪元
 E	Auto Play	自动出牌
 E	Completed	已完成
 E	Construct	神器
+E	DREAMBIND	梦缚
+E	DREAMBORN	梦生
+E	Draw Deck	抽Deck
 E	Dreambind	梦缚
 E	Dreamborn	梦生
+E	EXPANSION	扩展
+E	Expansion	扩展
+E	FACTIONS:	派系：
 E	Find Game	查找对局
 E	Game Chat	对局聊天
+E	Game End:	Game终结:
 E	Game List	对局列表
 E	Game Type	对局类型
 E	Godslayer	弑神者
+E	INFO LINE	信息栏
+E	Info Line	信息栏
 E	Join Game	加入对局
+E	LEGENDARY	传奇
 E	Languages	语言
 E	LeftArrow	← 方向键左
 E	Legendary	传奇
 E	Lifebound	命约
+E	MAIN MENU	主菜单
 E	Main Menu	主菜单
+E	NEXT GAME	下一局
+E	Next Game	下一局
+E	OPPONENTS	对手
+E	Opponents	对手
+E	PASSWORD:	密码：
+E	PURCHASE:	购买：
+E	Password:	密码：
 E	Play Area	战场
 E	Play Card	出牌
 E	Player 10	玩家 10
@@ -3827,19 +4663,53 @@ E	Player 17	玩家 17
 E	Player 18	玩家 18
 E	Player 19	玩家 19
 E	Player 20	玩家 20
+E	Purchase:	购买：
 E	Purchased	已购买
+E	RESOURCES	资源
+E	See Cards	See卡牌
 E	TRANSFORM	转化
 E	Transform	转化
 E	Tutorials	教程
+E	UNLIMITED	不限时
+E	USERNAME:	用户名：
+E	Unlimited	不限时
+E	Username:	用户名：
+E	VERIFY PW	确认密码
+E	Verify PW	确认密码
+E	Verify Pw	确认密码
 E	View Game	观看对局
 E	Void Hero	虚空英雄
 E	Wednesday	星期三
+E	Your Bid:	你的Bid:
+E	ai player	AI 玩家
+E	app store	商店
+E	dreambind	梦缚
+E	dreamborn	梦生
+E	expansion	扩展
+E	info line	信息栏
+E	legendary	传奇
+E	main menu	主菜单
+E	next game	下一局
+E	opponents	对手
+E	password:	密码：
+E	purchase:	购买：
+E	transform	转化
+E	unlimited	不限时
+E	username:	用户名：
+E	verify pw	确认密码
 E	(Closed)	(已关闭)
+E	1-7 DAYS	1–7 天
+E	1-7 Days	1–7 天
+E	1-7 days	1–7 天
+E	14+ Days	14+ 往日
+E	BEGINNER	入门
 E	Beginner	入门
+E	CHAMPION	冠军
 E	CONTINUE	继续
 E	Champion	冠军
 E	Continue	继续
 E	Delirium	谵妄
+E	Destroy:	摧毁:
 E	END\nTURN	结束回合
 E	END TURN	结束回合
 E	ENERGIZE	充能
@@ -3848,14 +4718,27 @@ E	End\nTurn	结束回合
 E	End Game	结束对局
 E	End Turn	结束回合
 E	Energize	充能
+E	Fanatic:	狂信者:
+E	Features	特性
 E	Forfeits	认输次数
 E	Gallery 	图鉴
 E	Game Log	对局记录
 E	Japanese	日语
+E	LANGUAGE	语言
 E	Language	语言
+E	Monsters	怪物
 E	ONGOING:	持续：
+E	OPPONENT	对手
+E	Ongoing:	持续：
+E	Opponent	对手
 E	Options 	选项
+E	PASSWORD	密码
+E	PHANTASM	幻象
 E	PLAY ALL	全部打出
+E	PLAYER 1	玩家 1
+E	PLAYER 2	玩家 2
+E	PLAYER 3	玩家 3
+E	PLAYER 4	玩家 4
 E	Password	密码
 E	Phantasm	幻象
 E	Play All	全部打出
@@ -3868,8 +4751,20 @@ E	Player 6	玩家 6
 E	Player 7	玩家 7
 E	Player 8	玩家 8
 E	Player 9	玩家 9
+E	Producer	制作人
 E	Profiles	档案
 E	Purchase	购买
+E	RENOWN 1	名望 1
+E	RENOWN 2	名望 2
+E	RENOWN 3	名望 3
+E	RENOWN 4	名望 4
+E	RENOWN 5	名望 5
+E	RULEBOOK	规则书
+E	Renown 1	名望 1
+E	Renown 2	名望 2
+E	Renown 3	名望 3
+E	Renown 4	名望 4
+E	Renown 5	名望 5
 E	Round 10	第 10 回合
 E	Round 11	第 11 回合
 E	Round 12	第 12 回合
@@ -3883,31 +4778,81 @@ E	Round 19	第 19 回合
 E	Round 20	第 20 回合
 E	Rulebook	规则书
 E	SERENITY	宁静
+E	SETTINGS	设置
+E	Sadranis	萨德拉尼斯
 E	Saturday	星期六
 E	Serenity	宁静
 E	Settings	设置
 E	Soul Gem	灵魂宝石
+E	TOP AREA	顶部区域
+E	TUTORIAL	教程
+E	Temples:	神庙：
 E	Thursday	星期四
+E	Top Area	顶部区域
 E	Treasure	宝藏
 E	Tutorial	教程
+E	USERNAME	用户名
 E	Username	用户名
 E	Version:	版本：
 E	Windowed	窗口
 E	Withdraw	退出对局
+E	beginner	入门
+E	champion	冠军
+E	continue	继续
+E	end turn	结束回合
+E	energize	充能
+E	language	语言
+E	ongoing:	持续：
+E	opponent	对手
+E	password	密码
+E	phantasm	幻象
+E	play all	全部打出
+E	player 1	玩家 1
+E	player 2	玩家 2
+E	player 3	玩家 3
+E	player 4	玩家 4
+E	renown 1	名望 1
+E	renown 2	名望 2
+E	renown 3	名望 3
+E	renown 4	名望 4
+E	renown 5	名望 5
+E	rulebook	规则书
+E	serenity	宁静
+E	settings	设置
 E	the Void	虚空区
 E	the void	虚空区
+E	top area	顶部区域
+E	tutorial	教程
+E	username	用户名
+E	28 Days	28 往日
+E	< 1 DAY	< 1 天
+E	< 1 Day	< 1 天
+E	< 1 day	< 1 天
+E	AUCTION	竞拍
 E	Acquire	获取
 E	Auction	竞拍
+E	BUNDLES	合集
+E	Bundles	合集
+E	CHINESE	中文
+E	CONFIRM	确认
 E	Chinese	中文
+E	Confirm	确认
 E	Control	控制
 E	Create 	创建
 E	Credits	制作人员
 E	Cultist	邪教徒
+E	DISCARD	弃牌
+E	DISMISS	关闭
 E	Destroy	摧毁
 E	Details	详情
+E	Dhartha	达萨
+E	Discard	弃牌
+E	Dismiss	关闭
 E	EMPOWER	赋力
+E	ENGLISH	英语
 E	Empower	赋力
 E	English	英语
+E	FRIENDS	好友
 E	Fanatic	狂信者
 E	Forfeit	认输
 E	Friends	好友
@@ -3917,22 +4862,29 @@ E	Insight	洞察
 E	Invited	已邀请
 E	Italian	意大利语
 E	L Mouse	鼠标左键
+E	LOG OUT	登出
 E	Legends	史诗传奇
 E	Loading	加载中
-E	Log Out	退出登录
+E	Log Out	登出
 E	Look at	查看
 E	Mechana	机械
 E	Militia	民兵
 E	Minutes	分钟
 E	Monster	怪物
+E	OFFLINE	离线
 E	ONGOING	持续
+E	OPT OUT	退出
+E	OPTIONS	选项
 E	Offline	离线
 E	Ongoing	持续
+E	Opt Out	退出
 E	Options	选项
+E	PLUNDER	掠夺
+E	PROFILE	个人
 E	Plunder	掠夺
-E	Profile	档案
-E	Promo 7	特典 7
+E	Profile	个人
 E	R Mouse	鼠标右键
+E	REWARD:	奖励：
 E	Rematch	再来一局
 E	Replace	替换
 E	Reward:	奖励：
@@ -3946,123 +4898,388 @@ E	Round 7	第 7 回合
 E	Round 8	第 8 回合
 E	Round 9	第 9 回合
 E	Russian	俄语
+E	SIGN UP	注册
 E	Seconds	秒
 E	Shuffle	洗牌
+E	Sign Up	注册
 E	Spanish	西班牙语
+E	TROPHY:	战利品：
 E	Trophy:	战利品：
 E	Tuesday	星期二
 E	Verify:	验证：
 E	Waiting	等待中
 E	Warning	警告
+E	auction	竞拍
+E	bundles	合集
+E	chinese	中文
+E	confirm	确认
+E	discard	弃牌
+E	dismiss	关闭
+E	empower	赋力
+E	english	英语
+E	friends	好友
 E	in play	战场
-E	(Open)	(开放)
+E	log out	登出
+E	offline	离线
+E	ongoing	持续
+E	opt out	退出
+E	options	选项
+E	plunder	掠夺
+E	profile	个人
+E	reward:	奖励：
+E	sign up	注册
+E	trophy:	战利品：
+E	(OPEN)	（开放）
+E	(Open)	（开放）
+E	(open)	（开放）
+E	AVATAR	头像
 E	Accept	接受
+E	Avatar	头像
+E	BUNDLE	合集
 E	Banish	放逐
+E	Bundle	合集
+E	CANCEL	取消
+E	COMMIT	确认
 E	Cancel	取消
 E	Choose	选择
+E	Commit	确认
 E	Common	普通
 E	Create	创建
+E	DEFEND	防御
+E	DELETE	删除
 E	Defeat	击败
+E	Defend	防御
+E	Delete	删除
+E	Design	设计
+E	EMAIL:	邮箱：
+E	EXPERT	专家
+E	Email:	邮箱：
 E	Energy	能量
 E	Escape	Esc 键
 E	Expert	专家
+E	FRIEND	好友
 E	Finish	完成
 E	French	法语
 E	Friday	星期五
+E	Friend	好友
 E	German	德语
+E	HONOR:	荣誉：
 E	Hedron	多面体
+E	Heroes	英雄
 E	INFEST	感染
 E	Infest	感染
 E	Invite	邀请
+E	LOG IN	登录
+E	LOGOUT	登出
 E	Locked	已锁定
+E	Log In	登录
+E	Log in	登录
+E	Logout	登出
 E	Medium	中
 E	Minute	分钟
 E	Monday	星期一
 E	Mystic	秘教士
 E	NIGHT:	夜：
+E	NORMAL	普通
+E	Night:	夜：
 E	Normal	普通
+E	ONLINE	在线
+E	OPT IN	加入
 E	Online	在线
+E	Opt In	加入
+E	PLAYER	玩家
+E	POWER:	战力：
+E	PROMOS	特典
 E	Player	玩家
 E	Portal	传送门
-E	Promos	推广卡
+E	Promo1	特典 1
+E	Promo2	特典 2
+E	Promo3	特典 3
+E	Promo4	特典 4
+E	Promo5	特典 5
+E	Promo6	特典 6
+E	Promo7	特典 7
+E	Promos	特典
+E	REVEAL	展示
+E	REWARD	奖励
+E	RUNES:	符文：
 E	Rating	评分
 E	Reject	拒绝
 E	Renown	声望
 E	Resume	继续游戏
+E	Reveal	展示
 E	Reward	奖励
+E	SELECT	选择
 E	Samael	萨麦尔
 E	Second	秒
+E	Select	选择
 E	Sunday	星期日
+E	TARGET	指定
+E	TROPHY	战利品
+E	Target	指定
 E	Temple	神殿
 E	Trophy	战利品
+E	avatar	头像
+E	bundle	合集
+E	cancel	取消
+E	commit	确认
+E	defend	防御
+E	delete	删除
+E	email:	邮箱：
+E	expert	专家
+E	friend	好友
+E	infest	感染
+E	log in	登录
+E	logout	登出
+E	night:	夜：
+E	normal	普通
+E	online	在线
+E	opt in	加入
+E	player	玩家
+E	promos	特典
+E	reveal	展示
+E	reward	奖励
+E	select	选择
+E	target	指定
+E	trophy	战利品
+E	CLOSE	关闭
+E	Close	关闭
 E	Death	死亡
-E	Email	电子邮箱
+E	EMAIL	邮箱
+E	Email	邮箱
 E	Empty	空
 E	Error	错误
 E	Event	事件
 E	FATE:	天命：
+E	Fate:	天命：
 E	Honor	荣誉
 E	Hours	小时
 E	Human	人类
+E	LOBBY	大厅
+E	LOGIN	登录
 E	Lobby	大厅
 E	Login	登录
 E	Logos	逻各斯
+E	MUSIC	音乐
 E	Music	音乐
+E	NAME:	姓名：
 E	NIGHT	夜
+E	Nairi	奈莉
+E	Name:	姓名：
 E	Night	夜
+E	OWNED	已拥有
 E	Owned	已拥有
 E	Pause	暂停
 E	Power	战力
 E	Promo	推广卡
+E	RALLY	集结
 E	Rally	集结
 E	Round	回合
 E	Runes	符文
+E	START	开始
 E	Setup	设置
 E	Space	空格键
 E	Spend	花费
+E	Start	开始
 E	Theme	主题
 E	Thurs	四
 E	UNITE	联合
 E	Unite	联合
 E	Vigil	祈夜
 E	Xeron	泽伦
+E	close	关闭
+E	email	邮箱
+E	fate:	天命：
+E	lobby	大厅
+E	login	登录
+E	music	音乐
+E	name:	姓名：
+E	night	夜
+E	owned	已拥有
+E	rally	集结
+E	start	开始
+E	unite	联合
 E	10th	十周年
+E	Arha	亚哈
+E	BACK	返回
+E	Back	返回
+E	CHAT	聊天
+E	COPY	复制
+E	Chat	聊天
+E	Copy	复制
 E	CotG	弑神编
+E	DAY:	昼：
 E	DLRM	谵妄
+E	DONE	完成
+E	Day:	昼：
 E	Deck	牌库
+E	Done	完成
 E	Draw	抽
+E	EASY	简单
 E	ECHO	回响
+E	EVEN	偶数
+E	EXIT	退出
 E	Easy	简单
 E	Echo	回响
+E	Even	偶数
 E	Exit	退出
 E	FATE	天命
 E	Fast	快
 E	Fate	天命
+E	GIVE	给予
+E	Gain	获得
+E	Give	给予
 E	GotE	元素馈赠
+E	HARD	困难
 E	Hand	手牌
 E	Hard	困难
 E	Hero	英雄
 E	Life	生命
+E	Lose	失去
+E	MENU	菜单
 E	Menu	菜单
+E	NAME	姓名
+E	NONE	无
+E	Name	姓名
+E	None	无
+E	PASS	跳过
+E	PLAY	打出
+E	Pass	跳过
+E	Play	打出
 E	RotF	邪神归来
 E	Rune	符文
 E	Slow	慢
+E	TURN	回合
+E	Turn	回合
+E	UNDO	撤销
+E	Undo	撤销
 E	VOID	虚空
 E	Void	虚空
 E	VotA	上古山谷
+E	back	返回
+E	chat	聊天
+E	copy	复制
+E	day:	昼：
+E	done	完成
+E	easy	简单
+E	echo	回响
+E	even	偶数
+E	exit	退出
+E	fate	天命
+E	give	给予
+E	hard	困难
+E	menu	菜单
+E	name	姓名
+E	none	无
+E	pass	跳过
+E	play	打出
+E	turn	回合
+E	undo	撤销
+E	应用商店	商店
+E	ALL	全部
+E	All	全部
+E	BID	竞拍
+E	BUY	获取
+E	Bid	竞拍
+E	Buy	获取
 E	DAY	昼
 E	DLV	救赎
-E	Day	天
+E	Day	昼
 E	DoC	冠军黎明
+E	FAQ	常见问题
+E	Faq	常见问题
+E	Kor	科尔
 E	LGS	史诗传奇
 E	LOG	记录
 E	Log	记录
+E	ODD	奇数
+E	Odd	奇数
 E	Off	关闭
+E	Ogo	奥戈
+E	Pay	支付
 E	RoV	祈夜崛起
 E	SoS	灵魂风暴
+E	USE	使用
+E	Use	使用
 E	WoS	暗影之战
+E	XII	12
+E	Xii	12
+E	YES	是
+E	Yes	是
+E	all	全部
+E	bid	竞拍
+E	buy	获取
+E	day	昼
+E	faq	常见问题
+E	odd	奇数
+E	use	使用
+E	xii	12
+E	yes	是
+E	内购店	商店
 E	DS	梦境
 E	DU	黑暗释放
 E	IH	不朽英雄
+E	NO	否
+E	No	否
+E	OK	好
+E	OR	或
+E	Ok	好
 E	On	开启
+E	Or	或
 E	RU	领域解开
+E	no	否
+E	ok	好
+E	or	或
+E	Additional IP Development \n John Fiorillo \n Justin Gary \n Brian Kibler \n Ryan O’Connor \n Mike Rosenberg \n Eric Sabee \n Geordie Tait \n Eric Tice \n Greg Wilson \n \n Flavor Text \n John Fiorillo \n Brian Kibler \n Geordie Tait \n Eric Tice \n Greg Wilson \n \n Project Management Lead \n Rob Dougherty \n Ian Estrin \n \n Project Management Support \n Ian Estrin \n \n Secretary of Keeping it Real \n John Fiorillo \n \n Minister of Propaganda \n Brian Kibler \n \n Editing \n Cate Gary \n \n Rulebook \n Gary Arant \n John Fiorillo \n Justin Gary \n Brian Kibler \n Jeff Liu \n Ryan O’Connor \n Mike Rosenberg \n Geordie Tait \n Emily Zaehring\n\n\n	
+E	\n Delirium \n \n Ascension™ Game Engine Design \n Justin Gary \n \n Ascension: Delirium™ Lead Design \nGary Arant \n \n Design & Development Team \n Justin Gary, Gary Arant, Jason Zila,\nMataio Wilson and Benjamin Lundquist \n \n Project Management Lead \n Gary Arant\n\n Creative Direction & Graphic Design \n Ryan O’Connor \n \n Graphic Design \nPeter Wocken Design, Ryan O’Connor \n\n Card Art \n Eric Sabee, Aaron Nakahara, \nRod Mendez, Thiên Nguyên\n\n Creative Lead \nGeorge Rockwell III\n\n Creative Team \nGary Arant, Justin Gary, Mataio Wilson\n\n\n	
+E	Additional IP Development \n John Fiorillo \n Justin Gary \n Brian Kibler \n Ryan O’Connor \n Mike Rosenberg \n Eric Sabee \n Geordie Tait \n Eric Tice \n Greg Wilson \n \n Flavor Text \n John Fiorillo \n Brian Kibler \n Geordie Tait \n Eric Tice \n Greg Wilson \n \n Project Management Lead \n Rob Dougherty \n Ian Estrin \n \n Project Management Support \n Ian Estrin \n \n Secretary of Keeping it Real \n John Fiorillo \n \n Minister of Propaganda \n Brian Kibler \n \n Editing \n Cate Gary \n \n Rulebook \n Gary Arant \n John Fiorillo \n Justin Gary \n Brian Kibler \n Jeff Liu \n Ryan O’Connor \n Mike Rosenberg \n Geordie Tait \n Emily Zaehring	
+E	Delirium \n \n Ascension™ Game Engine Design \n Justin Gary \n \n Ascension: Delirium™ Lead Design \nGary Arant \n \n Design & Development Team \n Justin Gary, Gary Arant, Jason Zila,\nMataio Wilson and Benjamin Lundquist \n \n Project Management Lead \n Gary Arant\n\n Creative Direction & Graphic Design \n Ryan O’Connor \n \n Graphic Design \nPeter Wocken Design, Ryan O’Connor \n\n Card Art \n Eric Sabee, Aaron Nakahara, \nRod Mendez, Thiên Nguyên\n\n Creative Lead \nGeorge Rockwell III\n\n Creative Team \nGary Arant, Justin Gary, Mataio Wilson	
+E	Additional IP Development John Fiorillo Justin Gary Brian Kibler Ryan O’Connor Mike Rosenberg Eric Sabee Geordie Tait Eric Tice Greg Wilson Flavor Text John Fiorillo Brian Kibler Geordie Tait Eric Tice Greg Wilson Project Management Lead Rob Dougherty Ian Estrin Project Management Support Ian Estrin Secretary of Keeping it Real John Fiorillo Minister of Propaganda Brian Kibler Editing Cate Gary Rulebook Gary Arant John Fiorillo Justin Gary Brian Kibler Jeff Liu Ryan O’Connor Mike Rosenberg Geordie Tait Emily Zaehring	
+E	Delirium Ascension™ Game Engine Design Justin Gary Ascension: Delirium™ Lead Design Gary Arant Design & Development Team Justin Gary, Gary Arant, Jason Zila, Mataio Wilson and Benjamin Lundquist Project Management Lead Gary Arant Creative Direction & Graphic Design Ryan O’Connor Graphic Design Peter Wocken Design, Ryan O’Connor Card Art Eric Sabee, Aaron Nakahara, Rod Mendez, Thiên Nguyên Creative Lead George Rockwell III Creative Team Gary Arant, Justin Gary, Mataio Wilson	
+E	Administration \n\n Chief Executive Officer, Playdek \n Joel Goodman \n\n\n	管理层
+E	Administration \n\n Chief Executive Officer, Playdek \n Joel Goodman	管理层
+E	Purchase all the Ascension bundles for one low price! Includes Bundle #1 through Bundle #5. \n\nThat's 630 unique new cards to play with.	Purchase所有Ascension bundles以一low price! Includes Bundle #1 穿过Bundle #5. \n\n该之 630 unique 新卡牌以 打出以.
+E	FACTION\nThere are 4 different factions:\n Enlightened\n Lifebound\n Mechana\n Void\n	FACTION\nThere为 4 different派系:\n 启迪\n 生命\n 机械\n 虚空
+E	FACTION\nThere are 4 different factions:\n Enlightened\n Lifebound\n Mechana\n Void	FACTION\nThere为 4 different派系:\n 启迪\n 生命\n 机械\n 虚空
+E	Administration Chief Executive Officer, Playdek Joel Goodman	管理层
+E	Purchase both Delirium and Deliverance expansions together for a greater value!\n\n	Purchase两者 谵妄 和 Deliverance 扩展s together以greater值!
+E	There are no available Games at this time. Use the Create Game Menu to create a new game.	目前没有可加入的对局。 请使用“创建对局”菜单开一局新游戏。
+E	An update is available. Please download the latest version to play online.	有可用更新。 请下载最新版本后再进行在线游戏。
+E	No saved games found. Select "Create Game" to start a new game.	暂无保存的对局。\\\\n选择「创建对局」\\\\n开始新游戏。\\\\n
+E	Creating this Quick Match failed. Too many games open.	创建快速匹配失败。 打开的对局过多。
+E	You must be logged in to Game Center to play online	必须登录 Game Center 才能进行在线游戏
+E	Your timer has expired! You have forfeited this game.	计时已耗尽！ 你已输掉这局游戏。
+E	Additional IP Development \\n John Fiorillo \\n Justin Gary \\n Brian Kibler \\n Ryan O’Connor \\n Mike Rosenberg \\n Eric Sabee \\n Geordie Tait \\n Eric Tice \\n Greg Wilson \\n \\n Flavor Text \\n John Fiorillo \\n Brian Kibler \\n Geordie Tait \\n Eric Tice \\n Greg Wilson \\n \\n Project Management Lead \\n Rob Dougherty \\n Ian Estrin \\n \\n Project Management Support \\n Ian Estrin \\n \\n Secretary of Keeping it Real \\n John Fiorillo \\n \\n Minister of Propaganda \\n Brian Kibler \\n \\n Editing \\n Cate Gary \\n \\n Rulebook \\n Gary Arant \\n John Fiorillo \\n Justin Gary \\n Brian Kibler \\n Jeff Liu \\n Ryan O’Connor \\n Mike Rosenberg \\n Geordie Tait \\n Emily Zaehring\\n\\n\\n	
+E	\\n Delirium \\n \\n Ascension™ Game Engine Design \\n Justin Gary \\n \\n Ascension: Delirium™ Lead Design \\nGary Arant \\n \\n Design & Development Team \\n Justin Gary, Gary Arant, Jason Zila,\\nMataio Wilson and Benjamin Lundquist \\n \\n Project Management Lead \\n Gary Arant\\n\\n Creative Direction & Graphic Design \\n Ryan O’Connor \\n \\n Graphic Design \\nPeter Wocken Design, Ryan O’Connor \\n\\n Card Art \\n Eric Sabee, Aaron Nakahara, \\nRod Mendez, Thiên Nguyên\\n\\n Creative Lead \\nGeorge Rockwell III\\n\\n Creative Team \\nGary Arant, Justin Gary, Mataio Wilson\\n\\n\\n	
+E	Additional IP Development \\n John Fiorillo \\n Justin Gary \\n Brian Kibler \\n Ryan O’Connor \\n Mike Rosenberg \\n Eric Sabee \\n Geordie Tait \\n Eric Tice \\n Greg Wilson \\n \\n Flavor Text \\n John Fiorillo \\n Brian Kibler \\n Geordie Tait \\n Eric Tice \\n Greg Wilson \\n \\n Project Management Lead \\n Rob Dougherty \\n Ian Estrin \\n \\n Project Management Support \\n Ian Estrin \\n \\n Secretary of Keeping it Real \\n John Fiorillo \\n \\n Minister of Propaganda \\n Brian Kibler \\n \\n Editing \\n Cate Gary \\n \\n Rulebook \\n Gary Arant \\n John Fiorillo \\n Justin Gary \\n Brian Kibler \\n Jeff Liu \\n Ryan O’Connor \\n Mike Rosenberg \\n Geordie Tait \\n Emily Zaehring	
+E	Delirium \\n \\n Ascension™ Game Engine Design \\n Justin Gary \\n \\n Ascension: Delirium™ Lead Design \\nGary Arant \\n \\n Design & Development Team \\n Justin Gary, Gary Arant, Jason Zila,\\nMataio Wilson and Benjamin Lundquist \\n \\n Project Management Lead \\n Gary Arant\\n\\n Creative Direction & Graphic Design \\n Ryan O’Connor \\n \\n Graphic Design \\nPeter Wocken Design, Ryan O’Connor \\n\\n Card Art \\n Eric Sabee, Aaron Nakahara, \\nRod Mendez, Thiên Nguyên\\n\\n Creative Lead \\nGeorge Rockwell III\\n\\n Creative Team \\nGary Arant, Justin Gary, Mataio Wilson	
+E	Administration \\n\\n Chief Executive Officer, Playdek \\n Joel Goodman \\n\\n\\n	管理层
+E	Administration \\n\\n Chief Executive Officer, Playdek \\n Joel Goodman	管理层
+E	Purchase all the Ascension bundles for one low price! Includes Bundle #1 through Bundle #5. \\n\\nThat's 630 unique new cards to play with.	Purchase所有Ascension bundles以一low price! Includes Bundle #1 穿过Bundle #5. \\n\\n该之 630 unique 新卡牌以 打出以.
+E	Player's Hand: \\nYour current cards that can be played this turn by dragging them to the Action Area.	你的手牌： \\n你在本回合可以打出的卡牌；将牌拖入行动区即可打出。
+E	Opponent Box: \\nPress to expand each oppoent's box to view their cards in detail.	对手信息栏： \\n点击展开每一位对手的信息栏详情，查看对方的具体卡牌。
+E	Discard Pile: \\nPress to switch the view to view your opponent's discard pile.	弃牌堆： \\n点击切换视角以查看对手的弃牌堆。
+E	Purchase both Delirium and Deliverance expansions together for a greater value!\\n\\n	Purchase两者 谵妄 和 Deliverance 扩展s together以greater值!
+E	Center Row: \\nThis Center Row contains the cards you can acquire or defeat.	中央牌列： \\n显示当前可获取或可击败的卡牌。
+E	Global Honor Pool: \\nHonor Points for the game are drawn from this pool.	全局荣誉池： \\n本局使用的荣誉点数来源于此处。
+E	Play All: \\nplaces all of the cards from your hand into the Action Area.	全部打出： \\n将你手牌中的所有卡牌一次性放入行动区。
+E	Constructs: \\nPress to switch the view to your opponent's Constructs.	神器场： \\n点击切换视角以查看对手场上的神器。
+E	End Turn: \\nPress this to end your turn and pass to the next player.	结束回合： \\n点击结束当前回合，将行动权交给下一位玩家。
+E	RARITY & SET ICON\\nEach represents a copy of the card in the center deck.	稀有度与扩展图标说明 \\n每个 代表中央牌组中本卡的一个副本。
+E	Center Row Draw Pile: \\nThe Center Row cards are drawn from here.	中央牌列牌堆： \\n中央牌列的卡牌从这里补充。
+E	Discard Pile: \\nPress to view the cards you've recently played.	弃牌堆： \\n点击查看你刚刚打出过的卡牌。
+E	Online Indicator: \\nUsed to show an opponent's online status	在线标识： \\n用于显示对手当前是否在线。
+E	Player's Runes: \\nPlayer's Rune count for their turn.	你的符文： \\n本回合你拥有的符文数。
+E	Hand: \\nHow many cards are in your opponent's hand.	对手手牌： \\n显示对手当前持有多少张手牌。
+E	Menu: \\nOpens a menu with a list of game options.	菜单： \\n打开菜单，列出可进行的游戏操作。
+E	Player's Power: \\nPlayer's Power for their turn.	你的战力： \\n本回合你拥有的战力值。
+E	Event Zone: \\nShows the current Event card.	事件区： \\n显示当前的事件卡牌。
+E	Void: \\nDefeated monsters are sent here.	虚空： \\n被击败的怪物会被送到这里。
+E	Account Created. Enter your Password to Login.	账号已创建。 请输入密码登录。
+E	\\nDefeat a Monster that has or less.	击败一只战力 ≤ 的怪物。
+E	Unable to join. Lost connection to server.	无法加入。 与服务器的连接已断开。
+E	Unable to create. Too many games created.	无法创建。 已创建的对局过多。
+E	Unable to join. Game no longer exists.	无法加入。 对局已不存在。
+E	Unable to create. Unknown error	无法创建。 未知错误
+E	Unable to join. Unknown error.	无法加入。 未知错误。
+E	Unable to join. Game is full.	无法加入。 对局已满。
