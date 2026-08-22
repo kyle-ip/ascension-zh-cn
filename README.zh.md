@@ -14,7 +14,7 @@ Steam 版《Ascension: Deckbuilding Game》的非官方简体中文语言包。
 
 ## 现状
 
-菜单、卡名和效果大部分已翻译。规则书正文和部分标题图仍为英文。详见 [进度](docs/progress.zh.md)。
+菜单、卡名和效果大部分已翻译。规则书文字段与 DLC 商店长文已在 Phase 0 灌入译表（需重新 `enable`/安装后进游戏验证）。卡效仍有机翻待审。详见 [进度](docs/progress.zh.md) 与 [系统设计](docs/architecture.zh.md)。想了解「为什么能汉化」的浅显介绍，见 [科普博文](docs/blog-why-chinese.zh.md)。
 
 不含游戏本体、卡图或规则书扫描件。
 
