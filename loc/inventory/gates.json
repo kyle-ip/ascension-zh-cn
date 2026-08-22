@@ -1,5 +1,5 @@
 {
-  "phase": "0",
+  "phase": "1",
   "required_domains": [
     "bitmap_title",
     "cards_effect",
@@ -17,8 +17,8 @@
   "max_missing_by_domain": {
     "bitmap_title": 0,
     "cards_effect": 0,
-    "cards_flavor": 877,
-    "cards_name": 2,
+    "cards_flavor": 0,
+    "cards_name": 0,
     "combat_log": 0,
     "protocol_id": 0,
     "rulebook_text": 0,
@@ -26,9 +26,9 @@
     "tutorial": 0,
     "tutorial_hotspot": 0,
     "ui_keys": 0,
-    "ui_runtime": 1
+    "ui_runtime": 0
   },
-  "max_missing_total": 880,
+  "max_missing_total": 0,
   "forbid_glossary_terms_in_zh": [
     "启迪"
   ],

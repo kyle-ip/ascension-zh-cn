@@ -28,4 +28,5 @@ Do not Harmony-patch TMP `SetText(string, float, …)` overloads (IAP freeze). P
 
 | Date | Notes |
 | --- | --- |
+| 2026-08-22 | Phase 1 coverage closed (`missing_total=0`); Phase 2 next |
 | 2026-08-22 | Initial roadmap checked into docs from the defect-analysis plan; Phase T/0 done, Phase 1 next |

@@ -107,19 +107,19 @@ flowchart LR
 
 **Exit：** 规则书/商店长文可显示中文；商店不卡死；相关门禁收紧；pytest 绿。
 
-### Phase 1 — 覆盖闭环（`missing → 0`）
+### Phase 1 — 覆盖闭环（`missing → 0`）✅ 2026-08-22
 
 按域关闭，一次只收紧一个域的严格门禁：
 
 1. 确认 `shop_dlc` + `rulebook_text` 维持 missing=0
 2. Lua / 卡效纯英文残留清零（质量可为 draft）
 3. `ui_runtime` / 短 UI 漏译
-4. `cards_flavor` 空壳：翻译或显式 waived（不得 silent）
-5. `cards_name` 剩余 missing
+4. `cards_flavor` 空壳：源无风味 → `waived(no_flavor_in_source)`；有英文则翻译
+5. `cards_name` 拉丁缩写（如 `P.R.I.M.E.`）→ `reviewed`
 
-**Exit：** 目标域 `missing=0`；`gates.json` 的 `max_missing_*` 同步下调；ingest 不得把机翻标成 reviewed。
+**Exit（已达成）：** 目标域 `missing=0`；`gates.json` phase=1 / `max_missing_total=0`；ingest 不得把机翻标成 reviewed。
 
-### Phase 2 — 质量（`draft → reviewed`）
+### Phase 2 — 质量（`draft → reviewed`）← 当前
 
 按扩展包审校（包序固定，避免漏包）：
 
@@ -152,4 +152,5 @@ flowchart LR
 
 | 日期 | 说明 |
 | --- | --- |
+| 2026-08-22 | Phase 1 覆盖闭环完成（missing=0；空风味 waived；gates phase 1）；进入 Phase 2 |
 | 2026-08-22 | 首版：将缺陷分析计划落库；标注 Phase T/0 完成与 Phase 1 入口 |

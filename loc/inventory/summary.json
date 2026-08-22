@@ -9,13 +9,12 @@
       "draft": 817
     },
     "cards_flavor": {
-      "missing": 877,
-      "draft": 61
+      "waived": 876,
+      "draft": 62
     },
     "cards_name": {
-      "reviewed": 121,
-      "draft": 815,
-      "missing": 2
+      "reviewed": 123,
+      "draft": 815
     },
     "combat_log": {
       "draft": 14
@@ -40,12 +39,11 @@
       "draft": 355
     },
     "ui_runtime": {
-      "draft": 231,
-      "missing": 1
+      "draft": 232
     }
   },
-  "missing_total": 880,
-  "draft_total": 2469,
-  "reviewed_total": 242,
-  "waived_total": 25
+  "missing_total": 0,
+  "draft_total": 2471,
+  "reviewed_total": 244,
+  "waived_total": 901
 }

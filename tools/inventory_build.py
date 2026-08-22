@@ -84,6 +84,14 @@ def _looks_cjk(text: str) -> bool:
     return bool(CJK.search(text or ""))
 
 
+def _latin_identity_name(text: str) -> bool:
+    """True for intentional Latin display names (e.g. P.R.I.M.E., N.I.N.E.)."""
+    t = (text or "").strip()
+    if not t or _looks_cjk(t):
+        return False
+    return bool(re.fullmatch(r"[A-Za-z0-9]+(?:\.[A-Za-z0-9]+)+\.?", t))
+
+
 def _machine_mixed(zh: str) -> bool:
     """Heuristic: Chinese present plus suspicious Latin leftover (not just tags)."""
     if not zh or not _looks_cjk(zh):
@@ -286,6 +294,15 @@ def build() -> dict:
                 )
 
     # --- lua cards ---
+    en_flavor_by_id: dict[str, str] = {}
+    en_lua = EN / "lua_cards.csv"
+    if en_lua.is_file():
+        with en_lua.open(encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f):
+                cid = (r.get("id") or "").strip()
+                if cid:
+                    en_flavor_by_id[cid] = r.get("flavor_text") or ""
+
     lua = ZH / "lua_cards.csv"
     if lua.is_file():
         with lua.open(encoding="utf-8", newline="") as f:
@@ -296,6 +313,12 @@ def build() -> dict:
                 name = r.get("display_name") or ""
                 effect = r.get("effect_text") or ""
                 flavor = r.get("flavor_text") or ""
+                en_flavor = en_flavor_by_id.get(cid, "")
+
+                name_forced = ""
+                if name.strip() and name.strip() == cid.strip() and _latin_identity_name(name):
+                    name_forced = "reviewed"
+
                 _add(
                     rows,
                     prior,
@@ -306,6 +329,7 @@ def build() -> dict:
                     zh=name,
                     source_file="loc/zh-Hans/lua_cards.csv",
                     source=src,
+                    forced_status=name_forced,
                 )
                 _add(
                     rows,
@@ -318,16 +342,30 @@ def build() -> dict:
                     source_file="loc/zh-Hans/lua_cards.csv",
                     source=src,
                 )
+
+                flavor_forced = ""
+                flavor_reason = ""
+                flavor_en = en_flavor.strip() or flavor.strip() or cid
+                if not flavor.strip():
+                    if not en_flavor.strip():
+                        # Source has no flavor line — not a translation gap.
+                        flavor_forced = "waived"
+                        flavor_reason = "no_flavor_in_source"
+                        flavor_en = ""
+                    else:
+                        flavor_en = en_flavor
                 _add(
                     rows,
                     prior,
                     id_=f"cards_flavor:{card_set}:{cid}",
                     domain="cards_flavor",
                     set_=card_set,
-                    en=cid,
+                    en=flavor_en,
                     zh=flavor,
                     source_file="loc/zh-Hans/lua_cards.csv",
                     source=src,
+                    forced_status=flavor_forced,
+                    waived_reason=flavor_reason,
                 )
 
     # --- combat log ---
