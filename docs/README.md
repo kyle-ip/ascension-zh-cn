@@ -5,6 +5,8 @@
 | [architecture.zh.md](architecture.zh.md) | **系统设计（中文）** — 整体架构、技术选型、离线/运行时原理、词库流、约束与测试原则（含 Mermaid 架构图） |
 | [architecture.md](architecture.md) | **System design (English)** — architecture, tech choices, offline/runtime principles, lexicon pipeline, QA (with Mermaid diagrams) |
 | [blog-why-chinese.zh.md](blog-why-chinese.zh.md) | **科普博文（中文）** — 为什么《Ascension》能汉化：浅显原理、图示、路线图与展望 |
+| [roadmap.zh.md](roadmap.zh.md) | **执行计划 / 分阶段 Exit（中文）** — 硬原则、Inventory、测试分层、T→3 路线图 |
+| [roadmap.md](roadmap.md) | **Roadmap / phase exits (English)** — principles, inventory, test layers, phases T→3 |
 | [progress.zh.md](progress.zh.md) | 进度与后续工作（中文） |
 | [progress.md](progress.md) | Progress (English) |
 | [GLOSSARY.zh.md](GLOSSARY.zh.md) | **中英对照表维护指南（中文）** — 表结构 / scope 说明 / 两种维护方式 / 未译闭环 / 构建链路 / 陷阱 |

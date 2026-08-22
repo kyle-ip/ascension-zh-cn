@@ -277,6 +277,63 @@ MEGAPROMO = (
 )
 T["This bundle of promo cards has some of our wildest additions to Ascension.<br><br><size=28><align=center><smallcaps>Promo Cards Included:</smallcaps></size><br><br><smallcaps><b>Monsters:</b></smallcaps><br>Explosive Swarm<br>Tollmaster Ky'lek<br>Nova, Born of Chaos<br><br><smallcaps><b>Enlightened Faction:</b></smallcaps><br>Æther Channeler<br>Æther Curator<br>David, Prophetic Guide<br>Eye of Potential<br><br><smallcaps><b>Lifebound Faction:</b></smallcaps><br>Spirit of the Ancients<br>Ætherspring Witch<br>Forrest, Beastwarden<br>Lunar Matriarch<br><br><smallcaps><b>Mechana Faction:</b></smallcaps><br>Temporal Excavator<br>Destroyer's Gate<br>N.I.N.E.<br>Tinkering Monk<br><br><smallcaps><b>Void Faction:</b></smallcaps><br>Eternal Tormentor<br>Æther Ritualist<br>Chaos Rider<br>Ethereal Hunteress<br><br><smallcaps><b>Common:</b></smallcaps><br>The Portal Card<br>Defender of Vigil<br><br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br>Acquire portal cards, which can transform into random cards from any Ascension set. Fill the board with <b>Explosive Swarm</b> monsters. Add a seventh card to the Center Row with the <b>Temporal Excavator</b>. This bundle also includes the first and only Center Row Hero with no faction, the <b>Defender of Vigil</b>!\r<br><br>"] = MEGAPROMO
 
+# ========== Remaining shop / What's New / account copy (Phase 0 fill) ==========
+ROV_DU_BUNDLE = (
+    "本合集收录《创升纪元》第三年两款独立扩展。<br><br>"
+    "<size=28><align=center><smallcaps>各扩展全新卡牌数：</smallcaps></size><br><br>"
+    "<b>祈夜崛起：</b><br>47 张<br><br>"
+    "<b>黑暗释放：</b><br>35 张<br><br><br>"
+    "<size=28><align=center><smallcaps>简介：</smallcaps></size><br><br>"
+    "<b>祈夜崛起</b>与<b>黑暗释放</b>带来前所未有的刺激——全新卡牌类型「宝藏」：能量碎片。"
+    "获取或击败叠在碎片上的卡牌即可得到碎片；碎片能强化甚至永久变形你的卡牌。<br><br>"
+)
+T["This bundle has the two incredible stand alone sets from the third year of Ascension.<br><br><size=28><align=center><smallcaps>Unique new cards per set:</smallcaps></size><br><br><b>Rise of Vigil:</b><br>47 cards<br><br><b>Darkness Unleashed:</b><br>35 cards<br><br><br><size=28><align=center><smallcaps>Description:</smallcaps></size><br><br><b>Rise of Vigil</b> and <b>Darkness Unleashed</b> provide unparalleled excitement with <i>Energy Shards</i>. These Shards are a new card type called <i>Treasure</i>, that you get by acquiring and defeating cards on top of them. These Shards will power up your cards and even permanently transform your cards.<br><br>"] = ROV_DU_BUNDLE
+
+DELIVERANCE_BLURB = (
+    "黑暗势力已占据梦境。与帕西希娅联手，收集她的传奇武器，重建秩序！<br><br>"
+    "运用洞察资源与梦生卡牌拯救梦境。将怪物缚入你的牌组并投入战斗！"
+    "把卡牌变形为强大的英雄与神器，并获取帕西希娅！"
+    "将「救赎」与「梦境」「谵妄」组合游玩，体验更刺激的对局！<br><br>"
+    "<b><align=center>包括 51 张全新卡牌。"
+)
+T["Dark forces have taken over the Dreamscape. Team up with Pasythea, collect her legendary weapons, and return order to her world!<br><br>Use the Insight resources and Dreamborn cards to save the Dreamscape. Bind Monsters to your deck and use them in battle! Transform cards to incredible heroes and Constructs and acquire Pasythea! Pair Deliverance with Dreamscape and Delirium for an even more exciting game!<br><br><b><align=center>Includes 51 unique<br>new cards."] = DELIVERANCE_BLURB
+T["Dark forces have taken over the Dreamscape. Team up with Pasythea, collect her legendary weapons, and return order to her world!<br><br>Use the Insight resources and Dreamborn cards to save the Dreamscape. Bind Monsters to your deck and use them in battle! Transform cards to incredible heroes and Constructs and acquire Pasythea! Pair Deliverance with Dreamscape and Delirium for an even more exciting game!<br><br><b><align=center>Includes 51 unique new cards."] = (
+    "黑暗势力已占据梦境。与帕西希娅联手，收集她的传奇武器，重建秩序！<br><br>"
+    "运用洞察资源与梦生卡牌拯救梦境。将怪物缚入你的牌组并投入战斗！"
+    "把卡牌变形为强大的英雄与神器，并获取帕西希娅！"
+    "将「救赎」与「梦境」「谵妄」组合游玩，体验更刺激的对局！<br><br>"
+    "<b><align=center>包括 51 张全新卡牌。"
+)
+
+DELIRIUM_BLURB = (
+    "「谵妄」带你重返梦境，面对扭曲的新现实。<br><br>"
+    "洞察与梦生卡牌再度登场，并解锁全新力量。<br><br>"
+    "赢得天命竞拍、反复触发英雄效果，并用洞察投掷神奇的谵妄骰，抢占先机！<br><br>"
+    "<b><align=center>包括 49 张全新卡牌。"
+)
+T["Delirium brings players back into the Dreamscape, facing a twisted new reality.<br><br>Insight and Dreamborn cards are back, but with new powers to unlock with them.<br><br>Win Fate Auctions, Recur hero effects, and roll the amazing Delirium Die with your Insight to gain an edge against the other players!<br><br><b><align=center>Includes 49 unique new cards."] = DELIRIUM_BLURB
+
+T["A Playdek account is now required to connect and play Ascension online. An Asmodee.net account will no longer work for Ascension online play. Your Playdek password might be different from your Asmodee.net password. Please use the Forgot Login button to reset your Playdek account password."] = (
+    "现在需要 Playdek 账号才能连接并游玩《创升纪元》在线对局。Asmodee.net 账号已不再适用。"
+    "你的 Playdek 密码可能与 Asmodee.net 密码不同。请使用「忘记登录信息」按钮重置 Playdek 账号密码。"
+)
+
+T["Pasythea, The Redeemer is a unique card to the Deliverance expansion set.<br> Any player may pay her <sprite=112> cost during their turn to acquire her straight into their hand.<br>Pasythea, The Redeemer does not count as a card in the center row."] = (
+    "救赎者帕西希娅是「救赎」扩展的独特卡牌。<br>"
+    "任意玩家可在自己的回合支付其 <sprite=112> 费用，直接将其获取到手牌中。<br>"
+    "救赎者帕西希娅不计入中央牌列的卡牌数量。"
+)
+
+T["* New dual-cost Heroes and Constructs require players to use both resources to acquire them, but have incredible power!\n*As the balance between Light and Dark shifts, cards gain additional powers depending on whether it is Night or Day."] = (
+    "* 全新「双费用」英雄与神器需要同时花费两种资源才能获取，但效果极为强大！\n"
+    "* 随着光暗天平的倾斜，卡牌会依「昼」或「夜」获得额外能力。"
+)
+
+T["<margin-right=12em>The Fanatic is a new Always Available Monster in Storm of Souls. The Fanatic is a Trophy Monster with a variable reward based on the current Event called an Event Trophy. You may have no more than one Fanatic Trophy at any time. If you defeat a Fanatic while you already have a Trophy from one, you gain the Honor reward but do not"] = (
+    "<margin-right=12em>狂热者是《灵魂风暴》中的全新常驻怪物。它是战利品怪物，其「事件战利品」奖励随当前事件变化。"
+    "你同时最多只能拥有一个狂热者战利品。若你已持有其战利品时再次击败狂热者，仍获得荣誉奖励，但不会"
+)
+
 # ========== L50-L61 L80-L81 CotG 资源 / PlayOrder 变体（不带末尾 \r\r） =================
 T["<margin-right=8em>\rYou need Runes to acquire Heroes and Constructs.  Runes come from Heroes played from your hand or from Constructs you have in play.  You may acquire any number of cards as long as you have enough Runes.  Cards that are eligible to be acquired will glow green."] = (
     "<margin-right=8em>\r获取英雄与神器需要用到符文。符文的来源是你从手牌中打出的英雄，或是场上已经部署的神器。只要符文充足，你可以获取任意多张卡牌。符合获取条件的卡牌会发出绿色亮光。"
@@ -524,9 +581,13 @@ def main() -> None:
                 for a, b in [("’", "'"), ("“", '"'), ("”", '"'), ("—", "--"), ("–", "-"),
                              ("…", "..."), ("™", ""), ("®", "")]:
                     s = s.replace(a, b)
+                # CSV cells sometimes store the two-char sequences \r / \n literally.
+                s = s.replace("\\r\\n", "\n").replace("\\r", "\n").replace("\\n", "\n")
                 s = s.replace("\r\n", "\n").replace("\r", "\n")
                 s = re.sub(r"\n{2,}", "\n", s)
                 s = re.sub(r"[ \t]{2,}", " ", s)
+                # CSV vs T[] often differ by optional CR before <br>
+                s = re.sub(r"\n?<br>", "<br>", s, flags=re.I)
                 return s.strip()
             # Helper: longest common substring length
             def _lcsub(a: str, b: str) -> int:
@@ -577,6 +638,10 @@ def main() -> None:
             if match:
                 row["zh"] = match
                 translated += 1
+            elif _looks_sprite_only(en):
+                # Icon-only TMP nodes: keep identical so Exact is a no-op; inventory waives.
+                row["zh"] = en
+                translated += 1
             else:
                 missing.append(en[:200])
 
@@ -594,9 +659,21 @@ def main() -> None:
     if missing:
         print("\n--- still missing, first 25 samples ---")
         for m in missing[:25]:
-            print("  EN: " + m.replace("\n", "\\n").replace("\r", "\\r")[:200])
+            snippet = m.replace("\n", "\\n").replace("\r", "\\r")[:200]
+            # Windows consoles may be GBK; keep progress usable.
+            print("  EN: " + snippet.encode("utf-8", "backslashreplace").decode("ascii", "ignore"))
         if len(missing) > 25:
             print(f"  ... {len(missing)-25} more")
+
+
+def _looks_sprite_only(en: str) -> bool:
+    import re
+    s = en.strip()
+    if not s:
+        return False
+    # Allow literal \n prefixes from CSV escapes
+    s = s.replace("\\n", "").replace("\\r", "").strip()
+    return bool(re.fullmatch(r"(?:<sprite=\d+>\s*)+", s))
 
 
 if __name__ == "__main__":

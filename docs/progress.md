@@ -1,30 +1,43 @@
-# Status
+# Progress
 
-Unofficial Simplified Chinese overlay for Steam *Ascension: Deckbuilding Game* (Unity 6000.0.58f2, IL2CPP). In-game series name: 《创升纪元》. First-set name stays 弑神编年史 (Chronicle of the Godslayer).
+Steam *Ascension: Deckbuilding Game*, Unity 6000.0.58f2 (IL2CPP). In-game series name: 《创升纪元》; first set remains 弑神编年史 (Chronicle of the Godslayer).
 
-Chinese notes: [progress.zh.md](progress.zh.md). Install: [README](../README.md). **Full glossary maintenance guide**: [GLOSSARY.md](GLOSSARY.md).
+Install: [README](../README.md). Design: [architecture.md](architecture.md). **Roadmap / phase exits:** [roadmap.md](roadmap.md). Glossary guide: [GLOSSARY.md](GLOSSARY.md). Chinese notes: [progress.zh.md](progress.zh.md).
+
+## Principles
+
+1. Regression tests: `python -m pytest -q`; CI mirrors the same gates.
+2. Inventory-driven coverage: `loc/inventory/strings.csv` + `gates.json`; statuses `missing|draft|reviewed|waived`.
+
+## Phase status
+
+| Phase | Status | Notes |
+| --- | --- | --- |
+| **T** Test + inventory foundation | **Done** | Inventory + pytest L0–L4 + CI ceilings |
+| **0** Baseline + runtime hotfixes | **Done** | Rulebook/DLC filled; UI junk cleaned; store stable + long-copy Chinese (plugin **1.4.5**) |
+| **1** Coverage loop `missing→0` | **In progress** | See gaps below |
+| **2** Per-pack `draft→reviewed` | Not started | Pack order in roadmap |
+| **3** Anti-flicker UX | Not started | Plugin changes need tests |
+
+Inventory snapshot: **3616** rows; **880** missing (flavor 877 + name 2 + ui_runtime 1). Gates still at Phase-0 ceilings.
 
 ## Done
 
-BepInEx 6 plugin 1.3.x patches `GetTextByKey`, attaches YaHei as a TMP fallback, rewrites Lua `effect_text` / `flavor_text` (not `card_name`), and same-size-patches some `level1` strings. Overlay tables cover **3079 loc keys / 1943 exact matches**. The glossary (Single Source of Truth) now owns **426 approved exact mappings** + **49 short-string allowances**; case-variant auto-derivation covers scope `{label,login,button,shop,ui}` so `Reward:`, `REWARD:`, `Player Name`, `PLAYER NAME` etc. all match.
+BepInEx 6 overlays `GetTextByKey` + TMP/UI `set_text` Exact/Norm + YaHei CJK fallback. Lua display fields rewritten (not internal card IDs). Partial equal-length `level1` patches.
 
-Leftover English is logged to `StreamingAssets/zh-cn/untranslated.tsv`. Rulebook and DLC store paragraphs (>400 chars or containing `<sprite>` tags) are now re-routed out of the card-effect word-replacement pipeline and kept for full-sentence human translation, eliminating the mixed-language "符文为一的两main resources在Ascension" style garbage produced by previous `ingest_untranslated` runs.
+Overlay ≈ 3084 keys / 2290 exact. Rulebook/DLC long copy in `rulebook.csv` with runtime Exact+Norm+partial. Regression via `tests/` + `gates.json`.
 
-## Not done
+## Phase 1 gaps
 
-Title textures, rulebook body text (runtime overlay path is ready, awaiting human translations of rulebook.csv), remaining machine-draft flavor/effects, Traditional Chinese.
-
-Do not splice fonts into `resources.assets` or Harmony-patch `TMP_Text.set_text`. Do not write Chinese into `tutorial_EN`.
-
-## Next
-
-Proof `overrides.csv`, digest the untranslated dump, then translate rulebook.csv paragraphs (15 rulebooks' What's New / Features sections plus DLC descriptions). Texture titles last.
+- `cards_flavor` missing ≈ 877 (translate or explicit waive)
+- `cards_name` missing = 2; `ui_runtime` missing = 1
+- Large `draft` quality debt → Phase 2; glossary ban 「启迪」 still has a hit ceiling
 
 ## Changelog (this file)
 
 | Date | Version | Delta |
 | --- | --- | --- |
-| 2026-08-20 | v1.2 | **Milestone:** Glossary promoted to SSOT; dual-language [GLOSSARY.md](GLOSSARY.md) + [GLOSSARY.zh.md](GLOSSARY.zh.md) maintenance guides added; `overlay.py` rewritten so glossary is loaded first and never overwritten; exact-match count grew from 925 to 1943 (+1018), fixing long-missing buttons like Confirm/Start/Close/Yes/No/Done/Undo/Bid/Pass/FAQ/or/XII. |
-| 2026-08-20 | v1.2 | **Pipeline:** `ingest_untranslated.py` routes rulebook/DLC paragraphs away from `translate_effect` via `looks_rulebook_body()` heuristic; plugin now dumps strings up to 5000 chars and preserves `<sprite>` tags. |
-| 2026-08-20 | v1.2 | **Cleanup:** 157 garbage machine-translation rows (e.g. `Promo兽群 #6`, `Network Connection迷失`, `Would你like以delete此friend从你的list?`) purged from `ui_runtime.csv`. |
-| ...    | v1.1 | (see git log) BepInEx 6 + IL2CPP runtime overlay; Lua `effect_text` rewrite; level1 same-length patching; post-strip TMP exact matching. |
+| 2026-08-22 | v1.4.5 | Store/rulebook long-copy restored; full overlay deploy checks; normalize tag→space; Phase T/0 complete → Phase 1 |
+| 2026-08-22 | v1.4.3–1.4.4 | Store freeze mitigation then coverage restore (see Chinese progress for detail) |
+| 2026-08-22 | v1.3 | Architecture docs; Inventory + pytest; rulebook/DLC baseline |
+| … | v1.1–1.2 | Runtime overlay + glossary SSOT |

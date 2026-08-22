@@ -447,6 +447,24 @@ def put_exact(exact: dict[str, str], en: str, zh: str, *,
     """
     if not en or not zh or en == zh:
         return
+    # CSV cells often store literal \r / \n as two-char sequences. Normalize
+    # before indexing so overlay Exact keys match game TMP text.
+    en = (
+        en.replace("\\r\\n", "\n")
+        .replace("\\r", "\n")
+        .replace("\\n", "\n")
+        .replace("\r\n", "\n")
+        .replace("\r", "\n")
+    )
+    zh = (
+        zh.replace("\\r\\n", "\n")
+        .replace("\\r", "\n")
+        .replace("\\n", "\n")
+        .replace("\r\n", "\n")
+        .replace("\r", "\n")
+    )
+    if not en or not zh or en == zh:
+        return
     if "${CLICK" in en or "${CLICK" in zh:
         return
     if "CLICK" in en.upper() and "CONTINUE" in en.upper():
@@ -733,7 +751,22 @@ def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
 
 
 def escape(value: str) -> str:
-    return value.replace("\\", "\\\\").replace("\r\n", "\n").replace("\n", "\\n").replace("\t", "\\t")
+    """Serialize a string for overlay.tsv (single-escaped controls).
+
+    CSV cells often store the two-character sequences ``\\r`` / ``\\n`` literally.
+    Normalize those (and real CR/LF) to real newlines *before* escaping, otherwise
+    we double-escape to ``\\\\r`` and the plugin can never Exact-match game text.
+    """
+    if not value:
+        return ""
+    value = (
+        value.replace("\\r\\n", "\n")
+        .replace("\\r", "\n")
+        .replace("\\n", "\n")
+        .replace("\r\n", "\n")
+        .replace("\r", "\n")
+    )
+    return value.replace("\\", "\\\\").replace("\n", "\\n").replace("\t", "\\t")
 
 
 def write_overlay(dest: Path | None = None) -> Path:

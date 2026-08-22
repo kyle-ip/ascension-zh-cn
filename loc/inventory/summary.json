@@ -1,0 +1,51 @@
+{
+  "total": 3616,
+  "by_domain": {
+    "bitmap_title": {
+      "waived": 1
+    },
+    "cards_effect": {
+      "reviewed": 121,
+      "draft": 817
+    },
+    "cards_flavor": {
+      "missing": 877,
+      "draft": 61
+    },
+    "cards_name": {
+      "reviewed": 121,
+      "draft": 815,
+      "missing": 2
+    },
+    "combat_log": {
+      "draft": 14
+    },
+    "protocol_id": {
+      "waived": 1
+    },
+    "rulebook_text": {
+      "draft": 52,
+      "waived": 22
+    },
+    "shop_dlc": {
+      "draft": 19
+    },
+    "tutorial": {
+      "draft": 105
+    },
+    "tutorial_hotspot": {
+      "waived": 1
+    },
+    "ui_keys": {
+      "draft": 355
+    },
+    "ui_runtime": {
+      "draft": 231,
+      "missing": 1
+    }
+  },
+  "missing_total": 880,
+  "draft_total": 2469,
+  "reviewed_total": 242,
+  "waived_total": 25
+}

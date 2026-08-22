@@ -1,4 +1,4 @@
-﻿﻿﻿﻿#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   Enable / update the Chinese patch (idempotent). Re-run after any code or
@@ -121,6 +121,7 @@ if ($installExit -ne 0) {
 $ZhcnDest = Join-Path $GameDir "AscensionGame_Data\StreamingAssets\zh-cn"
 if (Test-Path $Overlay) {
     New-Item -ItemType Directory -Force -Path $ZhcnDest | Out-Null
+    $srcLen = (Get-Item $Overlay).Length
     Copy-Item -Force $Overlay (Join-Path $ZhcnDest "overlay.tsv")
     $BepPlugins = Join-Path $GameDir "BepInEx\plugins"
     if (Test-Path $BepPlugins) {
@@ -129,6 +130,22 @@ if (Test-Path $Overlay) {
             try { Copy-Item -Force $BuiltDll (Join-Path $BepPlugins "AscensionZhCn.dll") -ErrorAction Stop }
             catch { Write-Warn "could not overwrite plugin DLL (file lock?): $($_.Exception.Message)" }
         }
+    }
+    # Keep installer payload in sync so the next Setup.exe install cannot
+    # regress to an old truncated overlay (exact~988, no long blurbs).
+    $PayloadOverlay = Join-Path $RepoRoot "dist\payload\overlay.tsv"
+    if (Test-Path (Split-Path $PayloadOverlay)) {
+        Copy-Item -Force $Overlay $PayloadOverlay
+    }
+    $destLen = (Get-Item (Join-Path $ZhcnDest "overlay.tsv")).Length
+    if ($destLen -ne $srcLen) {
+        throw "overlay deploy size mismatch: source=$srcLen dest=$destLen"
+    }
+    if ($srcLen -lt 400000) {
+        Write-Warn "overlay.tsv is unexpectedly small ($srcLen bytes); long rulebook/store keys may be missing."
+    }
+    else {
+        Write-Ok ("overlay deployed: $destLen bytes")
     }
 }
 

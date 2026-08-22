@@ -447,7 +447,7 @@ flowchart TB
   L5 --> L6["L6 manual UX"]
 ```
 
-Phases: **T** harness → **0** baseline fill → **1** coverage → **2** per-set review → **3** anti-flicker.
+Phases: **T** harness → **0** baseline fill → **1** coverage → **2** per-set review → **3** anti-flicker. Details: [roadmap.md](roadmap.md) · [progress.md](progress.md).
 
 ```mermaid
 stateDiagram-v2
@@ -491,5 +491,6 @@ flowchart TB
 
 | Date | Notes |
 | --- | --- |
+| 2026-08-22 | Point phase details at `roadmap.md`; Phase T/0 complete → Phase 1 |
 | 2026-08-22 | Add Mermaid diagrams (sources, overview, layers, enable/disable, runtime L1/L2/markers/fonts, offline install, lexicon, layout, defects, tests/Inventory) |
 | 2026-08-22 | Initial system design (EN companion to architecture.zh.md) |

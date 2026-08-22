@@ -127,34 +127,28 @@ Escape,Esc 键
 Space,空格键
 Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu.,向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改。
 Share your gameplay analytics with Playdek to help improve Ascension? This can be changed anytime in the Options Menu,向 Playdek 分享你的游戏分析数据以帮助改进《创升纪元》？此选项可随时在选项菜单中修改
-"If you have never created a Playdek account, please click on the ""Create Account"" button and follow the process to create a new online account.","若你 拥有从不created Playdek account, please click在 ""Create Account"" button和跟随process以create新online account."
+"If you have never created a Playdek account, please click on the ""Create Account"" button and follow the process to create a new online account.",若你从未创建过 Playdek 账号，请点击「创建账号」按钮，并按流程注册新的在线账号。
 "Loading rulebook,
-please wait。.","Loading rulebook,
-please wait。"
+please wait。.","正在加载规则书，
+请稍候…"
 Draw two cards. Each other player may draw a card.  Then you may banish a card in the center row.,抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.
 "<color=#fdc60eff>Fate:</color> When this enters the center row, each player may draw a card.","<color=#fdc60eff>天命：</color> 当此牌进入中央牌列时, 每位玩家可以抽一张牌."
-<size=104>A</size>skara of Fate,<size=104></size>skara的天命
+<size=104>A</size>skara of Fate,天命阿斯卡拉
 Fate Cards:,天命卡牌:
-PlayerName Player Name,PlayerName Player命名
+PlayerName Player Name,玩家名
 "Info blocky of Info
 Info block of Info
 Info block of Info block of Info
 Info block of Info
 Info block of Info
-Info block of Info","Info blocky的Info
-Info block的Info
-Info block的Info block的Info
-Info block的Info
-Info block的Info
-Info block的Info"
-Terms of Use,Terms的Use
-In Progress:,在Progress:
-No Games Available,没有Games Available
+Info block of Info",信息
+Terms of Use,使用条款
+In Progress:,进行中：
+No Games Available,暂无可用对局
 "No Cards
-Available","没有卡牌
-Available"
+Available",暂无卡牌
 14+ Days,14+ 往日
-All Games,万民Games
+All Games,全部对局
 "
 
 
@@ -178,14 +172,13 @@ Thank you for playing.
 
 
 
-",Thank你以playing.
+",感谢游玩。
 "You can invite a friend
-by pressing their name.","你能invite friend
-被pressing其name."
-Current Games,当前Games
-No active game,没有active游戏
+by pressing their name.",点击好友名字即可邀请。
+Current Games,当前对局
+No active game,没有进行中的对局
 Press the avatar to invite Friends from your Friends List,Press avatar以invite Friends从你的Friends List
-Waiting on Player,Waiting在Player
+Waiting on Player,等待玩家
 "Loading rulebook,
 please wait...","Loading rulebook,
 please wait。."
@@ -197,30 +190,29 @@ That's 630 <b>unique</b> new cards to play with.","Purchase所有Ascension bundl
 See Cards,See卡牌
 "Purchase both <b>Delirium</b> and <b>Deliverance</b> expansions together for a greater value!
 
-",Purchase两者 <b>谵妄</b> 和 <b>Deliverance</b> 扩展s together以greater值!
+",捆绑购买 <b>谵妄</b> 与 <b>救赎</b> 扩展更超值！
 "You already own one or more items contained in this bundle.
 Individual items can be purchased from the ""Purchase Separately"" menu.
-Are you sure you wish to purchase the bundle?","你already own一或更高items contained在此bundle.
-Individual items能是purchased从 ""Purchase Separately"" menu.
-Are你sure你wish以purchase bundle?"
+Are you sure you wish to purchase the bundle?","你已拥有本合集中的一件或多件内容。
+单件商品可在「单独购买」中购买。"
 If you previously had a Playdek account or use one for our other games you may login with that account email and password.,若你previously曾有Playdek account或use一以 我们的其他games你可以login以该account email和password.
-Purchase all for 99.99.99,Purchase所有以 99.99.99
-No Account at All,没有Account在万民
-Vault of the Ancients,宝库的Ancients
-For any questions or issues please contact us at support@playdekgames.com.,以任意questions或issues please contact我们在support@playdekgames.com.
+Purchase all for 99.99.99,全部购买 99.99
+No Account at All,完全没有账号
+Vault of the Ancients,上古宝库
+For any questions or issues please contact us at support@playdekgames.com.,如有任何问题，请联系 support@playdekgames.com。
 "All opponents have forfeited!
-Claim victory & end the game?","万民对手拥有forfeited!
-Claim victory & 结束游戏?"
+Claim victory & end the game?","所有对手均已弃权！
+是否宣布胜利并结束对局？"
 Defeat as Construct,击败作为神器
-PlayerName Name,PlayerName命名
-Are you sure you want to spend 5 Insight to roll the Delirium Die?,Are你sure你want以花费5 洞察以 掷谵妄骰?
-Are you sure you want to acquire that to the discard pile?,Are你sure你want以获取该 以弃牌堆?
-Please play a card or end your turn,Please打出卡牌或 结束你的回合
-Hold To Show Transform,Hold以Show转化
-Needed to defeat:,Needed以击败:
-Press to continue,Press以continue
+PlayerName Name,名称
+Are you sure you want to spend 5 Insight to roll the Delirium Die?,确定要花费 5 点洞察来投掷骰子吗？
+Are you sure you want to acquire that to the discard pile?,确定要将其获取到弃牌堆吗？
+Please play a card or end your turn,请打出一张牌或结束回合
+Hold To Show Transform,按住显示变形
+Needed to defeat:,击败所需：
+Press to continue,点击继续
 Your Bid:,你的Bid:
-Current Highest Bid:,当前Highest Bid:
+Current Highest Bid:,当前最高出价：
 Void Legend,虚空传奇
 Mechana Legend,机械传奇
 Lifebound Legend,生命传奇
@@ -246,11 +238,11 @@ Mechana Champion,机械冠军
 "Acquire Kor, the Ironmind.","获取科尔, 铁心."
 Heroes,英雄
 28 Days,28 往日
-honor points,荣誉points
-Draw Deck,抽Deck
-Honor Points,荣誉Points
-Power Card Deck,战力卡牌Deck
-Rune Card Deck,符文卡牌Deck
+honor points,荣誉点数
+Draw Deck,抽牌堆
+Honor Points,荣誉点数
+Power Card Deck,战力牌堆
+Rune Card Deck,符文牌堆
 "COST
 The amount of Power you must spend to acquire this card.","COST
  amount的战力你 须花费以获取此牌."
@@ -289,15 +281,15 @@ This is the flavor part.,此为flavor part.
 Constructs,神器s
 Sharpen the mind and the sword will follow.,Sharpen心智和sword将跟随.
 <size=104>A</size>rha Templar,<size=104></size>rha圣殿武士
-Game End:,Game终结:
+Game End:,终局：
 "<margin-right=8em>To defeat a Monster, you must have enough Power.  You may defeat any number of Monsters as long as you have enough Power.  Cards that are eligible to be defeated will glow red. 
 
 
 
 ","<margin-right=8em>以击败一个怪物, 你须拥有enough战力. 你可以击败任意数量的 怪物作为long作为你 拥有enough战力. 卡牌该 为eligible以是 被击败将glow red."
-Defeating Monsters:,Defeating怪物:
-Acquiring Heroes and Constructs:,Acquiring英雄和 神器s:
-Play Order:,打出秩序:
+Defeating Monsters:,击败怪物：
+Acquiring Heroes and Constructs:,获取英雄与神器：
+Play Order:,行动顺序:
 Destroy:,摧毁:
 <color=#951719FF><B>Trophy:</B></color> You may banish this to gain the current Trophy Effect.,<color=#951719FF><B>战利品:</B></color> 你可以放逐此牌以 获得当前战利品效果.
 Fanatic:,狂信者:
@@ -305,9 +297,9 @@ Fanatic:,狂信者:
 <color=#d8a6ffff>Event - Void,<color=#d8a6ffff>事件 - 虚空
 Void Rising,虚空崛起
 Event Cards:,事件卡牌:
-Hold To Show Hero,Hold以Show英雄
-Void Dream Vision,虚空梦Vision
-Enlightened Dream Vision,启迪梦Vision
-Dream Vision,梦Vision
+Hold To Show Hero,按住显示英雄
+Void Dream Vision,虚空梦境异象
+Enlightened Dream Vision,圣贤梦境异象
+Dream Vision,梦境异象
 Dream Construct,梦神器
 Mechana Dream Hero,机械梦 英雄

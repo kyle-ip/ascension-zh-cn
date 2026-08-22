@@ -33,6 +33,12 @@ fonts/*.tmp.ttf
 
 tools/_inspect*.py
 tools/_leftover.py
+tools/_dump*.py
+tools/_scan*.py
+tools/_unitypy*.py
 /_*.txt
+_audit_coverage.py
+glossary/*.report.txt
+loc/en/long_*.txt
 .DS_Store
 Thumbs.db

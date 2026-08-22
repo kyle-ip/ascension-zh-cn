@@ -1,4 +1,4 @@
-﻿﻿﻿﻿#Requires -Version 5.1
+﻿﻿﻿﻿﻿﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
   One-time developer bootstrap (idempotent): install / download all build-time

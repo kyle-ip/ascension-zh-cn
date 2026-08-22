@@ -1,0 +1,16 @@
+{
+  "cases": [
+    {"kind": "glossary", "en": "Rune", "zh": "符文"},
+    {"kind": "glossary", "en": "Power", "zh": "战力"},
+    {"kind": "glossary", "en": "Honor", "zh": "荣誉"},
+    {"kind": "glossary", "en": "Enlightened", "zh": "圣贤"},
+    {"kind": "glossary", "en": "Lifebound", "zh": "命约"},
+    {"kind": "glossary", "en": "Banish", "zh": "放逐"},
+    {"kind": "ui_key", "en": "Key_PlayOffline", "zh": "离线游戏"},
+    {"kind": "ui_key", "en": "Key_PlayOnline", "zh": "在线游戏"},
+    {"kind": "ui_key", "en": "Key_Rulebook", "zh": "规则书"},
+    {"kind": "ui_key", "en": "Key_CardGallery", "zh": "卡牌图鉴"},
+    {"kind": "ui_runtime", "en": "Terms of Use", "zh": "使用条款"},
+    {"kind": "ui_runtime", "en": "No Games Available", "zh": "暂无可用对局"}
+  ]
+}

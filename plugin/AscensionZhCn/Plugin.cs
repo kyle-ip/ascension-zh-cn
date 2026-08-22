@@ -17,7 +17,7 @@ using UnityEngine.UI;
 
 namespace AscensionZhCn;
 
-[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.4.0")]
+[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.4.5")]
 public class Plugin : BasePlugin
 {
     internal static Plugin Instance;
@@ -86,7 +86,7 @@ public class Plugin : BasePlugin
             LogPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "plugin.log");
             DumpPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "untranslated.tsv");
             Directory.CreateDirectory(Path.GetDirectoryName(LogPath));
-            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.3.3 (rulebook + DLC long-string dump)\n");
+            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.4.5 (overlay sync + normalize tag-space + long partial)\n");
         }
         catch
         {
@@ -105,8 +105,8 @@ public class Plugin : BasePlugin
             DumpLongStrings = Config.Bind(
                 "Debug",
                 "DumpLongStrings",
-                true,
-                "Also dump long English strings (>400 chars, with <sprite> tags) as kind 'L' for rulebook/DLC store copy capture. Set false after ingest to reduce disk writes.");
+                false,
+                "Dump long English strings (rulebook/DLC) as kind 'L'. Keep false during normal play — enabling this while opening the store/rulebook can freeze the game due to disk I/O.");
             if (DumpUntranslated.Value && !string.IsNullOrEmpty(DumpPath) && !File.Exists(DumpPath))
                 File.WriteAllText(DumpPath, "# kind\tsrc\tsample\n# play menus/gallery once, then: python tools/ingest_untranslated.py\n");
         }
@@ -167,6 +167,9 @@ public class Plugin : BasePlugin
         }
         try
         {
+            // Avoid flooding plugin.log — only persist non-spam lines.
+            if (message != null && message.StartsWith("ForceStateMarkers:", StringComparison.Ordinal))
+                return;
             if (!string.IsNullOrEmpty(LogPath))
                 File.AppendAllText(LogPath, DateTime.Now.ToString("HH:mm:ss.fff") + " " + message + "\n");
         }
@@ -383,11 +386,23 @@ public class Plugin : BasePlugin
 
     static string Unescape(string value)
     {
-        return value
-            .Replace("\\r", " ")
+        if (string.IsNullOrEmpty(value))
+            return value;
+        // CSV/overlay historically double-escaped CR as "\\r" (two backslashes).
+        // Normalize both "\\r" and "\r" to newline so Exact/Normalized keys match
+        // game TMP text (which uses real CR or bare paragraphs).
+        var s = value
+            .Replace("\\\\r\\\\n", "\n")
+            .Replace("\\\\r", "\n")
+            .Replace("\\\\n", "\n");
+        s = s
+            .Replace("\\r\\n", "\n")
+            .Replace("\\r", "\n")
             .Replace("\\n", "\n")
-            .Replace("\\t", "\t")
-            .Replace("\\\\", "\\");
+            .Replace("\\t", "\t");
+        // Remaining doubled backslashes → single
+        s = s.Replace("\\\\", "\\");
+        return s;
     }
 
     static readonly Regex StripAllTags = new Regex(@"<[^>]*>", RegexOptions.Compiled);
@@ -422,8 +437,57 @@ public class Plugin : BasePlugin
     {
         if (string.IsNullOrEmpty(text))
             return "";
+        // Fast path for huge DLC/rulebook blobs: avoid catastrophic Regex on multi-KB.
+        // IMPORTANT: replace tags with a space (same as StripAllTags path).
+        // Otherwise "unique<br>new" collapses to "uniquenew" and store blurbs
+        // never hit NormalizedExact.
+        if (text.Length > 500)
+        {
+            var sbFast = new System.Text.StringBuilder(text.Length);
+            bool inTag = false;
+            bool prevSpace = false;
+            foreach (char c in text)
+            {
+                if (c == '<')
+                {
+                    inTag = true;
+                    if (!prevSpace)
+                    {
+                        sbFast.Append(' ');
+                        prevSpace = true;
+                    }
+                    continue;
+                }
+                if (inTag)
+                {
+                    if (c == '>') inTag = false;
+                    continue;
+                }
+                if (c == '\\')
+                    continue;
+                char mapped = c;
+                if (UnicodePuncMap.TryGetValue(c, out var m))
+                    mapped = m;
+                if (char.IsWhiteSpace(mapped) || mapped == '\r' || mapped == '\n')
+                {
+                    if (!prevSpace)
+                    {
+                        sbFast.Append(' ');
+                        prevSpace = true;
+                    }
+                    continue;
+                }
+                prevSpace = false;
+                if (mapped >= 'A' && mapped <= 'Z')
+                    mapped = (char)(mapped + 32);
+                sbFast.Append(mapped);
+            }
+            return sbFast.ToString().Trim();
+        }
         // Strip all TMP/HTML-style tags
         var stripped = StripAllTags.Replace(text, " ");
+        // Drop leftover backslashes from historical double-escaping in overlay.tsv
+        stripped = stripped.Replace("\\", " ");
         // Map Unicode punctuation to ASCII equivalents
         var sb = new System.Text.StringBuilder(stripped.Length);
         foreach (char c in stripped)
@@ -496,12 +560,11 @@ public class Plugin : BasePlugin
                     }
                 }
 
-                // Build contains index: for entries >= 60 chars, register
-                // 30-char substrings so we can match game text that is a
-                // fragment of an overlay entry.
-                if (norm.Length >= 60)
+                // Build contains index only for medium paragraphs (not multi-KB
+                // DLC blurbs — those explode index size and lookup cost).
+                if (norm.Length >= 60 && norm.Length <= 400)
                 {
-                    int step = Math.Max(1, (norm.Length - 30) / 20);
+                    int step = Math.Max(5, (norm.Length - 30) / 10);
                     for (int pos = 0; pos <= norm.Length - 30; pos += step)
                     {
                         var fragment = norm.Substring(pos, 30);
@@ -533,54 +596,67 @@ public class Plugin : BasePlugin
         var trimmed = text.Trim();
         if (trimmed != text && Exact.TryGetValue(trimmed, out zh) && zh != trimmed)
             return zh;
+
+        // Store/IAP long marketing copy: Exact + NormalizedExact only (no fuzzy).
+        // Skipping Normalize entirely made store blurbs stay English in 1.4.3.
+        if (text.Length > 220)
+        {
+            var normLong = NormalizeForLookup(text);
+            if (normLong.Length >= 4 && NormalizedExact.TryGetValue(normLong, out zh))
+                return zh;
+            return null;
+        }
+
         // 3) Normalized full-text match
         var norm = NormalizeForLookup(text);
         if (norm.Length >= 4 && NormalizedExact.TryGetValue(norm, out zh))
             return zh;
-        // 4) Prefix-based match: the game may render individual paragraphs
-        //    that are prefixes of our overlay entries. Check progressively
-        //    shorter prefixes (down to 30 chars).
-        if (norm.Length >= 30)
+
+        // Long copy (DLC store / full rulebook pages): ONLY exact+normalized.
+        // Prefix/contains scans on multi-KB strings froze the main thread.
+        if (norm.Length > 280 || text.Length > 400)
+            return null;
+
+        // 4) Prefix-based match — only when the game text itself is a substantial
+        //    prefix (avoid matching a short UI chip to a whole DLC blurb).
+        if (norm.Length >= 40)
         {
             int maxLen = Math.Min(norm.Length, 120);
-            for (int len = maxLen; len >= 30; len -= 5)
+            for (int len = maxLen; len >= 40; len -= 5)
             {
                 var prefix = norm.Substring(0, len);
                 if (NormalizedPrefix.TryGetValue(prefix, out zh))
-                    return zh;
+                {
+                    // Reject if translation is wildly longer than source (wrong hit).
+                    if (zh.Length <= text.Length * 3 + 80)
+                        return zh;
+                }
             }
         }
-        // 5) Sentence-level match: the game text might be a single sentence
-        //    extracted from a multi-sentence overlay entry.
+        // 5) Sentence-level match
         if (norm.Length >= 25 && norm.Length <= 200)
         {
             if (NormalizedSentence.TryGetValue(norm, out zh))
                 return zh;
         }
-        // 6) Contains-based match: check if any 30-char fragment of the game
-        //    text exists in our contains index, or vice versa.
-        if (norm.Length >= 30 && norm.Length <= 300)
+        // 6) Contains index (short/medium only)
+        if (norm.Length >= 40 && norm.Length <= 160)
         {
-            for (int pos = 0; pos <= norm.Length - 30; pos++)
+            for (int pos = 0; pos <= norm.Length - 30; pos += 5)
             {
                 var fragment = norm.Substring(pos, 30);
                 if (NormalizedContains.TryGetValue(fragment, out zh))
-                    return zh;
-            }
-            // Also check if any overlay key contains the game text
-            if (norm.Length >= 40)
-            {
-                zh = FindByContains(norm);
-                if (zh != null)
-                    return zh;
+                {
+                    if (zh.Length <= text.Length * 3 + 80)
+                        return zh;
+                }
             }
         }
-        // 7) Reverse prefix: the game text might be the START of an overlay
-        //    entry (e.g. game renders first sentence only). Use binary search.
-        if (norm.Length >= 30 && norm.Length <= 300)
+        // 7) Reverse prefix binary search
+        if (norm.Length >= 40 && norm.Length <= 160)
         {
             zh = FindByReversePrefixBinary(norm);
-            if (zh != null)
+            if (zh != null && zh.Length <= text.Length * 3 + 80)
                 return zh;
         }
         return null;
@@ -746,14 +822,60 @@ public class Plugin : BasePlugin
             PatchTextProp(typeof(Text), "get_text", null, nameof(UiTextGetPostfix));
             PatchTextProp(typeof(TextMesh), "get_text", null, nameof(TextMeshGetPostfix));
 
-            // TMP_Text.SetText(string) is an overload Unity uses in addition
-            // to the property setter. Patch it with the same logic.
-            PatchTextProp(typeof(TMP_Text), "SetText", nameof(TmpTextSetPrefix), null);
+            // Only the single-argument SetText(string). Format overloads
+            // SetText(string, float, ...) froze the IAP store in 1.4.2.
+            PatchSetTextStringOnly();
         }
         catch (Exception ex)
         {
             Trace("text setter patch failed: " + ex);
         }
+    }
+
+    static void PatchSetTextStringOnly()
+    {
+        try
+        {
+            foreach (var m in typeof(TMP_Text).GetMethods(BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic))
+            {
+                if (m.Name != "SetText")
+                    continue;
+                var ps = m.GetParameters();
+                // Exactly one parameter, and it must be string (not StringBuilder).
+                if (ps.Length != 1 || ps[0].ParameterType != typeof(string))
+                    continue;
+                try
+                {
+                    // Prefix rewrites the argument before TMP stores it — more
+                    // reliable than postfix reading .text under IL2CPP.
+                    _harmony.Patch(m, prefix: new HarmonyMethod(typeof(Plugin), nameof(TmpSetTextStringPrefix)));
+                    Trace("patched SetText(string) prefix only");
+                }
+                catch (Exception ex)
+                {
+                    Trace("SetText(string) patch failed: " + ex.Message);
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Trace("PatchSetTextStringOnly: " + ex.Message);
+        }
+    }
+
+    // Prefix for SetText(string) — menus/rulebook/store blurbs use this.
+    // Must NOT patch format overloads (store freeze).
+    static void TmpSetTextStringPrefix(ref string text)
+    {
+        if (string.IsNullOrEmpty(text) || _inRewrite || !_ready)
+            return;
+        if (HasCjk(text) || IsTutorialProtected(text))
+            return;
+        _inRewrite = true;
+        var zh = RewriteIncoming(text);
+        _inRewrite = false;
+        if (zh != null && zh != text)
+            text = zh;
     }
 
     static void PatchTextProp(Type type, string methodName, string prefixName, string postfixName)
@@ -812,6 +934,9 @@ public class Plugin : BasePlugin
     // Cached state-marker TMP_Text instances. Once found, we reuse them every
     // frame instead of calling Resources.FindObjectsOfTypeAll (expensive).
     static readonly List<TMP_Text> _cachedMarkerTexts = new List<TMP_Text>();
+    static bool _loggedEmptyMarkerScan;
+    static int _emptyMarkerScanBackoff = 120; // frames between empty scans (grows)
+    static int _nextMarkerScanAt;
 
     internal static void ForceStateMarkersToChinese()
     {
@@ -827,18 +952,20 @@ public class Plugin : BasePlugin
             // Cache them so we don't scan every frame.
             if (_cachedMarkerTexts.Count == 0)
             {
-                // Only scan every 60 frames when no markers found yet.
-                // This avoids a full scene scan every single frame.
-                if (_forceMarkerCalls % 60 != 0)
+                // Back off aggressively while not in a match (store/rulebook/menu
+                // have zero state markers). FindObjectsOfTypeAll here was freezing
+                // the store and making rulebook open crawl.
+                if (_forceMarkerCalls < _nextMarkerScanAt)
                     return;
 
                 var scan = Resources.FindObjectsOfTypeAll<TMP_Text>();
+                _nextMarkerScanAt = _forceMarkerCalls + _emptyMarkerScanBackoff;
+                if (_emptyMarkerScanBackoff < 3600)
+                    _emptyMarkerScanBackoff = Math.Min(3600, _emptyMarkerScanBackoff * 2);
+
                 if (scan == null)
-                {
-                    if (_forceMarkerCalls <= 3)
-                        Trace("ForceStateMarkers: first scan returned null");
                     return;
-                }
+
                 int found = 0;
                 foreach (var tmp in scan)
                 {
@@ -851,19 +978,24 @@ public class Plugin : BasePlugin
                         continue;
                     if (IsTutorialProtected(raw))
                         continue;
+                    // Only match exact English markers — ignore already-Chinese.
                     if (!PrefixStateMarkers.Contains(raw))
                         continue;
                     _cachedMarkerTexts.Add(tmp);
                     found++;
                 }
-                if (found <= 10)
-                    Trace("ForceStateMarkers: first scan found=" + found + " state-marker texts");
                 if (found == 0)
                 {
-                    // No state markers yet (maybe game hasn't loaded the board).
-                    // Don't scan again next frame - wait for the 60-frame timer.
+                    if (!_loggedEmptyMarkerScan)
+                    {
+                        _loggedEmptyMarkerScan = true;
+                        Trace("ForceStateMarkers: no board markers yet; backing off scans");
+                    }
                     return;
                 }
+                _emptyMarkerScanBackoff = 120;
+                _loggedEmptyMarkerScan = false;
+                Trace("ForceStateMarkers: cached " + found + " state-marker texts");
             }
 
             // Apply Chinese to all cached marker texts every call.
@@ -948,10 +1080,10 @@ public class Plugin : BasePlugin
         if (IsTutorialProtected(value))
             return null;
 
+        bool longCopy = value.Length > 220;
         bool isRulebook = LooksLikeRulebookText(value);
         bool hasKw = ContainsRulebookGameplayKeyword(value);
 
-        // Try overlay lookup (exact, normalized, then prefix-based)
         var zh = LookupExactOrNormalized(value);
         if (zh != null)
         {
@@ -960,27 +1092,34 @@ public class Plugin : BasePlugin
             return zh;
         }
 
-        // If full lookup failed, try partial rewrite: split into sentences
-        // and match each individually. This handles the case where the game
-        // renders a multi-sentence paragraph but our overlay has only
-        // individual sentences.
-        if (value.Length >= 80 && isRulebook)
+        // Long store/rulebook pages: Exact/Norm may miss when the game joins
+        // several overlay paragraphs into one TMP. Sentence/paragraph partial
+        // rewrite is O(n sentences × dict) and safe — no format SetText hooks.
+        if (longCopy || (value.Length >= 80 && (isRulebook || hasKw)))
         {
             var partialZh = TryPartialRewrite(value);
             if (partialZh != null && partialZh != value)
             {
-                LogRulebookMatch(value, partialZh);
+                if (isRulebook || hasKw)
+                    LogRulebookMatch(value, partialZh);
                 return partialZh;
+            }
+            if (longCopy)
+            {
+                if (isRulebook || hasKw)
+                {
+                    var norm = NormalizeForLookup(value);
+                    WriteRulebookDiagnostic($"MISS len={value.Length} normLen={norm.Length} text='{value.Substring(0, Math.Min(150, value.Length))}'");
+                }
+                return null;
             }
         }
 
-        // Rulebook-like text: do NOT fall through to ReplaceRemainders.
-        // Instead, log the miss so we can diagnose why the lookup failed.
         if (isRulebook || hasKw)
         {
             var norm = NormalizeForLookup(value);
             WriteRulebookDiagnostic($"MISS len={value.Length} normLen={norm.Length} text='{value.Substring(0, Math.Min(150, value.Length))}'");
-            return null; // return original text unchanged (no garbage)
+            return null;
         }
 
         return Rewrite(value);
@@ -988,10 +1127,18 @@ public class Plugin : BasePlugin
 
     static void LogRulebookMatch(string original, string translated)
     {
+        // Disk I/O here previously froze the store/rulebook UI (hundreds of
+        // TMP_Text rewrites per RelocalizeUi). Keep diagnostics off unless
+        // DumpUntranslated is enabled AND DumpLongStrings is on.
         try
         {
+            if (DumpUntranslated == null || !DumpUntranslated.Value)
+                return;
+            if (DumpLongStrings == null || !DumpLongStrings.Value)
+                return;
             var snippet = original.Substring(0, Math.Min(100, original.Length));
-            File.AppendAllText(DumpPath, $"MATCH\t{original.Length}\t{snippet.Replace('\t', ' ').Replace('\r', ' ').Replace('\n', ' ')}\t→\t{translated.Substring(0, Math.Min(80, translated.Length))}\n");
+            var diagPath = DumpPath.Replace("untranslated.tsv", "rulebook_diagnostic.log");
+            File.AppendAllText(diagPath, $"MATCH\t{original.Length}\t{snippet.Replace('\t', ' ').Replace('\r', ' ').Replace('\n', ' ')}\t→\t{translated.Substring(0, Math.Min(80, translated.Length))}\n");
         }
         catch { }
     }
@@ -1000,6 +1147,10 @@ public class Plugin : BasePlugin
     {
         try
         {
+            if (DumpUntranslated == null || !DumpUntranslated.Value)
+                return;
+            if (DumpLongStrings == null || !DumpLongStrings.Value)
+                return;
             var diagPath = DumpPath.Replace("untranslated.tsv", "rulebook_diagnostic.log");
             File.AppendAllText(diagPath, DateTime.Now.ToString("HH:mm:ss.fff") + " " + message + "\n");
         }
@@ -1384,6 +1535,12 @@ public class Plugin : BasePlugin
     {
         try
         {
+            // Drop marker cache — previous scene's TMP instances are gone.
+            _cachedMarkerTexts.Clear();
+            _loggedEmptyMarkerScan = false;
+            _emptyMarkerScanBackoff = 180;
+            _nextMarkerScanAt = _forceMarkerCalls + 180;
+
             RelocalizeUi();
             Trace("sceneLoaded: " + scene.name + " relocalized");
         }
@@ -1829,6 +1986,81 @@ public class Plugin : BasePlugin
         return PrefixStateMarkers.Contains(value);
     }
 
+    static readonly string[] KnownPanelNames =
+    {
+        // Only rulebook roots — store is handled by set_text/SetText hooks.
+        // Sweeping a Store root with GetComponentsInChildren(true) re-scanned
+        // hundreds of inactive DLC blurbs every 40 frames and froze the UI.
+        "Rulebook", "RuleBooks", "Rulebooks", "RulebookPanel", "RulebookMenu",
+        "RulebookASCL", "RulebookCotG", "RulebookDLRM", "RulebookDLV", "RulebookDS",
+        "RulebookDU", "RulebookDoC", "RulebookGotE", "RulebookIH", "RulebookRoV",
+        "RulebookRotF", "RulebookSoS", "RulebookVotA", "RulebookWoS", "RulebookRU",
+    };
+
+    internal static void RelocalizeKnownPanels()
+    {
+        if (!_installed || _cjk == null)
+            return;
+        try
+        {
+            int changed = 0;
+            foreach (var name in KnownPanelNames)
+            {
+                GameObject go = null;
+                try { go = GameObject.Find(name); } catch { }
+                if (go == null)
+                    continue;
+                changed += RelocalizeUnder(go.transform, 120);
+                if (changed >= 80)
+                    break;
+            }
+            if (changed > 0)
+                Trace("panelSweep changed=" + changed);
+        }
+        catch (Exception ex)
+        {
+            Trace("RelocalizeKnownPanels: " + ex.Message);
+        }
+    }
+
+    static int RelocalizeUnder(Transform root, int budget)
+    {
+        if (root == null || budget <= 0)
+            return 0;
+        int changed = 0;
+        TMP_Text[] texts = null;
+        try { texts = root.GetComponentsInChildren<TMP_Text>(false); } catch { return 0; }
+        if (texts == null)
+            return 0;
+        foreach (var tmp in texts)
+        {
+            if (changed >= budget)
+                break;
+            if (tmp == null)
+                continue;
+            try
+            {
+                var text = tmp.text;
+                if (string.IsNullOrEmpty(text) || HasCjk(text))
+                    continue;
+                if (IsTutorialProtected(text))
+                    continue;
+                var zh = LookupExactOrNormalized(text);
+                if (zh == null || zh == text)
+                    continue;
+                _inRewrite = true;
+                tmp.text = zh;
+                _inRewrite = false;
+                changed++;
+            }
+            catch
+            {
+                _inRewrite = false;
+            }
+        }
+        return changed;
+    }
+
     internal static void RelocalizeUi()
     {
         if (!_installed || _cjk == null)
@@ -1845,6 +2077,9 @@ public class Plugin : BasePlugin
                 {
                     if (tmp == null || tmp.gameObject == null || !tmp.gameObject.scene.IsValid())
                         continue;
+                    // Include inactive scene objects: hex menu labels are often
+                    // inactive at FrontEnd load and only SetText(string) later.
+                    // Still skip assets not in a scene (prefab isolates).
                     var font = tmp.font;
                     if (font != null && font != _cjk)
                     {
@@ -1861,33 +2096,26 @@ public class Plugin : BasePlugin
                     if (string.IsNullOrEmpty(text) || HasCjk(text))
                         continue;
 
-                    // Rulebook-like text: skip word-by-word Rewrite (causes garbage).
-                    // Try overlay lookup first; if found, apply; otherwise skip.
-                    if (LooksLikeRulebookText(text))
-                    {
-                        var zh = LookupExactOrNormalized(text);
-                        if (zh != null && zh != text)
-                        {
-                            _inRewrite = true;
-                            tmp.text = zh;
-                            _inRewrite = false;
-                            changed++;
-                        }
-                        continue; // skip MaybeDump for rulebook text
-                    }
+                    // Inactive long copy: skip (store keeps dormant DLC TMP alive).
+                    // Inactive short labels: still rewrite (hex menu buttons).
+                    if (!tmp.isActiveAndEnabled && text.Length > 80)
+                        continue;
 
-                    var rewriteResult = Rewrite(text);
+                    // Prefer RewriteIncoming (Exact/Norm/overlay) over Rewrite.
+                    var rewriteResult = RewriteIncoming(text);
+                    if (rewriteResult == null && text.Length <= 220)
+                        rewriteResult = Rewrite(text);
                     if (rewriteResult != null && rewriteResult != text)
                     {
+                        _inRewrite = true;
                         tmp.text = rewriteResult;
+                        _inRewrite = false;
                         text = rewriteResult;
                         changed++;
                     }
-                    else
+                    else if (text.Length <= 220)
                     {
                         MaybeDump("E", text, null);
-                        if (text != null && (text.Length > 400 || text.IndexOf("<sprite", StringComparison.OrdinalIgnoreCase) >= 0))
-                            MaybeDump("L", text, null);
                     }
                     if (HasCjk(text) && text.Length <= 40)
                     {
@@ -2151,7 +2379,11 @@ public class CjkFontBehaviour : MonoBehaviour
             }
             return;
         }
-        if (_frames % 300 == 0)
+        if (_frames % 3600 == 0)
+            Plugin.RelocalizeUi();
+        // Catch menus that activate after scene load (hex buttons).
+        // Budget: only every ~2s, and RelocalizeUi itself is Exact/Norm-safe.
+        if (_frames % 120 == 0)
             Plugin.RelocalizeUi();
     }
 

@@ -1,0 +1,41 @@
+{
+  "phase": "0",
+  "required_domains": [
+    "bitmap_title",
+    "cards_effect",
+    "cards_flavor",
+    "cards_name",
+    "combat_log",
+    "protocol_id",
+    "rulebook_text",
+    "shop_dlc",
+    "tutorial",
+    "tutorial_hotspot",
+    "ui_keys",
+    "ui_runtime"
+  ],
+  "max_missing_by_domain": {
+    "bitmap_title": 0,
+    "cards_effect": 0,
+    "cards_flavor": 877,
+    "cards_name": 2,
+    "combat_log": 0,
+    "protocol_id": 0,
+    "rulebook_text": 0,
+    "shop_dlc": 0,
+    "tutorial": 0,
+    "tutorial_hotspot": 0,
+    "ui_keys": 0,
+    "ui_runtime": 1
+  },
+  "max_missing_total": 880,
+  "forbid_glossary_terms_in_zh": [
+    "启迪"
+  ],
+  "max_forbid_term_hits": {
+    "启迪": 24
+  },
+  "require_glossary_en": {
+    "Enlightened": "圣贤"
+  }
+}
