@@ -38,6 +38,7 @@ Overlay ≈ 3084 keys / 2299 exact. Rulebook/DLC long copy in `rulebook.csv` wit
 | Date | Version | Delta |
 | --- | --- | --- |
 | 2026-08-22 | Phase 1 | Coverage closed: `missing_total=0`; flavor waive policy; acronym names; Loading rulebook fix |
+| 2026-08-22 | Phase 2 | Terminology: 启迪→圣贤 everywhere; glossary gate ceiling 0 |
 | 2026-08-22 | v1.4.5 | Store/rulebook long-copy restored; full overlay deploy checks; Phase T/0 complete |
 | 2026-08-22 | v1.4.3–1.4.4 | Store freeze mitigation then coverage restore |
 | 2026-08-22 | v1.3 | Architecture docs; Inventory + pytest; rulebook/DLC baseline |

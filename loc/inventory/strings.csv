@@ -252,7 +252,7 @@ cards_effect:Del:Demon Pups,cards_effect,Del,afd511d8e96c,Demon Pups,"奖励：�
 cards_effect:Del:Dimension Monk,cards_effect,Del,dfe4f1839a39,Dimension Monk,抽一张牌.\r\n你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.),draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:Del:Divine Askara,cards_effect,Del,d2d89a9a7857,Divine Askara,复制本回合打出的一张英雄的效果。\r\n你可以支付 3洞察以 复制所选效果两次改为.\r\n此效果不能是 被复制.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:Del:Dreadmare,cards_effect,Del,e0680146605d,Dreadmare,奖励：获得4荣誉和 3洞察.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:Del:Dream Dealer,cards_effect,Del,21013a3fc06c,Dream Dealer,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在启迪, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:Del:Dream Dealer,cards_effect,Del,21013a3fc06c,Dream Dealer,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在圣贤, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:Del:Dream Eater,cards_effect,Del,6fca328e77db,Dream Eater,奖励：获得2荣誉和 1洞察.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:Del:Dream Guide,cards_effect,Del,bd52f45bfc2c,Dream Guide,获得2符文和 1洞察.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:Del:Dream Stone,cards_effect,Del,06a727eaced8,Dream Stone,你可以放逐此牌以 掷谵妄骰.,draft,,loc/zh-Hans/lua_cards.csv
@@ -345,16 +345,16 @@ cards_effect:Dlvr:Wereboar,cards_effect,Dlvr,54976fd709c3,Wereboar,获得2战力
 cards_effect:Dlvr:Zinta's Bracers,cards_effect,Dlvr,2709e774cd3d,Zinta's Bracers,"每回合一次，若你 拥有已获得 2洞察或更高, 获得2战力.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:DoC:Adam, Builder Adept",cards_effect,DoC,ba52e8fce9ff,"Adam, Builder Adept","当你 获取此, 你可以获取神器在中央牌列无需支付费用.\r\n获得4符文.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:DoC:Aranyx, the Glutton",cards_effect,DoC,f53fe7a735ad,"Aranyx, the Glutton",奖励： 获得4荣誉. 获得7战力.\r\n集结: 怪物.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Austere Sage,cards_effect,DoC,a25776f5633e,Austere Sage,"抽一张牌.\r\n你可以放逐一张卡牌在中央牌列, 然后集结: 启迪.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Austere Sage,cards_effect,DoC,a25776f5633e,Austere Sage,"抽一张牌.\r\n你可以放逐一张卡牌在中央牌列, 然后集结: 圣贤.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Betrayed Templar,cards_effect,DoC,2cf7221ce476,Betrayed Templar,奖励： 获得5荣誉. 你可以击败一个怪物在中央牌列以 费用 5战力或更低无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Canopy Sanctuary,cards_effect,DoC,bca02a29b669,Canopy Sanctuary,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为启迪或 生命, 获得3荣誉.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Canopy Sanctuary,cards_effect,DoC,bca02a29b669,Canopy Sanctuary,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为圣贤或 生命, 获得3荣誉.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Clockwork Sentry,cards_effect,DoC,8cc932a480be,Clockwork Sentry,"获得2战力.\r\n若你控制的两 或更高神器s, 获得额外的 2战力.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Conversion Port,cards_effect,DoC,388ee1539f38,Conversion Port,你可以将所有神器s作为如同他们为 所有派系.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Corrupted Sage,cards_effect,DoC,9ff96494faf9,Corrupted Sage,奖励： 获得2荣誉. 抽一张牌.\r\n集结: 启迪.,draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Corrupted Sage,cards_effect,DoC,9ff96494faf9,Corrupted Sage,奖励： 获得2荣誉. 抽一张牌.\r\n集结: 圣贤.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Cult of the False Circle,cards_effect,DoC,8782279efcca,Cult of the False Circle,奖励： 获得5荣誉. 你可以获取一个英雄以 费用 5符文或更低无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Daybreak Askara,cards_effect,DoC,1effcb40d682,Daybreak Askara,"复制效果的 英雄打出本回合. 若英雄曾是启迪, 复制该 英雄之效果额外的次. 此效果不能是 被复制.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Daybreak Askara,cards_effect,DoC,1effcb40d682,Daybreak Askara,"复制效果的 英雄打出本回合. 若英雄曾是圣贤, 复制该 英雄之效果额外的次. 此效果不能是 被复制.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Deathfinder,cards_effect,DoC,b23657ad3d8a,Deathfinder,奖励： 获得2荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.\r\n集结: 虚空.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Dhartha,cards_effect,DoC,3053ef4879d9,Dhartha,"+1: 每当你 获取或 击败启迪卡牌从中央牌列, 获得1rep.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Dhartha,cards_effect,DoC,3053ef4879d9,Dhartha,"+1: 每当你 获取或 击败圣贤卡牌从中央牌列, 获得1rep.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:DoC:Dhartha, Master of Sight",cards_effect,DoC,680897818e67,"Dhartha, Master of Sight",你可以放逐此牌或 卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Emissary of Dawn,cards_effect,DoC,1abe4eabeb9f,Emissary of Dawn,获取一个英雄无需支付费用. 获得H相等以 其H值.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Emri's Sting,cards_effect,DoC,888784f32918,Emri's Sting,"每回合一次，获得2战力.\r\n当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",draft,,loc/zh-Hans/lua_cards.csv
@@ -365,9 +365,9 @@ cards_effect:DoC:Gnome Repairbot,cards_effect,DoC,658911698f4e,Gnome Repairbot,�
 cards_effect:DoC:Guide of Lost Souls,cards_effect,DoC,d32e38158daa,Guide of Lost Souls,你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Kor,cards_effect,DoC,32b158dc65ae,Kor,"+1: 每当你 获取或 击败机械卡牌从中央牌列, 获得1rep.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:DoC:Kor, the Ironmind",cards_effect,DoC,23617690f830,"Kor, the Ironmind","获得2符文和 2战力.\r\n若你控制的两 或更高神器s, 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Library Familiar,cards_effect,DoC,d691c8bc553e,Library Familiar,"每回合一次，当你 打出启迪神器或 机械神器 (包括此牌一), 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Library Familiar,cards_effect,DoC,d691c8bc553e,Library Familiar,"每回合一次，当你 打出圣贤神器或 机械神器 (包括此牌一), 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Maniacal Crusher,cards_effect,DoC,39782343b3b5,Maniacal Crusher,"获得2战力.\r\n下次你击败一个怪物在中央牌列本回合, 集结: 虚空.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Mantra of Renewal,cards_effect,DoC,8e4b1ccf842b,Mantra of Renewal,"每回合一次，若你 拥有打出过两 或更高启迪卡牌 (包括此牌一), 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Mantra of Renewal,cards_effect,DoC,8e4b1ccf842b,Mantra of Renewal,"每回合一次，若你 拥有打出过两 或更高圣贤卡牌 (包括此牌一), 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Moonveil Clique,cards_effect,DoC,57ef184b4044,Moonveil Clique,"获得2符文.\r\n联合： At结束时回合, 放置此 在你的手牌中而非你的弃牌堆.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Morbid Hammer,cards_effect,DoC,7d81f5240b64,Morbid Hammer,"每回合一次，获得1战力.\r\n当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Muse of Rebirth,cards_effect,DoC,ea7c4bc731a5,Muse of Rebirth,获得2符文.\r\n你可以放逐一张卡牌在你的手牌或弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
@@ -383,10 +383,10 @@ cards_effect:DoC:Rejected Prototype,cards_effect,DoC,98fa19a424af,Rejected Proto
 cards_effect:DoC:Riftdrake Rider,cards_effect,DoC,e8fe417f1334,Riftdrake Rider,抽两张牌.\r\n你可以放逐至多两 卡牌在你的手牌或弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Riftgate Conjuror,cards_effect,DoC,252c6b58b8f2,Riftgate Conjuror,"获得3战力.\r\n下次你击败虚空怪物本回合, 获得其reward额外的次.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Riftwatch Turret,cards_effect,DoC,fcd253176603,Riftwatch Turret,"每回合一次，获得1战力.\r\n每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Rootscryer,cards_effect,DoC,462980d0727f,Rootscryer,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为启迪或 生命, 获得3荣誉.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Rootscryer,cards_effect,DoC,462980d0727f,Rootscryer,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为圣贤或 生命, 获得3荣誉.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Sadranis,cards_effect,DoC,1838675e8315,Sadranis,"+1: 每当你 获取或 击败虚空卡牌从中央牌列, 获得1rep.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:DoC:Sadranis, Dark Savant",cards_effect,DoC,f3c48d83df95,"Sadranis, Dark Savant","抽两张牌, 然后弃掉卡牌. 你可以放逐一张卡牌在你的弃牌堆.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Seer of Days Past,cards_effect,DoC,20f6c0a503c0,Seer of Days Past,"当你 获取此, 集结: 启迪.\r\n抽一张牌. 若你 拥有8rep或更高, 抽额外的卡牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Seer of Days Past,cards_effect,DoC,20f6c0a503c0,Seer of Days Past,"当你 获取此, 集结: 圣贤.\r\n抽一张牌. 若你 拥有8rep或更高, 抽额外的卡牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Serene Ascetic,cards_effect,DoC,65a0fc6f321b,Serene Ascetic,"当你 获取此, 你可以将它放置放到你的牌库顶.\r\n抽两张牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Shade's Bargain,cards_effect,DoC,cd51d985df9e,Shade's Bargain,"每回合一次，若你 拥有打出过两 或更高虚空卡牌 (包括此牌一), 获得2战力.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Shepherd of the Lost,cards_effect,DoC,0956c8bc69a1,Shepherd of the Lost,"获得2符文.\r\n若此 为被放逐从你的手牌或 弃牌堆, 获得5荣誉.",draft,,loc/zh-Hans/lua_cards.csv
@@ -397,7 +397,7 @@ cards_effect:DoC:Surge Protector,cards_effect,DoC,3ff9871e5832,Surge Protector,"
 cards_effect:DoC:Thorned Charger,cards_effect,DoC,fa62512101a3,Thorned Charger,奖励： 获得3荣誉. 你可以放置英雄从 你的弃牌堆放到你的牌库顶.\r\n集结: 生命.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Undaunted Scout,cards_effect,DoC,fe56a3552b08,Undaunted Scout,"当你 获取此, 集结: 虚空.\r\n获得2战力.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:DoC:Wild Riftdrake,cards_effect,DoC,825220dc1686,Wild Riftdrake,奖励： 获得4荣誉. 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:DoC:Wildgear Sower,cards_effect,DoC,d3cc5d75f16c,Wildgear Sower,"获得2符文.\r\n获得1荣誉以 每个派系之中神器s你的控制. (派系为启迪, 生命, 机械和 虚空).",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:DoC:Wildgear Sower,cards_effect,DoC,d3cc5d75f16c,Wildgear Sower,"获得2符文.\r\n获得1荣誉以 每个派系之中神器s你的控制. (派系为圣贤, 生命, 机械和 虚空).",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:DoC:Xeron, Lord of Deofol",cards_effect,DoC,2dcdc80543c0,"Xeron, Lord of Deofol",奖励： 获得6荣誉.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:GotE:Bam Tribe Gremlins,cards_effect,GotE,fbc9cdd6ca6b,Bam Tribe Gremlins,"奖励：获得2荣誉.\r\nINFEST: 当你 击败巴姆部落小妖们, 你可以将它放置置入玩家之弃牌堆.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:GotE:Blast Goggles,cards_effect,GotE,2614d195a3c7,Blast Goggles,"每回合一次，若你控制的五 或更高机械神器, 获得5荣誉.",draft,,loc/zh-Hans/lua_cards.csv
@@ -478,7 +478,7 @@ cards_effect:IH:Growmites,cards_effect,IH,a05095ae081d,Growmites,"奖励：获�
 cards_effect:IH:Hedron Pyromaniac,cards_effect,IH,cf0b35d0fb38,Hedron Pyromaniac,获得2符文. 你可以摧毁一个神器你控制的以 获得灵魂宝石.,draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:IH:Kythis, Rebel Godling",cards_effect,IH,1e9b57e0eeb7,"Kythis, Rebel Godling",奖励：8荣誉. ONGOING战利品： 每回合一次，获得灵魂宝石.,draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:IH:Kythis, Rebel Godling v2",cards_effect,IH,cf767e459e9e,"Kythis, Rebel Godling v2",奖励：8荣誉. ONGOING战利品： 每回合一次，获得灵魂宝石.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:IH:Moment of Clarity,cards_effect,IH,ae3e6a7eb556,Moment of Clarity,"当玩家获取启迪卡牌, 该玩家可以抽一张牌.\r\n EVENT战利品： 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:IH:Moment of Clarity,cards_effect,IH,ae3e6a7eb556,Moment of Clarity,"当玩家获取圣贤卡牌, 该玩家可以抽一张牌.\r\n EVENT战利品： 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:Nothing Man,cards_effect,IH,0bb7771589c8,Nothing Man,奖励：3荣誉. 战利品： 放逐此 以获得灵魂宝石.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:Orb of Nyx,cards_effect,IH,984c32be03e4,Orb of Nyx,"每回合一次，获得3战力.\r\n当你 击败一个怪物在中央牌列, 获得灵魂宝石.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:Recyclicrab,cards_effect,IH,e13a38960993,Recyclicrab,"当你 打出机械神器, 若此 为在你的弃牌堆你可以返回它 以你的手牌.",draft,,loc/zh-Hans/lua_cards.csv
@@ -510,7 +510,7 @@ cards_effect:IH:Soulshaper,cards_effect,IH,f3abf8ffe586,Soulshaper,"你可以放
 cards_effect:IH:Spark Sprayer,cards_effect,IH,2c512a992150,Spark Sprayer,"每回合一次，你可以摧毁机械神器你控制的以 获得1战力.\r\n 若当前事件为 机械, 获得额外的 1战力.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:Spider Witch,cards_effect,IH,fc74c2a7396d,Spider Witch,获得2荣誉. 联合： 获得灵魂宝石.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:Stone Circle Elder,cards_effect,IH,22639d6d23ef,Stone Circle Elder,"获取一个英雄费用不高于5 或更低无需支付费用. 将它放置放到你的牌库顶.\r\n若当前事件为 生命, 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:IH:Temple Guardian,cards_effect,IH,58bcb41971e4,Temple Guardian,"击败一个怪物以P5 或更低无需支付费用.\r\n若当前事件为 启迪, 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:IH:Temple Guardian,cards_effect,IH,58bcb41971e4,Temple Guardian,"击败一个怪物以P5 或更低无需支付费用.\r\n若当前事件为 圣贤, 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:The Great Eclipse,cards_effect,IH,e7a6eb94927f,The Great Eclipse,"当玩家获取命约英雄, 该玩家可以将它放置在 顶部的 其牌库.\r\n EVENT战利品： 命名英雄. 该英雄为 也生命本回合.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:The World Tree,cards_effect,IH,a9b0a2b1e9df,The World Tree,"每回合一次，你可以支付至多 5符文以 获得该等量的H. \r\n当你 打出命约英雄, 获得1符文.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:IH:Trophy Hunter,cards_effect,IH,5b4eb865ca5b,Trophy Hunter,获得2战力. 你支付 1战力更低下次你击败战利品怪物本回合.,draft,,loc/zh-Hans/lua_cards.csv
@@ -536,7 +536,7 @@ cards_effect:LGND:Boon: Naka,cards_effect,LGND,1a2ed83322ea,Boon: Naka,"一次�
 cards_effect:LGND:Claws of Deoful,cards_effect,LGND,cfae61f747e6,Claws of Deoful,奖励：获得4荣誉.\r\n获得1 Renown在任意派系.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Correction of Creation,cards_effect,LGND,d2a3a225a012,Correction of Creation,奖励：获得2荣誉. 你可以放逐一张卡牌从你的手牌或 弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Dark Monk,cards_effect,LGND,4d8b0278cc80,Dark Monk,获得2战力.\r\n联合: 抽一张牌.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:LGND:Enlightened Remnant,cards_effect,LGND,fa89ec967746,Enlightened Remnant,"奖励：获得5荣誉.\r\n若你打出过或 已获取启迪卡牌本回合, 抽两张牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:LGND:Enlightened Remnant,cards_effect,LGND,fa89ec967746,Enlightened Remnant,"奖励：获得5荣誉.\r\n若你打出过或 已获取圣贤卡牌本回合, 抽两张牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Fallen Fae,cards_effect,LGND,35d8d8ac339b,Fallen Fae,获得2战力.\r\n联合: 获得1荣誉.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Forest Emissary,cards_effect,LGND,9f64850ed995,Forest Emissary,抽一张牌.\r\n联合-使者: 获得2荣誉. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.),draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Hellstring Blades,cards_effect,LGND,01c4f8994292,Hellstring Blades,奖励：获得5荣誉. 选择和 摧毁至多两 神器s在打出.,draft,,loc/zh-Hans/lua_cards.csv
@@ -552,7 +552,7 @@ cards_effect:LGND:Legend - Naira,cards_effect,LGND,03664749a52c,Legend - Naira,"
 cards_effect:LGND:Legend - Naka,cards_effect,LGND,03e9656abfc9,Legend - Naka,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Legend - P.R.I.M.E.,cards_effect,LGND,77ec1e194b54,Legend - P.R.I.M.E.,"一次本回合, 你可以返回神器从 你的弃牌堆以 你的手牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Legend - Ulu,cards_effect,LGND,20b966df1a18,Legend - Ulu,"一次本回合, 获得1 renown在另一派系.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:LGND:Legendary Boon - Enlightened,cards_effect,LGND,4a3f34fcc578,Legendary Boon - Enlightened,获取或 击败任意启迪卡牌从 中央牌列无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:LGND:Legendary Boon - Enlightened,cards_effect,LGND,4a3f34fcc578,Legendary Boon - Enlightened,获取或 击败任意圣贤卡牌从 中央牌列无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Legendary Boon - Lifebound,cards_effect,LGND,754b9432c27f,Legendary Boon - Lifebound,获取或 击败任意生命卡牌从 中央牌列无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Legendary Boon - Mechana,cards_effect,LGND,d7b0b6cefb92,Legendary Boon - Mechana,获取或 击败任意机械卡牌从 中央牌列无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Legendary Boon - Void,cards_effect,LGND,1b9a704ef7c3,Legendary Boon - Void,获取或 击败任意虚空卡牌从 中央牌列无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
@@ -573,12 +573,12 @@ cards_effect:LGND:Mycelial Mage,cards_effect,LGND,e7eec98d9fc9,Mycelial Mage,"�
 cards_effect:LGND:Pathseeker Sensei,cards_effect,LGND,d4689a3901bc,Pathseeker Sensei,击败一个怪物的 4战力或更低无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Portal Ninja,cards_effect,LGND,4815af4f4beb,Portal Ninja,获得2符文.\r\n联合: 你可以放逐一张卡牌你 打出过本回合.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Psionic Monk,cards_effect,LGND,c5175f6f1839,Psionic Monk,抽 2 卡牌.\r\n获得1荣誉以 每个派系之中神器你控制的.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:LGND:Psychic Amulet,cards_effect,LGND,f26ef6eefcbe,Psychic Amulet,"每回合一次，当你 打出机械或 启迪神器 (包括此牌一), 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:LGND:Psychic Amulet,cards_effect,LGND,f26ef6eefcbe,Psychic Amulet,"每回合一次，当你 打出机械或 圣贤神器 (包括此牌一), 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:LGND:Raiyna, Riftwalker",cards_effect,LGND,1876a432ff3e,"Raiyna, Riftwalker","获得4战力.\r\n下次你击败一个怪物在 中央牌列本回合, 获得其non-荣誉奖励两次.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Remnant of the Fallen,cards_effect,LGND,d327e1123153,Remnant of the Fallen,奖励：获得5荣誉.\r\n获得1 Renown的每个派系.\r\n你可以获取或 击败任意卡牌在 中央牌列无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Riftclaw,cards_effect,LGND,e14376e51b1c,Riftclaw,每回合一次，获得1战力.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Sablespark Sisters,cards_effect,LGND,5d443d702d12,Sablespark Sisters,"抽一张牌.\r\n获得1符文, 然后放逐此牌.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:LGND:Shade Askara,cards_effect,LGND,a0419d2899fe,Shade Askara,"获得3战力.\r\n若你 拥有启迪或 虚空卡牌在你的弃牌堆, 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:LGND:Shade Askara,cards_effect,LGND,a0419d2899fe,Shade Askara,"获得3战力.\r\n若你 拥有圣贤或 虚空卡牌在你的弃牌堆, 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Shade Feather,cards_effect,LGND,647d9380a96e,Shade Feather,获得1战力.你可以放逐一张卡牌在你的手牌或弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Shadow Arbiter,cards_effect,LGND,3b97d278b8db,Shadow Arbiter,抽一张牌. 你可以放逐一张卡牌在你的手牌中以 获得2战力.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:LGND:Shadow Mender,cards_effect,LGND,7a0c5212d6d4,Shadow Mender,获得3战力.,draft,,loc/zh-Hans/lua_cards.csv
@@ -636,7 +636,7 @@ cards_effect:RU:Scion of Cetra,cards_effect,RU,ef28b553beb2,Scion of Cetra,获�
 cards_effect:RU:Scion of Emri,cards_effect,RU,c27e1cc61faf,Scion of Emri,获得3战力.\r\n你可以放逐一张卡牌在你的弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:RU:Scion of Euloth,cards_effect,RU,3db22ea97e1e,Scion of Euloth,获得2符文和 2战力.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:RU:Scion of Oziah,cards_effect,RU,e7d7db4c1bb1,Scion of Oziah,击败一个怪物以 费用 5战力或更低无需支付费用.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:RU:Scryer of the Lidless Eye,cards_effect,RU,a0b643e005e9,Scryer of the Lidless Eye,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 启迪, 返回它 以你的手牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:RU:Scryer of the Lidless Eye,cards_effect,RU,a0b643e005e9,Scryer of the Lidless Eye,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 圣贤, 返回它 以你的手牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:RU:Secluded Laboratory,cards_effect,RU,92a5dffb9b35,Secluded Laboratory,"若你打出过两 或更高机械英雄, 将此牌转化为零 点反应堆.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:RU:Shadow Stalker,cards_effect,RU,63d045095e0a,Shadow Stalker,你可以放逐一张卡牌在你的弃牌堆.\r\n抽一张牌.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:RU:Snapdragon Witch,cards_effect,RU,47422dacc594,Snapdragon Witch,"获得1荣誉.\r\n抽一张牌.\r\n若你 拥有更多H于每个其他玩家, 抽额外的卡牌.",draft,,loc/zh-Hans/lua_cards.csv
@@ -750,7 +750,7 @@ cards_effect:SoS:Cog Maw,cards_effect,SoS,373f2bb46d76,Cog Maw,"每回合一次�
 cards_effect:SoS:Dream Machine,cards_effect,SoS,20f2c2a28f6c,Dream Machine,"天命： 当梦 机器进入中央牌列, 每位玩家可以返回神器其控制的以 其手牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:SoS:Dreamer's Glass,cards_effect,SoS,c6cd3f46298a,Dreamer's Glass,"每回合一次，你可以放置卡牌从你的手牌其下此 面朝上.\r\n若你如此做，抽一张牌.\r\n当梦者琉璃离开打出或 游戏结束, 放置所有卡牌其下它 置入你的弃牌堆.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:SoS:Elder Skeptic,cards_effect,SoS,1e5b59d8f6f6,Elder Skeptic,"抽 2 卡牌. 然后, 弃掉卡牌.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:SoS:Elemental Adept,cards_effect,SoS,966f1bd81a46,Elemental Adept,"抽一张牌.\r\n若当前事件为 启迪, 抽额外的 1 卡牌.\r\n你可以放逐一张卡牌在中央牌列.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:SoS:Elemental Adept,cards_effect,SoS,966f1bd81a46,Elemental Adept,"抽一张牌.\r\n若当前事件为 圣贤, 抽额外的 1 卡牌.\r\n你可以放逐一张卡牌在中央牌列.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:SoS:Emri, Soulslayer",cards_effect,SoS,6beead03431c,"Emri, Soulslayer",天命： 每位玩家可以放逐 2 卡牌从其手牌和/或弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:SoS:Everbloom,cards_effect,SoS,7bfbd13cf59c,Everbloom,每回合一次，获得1 荣誉.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:SoS:Eye of Destiny,cards_effect,SoS,f529aa34eb78,Eye of Destiny,"每回合一次，当你 获取一个英雄, 你可以将它放置置入你的手牌.",draft,,loc/zh-Hans/lua_cards.csv
@@ -784,7 +784,7 @@ cards_effect:SoS:Starchild,cards_effect,SoS,eafcfb8283b0,Starchild,"获得1符�
 cards_effect:SoS:Synchronizer,cards_effect,SoS,d4c822abc642,Synchronizer,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1符文.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:SoS:Syril, Runic Alpha",cards_effect,SoS,0a64067afb50,"Syril, Runic Alpha",获得3符文. 联合： 获得3战力.,draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:SoS:Tarik, the Trickster",cards_effect,SoS,02b1f6d350be,"Tarik, the Trickster",奖励：5荣誉. 你可以选择英雄在中央牌列和 复制其效果.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:SoS:Tower Askara,cards_effect,SoS,4124206a6435,Tower Askara,"抽 3 卡牌. 然后, 弃掉 2 卡牌或 启迪卡牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:SoS:Tower Askara,cards_effect,SoS,4124206a6435,Tower Askara,"抽 3 卡牌. 然后, 弃掉 2 卡牌或 圣贤卡牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:SoS:Treasures of the Study,cards_effect,SoS,55b79cd084f5,Treasures of the Study,每回合一次，你可以弃掉 2 卡牌. 若你如此做，获得3荣誉.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:SoS:Umbral Edge,cards_effect,SoS,df3894ef3942,Umbral Edge,每回合一次，获得2战力. 获得额外的 2战力若 你控制的半影刃锋.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:SoS:Unchained Fates,cards_effect,SoS,cb7a9170f416,Unchained Fates,奖励：5荣誉. 战利品： 抽 2 卡牌.,draft,,loc/zh-Hans/lua_cards.csv
@@ -817,7 +817,7 @@ cards_effect:VotA:Hellfrost Imps,cards_effect,VotA,f71083a177b4,Hellfrost Imps,�
 cards_effect:VotA:Iku's Minions,cards_effect,VotA,01dcbcb8eedd,Iku's Minions,此费用为 2 更低以 击败若 你控制的神殿.\r\n奖励：获得4荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.,draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:VotA:Iku, Valley Tyrant",cards_effect,VotA,c24a7777d72c,"Iku, Valley Tyrant",此费用为 2战力更低以 击败以 每个神殿你控制的.\r\n奖励：获得8荣誉.,draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:VotA:Isla, Serene Prodigy",cards_effect,VotA,cc418ce1be28,"Isla, Serene Prodigy","获取一个英雄或 神器在中央牌列无需支付费用.\r\nShuffle伊斯拉, 宁静神童和 你的弃牌堆置入你的牌库.",draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:VotA:Jubilant Monk,cards_effect,VotA,e125598b4e7a,Jubilant Monk,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或启迪卡牌.",draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:VotA:Jubilant Monk,cards_effect,VotA,e125598b4e7a,Jubilant Monk,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或圣贤卡牌.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:VotA:K-YL3 Repairbot,cards_effect,VotA,1018e1d95d8e,K-YL3 Repairbot,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 抽一张牌.",draft,,loc/zh-Hans/lua_cards.csv
 "cards_effect:VotA:Kan'zir, the Ravager",cards_effect,VotA,8ccff9e9326d,"Kan'zir, the Ravager",奖励：获得5荣誉. 每位对手loses控制的 所有Temples和摧毁所有神器s其控制的.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:VotA:Keeper of Secrets,cards_effect,VotA,38a680e94c80,Keeper of Secrets,"放逐一张卡牌在你的手牌中和 将它替换以 秘教士或 重装步兵.\r\n若你 打出或 拥有打出过秘教士和 重装步兵本回合, 获得1D.",draft,,loc/zh-Hans/lua_cards.csv
@@ -930,7 +930,7 @@ cards_effect:promo:Seed of the World,cards_effect,promo,f8a25f1e5de2,Seed of the
 cards_effect:promo:Soul Collector,cards_effect,promo,b5256cd5b2cf,Soul Collector,每回合一次，加入灵魂指示物以 此若you've被击败怪物在中央牌列.\r\n每回合一次，获得战力相等以 数量为灵魂指示物在 此.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:promo:Spire of the Wind,cards_effect,promo,776626b95987,Spire of the Wind,"每回合一次，你可以弃掉卡牌从你的手牌以 抽一张牌.若它 为秘教士或 重装步兵, 抽 2 卡牌改为.",draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:promo:Spirit of the Ancients,cards_effect,promo,a3e8e3c3b839,Spirit of the Ancients,选择命约英雄该 尚未被选择以 此before. 此卡牌视为复制的 该英雄.,draft,,loc/zh-Hans/lua_cards.csv
-cards_effect:promo:Stone Blade Templar,cards_effect,promo,cb578c04965b,Stone Blade Templar,展示和 放逐顶部卡牌的 传送门牌库. 若其 派系为:\r\n启迪: 抽两张牌.\r\n生命: 获得3 荣誉.\r\n机械: 获得2 符文.\r\n虚空: 获得2 战力.\r\n无派系： 选择一 的效果上方.,draft,,loc/zh-Hans/lua_cards.csv
+cards_effect:promo:Stone Blade Templar,cards_effect,promo,cb578c04965b,Stone Blade Templar,展示和 放逐顶部卡牌的 传送门牌库. 若其 派系为:\r\n圣贤: 抽两张牌.\r\n生命: 获得3 荣誉.\r\n机械: 获得2 符文.\r\n虚空: 获得2 战力.\r\n无派系： 选择一 的效果上方.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:promo:Temporal Excavator,cards_effect,promo,abfdc9d49bdf,Temporal Excavator,: 加入一卡牌和 若它 为already那里然后放逐它 和将它替换.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:promo:The Aethermourne,cards_effect,promo,5ff61db57f98,The Aethermourne,每回合一次，获得战力相等以 数量为怪物在 中央牌列.,draft,,loc/zh-Hans/lua_cards.csv
 cards_effect:promo:Tinkering Monk,cards_effect,promo,19c0b3fbf3fb,Tinkering Monk,获得2符文.\r\n你可以拥有每位玩家获得H相等以 数量为机械神器其控制的.,draft,,loc/zh-Hans/lua_cards.csv
@@ -2412,7 +2412,7 @@ cards_name:LGND:Boon: Naka,cards_name,LGND,1a2ed83322ea,Boon: Naka,恩赐：纳�
 cards_name:LGND:Claws of Deoful,cards_name,LGND,cfae61f747e6,Claws of Deoful,爪迪奥福尔,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Correction of Creation,cards_name,LGND,d2a3a225a012,Correction of Creation,校正造物,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Dark Monk,cards_name,LGND,4d8b0278cc80,Dark Monk,黑暗僧侣,draft,,loc/zh-Hans/lua_cards.csv
-cards_name:LGND:Enlightened Remnant,cards_name,LGND,fa89ec967746,Enlightened Remnant,启迪残响,draft,,loc/zh-Hans/lua_cards.csv
+cards_name:LGND:Enlightened Remnant,cards_name,LGND,fa89ec967746,Enlightened Remnant,圣贤残响,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Fallen Fae,cards_name,LGND,35d8d8ac339b,Fallen Fae,堕落者仙灵,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Forest Emissary,cards_name,LGND,9f64850ed995,Forest Emissary,森林使者,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Hellstring Blades,cards_name,LGND,01c4f8994292,Hellstring Blades,狱弦双刃,draft,,loc/zh-Hans/lua_cards.csv
@@ -2428,7 +2428,7 @@ cards_name:LGND:Legend - Naira,cards_name,LGND,03664749a52c,Legend - Naira,传�
 cards_name:LGND:Legend - Naka,cards_name,LGND,03e9656abfc9,Legend - Naka,传奇：纳卡,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Legend - P.R.I.M.E.,cards_name,LGND,77ec1e194b54,Legend - P.R.I.M.E.,传奇：P.R.I.M.E.,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Legend - Ulu,cards_name,LGND,20b966df1a18,Legend - Ulu,传奇：乌鲁,draft,,loc/zh-Hans/lua_cards.csv
-cards_name:LGND:Legendary Boon - Enlightened,cards_name,LGND,4a3f34fcc578,Legendary Boon - Enlightened,传奇恩赐：启迪,draft,,loc/zh-Hans/lua_cards.csv
+cards_name:LGND:Legendary Boon - Enlightened,cards_name,LGND,4a3f34fcc578,Legendary Boon - Enlightened,传奇恩赐：圣贤,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Legendary Boon - Lifebound,cards_name,LGND,754b9432c27f,Legendary Boon - Lifebound,传奇恩赐：生命,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Legendary Boon - Mechana,cards_name,LGND,d7b0b6cefb92,Legendary Boon - Mechana,传奇恩赐：机械,draft,,loc/zh-Hans/lua_cards.csv
 cards_name:LGND:Legendary Boon - Void,cards_name,LGND,1b9a704ef7c3,Legendary Boon - Void,传奇恩赐：虚空,draft,,loc/zh-Hans/lua_cards.csv
@@ -3383,7 +3383,7 @@ ui_keys:Key_Withdraw,ui_keys,,7474331de263,Key_Withdraw,退出对局,draft,,loc/
 ui_keys:Key_WithdrawConfirm,ui_keys,,ec3768a5bf0b,Key_WithdrawConfirm,确定要退出这局游戏吗？,draft,,loc/zh-Hans/ui.csv
 ui_keys:Key_Yes,ui_keys,,ffaa709e6ee7,Key_Yes,是,draft,,loc/zh-Hans/ui.csv
 ui_keys:Key_iOSNotifications,ui_keys,,5ef89b1a707e,Key_iOSNotifications,iOS 通知,draft,,loc/zh-Hans/ui.csv
-ui_runtime:00eef1165496:181,ui_runtime,,00eef1165496,"Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.","每当你 获取或 击败启迪卡牌在中央牌列, 集结: 启迪.",draft,,loc/zh-Hans/ui_runtime.csv
+ui_runtime:00eef1165496:181,ui_runtime,,00eef1165496,"Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.","每当你 获取或 击败圣贤卡牌在中央牌列, 集结: 圣贤.",draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:00f03137e155:57,ui_runtime,,00f03137e155,Easy,简单,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:01e896cc978f:54,ui_runtime,,01e896cc978f,Honor,荣誉,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:02754116fbb6:190,ui_runtime,,02754116fbb6,"Whenever you acquire or defeat a Mechana card in the center row, Rally: Mechana.","每当你 获取或 击败机械卡牌在中央牌列, 集结: 机械.",draft,,loc/zh-Hans/ui_runtime.csv
@@ -3456,7 +3456,7 @@ ui_runtime:389dfdb69345:32,ui_runtime,,389dfdb69345,PLAY ALL,全部打出,draft,
 ui_runtime:3bbe67610df0:118,ui_runtime,,3bbe67610df0,Open/Close Dreamborn List,打开/关闭梦生列表,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:3d2bbd12f64e:210,ui_runtime,,3d2bbd12f64e,<size=104>R</size>ocket Courier X-99,<size=104>R</size>ocket信使X-99,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:3ed2f7e3b4d2:214,ui_runtime,,3ed2f7e3b4d2,Game End:,终局：,draft,,loc/zh-Hans/ui_runtime.csv
-ui_runtime:3eef4a8db313:207,ui_runtime,,3eef4a8db313,FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void\n,FACTION\nThere为 4 different派系:\n<color=#4cbbeb>启迪\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空,draft,,loc/zh-Hans/ui_runtime.csv
+ui_runtime:3eef4a8db313:207,ui_runtime,,3eef4a8db313,FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void\n,FACTION\nThere为 4 different派系:\n<color=#4cbbeb>圣贤\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:3f8770111fc7:217,ui_runtime,,3f8770111fc7,Acquiring Heroes and Constructs:,获取英雄与神器：,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:4094ecbe8dc3:53,ui_runtime,,4094ecbe8dc3,Key Bindings,按键绑定,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:41d48b1a37d1:160,ui_runtime,,41d48b1a37d1,PlayerName Name,名称,draft,,loc/zh-Hans/ui_runtime.csv
@@ -3479,7 +3479,7 @@ ui_runtime:51912a954d00:132,ui_runtime,,51912a954d00,<size=104>A</size>skara of 
 ui_runtime:5339b4f66627:109,ui_runtime,,5339b4f66627,Scroll Magnified Card Right,放大卡右翻,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:5438ee6aba52:20,ui_runtime,,5438ee6aba52,Lifebound Hero,命约英雄,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:55f48a6b453b:196,ui_runtime,,55f48a6b453b,Honor Points,荣誉点数,draft,,loc/zh-Hans/ui_runtime.csv
-ui_runtime:56f1499bbe33:172,ui_runtime,,56f1499bbe33,Enlightened Legend,启迪传奇,draft,,loc/zh-Hans/ui_runtime.csv
+ui_runtime:56f1499bbe33:172,ui_runtime,,56f1499bbe33,Enlightened Legend,圣贤传奇,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:57c58b78b04d:94,ui_runtime,,57c58b78b04d,Gameplay Analytics,游戏分析,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:57f5f5efbc59:2,ui_runtime,,57f5f5efbc59,Menu,菜单,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:5a2e9a5faef2:137,ui_runtime,,5a2e9a5faef2,In Progress:,进行中：,draft,,loc/zh-Hans/ui_runtime.csv
@@ -3568,7 +3568,7 @@ ui_runtime:ca1c6169ebc9:15,ui_runtime,,ca1c6169ebc9,Stone Blade Newsletter Sign-
 ui_runtime:cacbd4fd30e4:31,ui_runtime,,cacbd4fd30e4,Cultist Screams,邪教徒惨叫,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:cbbbd16d05ca:205,ui_runtime,,cbbbd16d05ca,COST\nThe number of Runes you must spend to acquire this card.,COST\n 数量的 符文你 须花费以获取此牌.,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:cf3611a1f1c2:152,ui_runtime,,cf3611a1f1c2,"You already own one or more items contained in this bundle.\nIndividual items can be purchased from the ""Purchase Separately"" menu.\nAre you sure you wish to purchase the bundle?",你已拥有本合集中的一件或多件内容。\n单件商品可在「单独购买」中购买。,draft,,loc/zh-Hans/ui_runtime.csv
-ui_runtime:d03246ab5954:180,ui_runtime,,d03246ab5954,Enlightened Champion,启迪冠军,draft,,loc/zh-Hans/ui_runtime.csv
+ui_runtime:d03246ab5954:180,ui_runtime,,d03246ab5954,Enlightened Champion,圣贤冠军,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:d1901a957e29:86,ui_runtime,,d1901a957e29,LGS,史诗传奇,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:d341fbf6ea72:135,ui_runtime,,d341fbf6ea72,Info blocky of Info\nInfo block of Info\nInfo block of Info block of Info\nInfo block of Info\nInfo block of Info\nInfo block of Info,信息,draft,,loc/zh-Hans/ui_runtime.csv
 ui_runtime:d3f459fdc30d:167,ui_runtime,,d3f459fdc30d,Your Bid:,你的Bid:,draft,,loc/zh-Hans/ui_runtime.csv

@@ -58,6 +58,7 @@ BepInEx 6 插件替换 `GetTextByKey`，TMP/UI `set_text` Exact/Norm，雅黑 CJ
 | 日期 | 版本 | 更新点 |
 | --- | --- | --- |
 | 2026-08-22 | Phase 1 | **覆盖闭环**：`missing_total=0`；空风味 waived；缩写卡名 reviewed；修 Loading rulebook；gates 升 phase 1 |
+| 2026-08-22 | Phase 2 | 术语：全表 启迪→圣贤；gates 启迪命中上限 0 |
 | 2026-08-22 | v1.4.5 | **商店/规则书长文恢复**：完整 overlay 强制部署；normalize 标签→空格；长文 partial；`SetText(string)` prefix（IL2CPP 可能失败则回退 set_text）；enable 校验 overlay 体积。用户确认商店与规则书已修复。路线图落库；**Phase T/0 完成，进入 Phase 1** |
 | 2026-08-22 | v1.4.4 | 恢复 `SetText(string)` + Relocalize 未激活短文案（1.4.3 覆盖回退） |
 | 2026-08-22 | v1.4.3 | **商店卡死热修**：去掉全部 SetText 格式化重载 Hook；关 panelSweep；长文仅 Exact（导致长文回退，由 1.4.5 修正） |
