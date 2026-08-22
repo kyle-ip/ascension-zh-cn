@@ -295,7 +295,7 @@ K	CARDNAME_ENERGYMONK	能量僧侣
 K	CARDNAME_ENERGYSHARD	能量碎片
 K	CARDNAME_ENERGYSHARDSTART	能量碎片
 K	CARDNAME_ENGULFINGKRAKEN	吞噬克拉肯
-K	CARDNAME_ENLIGHTENEDREMNANT	启迪残响
+K	CARDNAME_ENLIGHTENEDREMNANT	圣贤残响
 K	CARDNAME_ENTROPHANTASM	熵幻象
 K	CARDNAME_EPHEMERALDRUID	昙花德鲁伊
 K	CARDNAME_EPHEMERALINVENTOR	昙花发明家
@@ -435,7 +435,7 @@ K	CARDNAME_LAGOONTROLLETER	潟湖巨魔
 K	CARDNAME_LANDISPOTIONS&PIES	兰迪斯的药剂与馅饼
 K	CARDNAME_LANDTALKER	大地说书人
 K	CARDNAME_LANDTALKER10TH	大地说书人
-K	CARDNAME_LEGENDARYBOONENLIGHTENED	传奇恩赐：启迪
+K	CARDNAME_LEGENDARYBOONENLIGHTENED	传奇恩赐：圣贤
 K	CARDNAME_LEGENDARYBOONLIFEBOUND	传奇恩赐：生命
 K	CARDNAME_LEGENDARYBOONMECHANA	传奇恩赐：机械
 K	CARDNAME_LEGENDARYBOONVOID	传奇恩赐：虚空
@@ -1054,7 +1054,7 @@ K	EFFECT_AUSPICIOUSASKARA	抽一张牌.<br>${LABEL_UNITE} 你可以放逐一张�
 K	EFFECT_AUSTERESAGE	抽一张牌.<br>你可以放逐一张卡牌在中央牌列, 然后 ${LABEL_RALLY_ENLIGHTENED}.
 K	EFFECT_AUTOBUILDER50	你可以摧毁此 以支付 ${ICON_RUNE2} 更低下次你获取机械神器本回合.
 K	EFFECT_AVATARGOLEM	获得2战力。你每控制一种神器，获得1荣誉。
-K	EFFECT_AVATARGOLEM10TH	获得${ICON_POWER2}.<br>获得${ICON_HONOR1} 以每个派系之中神器你控制的. <i>(派系为启迪, 机械, 生命, 和虚空.)</i>
+K	EFFECT_AVATARGOLEM10TH	获得${ICON_POWER2}.<br>获得${ICON_HONOR1} 以每个派系之中神器你控制的. <i>(派系为圣贤, 机械, 生命, 和虚空.)</i>
 K	EFFECT_AVATAROFAIYANA	获得${ICON_RUNE2}.<br>此回合, 你可以获取英雄在中央牌列被 支付 ${ICON_RUNE} 相等以 其 ${ICON_HONOR} 而非支付其 ${ICON_RUNE} 费用.
 K	EFFECT_AVATAROFTHEFALLEN	除非被击败，否则此怪物不可被放逐。奖励：获得4荣誉。你可以无需支付费用获取或击败中央牌列中的任意一张卡牌。
 K	EFFECT_AVATAROFTHEFALLEN10TH	<b>不可放逐</b>.<br>${LABEL_REWARD} 获得${ICON_HONOR4}. 你可以获取或 击败任意卡牌在中央牌列无需支付费用.
@@ -1110,7 +1110,7 @@ K	EFFECT_CACKLINGJACKAL	${LABEL_REWARD} 获得${ICON_HONOR2}.
 K	EFFECT_CALLOFDARKNESS	放逐至多 5 卡牌在你的手牌或弃牌堆.
 K	EFFECT_CANONTEMPLAR	获得${ICON_RUNE2}.<br>你可以击败一个怪物以 ${ICON_POWER} 费用低于或 相等以 ${ICON_RUNE} 费用的 神器你控制的.
 K	EFFECT_CANOPICJAR	每回合一次，获得${ICON_POWER1}.<br>每回合一次，当你 击败一个怪物在中央牌列, 获得${ICON_RUNE1}.
-K	EFFECT_CANOPYSANCTUARY	每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为启迪或 生命, 获得${ICON_HONOR3}.
+K	EFFECT_CANOPYSANCTUARY	每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为圣贤或 生命, 获得${ICON_HONOR3}.
 K	EFFECT_CARETAKERZAHRAL	获得${ICON_RUNE3}.<br>下次你获取一个英雄本回合, 你可以将它放置放到你的牌库顶.
 K	EFFECT_CAUSTICCONJURER	获得${ICON_INSIGHT1}.<br>你可以放逐一张卡牌在你的手牌或弃牌堆.
 K	EFFECT_CAVERNCREEPER	${LABEL_REWARD} 获得${ICON_HONOR1} 和 ${ICON_RUNE1}.
@@ -1170,7 +1170,7 @@ K	EFFECT_DARKMONK	获得${ICON_POWER2}.<br>${LABEL_UNITE} 抽一张牌.
 K	EFFECT_DARKTOMELIBRARIAN	获得${ICON_INSIGHT2}.<br>你可以放逐一张卡牌在你的手牌或弃牌堆.
 K	EFFECT_DARKWALKER	获得${ICON_POWER2}.
 K	EFFECT_DAVIDPROPHETICGUIDE	抽三张牌, 然后放置两 卡牌从你的手牌放到你的牌库顶在 任意秩序.
-K	EFFECT_DAYBREAKASKARA	复制本回合打出的一张英雄的效果。 若英雄曾是启迪, 复制该 英雄之效果额外的次. 此效果不能是 被复制.
+K	EFFECT_DAYBREAKASKARA	复制本回合打出的一张英雄的效果。 若英雄曾是圣贤, 复制该 英雄之效果额外的次. 此效果不能是 被复制.
 K	EFFECT_DEADEYEASSASSIN	获得${ICON_POWER3}.<br>获得额外的 ${ICON_POWER1} 以每个虚空卡牌在你的弃牌堆.
 K	EFFECT_DEATHBOUNDDRUID	获得${ICON_HONOR3}.<br>你可以放逐一张卡牌在你的弃牌堆.
 K	EFFECT_DEATHDEALERNOBLE	获得${ICON_POWER2}.<br>${LABEL_MULTIUNITE} 获得${ICON_POWER1}. <i>(获得此效果以 每个其他虚空英雄你 打出或 拥有打出过本回合.)</i>
@@ -1220,7 +1220,7 @@ K	EFFECT_DREADMAGE	${LABEL_REWARD} 获得${ICON_HONOR2} 和抽两张牌.<br>${LA
 K	EFFECT_DREADMARE	${LABEL_REWARD} 获得${ICON_HONOR4} 和 ${ICON_INSIGHT3}.
 K	EFFECT_DREAMANCHOR	${LABEL_PLUNDER}每回合一次，若你 获取卡牌和 击败一个怪物, 两者在中央牌列, 获得${ICON_INSIGHT2}.
 K	EFFECT_DREAMCHAMBERDISCIPLES	抽一张牌.<br>${LABEL_SERENITY} 获得${ICON_INSIGHT2}. (<i>获得此效果若 那里为 没有卡牌在你的弃牌堆.</i>)
-K	EFFECT_DREAMDEALER	抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在启迪, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.
+K	EFFECT_DREAMDEALER	抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在圣贤, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.
 K	EFFECT_DREAMEATER	${LABEL_REWARD} 获得${ICON_HONOR2} 和 ${ICON_INSIGHT1}.
 K	EFFECT_DREAMERSGLASS	每回合一次，你可以放置卡牌在你的手牌中其下此 面朝上. 若你如此做，抽一张牌.\n<br>当梦者琉璃离开打出或 游戏结束, 放置所有卡牌其下它 置入你的弃牌堆.
 K	EFFECT_DREAMGUIDE	获得${ICON_RUNE2} 和 ${ICON_INSIGHT1}.
@@ -1252,7 +1252,7 @@ K	EFFECT_EEKTRIBEGREMLIN	${LABEL_REWARD} 获得${ICON_HONOR5}. 放置怪物从 �
 K	EFFECT_ELANSOULMARSHAL	获得灵魂宝石.<br>抽一张牌.
 K	EFFECT_ELDERSKEPTIC	抽两张牌, 然后弃掉卡牌.
 K	EFFECT_ELDERSKEPTICETER	抽两张牌, 然后弃掉卡牌.
-K	EFFECT_ELEMENTALADEPT	抽一张牌. 若当前事件为 启迪, 抽额外的卡牌.<br>你可以放逐一张卡牌在中央牌列.
+K	EFFECT_ELEMENTALADEPT	抽一张牌. 若当前事件为 圣贤, 抽额外的卡牌.<br>你可以放逐一张卡牌在中央牌列.
 K	EFFECT_ELEMENTALPROJECTOR	每回合一次，若你控制的两 或更高机械神器, 获得${ICON_POWER2}.
 K	EFFECT_EMBERWINGMOTH	${LABEL_REWARD} 获得${ICON_HONOR5}.
 K	EFFECT_EMISSARYOFDAWN	获取一个英雄无需支付费用. 获得${ICON_HONOR} 相等以 其 ${ICON_HONOR} 值.
@@ -1278,7 +1278,7 @@ K	EFFECT_ENERGYMONK	获得${ICON_POWER2}.<br>你可以返回神器你控制的�
 K	EFFECT_ENERGYSHARD	获得${ICON_ENERGY1}. 抽一张牌.
 K	EFFECT_ENERGYSHARDSTART	获得${ICON_ENERGY1}. 抽一张牌.
 K	EFFECT_ENGULFINGKRAKEN	${LABEL_REWARD} 获得${ICON_HONOR6}. 拿取一张卡牌随机从 每位对手之梦境, 和将它们加入你的梦境.
-K	EFFECT_ENLIGHTENEDREMNANT	${LABEL_REWARD} 获得${ICON_HONOR5}.<br>若你打出过或 已获取启迪卡牌本回合, 抽两张牌.
+K	EFFECT_ENLIGHTENEDREMNANT	${LABEL_REWARD} 获得${ICON_HONOR5}.<br>若你打出过或 已获取圣贤卡牌本回合, 抽两张牌.
 K	EFFECT_ENTROPHANTASM	获得${ICON_RUNE1} 和 ${ICON_INSIGHT1}.<br>${LABEL_UNITE} 抽一张牌. (<i>获得此效果若 你打出或 拥有打出过另一命约英雄本回合.</i>)
 K	EFFECT_EPHEMERALDRUID	获得${ICON_HONOR5}, 然后放逐此牌.
 K	EFFECT_EPHEMERALINVENTOR	获得${ICON_RUNE3}, 然后放逐此牌.
@@ -1393,7 +1393,7 @@ K	EFFECT_JAKEBCOBRAKING	获得${ICON_HONOR6}.<br>当你 获得${ICON_HONOR} 从�
 K	EFFECT_JAKEBCOBRASHAMAN	获得${ICON_HONOR3}.
 K	EFFECT_JOURNEYMANOUTRIDER	获取一个英雄或 神器以 费用 ${ICON_RUNE5} 或更低无需支付费用.
 K	EFFECT_JOURNEYMANSAGE	放逐一个英雄在你的手牌中. 若你如此做，获取一个英雄以 ${ICON_HONOR} 值至多一 超过该 的被放逐卡牌和 将它放置在你的手牌中.
-K	EFFECT_JUBILANTMONK	展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或启迪卡牌.
+K	EFFECT_JUBILANTMONK	展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或圣贤卡牌.
 K	EFFECT_KANZIRTHERAVAGER	${LABEL_REWARD} 获得${ICON_HONOR5}. 每位对手loses控制的 所有Temples和摧毁所有神器s其控制的.
 K	EFFECT_KARION	${LABEL_REWARD} 获得${ICON_HONOR5} 和 ${ICON_INSIGHT10}.
 K	EFFECT_KEENEYEDASPIRANT	赋力 <i>(当你 获取此, 你可以放逐一张卡牌你 拥有打出过本回合.)</i><br>获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
@@ -1415,7 +1415,7 @@ K	EFFECT_LAGOONTROLLETER	${LABEL_REWARD} 获得${ICON_HONOR2}. 抽一张牌.
 K	EFFECT_LANDISPOTIONS&PIES	每回合一次，获得${ICON_HONOR1}.<br><br>${LABEL_UNITE} 获得${ICON_RUNE1}.
 K	EFFECT_LANDTALKER	获得3符文。
 K	EFFECT_LANDTALKER10TH	获得${ICON_RUNE3}.
-K	EFFECT_LEGENDARYBOONENLIGHTENED	获取或 击败任意启迪卡牌从 中央牌列无需支付费用.
+K	EFFECT_LEGENDARYBOONENLIGHTENED	获取或 击败任意圣贤卡牌从 中央牌列无需支付费用.
 K	EFFECT_LEGENDARYBOONLIFEBOUND	获取或 击败任意生命卡牌从 中央牌列无需支付费用.
 K	EFFECT_LEGENDARYBOONMECHANA	获取或 击败任意机械卡牌从 中央牌列无需支付费用.
 K	EFFECT_LEGENDARYBOONVOID	获取或 击败任意虚空卡牌从 中央牌列无需支付费用.
@@ -1430,7 +1430,7 @@ K	EFFECT_LEGENDULU	一次本回合, 获得${ICON_RENOWN1} 在另一派系.
 K	EFFECT_LEGIONOFAKLYS	若所有卡牌在中央牌列为 ${ICON_NIGHT} 卡牌, 你可以击败此 无需支付费用.<br>${LABEL_REWARD} 获得${ICON_HONOR5}.
 K	EFFECT_LEOTANSFAMILIAR	获得${ICON_RUNE1}.
 K	EFFECT_LEPRECHAUN	获得${ICON_RUNE2}. 获取一个罐的 金从彩虹尽头或 从另一名玩家的控制.
-K	EFFECT_LIBRARYFAMILIAR	每回合一次，当你 打出启迪神器或 机械神器 (包括此牌一), 抽一张牌.
+K	EFFECT_LIBRARYFAMILIAR	每回合一次，当你 打出圣贤神器或 机械神器 (包括此牌一), 抽一张牌.
 K	EFFECT_LIEUTENANTDUROS	${LABEL_REWARD} 获得${ICON_HONOR4}.
 K	EFFECT_LIFEBOUNDINITIATE	获得1符文和1荣誉。
 K	EFFECT_LIFEBOUNDINITIATE10TH	获得${ICON_RUNE1} 和 ${ICON_HONOR1}.
@@ -1456,7 +1456,7 @@ K	EFFECT_MADNESSEMBRACE	每回合一次，若你 拥有被击败怪物在中央�
 K	EFFECT_MAGNETMONK	获得${ICON_POWER2}.<br>获得${ICON_ENERGY1} 以每个派系在你控制的神器之中.
 K	EFFECT_MAMMOTHBEETLE	${LABEL_REWARD} 获得${ICON_HONOR3}. 每位对手摧毁神器其控制的. 你可以支付 ${ICON_INSIGHT1} 以拥有每位对手摧毁额外的神器其控制的.
 K	EFFECT_MANIACALCRUSHER	获得${ICON_POWER2}.<br>下次你击败一个怪物在中央牌列本回合, ${LABEL_RALLY_VOID}.
-K	EFFECT_MANTRAOFRENEWAL	每回合一次，若你 拥有打出过两 或更高启迪卡牌 (包括此牌一), 抽一张牌.
+K	EFFECT_MANTRAOFRENEWAL	每回合一次，若你 拥有打出过两 或更高圣贤卡牌 (包括此牌一), 抽一张牌.
 K	EFFECT_MANTRAOFTRUESIGHT	每回合一次，你可以抽一张牌.
 K	EFFECT_MAPOFTHESTARS	每回合一次，获得${ICON_RUNE1} 和 ${ICON_POWER1}.
 K	EFFECT_MARROWWYRMRIDER	${LABEL_REWARD} 获得${ICON_HONOR3}. 你可以获取一个英雄以 费用 ${ICON_RUNE5} 或更低无需支付费用.
@@ -1486,7 +1486,7 @@ K	EFFECT_MINOTAUR	${LABEL_REWARD} 获得${ICON_HONOR3}.
 K	EFFECT_MISTAKEOFCREATION	奖励：获得4荣誉。你可以放逐中央牌列和/或你弃牌堆中的一张卡牌。
 K	EFFECT_MISTAKEOFCREATION10TH	${LABEL_REWARD} 获得${ICON_HONOR4}. 你可以放逐一张卡牌在中央牌列和/或卡牌在你的弃牌堆.
 K	EFFECT_MOKENTHEHUNTMASTER	获得${ICON_HONOR5}.<br>At结束时游戏, 莫肯, 猎主之 ${ICON_HONOR} 值为 相等以 数量为宝藏卡牌在 你的牌库.
-K	EFFECT_MOMENTOFCLARITY	当玩家获取启迪卡牌, 该玩家可以抽一张牌.<br>${LABEL_EVENT_TROPHY} 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.
+K	EFFECT_MOMENTOFCLARITY	当玩家获取圣贤卡牌, 该玩家可以抽一张牌.<br>${LABEL_EVENT_TROPHY} 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.
 K	EFFECT_MONASTICTUTOR	获取一个秘教士或 重装步兵无需支付费用.
 K	EFFECT_MONKOFTHELIDLESSEYE	抽两张牌.
 K	EFFECT_MONKOFTHESTONECIRCLE	获取一个英雄以 费用 ${ICON_RUNE3} 或更低和 将它放置置入你的手牌.
@@ -1599,7 +1599,7 @@ K	EFFECT_PROTEANSEASLUG	${LABEL_REWARD} 获得${ICON_HONOR5}. 每位对手摧毁
 K	EFFECT_PROTEANSEASLUGETER	${LABEL_REWARD} 获得${ICON_HONOR5}. 每位对手摧毁所有神器s其控制的.
 K	EFFECT_PSIONICMONK	抽 2 卡牌.<br>获得${ICON_HONOR1} 以每个派系在你控制的神器之中.
 K	EFFECT_PSYCHEASKARA	复制效果的 英雄你 拥有打出过本回合或 怪物奖励你 拥有已获得本回合.
-K	EFFECT_PSYCHICAMULET	每回合一次，当你 打出机械或 启迪神器 (包括此牌一), 抽一张牌.
+K	EFFECT_PSYCHICAMULET	每回合一次，当你 打出机械或 圣贤神器 (包括此牌一), 抽一张牌.
 K	EFFECT_PSYONICAPPRENTICE	当此 为在你的手牌中, 你可以支付 ${ICON_INSIGHT7} 以转化它 置入心灵圣骑士.<br>击败一个怪物以 费用 ${ICON_POWER4} 或更低无需支付费用.
 K	EFFECT_PSYONICPALADIN	击败一个怪物在中央牌列无需支付费用.
 K	EFFECT_PUGGAGEDDON	${LABEL_REWARD} 获得${ICON_HONOR2}. 放置此 置入另一玩家之弃牌堆. <br><br>当此 为打出过从你的手牌, 获得${ICON_HONOR1} 和将它放置置入另一玩家之弃牌堆.
@@ -1643,7 +1643,7 @@ K	EFFECT_RIVERREAPER	${LABEL_REWARD} 获得${ICON_HONOR6}. 每位对手摧毁只
 K	EFFECT_ROCKETCOURIERX99	每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。
 K	EFFECT_ROCKETCOURIERX9910TH	每回合一次，当你 获取机械神器, 你可以将它放置置入你的手牌.
 K	EFFECT_ROCKETCOURIERX99ETER	每回合一次，当你 获取机械神器, 你可以将它放置置入你的手牌.
-K	EFFECT_ROOTSCRYER	展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为启迪或 生命, 获得${ICON_HONOR3}.
+K	EFFECT_ROOTSCRYER	展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为圣贤或 生命, 获得${ICON_HONOR3}.
 K	EFFECT_RUNICHONISKROT	获得${ICON_RUNE2}.
 K	EFFECT_RUNICLYCANTHROPE	获得2符文。若你本回合打出过命约英雄，获得2战力。
 K	EFFECT_RUNICLYCANTHROPE10TH	获得${ICON_RUNE2}.<br>${LABEL_UNITE} 若你 打出或 拥有打出过命约英雄本回合, 获得${ICON_POWER2}.
@@ -1672,7 +1672,7 @@ K	EFFECT_SCRAPBOTSCRAPPER	获得${ICON_POWER2}. 你可以返回神器你控制�
 K	EFFECT_SCRAPFLINGER	获得${ICON_POWER2}.<br>你可以摧毁一个神器你控制的. 若你如此做，获得额外的 ${ICON_POWER2}.
 K	EFFECT_SCRAPSCRABBLER	获得${ICON_RUNE1} 和 ${ICON_POWER1}.
 K	EFFECT_SCRAPWEAVER	抽一张牌.<br>你可以放置下一神器你 获取本回合直接进入战场.
-K	EFFECT_SCRYEROFTHELIDLESSEYE	抽两张牌, 然后弃掉卡牌. 若已弃掉卡牌为 启迪, 返回它 以你的手牌.
+K	EFFECT_SCRYEROFTHELIDLESSEYE	抽两张牌, 然后弃掉卡牌. 若已弃掉卡牌为 圣贤, 返回它 以你的手牌.
 K	EFFECT_SEARINGASKARA	放逐一张卡牌在中央牌列. 然后你可以获取卡牌以 费用 ${ICON_RUNE3} 或更低无需支付费用.
 K	EFFECT_SEATYRANT	奖励：获得5荣誉。每位对手须选择一张其控制的神器，将其余神器置入弃牌堆。
 K	EFFECT_SEATYRANT10TH	${LABEL_REWARD} 获得${ICON_HONOR5}. 若对手拥有超过一 神器, 该玩家须摧毁只留一个，其余神器其控制的.
@@ -1684,7 +1684,7 @@ K	EFFECT_SEEROFTHEFORKEDPATH10TH	抽一张牌. 你可以放逐一张卡牌在中
 K	EFFECT_SERENEASCETIC	当你 获取此, 你可以将它放置放到你的牌库顶.<br>抽两张牌.
 K	EFFECT_SERPENTCALL	每回合一次，获得${ICON_RUNE2}.<br>每回合一次，你可以获取一个英雄在 虚空区视为在中央牌列.
 K	EFFECT_SERPENTSIREN	${LABEL_REWARD} 获得${ICON_HONOR1}.
-K	EFFECT_SHADEASKARA	获得${ICON_POWER3}.<br>若你 拥有启迪或 虚空卡牌在你的弃牌堆, 抽一张牌.
+K	EFFECT_SHADEASKARA	获得${ICON_POWER3}.<br>若你 拥有圣贤或 虚空卡牌在你的弃牌堆, 抽一张牌.
 K	EFFECT_SHADECONVERTER	若你控制的三 或更高机械神器, 你可以视为你的回合作为昼.
 K	EFFECT_SHADEFEATHER	获得${ICON_POWER1}. 你可以放逐一张卡牌在你的手牌或弃牌堆.
 K	EFFECT_SHADEOFSADRANIS	获得${ICON_POWER4}.
@@ -1770,7 +1770,7 @@ K	EFFECT_STARVEDABOMINATION	${LABEL_REWARD} 获得${ICON_HONOR3}. 获得${ICON_L
 K	EFFECT_STATICELEMENTAL	${LABEL_REWARD} 获得${ICON_HONOR5}. 每位对手放置所有神器s其控制的在 顶部的 其牌库在 随机秩序.
 K	EFFECT_STEELWEAVER	获得${ICON_RUNE1}. 一次本回合, 当你 获取神器, 将其直接进入战场.<br>你可以支付 ${ICON_INSIGHT1} 以 <b>再次发生</b>. <i>(获得效果列出的上方额外的次. 你可以只再次发生一次.)</i>
 K	EFFECT_STONEARTIFICERS	获得${ICON_RUNE2}. 你可以放置下一神器你 获取本回合直接进入战场.
-K	EFFECT_STONEBLADETEMPLAR	展示和 放逐顶部卡牌的 传送门牌库. 若其 派系为:<br><b>启迪:</b> 抽两张牌.<br><b>生命:</b> 获得${ICON_HONOR3}.<br><b>机械:</b> 获得${ICON_RUNE2}.<br><b>虚空:</b> 获得${ICON_POWER2}.<br><b>无派系：</b> 选择一 的效果上方.
+K	EFFECT_STONEBLADETEMPLAR	展示和 放逐顶部卡牌的 传送门牌库. 若其 派系为:<br><b>圣贤:</b> 抽两张牌.<br><b>生命:</b> 获得${ICON_HONOR3}.<br><b>机械:</b> 获得${ICON_RUNE2}.<br><b>虚空:</b> 获得${ICON_POWER2}.<br><b>无派系：</b> 选择一 的效果上方.
 K	EFFECT_STONECIRCLE	每回合一次，当你 获取一个英雄, 你可以将它放置放到你的牌库顶.
 K	EFFECT_STONECIRCLEELDER	获取一个英雄费用为${ICON_RUNE5} 或更低无需支付费用. 将它放置放到你的牌库顶. 若当前事件为 生命, 抽一张牌.
 K	EFFECT_STORMSMITHANVIL	每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得${ICON_RUNE1}.
@@ -1793,7 +1793,7 @@ K	EFFECT_TELETRANSMITTERBLUEPRINT	你可以支付 ${ICON_INSIGHT5} 以将此牌�
 K	EFFECT_TEMPLARDRAGOON	击败一个怪物以 费用 ${ICON_POWER4} 或更低无需支付费用, 或将一张卡牌加入你的梦境.
 K	EFFECT_TEMPLARGENERAL	击败一个怪物以 费用 ${ICON_POWER4} 或更低无需支付费用.<br>${LABEL_SERENITY} 当你 获取此, 将它放置在你的手牌中.
 K	EFFECT_TEMPLAROUTPOST	每回合一次，击败一个怪物在中央牌列以 费用 ${ICON_POWER4} 或更低无需支付费用.
-K	EFFECT_TEMPLEGUARDIAN	击败一个怪物以 ${ICON_POWER5} 或更低无需支付费用. 若当前事件为 启迪, 抽一张牌.
+K	EFFECT_TEMPLEGUARDIAN	击败一个怪物以 ${ICON_POWER5} 或更低无需支付费用. 若当前事件为 圣贤, 抽一张牌.
 K	EFFECT_TEMPLELIBRARIAN	弃一张牌。若你如此做，抽两张牌。
 K	EFFECT_TEMPLELIBRARIAN10TH	弃掉卡牌. 若你如此做，抽两张牌.
 K	EFFECT_TEMPLEOFARHA	每回合一次，若你 拥有打出过秘教士或 重装步兵, 你可以抽一张牌.
@@ -1837,7 +1837,7 @@ K	EFFECT_TORICDEVOTEDDISCIPLE	复制效果的 英雄在中央牌列.
 K	EFFECT_TORMENTEDSOUL	奖励：获得1荣誉。抽一张牌。
 K	EFFECT_TORMENTEDSOUL10TH	${LABEL_REWARD} 获得${ICON_HONOR2}. 抽一张牌.
 K	EFFECT_TORMENTLEGIONARY	${LABEL_REWARD} 获得${ICON_HONOR6}. 获取一个梦生卡牌在中央牌列无需支付费用.
-K	EFFECT_TOWERASKARA	抽三张牌, 然后弃掉两 卡牌或 一启迪卡牌.
+K	EFFECT_TOWERASKARA	抽三张牌, 然后弃掉两 卡牌或 一圣贤卡牌.
 K	EFFECT_TREASUREHUNTER	获得${ICON_POWER2}.<br>你可以支付 ${ICON_POWER1} 更低下次你击败一个怪物以 宝藏其下它 本回合.
 K	EFFECT_TREASURESOFTHESTUDY	每回合一次，你可以弃掉两 卡牌. 若你如此做，获得${ICON_HONOR3}.
 K	EFFECT_TREEOFBOUNTY	${LABEL_PLUNDER}每回合一次，若你 获取卡牌和 击败一个怪物, 两者在中央牌列, 获得${ICON_HONOR3}.
@@ -1917,7 +1917,7 @@ K	EFFECT_WILDBARKMAIL	每回合一次，若你 拥有被击败怪物在中央牌
 K	EFFECT_WILDCALLSTAFF	每回合一次，你支付 ${ICON_RUNE2} 更低以 获取卡牌以 宝藏其下它.
 K	EFFECT_WILDFIREELEMENTAL	${LABEL_REWARD} 获得${ICON_HONOR4}. 选择至多两 卡牌在中央牌列和 放逐它们.
 K	EFFECT_WILDGEARDRUID	获得${ICON_RUNE2}.<br>若你控制的两 或更高神器s, 获得${ICON_HONOR2}.
-K	EFFECT_WILDGEARSOWER	获得${ICON_RUNE2}.<br>获得${ICON_HONOR1} 以每个派系在你控制的神器之中. (派系为启迪, 生命, 机械和 虚空).
+K	EFFECT_WILDGEARSOWER	获得${ICON_RUNE2}.<br>获得${ICON_HONOR1} 以每个派系在你控制的神器之中. (派系为圣贤, 生命, 机械和 虚空).
 K	EFFECT_WILDRIFTDRAKE	${LABEL_REWARD} 获得${ICON_HONOR4}. 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.
 K	EFFECT_WINDTYRANT	奖励：获得3荣誉。获得3符文。
 K	EFFECT_WINDTYRANT10TH	${LABEL_REWARD} 获得${ICON_HONOR3} 和 ${ICON_RUNE3}.
@@ -3234,11 +3234,11 @@ E	RUNES: Runes are one of the two main resources in Ascension. Runes are used to
 E	HONOR: Honor is the key to victory in Ascension. Whoever earns the most Honor throughout the game wins and earns the title of Godslayer!	<indent=4em><b>荣誉：</b>荣誉是《创升纪元》通往胜利的钥匙。整场游戏中获得荣誉最多的玩家获胜，并取得「弑神者」的称号！
 E	The player who gains the most <b>Honor Points</b> will lead his army to defeat the <b>Fallen One</b> and earn the title of <b>Godslayer.	赢得最多<b>荣誉点数</b>的玩家将率领自己的军队击败<b>堕落者</b>，夺得<b>弑神者</b>的称号。
 E	2. After you are done acquiring Heroes and Constructs and defeating Monsters, all cards in your hand are placed into your discard pile.	2. 当你完成获取英雄、神器和击败怪物后，将场上所有剩余的卡牌放入弃牌堆。
-E	FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void\n	FACTION\nThere为 4 different派系:\n<color=#4cbbeb>启迪\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空
+E	FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void\n	FACTION\nThere为 4 different派系:\n<color=#4cbbeb>圣贤\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空
 E	Runes are one of the two main resources in Ascension. Runes are used to acquire Heroes and Constructs so you can add them to your deck.	符文是《创升纪元》的两大核心资源之一。符文用于获取英雄和神器，将它们加入你的牌库。
 E	You can get a closer view of any card by double tapping it.  A single tap will then return it to the play field so you can resume play.	双击任意卡牌可查看大图。单击即可回到牌局继续游戏。
 E	You can get a closer view of any card by right clicking it.  A left click will then return it to the play field so you can resume play.	右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。
-E	FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void	FACTION\nThere为 4 different派系:\n<color=#4cbbeb>启迪\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空
+E	FACTION\nThere are 4 different factions:\n<color=#4cbbeb>Enlightened\n<color=#7fc241>Lifebound\n<color=#b6b6b6>Mechana\n<color=#bb8bbe>Void	FACTION\nThere为 4 different派系:\n<color=#4cbbeb>圣贤\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空
 E	You can get a closer view of any card by double tapping it. A single tap will then return it to the play field so you can resume play.	双击任意卡牌可查看大图。单击即可回到牌局继续游戏。
 E	You can get a closer view of any card by right clicking it. A left click will then return it to the play field so you can resume play.	右键点击任意卡牌可查看大图。左键点击即可回到牌局继续游戏。
 E	Purchase all the Ascension bundles for one low price!Includes Bundle #1 through Bundle #5. That's 630 unique new cards to play with.	Purchase所有Ascension bundles以一low price!<br><br>Includes Bundle #1 穿过Bundle #5. \n\n该之 630 <b>unique</b> 新卡牌以 打出以.
@@ -3291,7 +3291,7 @@ E	<allcaps>Global Honor Pool:</allcaps>\nHonor Points for the game are drawn fro
 E	<allcaps>Global Honor Pool:</allcaps> Honor Points for the game are drawn from this pool.	<allcaps>全局荣誉池：</allcaps>\n本局使用的荣誉点数来源于此处。
 E	<allcaps>Play All:</allcaps>\nplaces all of the cards from your hand into the Action Area.	<allcaps>全部打出：</allcaps>\n将你手牌中的所有卡牌一次性放入行动区。
 E	<allcaps>Play All:</allcaps> places all of the cards from your hand into the Action Area.	<allcaps>全部打出：</allcaps>\n将你手牌中的所有卡牌一次性放入行动区。
-E	Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.	每当你 获取或 击败启迪卡牌在中央牌列, 集结: 启迪.
+E	Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.	每当你 获取或 击败圣贤卡牌在中央牌列, 集结: 圣贤.
 E	The final resource is Honor. The player with the most Honor at the end of the game wins.	最后一种资源是荣誉。游戏结束时荣誉最多的玩家获胜。
 E	There are no available Games at this time.Use the Create Game Menu to create a new game.	目前没有可加入的对局。<br>请使用“创建对局”菜单开一局新游戏。
 E	Whenever you acquire or defeat a Lifebound card from the center row, gain <sprite=129>.	每当你从中央牌列获取或击败一张命约卡牌时，获得 <sprite=129>。
@@ -3316,7 +3316,7 @@ E	Whenever you acquire or defeat an Enlightened card from the center row, gain .
 E	<allcaps>Online Indicator:</allcaps>\nUsed to show an opponent's online status	<allcaps>在线标识：</allcaps>\n用于显示对手当前是否在线。
 E	<allcaps>Online Indicator:</allcaps> Used to show an opponent's online status	<allcaps>在线标识：</allcaps>\n用于显示对手当前是否在线。
 E	Whenever you acquire or defeat a Lifebound card from the center row, gain .	每当你从中央牌列获取或击败一张命约卡牌时，获得 <sprite=129>。
-E	FACTION There are 4 different factions: Enlightened Lifebound Mechana Void	FACTION\nThere为 4 different派系:\n<color=#4cbbeb>启迪\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空
+E	FACTION There are 4 different factions: Enlightened Lifebound Mechana Void	FACTION\nThere为 4 different派系:\n<color=#4cbbeb>圣贤\n<color=#7fc241>生命\n<color=#b6b6b6>机械\n<color=#bb8bbe>虚空
 E	For any questions or issues please contact us at support@playdekgames.com.	如有任何问题，请联系 support@playdekgames.com。
 E	Whenever you acquire or defeat a Void card in the center row, Rally: Void.	每当你 获取或 击败虚空卡牌在中央牌列, 集结: 虚空.
 E	You must summon powerful Heroes and Constructs to aid you in your battles.	你必须召集强大的英雄与神器，助你投入战斗。
@@ -4230,7 +4230,7 @@ E	Create New Account	创建新账号
 E	Darkness Unleashed	黑暗释放
 E	Delete Matchmaking	删除匹配
 E	Enlightened Events	圣贤事件
-E	Enlightened Legend	启迪传奇
+E	Enlightened Legend	圣贤传奇
 E	Enlightened Portal	圣贤传送门
 E	Enlightened Temple	圣贤神殿
 E	Executive Producer	执行制作人

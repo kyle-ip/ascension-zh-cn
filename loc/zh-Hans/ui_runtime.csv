@@ -216,7 +216,7 @@ Current Highest Bid:,当前最高出价：
 Void Legend,虚空传奇
 Mechana Legend,机械传奇
 Lifebound Legend,生命传奇
-Enlightened Legend,启迪传奇
+Enlightened Legend,圣贤传奇
 Death is eternal.,死亡为eternal.
 Life finds a way.,生命finds方式.
 A player may have no more than one Fanatic Trophy in play at a time.,玩家可以拥有没有超过一 狂信者战利品在 打出在 次.
@@ -224,8 +224,8 @@ Lifebound Champion,生命冠军
 "Whenever you acquire or defeat a Lifebound card in the center row, Rally: Lifebound.","每当你 获取或 击败生命卡牌在中央牌列, 集结: 生命."
 "Acquire Nairi, Wild Queen.","获取奈莉, 荒野女王."
 Nairi,奈莉
-Enlightened Champion,启迪冠军
-"Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.","每当你 获取或 击败启迪卡牌在中央牌列, 集结: 启迪."
+Enlightened Champion,圣贤冠军
+"Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.","每当你 获取或 击败圣贤卡牌在中央牌列, 集结: 圣贤."
 "Acquire Dhartha, Master of Sight.","获取达萨, 大师的 视界."
 Dhartha,达萨
 "A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.","remnant的something long since forgotten, 其appearance在祈夜为shrouded在mystery."
@@ -271,7 +271,7 @@ There are 4 different factions:
 <color=#bb8bbe>Void
 ","FACTION
 There为 4 different派系:
-<color=#4cbbeb>启迪
+<color=#4cbbeb>圣贤
 <color=#7fc241>生命
 <color=#b6b6b6>机械
 <color=#bb8bbe>虚空"

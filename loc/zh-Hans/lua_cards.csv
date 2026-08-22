@@ -64,7 +64,7 @@ Chaos Rider,promo,混沌骑手,"获得3战力.
 "Nova, Born of Chaos",promo,诺娃·混沌所生,"奖励：万民玩家返回所有荣誉点数以 荣誉池. 若游戏会 结束此round, 它does不结束.
 获得10荣誉.",,machine
 Stone Blade Templar,promo,石刃圣殿武士,"展示和 放逐顶部卡牌的 传送门牌库. 若其 派系为:
-启迪: 抽两张牌.
+圣贤: 抽两张牌.
 生命: 获得3 荣誉.
 机械: 获得2 符文.
 虚空: 获得2 战力.
@@ -246,7 +246,7 @@ Blind Seer,VotA,盲预言者,"抽一张牌.
 宁静: 获得1L. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
 Ominous Augur,VotA,不祥占兆者,"获取一个英雄或 神器以 费用 5符文或更低无需支付费用.
 宁静: 放置所获取的卡牌在你的手牌中. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
-Jubilant Monk,VotA,欢庆僧侣,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或启迪卡牌.",,machine
+Jubilant Monk,VotA,欢庆僧侣,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或圣贤卡牌.",,machine
 Keeper of Secrets,VotA,看守秘密,"放逐一张卡牌在你的手牌中和 将它替换以 秘教士或 重装步兵.
 若你 打出或 拥有打出过秘教士和 重装步兵本回合, 获得1D.",,machine
 Fist of the Dragon,VotA,拳龙,"抽一张牌. 放逐一张卡牌在中央牌列. 若下一卡牌以 进入中央牌列为 怪物, 击败它 无需支付费用.",,machine
@@ -322,7 +322,7 @@ Dreamscape Diviner,Del,梦境占卜者,获得2洞察.,Are你sure你want以知道
 Dimension Monk,Del,维度僧侣,"抽一张牌.
 你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
 Aegis Knight,Del,神盾骑士,放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,machine
-Dream Dealer,Del,梦交易者,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在启迪, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.",,machine
+Dream Dealer,Del,梦交易者,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在圣贤, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.",,machine
 Templar General,Del,圣殿武士将军,"击败一个怪物以 费用 4战力或更低无需支付费用.
 宁静: 当你 获取此, 将它放置在你的手牌中.",,machine
 Divine Askara,Del,神圣阿斯卡拉,"复制本回合打出的一张英雄的效果。
@@ -485,7 +485,7 @@ River Reaper,Dlvr,河收割者,奖励：获得6荣誉. 每位对手摧毁只留�
 Boon: Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,machine
 Boon - Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,machine
 Boon - Ulu,LGND,恩赐：乌鲁,"一次本回合, 获得1 renown在另一派系.",,machine
-Legendary Boon - Enlightened,LGND,传奇恩赐：启迪,获取或 击败任意启迪卡牌从 中央牌列无需支付费用.,,machine
+Legendary Boon - Enlightened,LGND,传奇恩赐：圣贤,获取或 击败任意圣贤卡牌从 中央牌列无需支付费用.,,machine
 Boon: Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
 Boon - Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
 Boon - Naira,LGND,恩赐：奈拉,"一次本回合, 获得2荣誉.",,machine
@@ -547,8 +547,8 @@ MarrowWyrm Rider,LGND,髓虫骑手,奖励：获得3荣誉. 你可以获取一个
 Muse of Malevolence,LGND,缪斯恶意,奖励：获得5荣誉. 获得2 Renown在任意派系.,,machine
 Lifebound Remnant,LGND,生命残响,"奖励：获得3荣誉.
 若你打出过或 已获取生命卡牌本回合, 获得额外的 2荣誉.",,machine
-Enlightened Remnant,LGND,启迪残响,"奖励：获得5荣誉.
-若你打出过或 已获取启迪卡牌本回合, 抽两张牌.",,machine
+Enlightened Remnant,LGND,圣贤残响,"奖励：获得5荣誉.
+若你打出过或 已获取圣贤卡牌本回合, 抽两张牌.",,machine
 Mechana Remnant,LGND,机械残响,"奖励：获得4荣誉.
 若你打出过或 已获取机械卡牌本回合, 获得2符文.",,machine
 Void Remnant,LGND,虚空残响,"奖励：获得4荣誉.
@@ -557,7 +557,7 @@ Remnant of the Fallen,LGND,残响·堕落者,"奖励：获得5荣誉.
 获得1 Renown的每个派系.
 你可以获取或 击败任意卡牌在 中央牌列无需支付费用.",,machine
 Monk of the Stone Circle,LGND,僧侣石环,获取一个英雄以 费用 3符文或更低和 将它放置置入你的手牌.,,machine
-Psychic Amulet,LGND,心灵护符,"每回合一次，当你 打出机械或 启迪神器 (包括此牌一), 抽一张牌.",,machine
+Psychic Amulet,LGND,心灵护符,"每回合一次，当你 打出机械或 圣贤神器 (包括此牌一), 抽一张牌.",,machine
 Psionic Monk,LGND,灵能僧侣,"抽 2 卡牌.
 获得1荣誉以 每个派系之中神器你控制的.",,machine
 Portal Ninja,LGND,传送门忍者,"获得2符文.
@@ -567,7 +567,7 @@ Fallen Fae,LGND,堕落者仙灵,"获得2战力.
 Dark Monk,LGND,黑暗僧侣,"获得2战力.
 联合: 抽一张牌.",,machine
 Shade Askara,LGND,暗影阿斯卡拉,"获得3战力.
-若你 拥有启迪或 虚空卡牌在你的弃牌堆, 抽一张牌.",,machine
+若你 拥有圣贤或 虚空卡牌在你的弃牌堆, 抽一张牌.",,machine
 The Chrome Circle,LGND,铬环,"每回合一次，当你 打出机械或 生命神器 (包括此牌一), 获得1符文和 1荣誉.",,machine
 Mecha Cetra,LGND,机甲塞特拉,你可以获取一个英雄或 神器从 中央牌列无需支付费用和 将它放置放到你的牌库顶.,,machine
 Legend - Master Dhartha,LGND,传奇：达萨大师,"一次本回合, 抽一张牌.",,machine
@@ -734,13 +734,13 @@ EVENT战利品： 抽一张牌.",,machine
 Dreamer's Glass,SoS,梦者琉璃,"每回合一次，你可以放置卡牌从你的手牌其下此 面朝上.
 若你如此做，抽一张牌.
 当梦者琉璃离开打出或 游戏结束, 放置所有卡牌其下它 置入你的弃牌堆.",,machine
-Tower Askara,SoS,高塔阿斯卡拉,"抽 3 卡牌. 然后, 弃掉 2 卡牌或 启迪卡牌.",,machine
+Tower Askara,SoS,高塔阿斯卡拉,"抽 3 卡牌. 然后, 弃掉 2 卡牌或 圣贤卡牌.",,machine
 "Raj, Psionic Master",SoS,灵能大师拉吉,"放逐一个英雄从你的手牌.
 若你如此做，获取一个英雄以 荣誉至多两 超过该 的被放逐卡牌和 将它放置置入你的手牌.",,machine
 Eye of Destiny,SoS,命运之眼,"每回合一次，当你 获取一个英雄, 你可以将它放置置入你的手牌.",,machine
 Elder Skeptic,SoS,长老怀疑者,"抽 2 卡牌. 然后, 弃掉卡牌.",,machine
 Elemental Adept,SoS,元素能手,"抽一张牌.
-若当前事件为 启迪, 抽额外的 1 卡牌.
+若当前事件为 圣贤, 抽额外的 1 卡牌.
 你可以放逐一张卡牌在中央牌列.",,machine
 Nook Hound,SoS,角落猎犬,"天命： 当此牌进入中央牌列时, 每位玩家可以查看牌库顶卡牌的 其牌库. 他们可以将它放置置入其弃牌堆.",,machine
 Prodigal,SoS,浪子,击败一个怪物以P3 或更低.,,machine
@@ -799,14 +799,14 @@ Polaris Demon,SoS,北极星恶魔,"奖励：5荣誉. 选择一项：
 Nemesis,SoS,宿敌,天命： 放逐当前事件.,,machine
 "Tarik, the Trickster",SoS,诡术师塔里克,奖励：5荣誉. 你可以选择英雄在中央牌列和 复制其效果.,,machine
 Noxious Soul,SoS,毒害灵魂,奖励：4荣誉. 每位对手须弃掉卡牌随机从其手牌.,,machine
-Moment of Clarity,IH,片刻澄明,"当玩家获取启迪卡牌, 该玩家可以抽一张牌.
+Moment of Clarity,IH,片刻澄明,"当玩家获取圣贤卡牌, 该玩家可以抽一张牌.
  EVENT战利品： 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.",,machine
 "Aaron, the Godslayer",IH,亚伦·弑神者,击败一个怪物无需支付费用.,,machine
 Arha Medium,IH,亚哈灵媒,你可以放逐此牌以 获取秘教士或 重装步兵无需支付费用. 将它放置置入你的手牌.,,machine
 Askara of Souls,IH,灵魂阿斯卡拉,获得灵魂宝石.,,machine
 "Elan, Soul Marshal",IH,埃兰·灵魂元帅,获得灵魂宝石. 抽一张牌.,,machine
 Temple Guardian,IH,神殿守卫,"击败一个怪物以P5 或更低无需支付费用.
-若当前事件为 启迪, 抽一张牌.",,machine
+若当前事件为 圣贤, 抽一张牌.",,machine
 Wandering Askara,IH,流浪阿斯卡拉,"抽一张牌, 然后你可以放逐一张卡牌在中央牌列.
 若你打出过另一流浪阿斯卡拉本回合, 你可以放逐两者卡牌以 拿取另一回合在此之后.",,machine
 The Great Eclipse,IH,大日食,"当玩家获取命约英雄, 该玩家可以将它放置在 顶部的 其牌库.
@@ -1032,7 +1032,7 @@ Sage of Lucid Dreams,,贤者清明诸梦,"一次本回合, 放逐一张卡牌在
 多重联合： 你可以重复此.",,machine
 Oziah's Familiar,RU,奥齐亚的使魔,"击败一个怪物以 费用 4战力或更低无需支付费用.
 多重联合： 重复此效果.",,machine
-Scryer of the Lidless Eye,RU,无目之眼占卜者,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 启迪, 返回它 以你的手牌.",,machine
+Scryer of the Lidless Eye,RU,无目之眼占卜者,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 圣贤, 返回它 以你的手牌.",,machine
 Disciple of Oziah,RU,之徒·奥齐亚,"当此 为在你的手牌中, 若你 拥有打出过另一圣贤英雄本回合, 将此牌转化为后裔· 奥齐亚.
 击败一个怪物以 费用 3战力或更低无需支付费用.",,machine
 Scion of Oziah,RU,后裔·奥齐亚,击败一个怪物以 费用 5战力或更低无需支付费用.,,machine
@@ -1127,7 +1127,7 @@ Sadistic Laboratory,,虐杀实验室,"每回合一次，获得1战力.
 当你 击败一个怪物在 中央牌列, 放逐任意怪物其下此 和放置被击败怪物其下此. 你可以击败怪物其下此 视为在中央牌列. 若此 离开打出, 放逐任意monsters其下此.",,machine
 Foul Replicant,,污秽复制体,"奖励： 获得4荣誉.
 ONGOING战利品： 每回合一次，选择神器你控制的. 此获得text的所选神器以 本回合.",,machine
-Dhartha,DoC,达萨,"+1: 每当你 获取或 击败启迪卡牌从中央牌列, 获得1rep.",,machine
+Dhartha,DoC,达萨,"+1: 每当你 获取或 击败圣贤卡牌从中央牌列, 获得1rep.",,machine
 "Dhartha, Master of Sight",DoC,达萨·大师视界,你可以放逐此牌或 卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
 Nairi,DoC,奈莉,"+1: 每当你 获取或 击败生命卡牌从中央牌列, 获得1rep.",,machine
 "Nairi, Wild Queen",DoC,奈莉·荒野女王,"获得1荣誉. 抽一张牌.
@@ -1137,15 +1137,15 @@ Kor,DoC,科尔,"+1: 每当你 获取或 击败机械卡牌从中央牌列, 获�
 若你控制的两 或更高神器s, 抽一张牌.",,machine
 Sadranis,DoC,萨德拉尼斯,"+1: 每当你 获取或 击败虚空卡牌从中央牌列, 获得1rep.",,machine
 "Sadranis, Dark Savant",DoC,萨德拉尼斯·黑暗学者,"抽两张牌, 然后弃掉卡牌. 你可以放逐一张卡牌在你的弃牌堆.",,machine
-Seer of Days Past,DoC,预言者往日过去,"当你 获取此, 集结: 启迪.
+Seer of Days Past,DoC,预言者往日过去,"当你 获取此, 集结: 圣贤.
 抽一张牌. 若你 拥有8rep或更高, 抽额外的卡牌.",,machine
-Daybreak Askara,DoC,破晓阿斯卡拉,"复制效果的 英雄打出本回合. 若英雄曾是启迪, 复制该 英雄之效果额外的次. 此效果不能是 被复制.",,machine
+Daybreak Askara,DoC,破晓阿斯卡拉,"复制效果的 英雄打出本回合. 若英雄曾是圣贤, 复制该 英雄之效果额外的次. 此效果不能是 被复制.",,machine
 Austere Sage,DoC,严苛贤者,"抽一张牌.
-你可以放逐一张卡牌在中央牌列, 然后集结: 启迪.",,machine
+你可以放逐一张卡牌在中央牌列, 然后集结: 圣贤.",,machine
 Serene Ascetic,DoC,宁静苦行僧,"当你 获取此, 你可以将它放置放到你的牌库顶.
 抽两张牌.",,machine
 "Surya, Light's Sword",DoC,苏尔亚·光明的剑,"击败一个怪物在中央牌列无需支付费用.若它 费用 7战力或更高, 拿取额外回合在此之后.",,machine
-Mantra of Renewal,DoC,真言更新,"每回合一次，若你 拥有打出过两 或更高启迪卡牌 (包括此牌一), 抽一张牌.",,machine
+Mantra of Renewal,DoC,真言更新,"每回合一次，若你 拥有打出过两 或更高圣贤卡牌 (包括此牌一), 抽一张牌.",,machine
 Premonition Bell,DoC,预感钟,你可以摧毁此 以复制效果的 英雄在中央牌列以 费用 5符文或更低.,,machine
 Pack Leader,DoC,兽群首领,"当你 获取此, 集结: 生命.
 获得2符文.
@@ -1180,15 +1180,15 @@ Riftgate Conjuror,DoC,裂隙门咒术师,"获得3战力.
 Shade's Bargain,DoC,暗影交易,"每回合一次，若你 拥有打出过两 或更高虚空卡牌 (包括此牌一), 获得2战力.",,machine
 Morbid Hammer,DoC,病态锤,"每回合一次，获得1战力.
 当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Rootscryer,DoC,根卜者,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为启迪或 生命, 获得3荣誉.",,machine
-Canopy Sanctuary,DoC,树冠圣所,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为启迪或 生命, 获得3荣誉.",,machine
+Rootscryer,DoC,根卜者,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为圣贤或 生命, 获得3荣誉.",,machine
+Canopy Sanctuary,DoC,树冠圣所,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为圣贤或 生命, 获得3荣誉.",,machine
 Surge Protector,DoC,浪涌保护者,"选择一项： 获取一个神器以 费用 5符文或更低无需支付费用, 或击败一个怪物以 费用 5战力或更低无需支付费用.",,machine
-Library Familiar,DoC,图书馆使魔,"每回合一次，当你 打出启迪神器或 机械神器 (包括此牌一), 抽一张牌.",,machine
+Library Familiar,DoC,图书馆使魔,"每回合一次，当你 打出圣贤神器或 机械神器 (包括此牌一), 抽一张牌.",,machine
 Guide of Lost Souls,DoC,迷途灵魂向导,你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,machine
 Riftdrake Rider,DoC,裂隙龙兽骑手,"抽两张牌.
 你可以放逐至多两 卡牌在你的手牌或弃牌堆.",,machine
 Wildgear Sower,DoC,野性齿轮播种者,"获得2符文.
-获得1荣誉以 每个派系之中神器s你的控制. (派系为启迪, 生命, 机械和 虚空).",,machine
+获得1荣誉以 每个派系之中神器s你的控制. (派系为圣贤, 生命, 机械和 虚空).",,machine
 Genesis Capsule,DoC,创世舱,"每回合一次，当你 获取命约英雄或 机械神器, 你可以将它放置放到你的牌库顶.",,machine
 Shepherd of the Lost,DoC,牧者迷失,"获得2符文.
 若此 为被放逐从你的手牌或 弃牌堆, 获得5荣誉.",,machine
@@ -1199,7 +1199,7 @@ Clockwork Sentry,DoC,发条哨兵,"获得2战力.
 Riftwatch Turret,DoC,裂隙守望炮塔,"每回合一次，获得1战力.
 每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力.",,machine
 Corrupted Sage,DoC,腐化贤者,"奖励： 获得2荣誉. 抽一张牌.
-集结: 启迪.",,machine
+集结: 圣贤.",,machine
 Betrayed Templar,DoC,被弃圣殿武士,奖励： 获得5荣誉. 你可以击败一个怪物在中央牌列以 费用 5战力或更低无需支付费用.,,machine
 Thorned Charger,DoC,棘刺冲锋者,"奖励： 获得3荣誉. 你可以放置英雄从 你的弃牌堆放到你的牌库顶.
 集结: 生命.",,machine

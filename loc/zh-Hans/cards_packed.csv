@@ -194,7 +194,7 @@ CARDNAME_CETRAWEAVEROFSTARS10TH,织星者塞特拉
 EFFECT_CETRAWEAVEROFSTARS10TH,获取一个英雄无需支付费用. 将它放到你的牌库顶.
 FLAVOR_CETRAWEAVEROFSTARS10TH,真正heroes为guided被她的starlight.
 CARDNAME_AVATARGOLEM10TH,化身魔像
-EFFECT_AVATARGOLEM10TH,"获得${ICON_POWER2}.<br>获得${ICON_HONOR1} 以每个派系之中神器你控制的. <i>(派系为启迪, 机械, 生命, 和虚空.)</i>"
+EFFECT_AVATARGOLEM10TH,"获得${ICON_POWER2}.<br>获得${ICON_HONOR1} 以每个派系之中神器你控制的. <i>(派系为圣贤, 机械, 生命, 和虚空.)</i>"
 CARDNAME_SHADOWSTAR10TH,暗影之星
 EFFECT_SHADOWSTAR10TH,每回合一次，获得${ICON_POWER1}.
 FLAVOR_SHADOWSTAR10TH,"""Be careful, young hero,"" 说mystic.<br>""它does不拿取well以poor aim."""
@@ -473,7 +473,7 @@ CARDNAME_STARCHILD,星之子
 EFFECT_STARCHILD,获得${ICON_RUNE1} 和 ${ICON_HONOR1}.<br>抽一张牌.
 FLAVOR_STARCHILD,"以每个被, star其own, graceful watcher perched upon它, 她的voice familiar, 她的touch same该cradled它们在youth."
 CARDNAME_TOWERASKARA,高塔阿斯卡拉
-EFFECT_TOWERASKARA,"抽三张牌, 然后弃掉两 卡牌或 一启迪卡牌."
+EFFECT_TOWERASKARA,"抽三张牌, 然后弃掉两 卡牌或 一圣贤卡牌."
 FLAVOR_TOWERASKARA,"Their fingers sift如同每个idea该曾是, 为, 或ever将是."
 CARDNAME_UMBRALEDGE,暗影刃锋
 EFFECT_UMBRALEDGE,每回合一次，获得${ICON_POWER2}. 获得额外的 ${ICON_POWER2} 若你控制的半影刃锋.
@@ -523,7 +523,7 @@ FLAVOR_NIHILMANCER,"萨德拉尼斯formed他的own clan的demon slayers, sorcero
 CARDNAME_LIONHEART,狮心
 EFFECT_LIONHEART,获得${ICON_HONOR3}.<br>${LABEL_UNITE} 抽一张牌. <i>(获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)</i>
 CARDNAME_ELEMENTALADEPT,元素能手
-EFFECT_ELEMENTALADEPT,"抽一张牌. 若当前事件为 启迪, 抽额外的卡牌.<br>你可以放逐一张卡牌在中央牌列."
+EFFECT_ELEMENTALADEPT,"抽一张牌. 若当前事件为 圣贤, 抽额外的卡牌.<br>你可以放逐一张卡牌在中央牌列."
 CARDNAME_BELTHARSOULCOLLECTOR,贝尔萨·集魂者
 EFFECT_BELTHARSOULCOLLECTOR,"获得${ICON_POWER3}.<br>下次你击败一个怪物在中央牌列本回合, 获得${ICON_RUNE3}."
 FLAVOR_BELTHARSOULCOLLECTOR,"""他collects souls like ferromancer collects burns."""
@@ -575,7 +575,7 @@ CARDNAME_ASKARAOFSOULS,灵魂阿斯卡拉
 EFFECT_ASKARAOFSOULS,获得灵魂宝石.
 FLAVOR_ASKARAOFSOULS,Doors open以那些谁learn以看见它们.
 CARDNAME_MOMENTOFCLARITY,片刻澄明
-EFFECT_MOMENTOFCLARITY,"当玩家获取启迪卡牌, 该玩家可以抽一张牌.<br>${LABEL_EVENT_TROPHY} 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌."
+EFFECT_MOMENTOFCLARITY,"当玩家获取圣贤卡牌, 该玩家可以抽一张牌.<br>${LABEL_EVENT_TROPHY} 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌."
 CARDNAME_TROPHYHUNTER,战利品猎手
 EFFECT_TROPHYHUNTER,获得${ICON_POWER2}.<br>你支付 ${ICON_POWER1} 更低下次你击败战利品怪物本回合.
 FLAVOR_TROPHYHUNTER,"他不 总是hunt monsters, 但当 他does, 他hangs它们在wall."
@@ -589,7 +589,7 @@ CARDNAME_THEWORLDTREE,W<space=-.05em>orld树
 EFFECT_THEWORLDTREE,"每回合一次，你可以支付至多 ${ICON_RUNE5} 以获得该等量的 ${ICON_HONOR}.<br>当你 打出命约英雄, 获得${ICON_RUNE1}."
 FLAVOR_THEWORLDTREE,"每位branch, separate道路. Every seed, 新beginning."
 CARDNAME_TEMPLEGUARDIAN,神殿守卫
-EFFECT_TEMPLEGUARDIAN,"击败一个怪物以 ${ICON_POWER5} 或更低无需支付费用. 若当前事件为 启迪, 抽一张牌."
+EFFECT_TEMPLEGUARDIAN,"击败一个怪物以 ${ICON_POWER5} 或更低无需支付费用. 若当前事件为 圣贤, 抽一张牌."
 FLAVOR_TEMPLEGUARDIAN,圣殿武士从不use其swords. 它为 其keen intellect该makes deeper cut.
 CARDNAME_ANNIHILATION,歼灭
 EFFECT_ANNIHILATION,"当玩家获取虚空卡牌, 该玩家可以放逐一张卡牌在其手牌中或 弃牌堆.<br>${LABEL_EVENT_TROPHY} 获得${ICON_POWER1}."
@@ -1119,7 +1119,7 @@ CARDNAME_INITIATESGAUNTLETS,新兵的护手
 EFFECT_INITIATESGAUNTLETS,"若你打出过两 或更高虚空英雄本回合, 将此牌转化为黑暗之握."
 FLAVOR_INITIATESGAUNTLETS,gauntlets outlive许多recruits before finally finding更低temporary owner.
 CARDNAME_SCRYEROFTHELIDLESSEYE,无目之眼占卜者
-EFFECT_SCRYEROFTHELIDLESSEYE,"抽两张牌, 然后弃掉卡牌. 若已弃掉卡牌为 启迪, 返回它 以你的手牌."
+EFFECT_SCRYEROFTHELIDLESSEYE,"抽两张牌, 然后弃掉卡牌. 若已弃掉卡牌为 圣贤, 返回它 以你的手牌."
 FLAVOR_SCRYEROFTHELIDLESSEYE,"monks gathered around万民-Seeing之眼, aghast在未来它foretold."
 CARDNAME_MANTRAOFTRUESIGHT,真言真正视界
 EFFECT_MANTRAOFTRUESIGHT,每回合一次，你可以抽一张牌.
@@ -1139,7 +1139,7 @@ CARDNAME_DEATHFINDER,寻死者
 EFFECT_DEATHFINDER,${LABEL_REWARD} 获得${ICON_HONOR2}. 你可以放逐一张卡牌在你的手牌或弃牌堆.<br>${LABEL_RALLY_VOID}.
 FLAVOR_DEATHFINDER,不所有谁 寻求死亡找到它. Some找到worse fate.
 CARDNAME_WILDGEARSOWER,野性齿轮播种者
-EFFECT_WILDGEARSOWER,"获得${ICON_RUNE2}.<br>获得${ICON_HONOR1} 以每个派系在你控制的神器之中. (派系为启迪, 生命, 机械和 虚空)."
+EFFECT_WILDGEARSOWER,"获得${ICON_RUNE2}.<br>获得${ICON_HONOR1} 以每个派系在你控制的神器之中. (派系为圣贤, 生命, 机械和 虚空)."
 CARDNAME_SHADESBARGAIN,暗影交易
 EFFECT_SHADESBARGAIN,"每回合一次，若你 拥有打出过两 或更高虚空卡牌 (包括此牌一), 获得${ICON_POWER2}."
 FLAVOR_SHADESBARGAIN,战力从不comes没有price.
@@ -1147,7 +1147,7 @@ CARDNAME_SADRANISDARKSAVANT,萨德拉尼斯·黑暗学者
 EFFECT_SADRANISDARKSAVANT,"抽两张牌, 然后弃掉卡牌. 你可以放逐一张卡牌在你的弃牌堆."
 FLAVOR_SADRANISDARKSAVANT,"达萨assured它们, ""不所有谁look置入darkness look以serve它. Just作为我们wield光, 他wields darkness."""
 CARDNAME_MANTRAOFRENEWAL,真言更新
-EFFECT_MANTRAOFRENEWAL,"每回合一次，若你 拥有打出过两 或更高启迪卡牌 (包括此牌一), 抽一张牌."
+EFFECT_MANTRAOFRENEWAL,"每回合一次，若你 拥有打出过两 或更高圣贤卡牌 (包括此牌一), 抽一张牌."
 FLAVOR_MANTRAOFRENEWAL,"""I将permit它以pass超过我 和穿过我. 和当 它具有gone past I将回合inner eye以看见其 道路."""
 CARDNAME_THORNEDCHARGER,棘刺冲锋者
 EFFECT_THORNEDCHARGER,${LABEL_REWARD} Gain${ICON_HONOR3}. 你可以放置英雄从 你的弃牌堆放到你的牌库顶.<br>${LABEL_RALLY_LIFEBOUND}.
@@ -1156,7 +1156,7 @@ CARDNAME_FLYTRAPSTAFF,捕蝇草法杖
 EFFECT_FLYTRAPSTAFF,"每回合一次，若你 拥有打出过两 或更高生命卡牌 (包括此牌一), 获得${ICON_HONOR2}."
 FLAVOR_FLYTRAPSTAFF,它是不teeth你应当是worried about.
 CARDNAME_DAYBREAKASKARA,破晓阿斯卡拉
-EFFECT_DAYBREAKASKARA,"复制本回合打出的一张英雄的效果。 若英雄曾是启迪, 复制该 英雄之效果额外的次. 此效果不能是 被复制."
+EFFECT_DAYBREAKASKARA,"复制本回合打出的一张英雄的效果。 若英雄曾是圣贤, 复制该 英雄之效果额外的次. 此效果不能是 被复制."
 FLAVOR_DAYBREAKASKARA,她为inspiration given form.
 CARDNAME_MORBIDHAMMER,病态锤
 EFFECT_MORBIDHAMMER,"每回合一次，获得${ICON_POWER1}.<br>当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆."
@@ -1182,7 +1182,7 @@ CARDNAME_EMRISSTING,艾姆瑞的毒刺
 EFFECT_EMRISSTING,"每回合一次，获得${ICON_POWER2}.<br>当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆."
 FLAVOR_EMRISSTING,"Sharp, 但fleeting, 她的sting kills before pain sets在."
 CARDNAME_LIBRARYFAMILIAR,图书馆使魔
-EFFECT_LIBRARYFAMILIAR,"每回合一次，当你 打出启迪神器或 机械神器 (包括此牌一), 抽一张牌."
+EFFECT_LIBRARYFAMILIAR,"每回合一次，当你 打出圣贤神器或 机械神器 (包括此牌一), 抽一张牌."
 FLAVOR_LIBRARYFAMILIAR,Who? What? Where? 当? Why?
 CARDNAME_REJECTEDPROTOTYPE,废弃原型
 EFFECT_REJECTEDPROTOTYPE,${LABEL_REWARD} 获得${ICON_HONOR3}. 你支付 ${ICON_RUNE3} 更低下次你获取神器本回合.<br>${LABEL_RALLY_MECHANA}.
@@ -1226,13 +1226,13 @@ CARDNAME_EXHAUSTLURKER,废气潜伏者
 EFFECT_EXHAUSTLURKER,${LABEL_REWARD} 获得${ICON_HONOR5}. 每位对手摧毁神器其控制的以 每个神器你控制的.
 FLAVOR_EXHAUSTLURKER,「就因为排风口维护还不够危险。」
 CARDNAME_ROOTSCRYER,根卜者
-EFFECT_ROOTSCRYER,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为启迪或 生命, 获得${ICON_HONOR3}."
+EFFECT_ROOTSCRYER,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为圣贤或 生命, 获得${ICON_HONOR3}."
 FLAVOR_ROOTSCRYER,"monk listened以trees' whispered mantra, 和entire世界fell silent around他."
 CARDNAME_SERENEASCETIC,宁静苦行僧
 EFFECT_SERENEASCETIC,"当你 获取此, 你可以将它放置放到你的牌库顶.<br>抽两张牌."
 FLAVOR_SERENEASCETIC,"novice hears cacophony, master hears只symphony."
 CARDNAME_CANOPYSANCTUARY,树冠圣所
-EFFECT_CANOPYSANCTUARY,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为启迪或 生命, 获得${ICON_HONOR3}."
+EFFECT_CANOPYSANCTUARY,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为圣贤或 生命, 获得${ICON_HONOR3}."
 CARDNAME_PREMONITIONBELL,预感钟
 EFFECT_PREMONITIONBELL,你可以摧毁此 以复制效果的 英雄在中央牌列以 费用 ${ICON_RUNE5} 或更低.
 FLAVOR_PREMONITIONBELL,它echoes以tomorrow之song.
@@ -1825,7 +1825,7 @@ CARDNAME_BURIALGUARDIAN,埋葬守卫
 EFFECT_BURIALGUARDIAN,"获得${ICON_RUNE2}.<br>下次你获取生命卡牌本回合, 获得${ICON_DEATH}."
 FLAVOR_BURIALGUARDIAN,"""若你 寻求以understand immortality, 你须首先discern nature的死亡,"" druid cautioned."
 CARDNAME_JUBILANTMONK,欢庆僧侣
-EFFECT_JUBILANTMONK,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或启迪卡牌."
+EFFECT_JUBILANTMONK,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或圣贤卡牌."
 FLAVOR_JUBILANTMONK,""" fool thinks himself以是wise, 但wise man knows himself以是fool."""
 CARDNAME_SIREWOODELDER,父木长老
 EFFECT_SIREWOODELDER,获得${ICON_RUNE2}.<br>${LABEL_UNITE} 抽一张牌.
@@ -2038,7 +2038,7 @@ EFFECT_THEDRAGONSEYE,"当你 打出此, 获得${ICON_INSIGHT1}.<br>${LABEL_SEREN
 CARDNAME_VOIDRAGER,虚空狂怒者
 EFFECT_VOIDRAGER,"获得${ICON_POWER2}. 下次你击败一个怪物在中央牌列本回合, 获得${ICON_INSIGHT1}."
 CARDNAME_DREAMDEALER,梦交易者
-EFFECT_DREAMDEALER,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在启迪, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰."
+EFFECT_DREAMDEALER,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在圣贤, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰."
 CARDNAME_TORMENTLEGIONARY,折磨军团兵
 EFFECT_TORMENTLEGIONARY,${LABEL_REWARD} 获得${ICON_HONOR6}. 获取一个梦生卡牌在中央牌列无需支付费用.
 FLAVOR_TORMENTLEGIONARY,"Boundless ambition, beyond死亡, beyond reality."
