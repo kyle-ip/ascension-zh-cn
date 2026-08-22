@@ -127,12 +127,11 @@ flowchart LR
 
 **Exit（已达成）：** glossary 门禁通过（Enlightened→圣贤，禁「启迪」命中=0）；全包 effect/name/UI → `reviewed`；`draft_total=0`；credits → `waived(credits_names)`；`gates.json` phase=2 / `max_draft_total=0`。
 
-### Phase 3 — UX 消闪 ← 当前
+### Phase 3 — UX 消闪
 
-- 字体 / L2 时序、扩大 L1、规则书面板定向重本地化、评估原生 CH
-- **每项改动**必须带回归用例或文档化 L6 清单项
+**代码已落地（插件 1.5.0）：** onPreRender 状态标记；LocPostfix Exact 回退扩大有效 L1；规则书 RelocalizeKnownPanels；原生 CH 评估结论：暂缓。
 
-**Exit：** L6 清单勾选；无覆盖率回退。
+**Exit（待人工）：** [L6 清单](l6-checklist.zh.md) 勾选；无覆盖率回退。自动门禁：	est_phase3_antiflicker.py。
 
 ---
 
@@ -152,6 +151,7 @@ flowchart LR
 
 | 日期 | 说明 |
 | --- | --- |
+| 2026-08-22 | Phase 3 消闪代码落地（插件 1.5.0；L6 待勾选）；gates phase 3 |
 | 2026-08-22 | Phase 2 质量闭环完成（draft=0；启迪=0；gates phase 2）；进入 Phase 3 |
 | 2026-08-22 | Phase 1 覆盖闭环完成（missing=0；空风味 waived；gates phase 1）；进入 Phase 2 |
 | 2026-08-22 | 首版：将缺陷分析计划落库；标注 Phase T/0 完成与 Phase 1 入口 |

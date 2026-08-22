@@ -18,7 +18,7 @@ This is the **execution-plan SSOT**: principles, phased exits, and how Inventory
 | **0** | Rulebook/DLC baseline + UI junk cleanup + store/rulebook runtime hotfixes | Long copy Chinese; store does not freeze |
 | **1** | Coverage loop: `missing → 0` by domain | **Done (2026-08-22):** missing=0; empty flavors waived; acronym names reviewed |
 | **2** | Quality: `draft → reviewed` per expansion pack | **Done (2026-08-22):** `draft_total=0`; 启迪=0; credits waived; gates phase 2 |
-| **3** | UX anti-flicker / architecture convergence | **Current** — L6 checklist; no coverage regressions |
+| **3** | UX anti-flicker / architecture convergence | **Coded (2026-08-22):** plugin 1.5.0; L6 checklist pending manual sign-off |
 
 ## Runtime stability notes
 

@@ -17,9 +17,9 @@ Steam《Ascension: Deckbuilding Game》，Unity 6000.0.58f2（IL2CPP）。游戏
 | **0** 基线灌入 + 运行时热修 | **完成** | rulebook/DLC 人工稿；ui_runtime 垃圾清理；商店不卡死且长文可译（插件 **1.4.5**） |
 | **1** 覆盖闭环 `missing→0` | **完成** | `missing_total=0`；空风味 waived；缩写卡名 reviewed |
 | **2** 按包 `draft→reviewed` | **完成** | 全包 effect/name/UI 审校；`draft_total=0`；启迪=0；credits waived |
-| **3** UX 消闪 | 未开始 | 改插件必带回归 |
+| **3** UX 消闪 | **实施完成（待 L6）** | 插件 **1.5.0**：onPreRender 状态标记、L1 Exact 回退、规则书面板定向刷新；清单见 docs/l6-checklist.zh.md |
 
-当前 Inventory 快照（`loc/inventory/summary.json`）：**total 3616**；**missing 0**；**draft 0**；reviewed 2712；waived 904。`gates.json` 已升到 **phase 2**（`max_missing_total: 0`，`max_draft_total: 0`）。
+当前 Inventory 快照（`loc/inventory/summary.json`）：**total 3616**；**missing 0**；**draft 0**；reviewed 2712；waived 904。`gates.json` 已升到 **phase 3**（覆盖/草稿天花板仍为 0；消闪门禁见 pytest `test_phase3_antiflicker`）。
 
 ## 已覆盖
 
@@ -45,9 +45,18 @@ BepInEx 6 插件替换 `GetTextByKey`，TMP/UI `set_text` Exact/Norm，雅黑 CJ
 - `lua_cards.csv`：无 `machine` source；center deck → 中央牌库
 - gates：`phase=2`，`max_draft_total=0` + 分域 draft 天花板
 
-## 未做（Phase 3+）
+## Phase 3 已落地（代码）
 
-- UX 消闪（字体 / L2 时序 / 规则书面板定向重本地化）
+- 同步 CJK fallback 后再 `_ready` / 挂 L2（既有）
+- `Camera.onPreRender` + LateUpdate 双保险强制状态标记中文
+- `LocPostfix`：Keys 未命中时 Exact/Norm 回退（扩大有效 L1）
+- 场景加载与周期调度：`RelocalizeKnownPanels`（仅规则书根，不含商店）
+- 对局场景加快状态标记扫描；原生 CH：暂缓（无官方 zh-Hans 包）
+- L6 人工清单：`docs/l6-checklist.zh.md`（冷启动勾选后才算 Exit）
+
+## 未做（更后）
+
+- L6 人工勾选签收
 - 位图标题 — waived，专项再开
 - 繁体
 - 不要改 `resources.assets` 字库；不要把中文写入依赖 `CLICK`/`<link>` 的教程热区
@@ -56,6 +65,7 @@ BepInEx 6 插件替换 `GetTextByKey`，TMP/UI `set_text` Exact/Norm，雅黑 CJ
 
 | 日期 | 版本 | 更新点 |
 | --- | --- | --- |
+| 2026-08-22 | Phase 3 / 1.5.0 | **消闪实施**：onPreRender 状态标记；L1 Exact 回退；规则书面板定向刷新；L6 清单；gates phase 3 |
 | 2026-08-22 | Phase 2 | **质量闭环**：`draft_total=0`；全包 reviewed；启迪=0；credits waived；gates phase 2 + draft 天花板；pytest 25 |
 | 2026-08-22 | Phase 1 | **覆盖闭环**：`missing_total=0`；空风味 waived；缩写卡名 reviewed；修 Loading rulebook；gates 升 phase 1 |
 | 2026-08-22 | Phase 2 kickoff | 术语：全表 启迪→圣贤；gates 启迪命中上限 0 |

@@ -17,7 +17,7 @@ using UnityEngine.UI;
 
 namespace AscensionZhCn;
 
-[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.4.5")]
+[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.5.0")]
 public class Plugin : BasePlugin
 {
     internal static Plugin Instance;
@@ -28,6 +28,7 @@ public class Plugin : BasePlugin
     static bool _locPatched;
     static bool _setterPatched;
     static bool _sceneHooked;
+    static bool _preRenderHooked;
     static bool _ready;
     internal static bool IsReady
     {
@@ -86,7 +87,7 @@ public class Plugin : BasePlugin
             LogPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "plugin.log");
             DumpPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "untranslated.tsv");
             Directory.CreateDirectory(Path.GetDirectoryName(LogPath));
-            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.4.5 (overlay sync + normalize tag-space + long partial)\n");
+            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.5.0 (phase3 anti-flicker: preRender + L1 exact fallback + rulebook panels)\n");
         }
         catch
         {
@@ -129,6 +130,7 @@ public class Plugin : BasePlugin
             {
                 PatchTextSetters();
                 PatchSceneLoaded();
+                PatchPreRender();
                 Trace("sync CJK install OK; L2 hooks active");
             }
             else
@@ -1542,6 +1544,17 @@ public class Plugin : BasePlugin
             _nextMarkerScanAt = _forceMarkerCalls + 180;
 
             RelocalizeUi();
+            RelocalizeKnownPanels();
+            // Match / board scenes need marker cache sooner than menus/store.
+            var sn = scene.name ?? "";
+            if (sn.IndexOf("Match", StringComparison.OrdinalIgnoreCase) >= 0
+                || sn.IndexOf("Game", StringComparison.OrdinalIgnoreCase) >= 0
+                || sn.IndexOf("Battle", StringComparison.OrdinalIgnoreCase) >= 0
+                || sn.IndexOf("Play", StringComparison.OrdinalIgnoreCase) >= 0)
+            {
+                _emptyMarkerScanBackoff = 30;
+                _nextMarkerScanAt = _forceMarkerCalls + 15;
+            }
             Trace("sceneLoaded: " + scene.name + " relocalized");
         }
         catch (Exception ex)
@@ -1637,6 +1650,18 @@ public class Plugin : BasePlugin
                 return;
             if (!Keys.TryGetValue(__0, out var zh) || string.IsNullOrEmpty(zh))
             {
+                // Phase 3: expand effective L1 — if GetTextByKey still returns
+                // English but Exact/Norm already knows it, rewrite here so TMP
+                // never flashes the English sample (L2 would catch it one frame later).
+                if (!string.IsNullOrEmpty(__result) && !HasCjk(__result))
+                {
+                    var viaExact = LookupExactOrNormalized(__result);
+                    if (!string.IsNullOrEmpty(viaExact) && viaExact != __result)
+                    {
+                        __result = viaExact;
+                        return;
+                    }
+                }
                 MaybeDump("K", __0, __result);
                 return;
             }
@@ -1996,6 +2021,33 @@ public class Plugin : BasePlugin
         "RulebookDU", "RulebookDoC", "RulebookGotE", "RulebookIH", "RulebookRoV",
         "RulebookRotF", "RulebookSoS", "RulebookVotA", "RulebookWoS", "RulebookRU",
     };
+
+
+    internal static void PatchPreRender()
+    {
+        if (_preRenderHooked)
+            return;
+        _preRenderHooked = true;
+        try
+        {
+            // Last chance before the camera draws — closes the one-frame EN
+            // window that LateUpdate alone can miss when the game resets
+            // state-marker text after LateUpdate.
+            Camera.onPreRender += DelegateSupport.ConvertDelegate<Camera.CameraCallback>(OnCameraPreRender);
+            Trace("Camera.onPreRender hooked");
+        }
+        catch (Exception ex)
+        {
+            Trace("onPreRender hook failed: " + ex.Message);
+        }
+    }
+
+    static void OnCameraPreRender(Camera cam)
+    {
+        if (!_ready)
+            return;
+        ForceStateMarkersToChinese();
+    }
 
     internal static void RelocalizeKnownPanels()
     {
@@ -2375,15 +2427,19 @@ public class CjkFontBehaviour : MonoBehaviour
                 {
                     Plugin.PatchTextSetters();
                     Plugin.PatchSceneLoaded();
+                    Plugin.PatchPreRender();
                 }
             }
             return;
         }
         if (_frames % 3600 == 0)
             Plugin.RelocalizeUi();
+        // Rulebook roots only — cheap GameObject.Find, no store freeze risk.
+        if (_frames % 90 == 0)
+            Plugin.RelocalizeKnownPanels();
         // Catch menus that activate after scene load (hex buttons).
-        // Budget: only every ~2s, and RelocalizeUi itself is Exact/Norm-safe.
-        if (_frames % 120 == 0)
+        // Budget: every ~3s (was 2s); RelocalizeUi is Exact/Norm-safe.
+        if (_frames % 180 == 0)
             Plugin.RelocalizeUi();
     }
 
