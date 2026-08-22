@@ -26,7 +26,7 @@ def _plugin_src() -> str:
 
 def test_plugin_version_is_phase3():
     src = _plugin_src()
-    assert 'BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.5.0")' in src
+    assert 'BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.5.1")' in src
 
 
 def test_prerender_hook_present():

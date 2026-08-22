@@ -1091,6 +1091,14 @@ FLAVOR_EXACT: dict[str, str] = {
     "OBJECT RETRieveD.  UNKNOWNLIFE FORMs Detected. REquestinstructions.": "物体已回收。侦测到未知生命体。请求指示。",
     "Get Over Here!": "过来！",
     "They're everywhere!": "它们无处不在！",
+    '"Memory and history are no concern of mine. This foul thing should never have existed.  Now, it will be as if it never did."':
+        "「记忆与历史与我无关。这污秽之物本不该存在。如今，它将如同从未存在过。」",
+    "Memory and history are no concern of mine. This foul thing should never have existed.  Now, it will be as if it never did.":
+        "「记忆与历史与我无关。这污秽之物本不该存在。如今，它将如同从未存在过。」",
+    "Find them standing on the edge of the abyss,<br>just beyond the jagged city.":
+        "在锯齿般的城市之外，<br>它们立于深渊边缘。",
+    "No matter how far he may wander, he can always find his way back to his mushroom.":
+        "无论他游荡多远，总能找到回到蘑菇身边的路。",
 }
 
 
@@ -1104,13 +1112,10 @@ def translate_flavor(text: str) -> str:
     for en, zh in FLAVOR_EXACT.items():
         if re.sub(r"\s+", " ", en.strip().strip('"')) == collapsed:
             return zh
-    raw, tokens = protect_tokens(text)
-    raw = apply_card_names(raw)
-    raw = _apply_name_parts(raw)
-    raw = apply_phrases(raw, _EFFECT_PHRASES_SORTED)
-    raw = apply_words(raw)
-    raw = polish_copy(raw)
-    return restore_tokens(raw, tokens)
+    # Do NOT run word/phrase machine replacement on flavor — that produces
+    # mixed EN/ZH garbage (e.g. "Memory和history为没有concern…"). Prefer
+    # curated FLAVOR_EXACT; callers may fall back to English.
+    return plain
 
 
 def translate_label(text: str) -> str:

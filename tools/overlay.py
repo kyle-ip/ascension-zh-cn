@@ -557,8 +557,31 @@ def build_overlay() -> tuple[dict[str, str], dict[str, str]]:
             if zh and key.startswith("Key_"):
                 put_exact(exact, en, zh, allow_short=glossary_short)
 
-    # Card name/effect exact maps cause a second TMP layer on top of
-    # LocalizationService text. Harmony GetTextByKey owns those strings.
+    # Gallery / zoomed cards often set English via TMP without GetTextByKey.
+    # Exact maps close that gap. Skip polluted mixed EN/ZH zh and identity rows.
+    # LocPostfix still owns key lookups; HasCjk skips double-rewrite when
+    # L1 already returned Chinese.
+    import re as _re
+
+    def _clean_card_zh(z: str) -> bool:
+        if not z:
+            return False
+        plain = _re.sub(r"<[^>]+>|\$\{[^}]+\}", " ", z)
+        if not _re.search(r"[\u4e00-\u9fff]", plain):
+            return False
+        # reject mixed machine garbage
+        if _re.search(r"[A-Za-z]{3,}", plain):
+            return False
+        return True
+
+    ascension_cards = load_two_col(EN_SHEETS / "Ascension_Cards.csv")
+    for key, en in ascension_cards.items():
+        if not key.startswith(("CARDNAME_", "EFFECT_", "FLAVOR_")):
+            continue
+        zh = keys.get(key) or ""
+        if not en or not _clean_card_zh(zh):
+            continue
+        put_exact(exact, en, zh, allow_short=glossary_short)
 
     combat = ZH / "combat_log.csv"
     if combat.is_file():

@@ -1,5 +1,5 @@
 {
-  "total": 3616,
+  "total": 3824,
   "by_domain": {
     "bitmap_title": {
       "waived": 1
@@ -37,11 +37,11 @@
       "reviewed": 355
     },
     "ui_runtime": {
-      "reviewed": 232
+      "reviewed": 440
     }
   },
   "missing_total": 0,
   "draft_total": 0,
-  "reviewed_total": 2712,
+  "reviewed_total": 2920,
   "waived_total": 904
 }

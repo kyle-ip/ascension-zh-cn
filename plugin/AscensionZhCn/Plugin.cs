@@ -17,7 +17,7 @@ using UnityEngine.UI;
 
 namespace AscensionZhCn;
 
-[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.5.0")]
+[BepInPlugin("ascension.zh.cn", "Ascension Chinese overlay", "1.5.1")]
 public class Plugin : BasePlugin
 {
     internal static Plugin Instance;
@@ -29,6 +29,7 @@ public class Plugin : BasePlugin
     static bool _setterPatched;
     static bool _sceneHooked;
     static bool _preRenderHooked;
+    static int _rulebookKickAt;
     static bool _ready;
     internal static bool IsReady
     {
@@ -87,7 +88,7 @@ public class Plugin : BasePlugin
             LogPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "plugin.log");
             DumpPath = Path.Combine(Paths.GameRootPath, "AscensionGame_Data", "StreamingAssets", "zh-cn", "untranslated.tsv");
             Directory.CreateDirectory(Path.GetDirectoryName(LogPath));
-            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.5.0 (phase3 anti-flicker: preRender + L1 exact fallback + rulebook panels)\n");
+            File.WriteAllText(LogPath, DateTime.Now + " plugin Load() 1.5.1 (phase3 anti-flicker: preRender + L1 exact fallback + rulebook panels)\n");
         }
         catch
         {
@@ -1090,7 +1091,10 @@ public class Plugin : BasePlugin
         if (zh != null)
         {
             if (isRulebook || hasKw)
+            {
                 LogRulebookMatch(value, zh);
+                KickRulebookPanels();
+            }
             return zh;
         }
 
@@ -2049,6 +2053,15 @@ public class Plugin : BasePlugin
         ForceStateMarkersToChinese();
     }
 
+    static void KickRulebookPanels()
+    {
+        // Debounce: at most one forced panel pass every ~10 frames.
+        if (_forceMarkerCalls < _rulebookKickAt)
+            return;
+        _rulebookKickAt = _forceMarkerCalls + 10;
+        RelocalizeKnownPanels();
+    }
+
     internal static void RelocalizeKnownPanels()
     {
         if (!_installed || _cjk == null)
@@ -2062,8 +2075,8 @@ public class Plugin : BasePlugin
                 try { go = GameObject.Find(name); } catch { }
                 if (go == null)
                     continue;
-                changed += RelocalizeUnder(go.transform, 120);
-                if (changed >= 80)
+                changed += RelocalizeUnder(go.transform, 200);
+                if (changed >= 160)
                     break;
             }
             if (changed > 0)
@@ -2081,7 +2094,8 @@ public class Plugin : BasePlugin
             return 0;
         int changed = 0;
         TMP_Text[] texts = null;
-        try { texts = root.GetComponentsInChildren<TMP_Text>(false); } catch { return 0; }
+        // Include inactive children: rulebook pages often spawn disabled.
+        try { texts = root.GetComponentsInChildren<TMP_Text>(true); } catch { return 0; }
         if (texts == null)
             return 0;
         foreach (var tmp in texts)
@@ -2434,11 +2448,10 @@ public class CjkFontBehaviour : MonoBehaviour
         }
         if (_frames % 3600 == 0)
             Plugin.RelocalizeUi();
-        // Rulebook roots only — cheap GameObject.Find, no store freeze risk.
-        if (_frames % 90 == 0)
+        // Rulebook roots — GameObject.Find only; every ~0.3s so pages flip to ZH fast.
+        if (_frames % 20 == 0)
             Plugin.RelocalizeKnownPanels();
         // Catch menus that activate after scene load (hex buttons).
-        // Budget: every ~3s (was 2s); RelocalizeUi is Exact/Norm-safe.
         if (_frames % 180 == 0)
             Plugin.RelocalizeUi();
     }

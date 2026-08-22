@@ -65,6 +65,7 @@ BepInEx 6 插件替换 `GetTextByKey`，TMP/UI `set_text` Exact/Norm，雅黑 CJ
 
 | 日期 | 版本 | 更新点 |
 | --- | --- | --- |
+| 2026-08-22 | v1.5.1 | **覆盖补洞**：清洗 cards.csv 中英混杂风味；成就表灌入 ui_runtime；图鉴 Exact 映射；规则书面板加速 Relocalize |
 | 2026-08-22 | Phase 3 / 1.5.0 | **消闪实施**：onPreRender 状态标记；L1 Exact 回退；规则书面板定向刷新；L6 清单；gates phase 3 |
 | 2026-08-22 | Phase 2 | **质量闭环**：`draft_total=0`；全包 reviewed；启迪=0；credits waived；gates phase 2 + draft 天花板；pytest 25 |
 | 2026-08-22 | Phase 1 | **覆盖闭环**：`missing_total=0`；空风味 waived；缩写卡名 reviewed；修 Loading rulebook；gates 升 phase 1 |

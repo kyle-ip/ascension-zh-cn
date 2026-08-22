@@ -616,7 +616,7 @@ Reactor Monk 10TH,CotG10,反应堆僧侣,获得2符文。你本回合下一张�
 Rocket Courier X-99 10TH,CotG10,火箭信使X-99,每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。,,official-anshashen+variant
 The Grand Design 10TH,CotG10,宏伟设计,每回合一次，获得2符文。你只能用它来获取机械神器。,,community+variant
 Watchmaker's Altar 10TH,CotG10,制表师祭坛,每回合一次，获得1符文。你只能用它来获取机械神器。,,official-anshashen+variant
-Arbiter of the Precipice 10TH,CotG10,悬崖仲裁者,抽两张牌。然后放逐你手牌中的一张卡牌。,,community+variant
+Arbiter of the Precipice 10TH,CotG10,悬崖仲裁者,抽两张牌。然后放逐你手牌中的一张卡牌。,「记忆与历史与我无关。这污秽之物本不该存在。如今，它将如同从未存在过。」,community+variant
 Demon Slayer 10TH,CotG10,恶魔杀手,获得3战力。,,official-anshashen+variant
 "Emri, One with the Void 10TH",CotG10,与虚空合一的艾姆瑞,获得4战力。,,official-anshashen+variant
 Muramasa 10TH,CotG10,村正,每回合一次，获得3战力。,,community+variant
@@ -669,7 +669,7 @@ Reactor Monk,CotG,反应堆僧侣,获得2符文。你本回合下一张获取的
 Rocket Courier X-99,CotG,火箭信使X-99,每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。,,official-anshashen
 The Grand Design,CotG,宏伟设计,每回合一次，获得2符文。你只能用它来获取机械神器。,,community
 Watchmaker's Altar,CotG,制表师祭坛,每回合一次，获得1符文。你只能用它来获取机械神器。,,official-anshashen
-Arbiter of the Precipice,CotG,悬崖仲裁者,抽两张牌。然后放逐你手牌中的一张卡牌。,,community
+Arbiter of the Precipice,CotG,悬崖仲裁者,抽两张牌。然后放逐你手牌中的一张卡牌。,「记忆与历史与我无关。这污秽之物本不该存在。如今，它将如同从未存在过。」,community
 Demon Slayer,CotG,恶魔杀手,获得3战力。,,official-anshashen
 "Emri, One with the Void",CotG,与虚空合一的艾姆瑞,获得4战力。,,official-anshashen
 Muramasa,CotG,村正,每回合一次，获得3战力。,,community
@@ -844,8 +844,8 @@ Trophy Hunter,IH,战利品猎手,获得2战力. 你支付 1战力更低下次你
 Void Avenger,IH,虚空复仇者,"获得3战力. 下次你击败一个怪物在中央牌列, 获得灵魂宝石.",,community
 Orb of Nyx,IH,宝珠尼克斯,"每回合一次，获得3战力.
 当你 击败一个怪物在中央牌列, 获得灵魂宝石.",,community
-Souls Unbound,IH,灵魂解缚,"怪物在中央牌列为 不可放逐.
-事件战利品： 弃掉卡牌. 若你如此做，获得灵魂宝石.",,community
+Souls Unbound,IH,灵魂解缚,"中央牌列中的怪物不可被放逐。
+事件战利品：弃一张牌。若你如此做，获得一枚灵魂宝石。",,community
 Acidic Crawler,IH,酸性爬行者,"奖励：5荣誉. 若对手控制最多的神器s, 摧毁所有神器s该玩家控制.",,community
 "Akam, the Genie",IH,阿卡姆·灯神,奖励：3荣誉. 持续战利品： 放置三 愿望指示物在 阿卡姆.,,community
 Cackling Jackal,IH,狂笑豺狼,奖励：2荣誉. 战利品： 放逐此 以获得1符文.,,community

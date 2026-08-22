@@ -54,6 +54,7 @@ Overlay ≈ 3084 keys / 2299 exact. Rulebook/DLC long copy in `rulebook.csv` wit
 
 | Date | Version | Delta |
 | --- | --- | --- |
+| 2026-08-22 | v1.5.1 | Coverage holes: scrub mixed card flavors; achievements in ui_runtime; gallery Exact maps; faster rulebook Relocalize |
 | 2026-08-22 | Phase 3 / 1.5.0 | Anti-flicker coded: onPreRender markers; L1 Exact fallback; rulebook panels; L6 checklist; gates phase 3 |
 | 2026-08-22 | Phase 2 | Quality closed: `draft_total=0`; all packs reviewed; 启迪=0; credits waived; gates phase 2 + draft ceilings; pytest 25 |
 | 2026-08-22 | Phase 1 | Coverage closed: `missing_total=0`; flavor waive policy; acronym names; Loading rulebook fix |
