@@ -58,6 +58,22 @@ def test_missing_counts_do_not_exceed_ceilings():
         )
 
 
+def test_draft_counts_do_not_exceed_ceilings():
+    gates = _load_gates()
+    summary = _load_summary()
+    if "max_draft_total" not in gates:
+        return
+    assert summary["draft_total"] <= gates["max_draft_total"], (
+        f"draft_total rose: {summary['draft_total']} > {gates['max_draft_total']}"
+    )
+    ceilings = gates.get("max_draft_by_domain") or {}
+    for domain, ceiling in ceilings.items():
+        actual = int(summary["by_domain"].get(domain, {}).get("draft", 0))
+        assert actual <= int(ceiling), (
+            f"domain {domain} draft rose: {actual} > {ceiling}"
+        )
+
+
 def test_waived_rows_have_reasons():
     path = INVENTORY / "strings.csv"
     with path.open(encoding="utf-8", newline="") as f:

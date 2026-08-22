@@ -17,8 +17,8 @@ This is the **execution-plan SSOT**: principles, phased exits, and how Inventory
 | **T** | Inventory + pytest L0–L4 + CI ceilings | Green tests; all domains registered |
 | **0** | Rulebook/DLC baseline + UI junk cleanup + store/rulebook runtime hotfixes | Long copy Chinese; store does not freeze |
 | **1** | Coverage loop: `missing → 0` by domain | **Done (2026-08-22):** missing=0; empty flavors waived; acronym names reviewed |
-| **2** | Quality: `draft → reviewed` per expansion pack | **Current** — glossary gates; per-pack reviewed effects |
-| **3** | UX anti-flicker / architecture convergence | L6 checklist; no coverage regressions |
+| **2** | Quality: `draft → reviewed` per expansion pack | **Done (2026-08-22):** `draft_total=0`; 启迪=0; credits waived; gates phase 2 |
+| **3** | UX anti-flicker / architecture convergence | **Current** — L6 checklist; no coverage regressions |
 
 ## Runtime stability notes
 
@@ -28,5 +28,6 @@ Do not Harmony-patch TMP `SetText(string, float, …)` overloads (IAP freeze). P
 
 | Date | Notes |
 | --- | --- |
+| 2026-08-22 | Phase 2 quality closed (`draft_total=0`; glossary 启迪=0; gates phase 2); Phase 3 next |
 | 2026-08-22 | Phase 1 coverage closed (`missing_total=0`); Phase 2 next |
 | 2026-08-22 | Initial roadmap checked into docs from the defect-analysis plan; Phase T/0 done, Phase 1 next |

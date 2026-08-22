@@ -1,583 +1,587 @@
 id,card_set,display_name,effect_text,flavor_text,source
-"Vedah, Sage of Swords",promo,剑贤维达,展示传送门牌库顶的卡牌. 抽起它或击败它.,,machine
-Giant Rat,promo,巨鼠,"置于其下的任何卡牌巨人Rat不能被获取、放逐或击败直到巨鼠被放逐或击败.
-奖励：获得1荣誉.",,machine
-Rat King,promo,鼠王,"当Rat王进入中央牌列, 放置一张巨鼠在 顶部的 每个其他中央牌列space.
-奖励：获得4荣誉和 击败所有巨人Rats在打出.",,machine
-Pathwarden,promo,巡路者,获得2符文. 你可以花费R视为P本回合.,,machine
-Deep Drone,promo,深潜无人机,获得2符文. 放置下一神器你 获取本回合直接进入战场.,,machine
-Void Mesmer,promo,虚空催眠师,"获得2战力. 下次你击败一个怪物本回合, 你可以获取一个英雄的 相等或更低er费用.",,machine
-"Kythis, the Gatekeeper",promo,守门人凯西斯,"当凯西斯进入中央牌列, 拿取传送门牌库顶的卡牌和 放置它 面朝下置于其下他.",,machine
-Journeyman Sage,promo,旅者贤者,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐英雄在其手牌中以 获取秘教士或 重装步兵和 加入其手牌.",,machine
+"Vedah, Sage of Swords",promo,剑贤维达,展示中央牌库顶的卡牌. 抽起它或击败它.,,community
+Giant Rat,promo,巨鼠,"置于巨鼠之下的任何卡牌不能被获取、放逐或击败，直到巨鼠被放逐或击败。
+奖励：获得1荣誉。",,community
+Rat King,promo,鼠王,"当鼠王进入中央牌列时，在每个其他中央牌列空位上放置一张巨鼠。
+奖励：获得4荣誉，并击败场上所有巨鼠。",,community
+Pathwarden,promo,巡路者,获得2符文. 你可以花费R视为P本回合.,,community
+Deep Drone,promo,深潜无人机,获得2符文. 放置下一神器你 获取本回合直接进入战场.,,community
+Void Mesmer,promo,虚空催眠师,获得2战力。本回合你下次击败怪物时，你可以获取一张费用等于或更低的英雄。,,community
+"Kythis, the Gatekeeper",promo,守门人凯西斯,"当凯西斯进入中央牌列, 拿取中央牌库顶的卡牌和 放置它 面朝下置于其下他.",,community
+Journeyman Sage,promo,旅者贤者,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐英雄在其手牌中以 获取秘教士或 重装步兵和 加入其手牌.",,community
 Nethersnare,promo,冥界陷阱,"每回合一次，若此牌下没有怪物，你可以将中央牌列的一个怪物置于其下。
 你可以击败怪物其下此 视为在中央牌列.
-若此 离开打出, 放置任意怪物其下此 在顶部的 传送门牌库.",,machine
-Askara of Fortune,promo,幸运阿斯卡拉,每位玩家展示顶部卡牌的 其牌库. 选择一个英雄已展示以此方式和 复制其效果.,,machine
-Hedron Flare,promo,多面体闪耀,每回合一次，你可以获取机械英雄在中央牌列无需支付费用.,,machine
-"Cetra, Guide of Ogo",promo,奥戈向导塞特拉,获取所有英雄在中央牌列无需支付费用. 放置它们放到你的牌库顶在 任意秩序.,,machine
-Ring of Life,promo,生命之环,"每回合一次，若你 拥有打出过命约英雄, 获得1符文. 当Ring的生命进入打出, 选择派系. 你的英雄的 该派系为 也命约英雄.",,machine
-Ender of Days,promo,终日者,奖励：获得10荣誉. Remove所有荣誉从 荣誉池.,,machine
-Leprechaun,promo,小矮妖,获得2符文. 获取一个罐的 金从彩虹尽头或 从另一名玩家的控制.,,machine
-Pot of Gold,promo,金罐,"当你 打出此, 抽一张牌. 当你 打出小矮妖, 获得1荣誉.",,machine
-"Miles, Golden Prodigy",promo,黄金神童迈尔斯,"抽一张牌. 每当你 打出卡牌的 另一派系本回合, 抽一张牌. 每个派系仅触发一次.",,machine
-Control Room,promo,控制室,"每回合一次，你可以放置机械神器你控制的在 顶部的 传送门牌库.
-若你如此做，获取机械神器在中央牌列和 将它放置在你的手牌中.",,machine
-Soul Collector,promo,集魂者,"每回合一次，加入灵魂指示物以 此若you've被击败怪物在中央牌列.
-每回合一次，获得战力相等以 数量为灵魂指示物在 此.",,machine
+若此 离开打出, 放置任意怪物其下此 在顶部的 中央牌库.",,community
+Askara of Fortune,promo,幸运阿斯卡拉,每位玩家展示顶部卡牌的 其牌库. 选择一个英雄已展示以此方式和 复制其效果.,,community
+Hedron Flare,promo,多面体闪耀,每回合一次，你可以获取机械英雄在中央牌列无需支付费用.,,community
+"Cetra, Guide of Ogo",promo,奥戈向导塞特拉,获取所有英雄在中央牌列无需支付费用. 放置它们放到你的牌库顶在 任意秩序.,,community
+Ring of Life,promo,生命之环,每回合一次，若你本回合打出过命约英雄，获得1符文。当生命之环进入战场时，选择一个派系。你该派系的英雄也视为命约英雄。,,community
+Ender of Days,promo,终日者,奖励：获得10荣誉. 移除所有荣誉从 荣誉池.,,community
+Leprechaun,promo,小矮妖,获得2符文. 获取一个罐的 金从彩虹尽头或 从另一名玩家的控制.,,community
+Pot of Gold,promo,金罐,"当你 打出此, 抽一张牌. 当你 打出小矮妖, 获得1荣誉.",,community
+"Miles, Golden Prodigy",promo,黄金神童迈尔斯,"抽一张牌. 每当你 打出卡牌的 另一派系本回合, 抽一张牌. 每个派系仅触发一次.",,community
+Control Room,promo,控制室,"每回合一次，你可以放置机械神器你控制的在 顶部的 中央牌库.
+若你如此做，获取机械神器在中央牌列和 将它放置在你的手牌中.",,community
+Soul Collector,promo,集魂者,"每回合一次，加入灵魂指示物以 此若你已被击败怪物在中央牌列.
+每回合一次，获得战力相等以 数量为灵魂指示物在 此.",,community
 Arha Sanctuary,promo,亚哈圣所,"当此牌进入战场时, 放置你牌库顶的卡牌其下此 面朝上.
-每回合一次，你可以swap卡牌在你的手牌中以 卡牌其下Arha圣所.
-当Arha圣所离开打出的 游戏结束, 放置卡牌其下它 置入你的弃牌堆.",,machine
-Moon Staff,promo,月杖,每回合一次，你可以花费 4符文以 使你的战力翻倍.,,machine
-Constricting Horror,promo,绞杀恐魔,奖励：获得4荣誉. 展示卡牌从中央牌库直到你 展示英雄. 获取该 英雄无需支付费用和 放逐每个其他卡牌已展示以此方式.,,machine
-Big Bad Bunny,promo,大坏兔子,天命： 放置卡牌从中央牌库facedown其下此 和每个其他卡牌在中央牌列.,,machine
+每回合一次，你可以交换卡牌在你的手牌中以 卡牌其下亚哈圣所.
+当亚哈圣所离开打出的 游戏结束, 放置卡牌其下它 置入你的弃牌堆.",,community
+Moon Staff,promo,月杖,每回合一次，你可以花费 4符文以 使你的战力翻倍.,,community
+Constricting Horror,promo,绞杀恐魔,奖励：获得4荣誉. 展示卡牌从中央牌库直到你 展示英雄. 获取该 英雄无需支付费用和 放逐每个其他卡牌已展示以此方式.,,community
+Big Bad Bunny,promo,大坏兔子,天命： 放置卡牌从中央牌库面朝下其下此 和每个其他卡牌在中央牌列.,,community
 Lotus Siren,promo,莲花海妖,"获得2符文.
-每当你 获取一个英雄或 宝藏卡牌从中央牌列本回合, 获得1荣誉. (获得荣誉以 每个卡牌已获取.)",,machine
-Aether Channeler,promo,以太引导者,放逐一张卡牌从你的手牌. Replace它以 随机hero和将它放置在你的手牌中.,,machine
-Spirit of the Ancients,promo,上古之灵,选择命约英雄该 尚未被选择以 此before. 此卡牌视为复制的 该英雄.,,machine
-Temporal Excavator,promo,时光发掘者,: 加入一卡牌和 若它 为already那里然后放逐它 和将它替换.,,machine
-Eternal Tormentor,promo,永恒折磨者,击败一个随机怪物在 虚空区无需支付费用s和将它放置置于其底： 传送门牌库.,,machine
-Explosive Swarm,promo,爆裂虫群,"奖励：获得4荣誉. 当相邻non-怪物卡牌会 是被替换,将它替换以 复制的 此怪物改为",,machine
-Portal,promo,传送门,此为 任意hero或神器该 能够是 发现在 传送门牌库的 任意Ascension set. 你从不知道什么you're going以get!,,machine
-Aether Curator,promo,以太策展者,放逐一张卡牌在中央牌列. Replace它以 传送门.,,machine
-Aetherspring Witch,promo,以太泉女巫,"选择一项： 获得3荣誉, 或获取传送门在中央牌列无需支付费用.",,machine
-Destroyer's Gate,promo,毁灭者之门,经过一段时间后，此牌会转化成某种很厉害的东西！,,machine
+每当你 获取一个英雄或 宝藏卡牌从中央牌列本回合, 获得1荣誉. (获得荣誉以 每个卡牌已获取.)",,community
+Aether Channeler,promo,以太引导者,放逐一张卡牌从你的手牌. 替换它以 随机英雄和将它放置在你的手牌中.,,community
+Spirit of the Ancients,promo,上古之灵,选择命约英雄该 尚未被选择以 此之前. 此卡牌视为复制的 该英雄.,,community
+Temporal Excavator,promo,时光发掘者,: 加入一卡牌和 若它 为已经那里然后放逐它 和将它替换.,,community
+Eternal Tormentor,promo,永恒折磨者,击败一个随机怪物在 虚空区无需支付费用s和将它放置置于其底： 中央牌库.,,community
+Explosive Swarm,promo,爆裂虫群,"奖励：获得4荣誉. 当相邻非怪物卡牌会 是被替换,将它替换以 复制的 此怪物改为",,community
+Portal,promo,传送门,此牌可以是任意《创升纪元》系列中央牌库中可能出现的英雄或神器。你永远不知道会得到什么！,,community
+Aether Curator,promo,以太策展者,放逐一张卡牌在中央牌列. 替换它以 传送门.,,community
+Aetherspring Witch,promo,以太泉女巫,"选择一项： 获得3荣誉, 或获取传送门在中央牌列无需支付费用.",,community
+Destroyer's Gate,promo,毁灭者之门,经过一段时间后，此牌会转化成某种很厉害的东西！,,community
 Aether Ritualist,promo,以太祭仪师,"获得2战力.
-下次你击败一个怪物在中央牌列本回合, 你可以获取传送门无需支付费用.",,machine
-Tollmaster Ky'lek,promo,税吏凯莱克,天命： 放逐所有其他卡牌在中央牌列和 将它们替换以 传送门.,,machine
+下次你击败一个怪物在中央牌列本回合, 你可以获取传送门无需支付费用.",,community
+Tollmaster Ky'lek,promo,税吏凯莱克,天命： 放逐所有其他卡牌在中央牌列和 将它们替换以 传送门.,,community
 Defender of Vigil,promo,防御者祈夜,"获得2符文和 2战力.
 获得1符文以 每个学徒你 打出或 拥有打出过本回合.
-获得1战力以 每个民兵你 打出或 拥有打出过本回合.",,machine
-"David, Prophetic Guide",promo,大卫·预言向导,"抽三 卡牌, 然后放置两 卡牌从你的手牌放到你的牌库顶在 任意秩序.",,machine
-Eye of Potential,promo,潜能之眼,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
+获得1战力以 每个民兵你 打出或 拥有打出过本回合.",,community
+"David, Prophetic Guide",promo,大卫·预言向导,"抽三 卡牌, 然后放置两 卡牌从你的手牌放到你的牌库顶在 任意秩序.",,community
+Eye of Potential,promo,潜能之眼,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,community
 "Forrest, Beastwarden",promo,福雷斯特·兽卫,"获得2符文.
-一次本回合, 你可以获取一个英雄在 虚空区视为在中央牌列.",,machine
+一次本回合, 你可以获取一个英雄在 虚空区视为在中央牌列.",,community
 Lunar Matriarch,promo,月女族长,"获得5荣誉.
-一次本回合, 你可以支付至多 5符文以 获得该等量的H.",,machine
+一次本回合, 你可以支付至多 5符文以 获得该等量的H.",,community
 N.I.N.E.,promo,N.I.N.E.,"获得2符文.
-当你 打出机械神器, 你可以将此牌返回从 你的弃牌堆以 你的手牌. (卡牌打出过在期间你的回合不 进入以 你的弃牌堆直到结束时回合.)",,machine
+当你 打出机械神器, 你可以将此牌返回从 你的弃牌堆以 你的手牌. (卡牌打出过在期间你的回合不 进入以 你的弃牌堆直到结束时回合.)",,community
 Tinkering Monk,promo,摆弄僧侣,"获得2符文.
-你可以拥有每位玩家获得H相等以 数量为机械神器其控制的.",,machine
+你可以拥有每位玩家获得H相等以 数量为机械神器其控制的.",,community
 Ethereal Huntress,promo,空灵女猎手,"获得3战力.
-你可以放置怪物从虚空区在 顶部的 传送门牌库.",,machine
+你可以放置怪物从虚空区在 顶部的 中央牌库.",,community
 Chaos Rider,promo,混沌骑手,"获得3战力.
-你可以返回虚空卡牌从 你的弃牌堆以 你的手牌.",,machine
-"Nova, Born of Chaos",promo,诺娃·混沌所生,"奖励：万民玩家返回所有荣誉点数以 荣誉池. 若游戏会 结束此round, 它does不结束.
-获得10荣誉.",,machine
-Stone Blade Templar,promo,石刃圣殿武士,"展示和 放逐顶部卡牌的 传送门牌库. 若其 派系为:
+你可以返回虚空卡牌从 你的弃牌堆以 你的手牌.",,community
+"Nova, Born of Chaos",promo,诺娃·混沌所生,"奖励：万民玩家返回所有荣誉点数以 荣誉池. 若游戏会 结束此回合, 它会不结束.
+获得10荣誉.",,community
+Stone Blade Templar,promo,石刃圣殿武士,"展示和 放逐顶部卡牌的 中央牌库. 若其 派系为:
 圣贤: 抽两张牌.
 生命: 获得3 荣誉.
 机械: 获得2 符文.
 虚空: 获得2 战力.
-无派系： 选择一 的效果上方.",,machine
-Spire of the Wind,promo,尖塔风,"每回合一次，你可以弃掉卡牌从你的手牌以 抽一张牌.若它 为秘教士或 重装步兵, 抽 2 卡牌改为.",,machine
-Seed of the World,promo,种子世界,"每回合一次，当你 获取一个英雄在 中央牌列,获得荣誉相等以 其荣誉值.",,machine
-Chaotic Cannon,promo,混沌加农,"每回合一次，弃掉你牌库顶的卡牌以 获得战力相等以 其荣誉值.若它 为机械神器, 将它放置在你的手牌中改为.",,machine
-The Aethermourne,promo,以太哀歌,每回合一次，获得战力相等以 数量为怪物在 中央牌列.,,machine
-Puggageddon,promo,巴哥末日,"奖励：获得2 荣誉. 放置此 置入另一玩家之弃牌堆. 当此 为打出过从你的手牌, 获得1 荣誉和 将它放置置入另一玩家之弃牌堆.",,machine
-Twilight Scout,WoS,暮光斥候,抽一张牌.,,machine
-Inspired Templar,WoS,受启圣殿武士,击败一个怪物以 费用 4战力或更低无需支付费用.,,machine
-Pillar of Resolve,WoS,柱决意,"每回合一次，若你 拥有打出过秘教士和 重装步兵, 抽两张牌.",,machine
-"Ta'hyr, the Sun",WoS,塔希尔·太阳,"若所有卡牌在中央牌列为DAY卡牌,",,machine
-Shrine Attendant,WoS,神龛侍从,加入秘教士或 重装步兵以 你的手牌.,,machine
-Searing Askara,WoS,灼热阿斯卡拉,放逐一张卡牌在中央牌列. 然后你可以获取卡牌以 费用 3符文或更低无需支付费用.,,machine
-Arha Historian,WoS,亚哈史官,"抽一张牌. 若你 打出或 拥有打出过秘教士或 重装步兵本回合, 抽额外的卡牌.",,machine
-Bringer of Hope,WoS,带来者希望,放逐一张卡牌在你的手牌中. 若你如此做，加入秘教士和 重装步兵以 你的手牌.,,machine
-Sunstreak Courier,WoS,日迹信使,获得1符文和 1战力.,,machine
+无派系： 选择一 的效果上方.",,community
+Spire of the Wind,promo,尖塔风,"每回合一次，你可以弃掉卡牌从你的手牌以 抽一张牌.若它 为秘教士或 重装步兵, 抽 2 卡牌改为.",,community
+Seed of the World,promo,种子世界,"每回合一次，当你 获取一个英雄在 中央牌列,获得荣誉相等以 其荣誉值.",,community
+Chaotic Cannon,promo,混沌加农,"每回合一次，弃掉你牌库顶的卡牌以 获得战力相等以 其荣誉值.若它 为机械神器, 将它放置在你的手牌中改为.",,community
+The Aethermourne,promo,以太哀歌,每回合一次，获得战力相等以 数量为怪物在 中央牌列.,,community
+Puggageddon,promo,巴哥末日,"奖励：获得2 荣誉. 放置此 置入另一玩家之弃牌堆. 当此 为打出过从你的手牌, 获得1 荣誉和 将它放置置入另一玩家之弃牌堆.",,community
+Twilight Scout,WoS,暮光斥候,抽一张牌.,,community
+Inspired Templar,WoS,受启圣殿武士,击败一个怪物以 费用 4战力或更低无需支付费用.,,community
+Pillar of Resolve,WoS,柱决意,"每回合一次，若你 拥有打出过秘教士和 重装步兵, 抽两张牌.",,community
+"Ta'hyr, the Sun",WoS,塔希尔·太阳,"若所有卡牌在中央牌列为昼卡牌,",,community
+Shrine Attendant,WoS,神龛侍从,加入秘教士或 重装步兵以 你的手牌.,,community
+Searing Askara,WoS,灼热阿斯卡拉,放逐一张卡牌在中央牌列. 然后你可以获取卡牌以 费用 3符文或更低无需支付费用.,,community
+Arha Historian,WoS,亚哈史官,"抽一张牌. 若你 打出或 拥有打出过秘教士或 重装步兵本回合, 抽额外的卡牌.",,community
+Bringer of Hope,WoS,带来者希望,放逐一张卡牌在你的手牌中. 若你如此做，加入秘教士和 重装步兵以 你的手牌.,,community
+Sunstreak Courier,WoS,日迹信使,获得1符文和 1战力.,,community
 Everbloom Witch,WoS,永绽女巫,"获得3荣誉.
-联合： 获得3荣誉.",,machine
+联合： 获得3荣誉.",,community
 Marsh Ranger,WoS,沼泽游侠,"获得1符文和 1荣誉. 抽一张牌.
-联合： 获得1符文和 1荣誉. 抽一张牌.",,machine
+联合： 获得1符文和 1荣誉. 抽一张牌.",,community
 "Vyrak, the First",WoS,维拉卡·初代,"你可以花费P作为R以获取此.
-获得10荣誉.",,machine
-Lunar Guardian,WoS,月守卫,获得2符文.,,machine
-Verdant Chanter,WoS,翠绿咏者,获得2符文.,,machine
-Map of the Stars,WoS,星图,每回合一次，获得1符文和 1战力.,,machine
-"Luro, the Hunter",WoS,卢罗·猎手,获得3符文.,,machine
-Solar Sentry,WoS,日哨兵,获得2符文.,,machine
+获得10荣誉.",,community
+Lunar Guardian,WoS,月守卫,获得2符文.,,community
+Verdant Chanter,WoS,翠绿咏者,获得2符文.,,community
+Map of the Stars,WoS,星图,每回合一次，获得1符文和 1战力.,,community
+"Luro, the Hunter",WoS,卢罗·猎手,获得3符文.,,community
+Solar Sentry,WoS,日哨兵,获得2符文.,,community
 Sureshot Tracker,WoS,神射追踪者,"获得2战力.
-若你 打出或 拥有打出过闪光追踪者本回合, 抽一张牌.",,machine
-Foundry Hound,WoS,铸造厂猎犬,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 获得2符文.",,machine
-Watchtower Golem,WoS,瞭望塔魔像,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 获得2战力.",,machine
-Wrecklamax,WoS,回收残机,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 抽一张牌.",,machine
-Illuminator,WoS,照明者,DAY: 每回合一次，获得1符文和 1战力,,machine
+若你 打出或 拥有打出过闪光追踪者本回合, 抽一张牌.",,community
+Foundry Hound,WoS,铸造厂猎犬,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 获得2符文.",,community
+Watchtower Golem,WoS,瞭望塔魔像,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 获得2战力.",,community
+Wrecklamax,WoS,回收残机,"每回合一次，若你 打出机械神器 (包括此牌一) 或若 它为 昼, 抽一张牌.",,community
+Illuminator,WoS,照明者,昼: 每回合一次，获得1符文和 1战力,,community
 Flare Tracker,WoS,闪光追踪者,"获得2符文.
-若你 打出或 拥有打出过神射追踪者本回合, 抽一张牌.",,machine
+若你 打出或 拥有打出过神射追踪者本回合, 抽一张牌.",,community
 Rescuebot 505,WoS,救援机505,"当你 获取此 和它 为昼, 将其直接进入战场.
-当你 获取机械神器, 将其直接进入战场.",,machine
-Shade Converter,WoS,暗影转化者,"若你控制的三 或更高机械神器, 你可以视为你的回合作为昼.",,machine
+当你 获取机械神器, 将其直接进入战场.",,community
+Shade Converter,WoS,暗影转化者,"若你控制的三 或更高机械神器, 你可以视为你的回合作为昼.",,community
 Dogs of War,WoS,犬战争,"获得1战力.
-你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，获得额外的 1战力.",,machine
+你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，获得额外的 1战力.",,community
 Riftwatch Outpost,WoS,裂隙守望前哨,"每回合一次，获得1战力.
-你可以摧毁此 以获得1战力.",,machine
+你可以摧毁此 以获得1战力.",,community
 Deadeye Assassin,WoS,死眼刺客,"获得3战力.
-获得额外的 1战力以 每个虚空卡牌在你的弃牌堆.",,machine
-Dark Gladiator,WoS,黑暗角斗士,获得2战力.,,machine
-Dread Conjurer,WoS,恐惧咒术师,抽一张牌.,,machine
-Wartorn Arbiter,WoS,战创仲裁者,获得1战力.,,machine
-Shade of Sadranis,WoS,暗影萨德拉尼斯,获得4战力.,,machine
+获得额外的 1战力以 每个虚空卡牌在你的弃牌堆.",,community
+Dark Gladiator,WoS,黑暗角斗士,获得2战力.,,community
+Dread Conjurer,WoS,恐惧咒术师,抽一张牌.,,community
+Wartorn Arbiter,WoS,战创仲裁者,获得1战力.,,community
+Shade of Sadranis,WoS,暗影萨德拉尼斯,获得4战力.,,community
 "Isha, the Pursuer",WoS,伊莎·追猎者,"获得3战力.
-下次你击败一个怪物本回合, 获得R相等以 被击败怪物之P费用.",,machine
+下次你击败一个怪物本回合, 获得R相等以 被击败怪物之P费用.",,community
 Shardwing Beetle,WoS,晶翼甲虫,"奖励：获得3荣誉.
-当你 击败此, 你可以支付 3符文以 获得额外的 3荣誉.",,machine
-Deceitful Ghoul,WoS,欺诈食尸鬼,奖励：获得2荣誉.,,machine
-Scavenger Ants,WoS,拾荒者蚁群,奖励：获得4荣誉.,,machine
-Emberwing Moth,WoS,烬翼蛾,奖励：获得5荣誉.,,machine
-Cavern Creeper,WoS,洞穴爬行者,奖励：获得1荣誉和 1符文.,,machine
-Shade Viper,WoS,暗影毒蛇,奖励：获得2荣誉.,,machine
-Light of False Hope,WoS,光虚假希望,奖励：获得4荣誉.,,machine
-Lieutenant Duros,WoS,副官杜洛斯,奖励：获得4荣誉.,,machine
-Legion of Aklys,WoS,军团阿克里斯,"若所有卡牌在中央牌列为NIGHT卡牌,",,machine
-"Aklys, the Scourge",WoS,阿克里斯·灾祸,奖励：获得6荣誉.,,machine
+当你 击败此, 你可以支付 3符文以 获得额外的 3荣誉.",,community
+Deceitful Ghoul,WoS,欺诈食尸鬼,奖励：获得2荣誉.,,community
+Scavenger Ants,WoS,拾荒者蚁群,奖励：获得4荣誉.,,community
+Emberwing Moth,WoS,烬翼蛾,奖励：获得5荣誉.,,community
+Cavern Creeper,WoS,洞穴爬行者,奖励：获得1荣誉和 1符文.,,community
+Shade Viper,WoS,暗影毒蛇,奖励：获得2荣誉.,,community
+Light of False Hope,WoS,光虚假希望,奖励：获得4荣誉.,,community
+Lieutenant Duros,WoS,副官杜洛斯,奖励：获得4荣誉.,,community
+Legion of Aklys,WoS,军团阿克里斯,"若所有卡牌在中央牌列为夜卡牌,",,community
+"Aklys, the Scourge",WoS,阿克里斯·灾祸,奖励：获得6荣誉.,,community
 Dhartha's Trial,GotE,达萨的试炼,"每回合一次，若你 拥有打出过秘教士或 重装步兵, 抽一张牌.
-支付 8符文: 将此牌转化为达萨, 永恒预言者和 获取它.",,machine
-"Dhartha, Eternal Seer",GotE,达萨·永恒预言者,抽四 卡牌.,,machine
-Radiant Aspirant,GotE,辉耀追求者,"EMPOWER
-抽一张牌.",,machine
+支付 8符文: 将此牌转化为达萨, 永恒预言者和 获取它.",,community
+"Dhartha, Eternal Seer",GotE,达萨·永恒预言者,抽四 卡牌.,,community
+Radiant Aspirant,GotE,辉耀追求者,"赋力
+抽一张牌.",,community
 Water Elemental,GotE,水元素,"抽一张牌.
-若此 为被放逐从 任意处在期间你的回合, 抽两张牌.",,machine
-Sister of the Wind,GotE,姐妹风,放逐姐妹的 风和 卡牌在你的手牌中. 若你如此做，加入秘教士和/或重装步兵以 你的手牌.,,machine
+若此 为被放逐从 任意处在期间你的回合, 抽两张牌.",,community
+Sister of the Wind,GotE,姐妹风,放逐姐妹的 风和 卡牌在你的手牌中. 若你如此做，加入秘教士和/或重装步兵以 你的手牌.,,community
 Yuk Tribe Outcast,GotE,尤克部落放逐者,"抽一张牌.
-放逐一张卡牌在中央牌列. 然后你可以放逐尤克部落放逐者或 尤克部落小妖在你的手牌中以 获取或 击败卡牌在中央牌列无需支付费用.",,machine
-Thunder Templar,GotE,雷圣殿武士,"EMPOWER
-击败一个怪物以 费用 5战力或更低无需支付费用.",,machine
-Whirlwind Ascetic,GotE,旋风苦行僧,"抽三张牌, 然后弃掉两 卡牌. 你可以返回秘教士和 重装步兵已弃掉以此方式以 你的手牌.",,machine
-Brother Laias,GotE,修士莱亚斯,"EMPOWER
+放逐一张卡牌在中央牌列. 然后你可以放逐尤克部落放逐者或 尤克部落小妖在你的手牌中以 获取或 击败卡牌在中央牌列无需支付费用.",,community
+Thunder Templar,GotE,雷圣殿武士,"赋力
+击败一个怪物以 费用 5战力或更低无需支付费用.",,community
+Whirlwind Ascetic,GotE,旋风苦行僧,"抽三张牌, 然后弃掉两 卡牌. 你可以返回秘教士和 重装步兵已弃掉以此方式以 你的手牌.",,community
+Brother Laias,GotE,修士莱亚斯,"赋力
 当你 获取修士莱亚斯, 将它放置置入你的手牌若 你拥有打出过秘教士本回合.
-抽两张牌.",,machine
-"Sonny, Lightwielder",GotE,桑尼·持光者,"EMPOWER
-击败一个怪物无需支付费用. 若该 怪物会 进入以 虚空区, 你可以支付将它放置置入玩家之弃牌堆改为.",,machine
-Piercing Eye,GotE,贯穿之眼,"每回合一次，若你 拥有被击败怪物在中央牌列, 你可以抽一张牌.",,machine
-Temple of the Wind,GotE,风之神殿,每回合一次，你可以放逐一张卡牌在你的弃牌堆和 将它替换以 秘教士或 重装步兵.,,machine
+抽两张牌.",,community
+"Sonny, Lightwielder",GotE,桑尼·持光者,"赋力
+击败一个怪物无需支付费用. 若该 怪物会 进入以 虚空区, 你可以支付将它放置置入玩家之弃牌堆改为.",,community
+Piercing Eye,GotE,贯穿之眼,"每回合一次，若你 拥有被击败怪物在中央牌列, 你可以抽一张牌.",,community
+Temple of the Wind,GotE,风之神殿,每回合一次，你可以放逐一张卡牌在你的弃牌堆和 将它替换以 秘教士或 重装步兵.,,community
 Cetra's Trial,GotE,塞特拉的试炼,"英雄在中央牌列费用 1符文更低以 获取 (以最少的 1符文).
-支付 8符文: 将此牌转化为天体塞特拉和 获取它.",,machine
-"Cetra, Celestial Body",GotE,天体塞特拉,获得H相等以total H的所有英雄和 神器s在中央牌列.,,machine
-Keen-eyed Aspirant,GotE,锐眼追求者,"EMPOWER
-获得1符文和 1荣誉.",,machine
-Thicket Familiar,GotE,灌木丛使魔,"EMPOWER
-展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为卡牌以 赋力, 获得2荣誉.",,machine
+支付 8符文: 将此牌转化为天体塞特拉和 获取它.",,community
+"Cetra, Celestial Body",GotE,天体塞特拉,获得H相等以总计 H的所有英雄和 神器s在中央牌列.,,community
+Keen-eyed Aspirant,GotE,锐眼追求者,"赋力
+获得1符文和 1荣誉.",,community
+Thicket Familiar,GotE,灌木丛使魔,"赋力
+展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为卡牌以 赋力, 获得2荣誉.",,community
 Verdant Elemental,GotE,翠绿元素,"获得3荣誉.
-若此 为被放逐从 任意处在期间你的回合, 获得3荣誉.",,machine
-Flourishing Druidess,GotE,繁盛女德鲁伊,"EMPOWER
-获得2符文. 若你 拥有更多H于每个其他玩家, 获得额外的 1符文.",,machine
+若此 为被放逐从 任意处在期间你的回合, 获得3荣誉.",,community
+Flourishing Druidess,GotE,繁盛女德鲁伊,"赋力
+获得2符文. 若你 拥有更多H于每个其他玩家, 获得额外的 1符文.",,community
 "Kiri, Meadow Witch",GotE,基莉·草地女巫,"抽一张牌.
-联合： 获得5荣誉.",,machine
-Hearthglow Clique,GotE,炉辉小圈子,"EMPOWER
+联合： 获得5荣誉.",,community
+Hearthglow Clique,GotE,炉辉小圈子,"赋力
 获得2符文和 2荣誉.
-联合： 抽一张牌.",,machine
+联合： 抽一张牌.",,community
 Earthmender Pura,GotE,愈地者普拉,"获得3符文.
-你可以放置怪物从你的手牌或 弃牌堆置入对手之弃牌堆.",,machine
-Wildbark Mail,GotE,野树皮甲胄,"每回合一次，若你 拥有被击败怪物在中央牌列, 获得2荣誉.",,machine
-Temple of Heroes,GotE,英雄神殿,"每回合一次，若你 拥有打出过命约英雄或 怪物, 获得2荣誉.",,machine
+你可以放置怪物从你的手牌或 弃牌堆置入对手之弃牌堆.",,community
+Wildbark Mail,GotE,野树皮甲胄,"每回合一次，若你 拥有被击败怪物在中央牌列, 获得2荣誉.",,community
+Temple of Heroes,GotE,英雄神殿,"每回合一次，若你 拥有打出过命约英雄或 怪物, 获得2荣誉.",,community
 Reysa's Trial,GotE,雷萨的试炼,"神器s在中央牌列费用 1符文更低以 获取 (以最少的 1符文).
-支付 8符文: 将此牌转化为锻母雷萨和 获取它.",,machine
-Forgemother Reysa,GotE,锻母雷萨,选择一项： 抽一张牌OR获取任意数量的 神器s在中央牌列无需支付其 费用.,,machine
-Innovative Aspirant,GotE,创新追求者,"EMPOWER
-获得1符文和 1战力.",,machine
+支付 8符文: 将此牌转化为锻母雷萨和 获取它.",,community
+Forgemother Reysa,GotE,锻母雷萨,选择一项：抽一张牌；或获取中央牌列中任意数量的神器，无需支付费用。,,community
+Innovative Aspirant,GotE,创新追求者,"赋力
+获得1符文和 1战力.",,community
 Scrap Weaver,GotE,废料编织者,"抽一张牌.
-你可以放置下一神器你 获取本回合直接进入战场.",,machine
+你可以放置下一神器你 获取本回合直接进入战场.",,community
 Iron Elemental,GotE,铁元素,"获得2符文.
-若此 为被放逐从anyhere在期间你的回合, 获得2符文.",,machine
-Conduit Monk,GotE,导管僧侣,"EMPOWER
+若此 为被放逐从任何地方在期间你的回合, 获得2符文.",,community
+Conduit Monk,GotE,导管僧侣,"赋力
 获得3符文.
-你为 视为以 控制两 额外的机械神器本回合.",,machine
-Elemental Projector,GotE,元素投射器,"每回合一次，若你控制的两 或更高机械神器, 获得2战力.",,machine
-Processing Hub,GotE,处理枢纽,"每回合一次，若你控制的三 或更高机械神器, 获得2符文.",,machine
-Spire of Insight,GotE,尖塔洞察,"每回合一次，若你控制的四 或更高机械神器, 你可以抽两张牌.",,machine
-Blast Goggles,GotE,爆破护目镜,"每回合一次，若你控制的五 或更高机械神器, 获得5荣誉.",,machine
-Cell Block E,GotE,牢房E区,"当你 击败一个怪物在中央牌列或 打出怪物, 你可以将其直接进入战场和 视为它作为机械神器.",,machine
-P.R.I.M.E. Directive,GotE,P.R.I.M.E.指令,"若你控制的eight或更高机械神器, 你win游戏.",,machine
+你为 视为以 控制两 额外的机械神器本回合.",,community
+Elemental Projector,GotE,元素投射器,"每回合一次，若你控制的两 或更高机械神器, 获得2战力.",,community
+Processing Hub,GotE,处理枢纽,"每回合一次，若你控制的三 或更高机械神器, 获得2符文.",,community
+Spire of Insight,GotE,尖塔洞察,"每回合一次，若你控制的四 或更高机械神器, 你可以抽两张牌.",,community
+Blast Goggles,GotE,爆破护目镜,"每回合一次，若你控制的五 或更高机械神器, 获得5荣誉.",,community
+Cell Block E,GotE,牢房E区,"当你 击败一个怪物在中央牌列或 打出怪物, 你可以将其直接进入战场和 视为它作为机械神器.",,community
+P.R.I.M.E. Directive,GotE,P.R.I.M.E.指令,若你控制8个或更多机械神器，你赢得游戏。,,community
 Emri's Trial,GotE,艾姆瑞的试炼,"怪物在中央牌列费用 1战力更低以 击败 (以最少的 1战力).
-支付 8符文: 将此牌转化为战生艾姆瑞和 获取它.",,machine
+支付 8符文: 将此牌转化为战生艾姆瑞和 获取它.",,community
 "Emri, Born of Battle",GotE,战生艾姆瑞,"获得4战力.
-每回合一次，当你 击败一个怪物在中央牌列, 拿取2荣誉从 每个其他玩家.",,machine
-Deranged Aspirant,GotE,发狂追求者,"EMPOWER
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+每回合一次，当你 击败一个怪物在中央牌列, 拿取2荣誉从 每个其他玩家.",,community
+Deranged Aspirant,GotE,发狂追求者,"赋力
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Shadow Elemental,GotE,暗影元素,"获得2战力.
-若此 为被放逐从 任意处在期间你的回合, 获得2战力.",,machine
+若此 为被放逐从 任意处在期间你的回合, 获得2战力.",,community
 Patient Assassin,GotE,耐心刺客,"获得2战力.
-若存在虚空卡牌在你的弃牌堆, 获得额外的 1战力.",,machine
+若存在虚空卡牌在你的弃牌堆, 获得额外的 1战力.",,community
 Venom Priestess,GotE,毒液女祭司,"获得2战力.
-你可以放逐一张卡牌你 拥有打出过本回合或 在你的弃牌堆.",,machine
-Voidrift Stalker,GotE,虚空裂隙潜行者,"EMPOWER
+你可以放逐一张卡牌你 拥有打出过本回合或 在你的弃牌堆.",,community
+Voidrift Stalker,GotE,虚空裂隙潜行者,"赋力
 获得3战力.
-若存在虚空卡牌在你的弃牌堆, 抽一张牌.",,machine
-Grand-Arbiter Todd,GotE,大仲裁者托德,"EMPOWER
+若存在虚空卡牌在你的弃牌堆, 抽一张牌.",,community
+Grand-Arbiter Todd,GotE,大仲裁者托德,"赋力
 抽两张牌.
-放逐一张卡牌在你的手牌中. 若你 被放逐怪物以此方式, 抽额外的卡牌.",,machine
-"Ulan, the Crusher",GotE,乌兰·粉碎者,"EMPOWER
+放逐一张卡牌在你的手牌中. 若你 被放逐怪物以此方式, 抽额外的卡牌.",,community
+"Ulan, the Crusher",GotE,乌兰·粉碎者,"赋力
 获得4战力.
-若你控制的乌兰的拳, 抽一张牌.",,machine
-Madness' Embrace,GotE,疯狂之拥,"每回合一次，若你 拥有被击败怪物在中央牌列, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+若你控制的乌兰的拳, 抽一张牌.",,community
+Madness' Embrace,GotE,疯狂之拥,"每回合一次，若你 拥有被击败怪物在中央牌列, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Oblivion Blossoms,GotE,湮灭花,"每回合一次，获得1战力.
-每回合一次，若你 拥有被放逐卡牌, 获得1荣誉.",,machine
+每回合一次，若你 拥有被放逐卡牌, 获得1荣誉.",,community
 Ulan's Fist,GotE,乌兰的拳,"每回合一次，获得2战力.
-每回合一次，若你 拥有打出过乌兰, 粉碎者, 获得额外的 2战力.",,machine
+每回合一次，若你 拥有打出过乌兰, 粉碎者, 获得额外的 2战力.",,community
 Xeron's Trial,GotE,泽伦的试炼,"当你 打出怪物, 获得2战力.
-支付 8符文: 将此牌转化为泽伦, 伪盟者和 获取它.",,machine
+支付 8符文: 将此牌转化为泽伦, 伪盟者和 获取它.",,community
 "Xeron, False Ally",GotE,泽伦·伪盟者,"获得5符文.
-获得额外的 2符文以 每个怪物你 打出或 拥有打出过本回合.",,machine
+获得额外的 2符文以 每个怪物你 打出或 拥有打出过本回合.",,community
 Nom Tribe Gremlin,GotE,诺姆部落小妖,"奖励：获得1荣誉.
-INFEST: 当你 击败诺姆部落小妖, 你可以将它放置置入玩家之弃牌堆.
-当你 打出诺姆部落小妖, 你可以将它放置置入另一玩家之弃牌堆.",,machine
+感染: 当你 击败诺姆部落小妖, 你可以将它放置置入玩家之弃牌堆.
+当你 打出诺姆部落小妖, 你可以将它放置置入另一玩家之弃牌堆.",,community
 Yuk Tribe Gremlin,GotE,尤克部落小妖,"奖励：获得1荣誉.
-INFEST: 当你 击败尤克部落小妖, 你可以将它放置置入玩家之弃牌堆.",,machine
+感染: 当你 击败尤克部落小妖, 你可以将它放置置入玩家之弃牌堆.",,community
 Bam Tribe Gremlins,GotE,巴姆部落小妖们,"奖励：获得2荣誉.
-INFEST: 当你 击败巴姆部落小妖们, 你可以将它放置置入玩家之弃牌堆.",,machine
+感染: 当你 击败巴姆部落小妖们, 你可以将它放置置入玩家之弃牌堆.",,community
 Bramble Elemental,GotE,荆棘元素,"奖励：获得5荣誉.
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Wildfire Elemental,GotE,野火元素,"奖励：获得4荣誉.
-选择至多两 卡牌在中央牌列和 放逐它们.",,machine
+选择至多两 卡牌在中央牌列和 放逐它们.",,community
 Unspeakable Doom,GotE,不可名状末日,"奖励：获得5荣誉.
-每位对手展示其 手牌. 获得额外的 2荣誉以 每个怪物已展示以此方式.",,machine
+每位对手展示其 手牌. 获得额外的 2荣誉以 每个怪物已展示以此方式.",,community
 Tectonic Thrasher,GotE,地壳鞭笞者,"奖励：获得4荣誉.
-每位对手须选择和 摧毁两 神器s其控制的.",,machine
+每位对手须选择和 摧毁两 神器s其控制的.",,community
 Static Elemental,GotE,静电元素,"奖励：获得5荣誉.
-每位对手放置所有神器s其控制的在 顶部的 其牌库在 随机秩序.",,machine
+每位对手放置所有神器s其控制的在 顶部的 其牌库在 随机秩序.",,community
 Eek Tribe Gremlin,GotE,伊克部落小妖,"奖励：获得5荣誉.
-放置怪物从 虚空区置入玩家之弃牌堆. INFEST: 当你 击败伊克部落小妖, 你可以将它放置置入玩家之弃牌堆.",,machine
+放置怪物从 虚空区置入玩家之弃牌堆. 感染: 当你 击败伊克部落小妖, 你可以将它放置置入玩家之弃牌堆.",,community
 "Yur, Eye of Chaos",GotE,尤尔·之眼混沌,"奖励：获得4荣誉.
-抽三张牌.",,machine
+抽三张牌.",,community
 Deluge Elemental,GotE,洪水元素,"奖励：获得6荣誉.
-你可以放逐至多四 卡牌在你的手牌中, 牌库, 弃牌堆, 和/或卡牌打出过本回合. 若你如此做，洗牌你的牌库.",,machine
-Temple of Life,VotA,生命神殿,1L: 获得对以下的控制： 不朽神殿. 获得2符文.,,machine
-Temple of Death,VotA,死亡神殿,1D: 获得对以下的控制： 不朽神殿. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
-Temple of Immortality,VotA,不朽神殿,"每回合一次，选择派系. 当你 获取卡牌的 该派系, 若下一卡牌以 进入中央牌列为 也该 派系, 获取它 无需支付费用.",,machine
+你可以放逐至多四 卡牌在你的手牌中, 牌库, 弃牌堆, 和/或卡牌打出过本回合. 若你如此做，洗牌你的牌库.",,community
+Temple of Life,VotA,生命神殿,1L: 获得对以下的控制： 不朽神殿. 获得2符文.,,community
+Temple of Death,VotA,死亡神殿,1D: 获得对以下的控制： 不朽神殿. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,community
+Temple of Immortality,VotA,不朽神殿,"每回合一次，选择派系. 当你 获取卡牌的 该派系, 若下一卡牌以 进入中央牌列为 也该 派系, 获取它 无需支付费用.",,community
 Blind Seer,VotA,盲预言者,"抽一张牌.
-宁静: 获得1L. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
+宁静: 获得1L. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,community
 Ominous Augur,VotA,不祥占兆者,"获取一个英雄或 神器以 费用 5符文或更低无需支付费用.
-宁静: 放置所获取的卡牌在你的手牌中. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
-Jubilant Monk,VotA,欢庆僧侣,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或圣贤卡牌.",,machine
+宁静: 放置所获取的卡牌在你的手牌中. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,community
+Jubilant Monk,VotA,欢庆僧侣,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 重复此效果直到你 展示卡牌其他于 秘教士, 重装步兵, 或圣贤卡牌.",,community
 Keeper of Secrets,VotA,看守秘密,"放逐一张卡牌在你的手牌中和 将它替换以 秘教士或 重装步兵.
-若你 打出或 拥有打出过秘教士和 重装步兵本回合, 获得1D.",,machine
-Fist of the Dragon,VotA,拳龙,"抽一张牌. 放逐一张卡牌在中央牌列. 若下一卡牌以 进入中央牌列为 怪物, 击败它 无需支付费用.",,machine
+若你 打出或 拥有打出过秘教士和 重装步兵本回合, 获得1D.",,community
+Fist of the Dragon,VotA,拳龙,"抽一张牌. 放逐一张卡牌在中央牌列. 若下一卡牌以 进入中央牌列为 怪物, 击败它 无需支付费用.",,community
 Flanking Askara,VotA,侧击阿斯卡拉,"抽一张牌.
-复制效果的 下一英雄你 打出本回合以 费用 3符文或更低.",,machine
+复制效果的 下一英雄你 打出本回合以 费用 3符文或更低.",,community
 "Isla, Serene Prodigy",VotA,伊斯拉·宁静神童,"获取一个英雄或 神器在中央牌列无需支付费用.
-Shuffle伊斯拉, 宁静神童和 你的弃牌堆置入你的牌库.",,machine
-Sacred Pot,VotA,神圣罐,宁静: 每回合一次，抽一张牌. (获得此效果若 那里为 没有卡牌在你的弃牌堆.),,machine
-Templar Outpost,VotA,圣殿武士前哨,每回合一次，击败一个怪物在中央牌列以 费用 4战力或更低无需支付费用.,,machine
+洗牌伊斯拉, 宁静神童和 你的弃牌堆置入你的牌库.",,community
+Sacred Pot,VotA,神圣罐,宁静: 每回合一次，抽一张牌. (获得此效果若 那里为 没有卡牌在你的弃牌堆.),,community
+Templar Outpost,VotA,圣殿武士前哨,每回合一次，击败一个怪物在中央牌列以 费用 4战力或更低无需支付费用.,,community
 Ancient Stag,VotA,上古鹿,"获得3荣誉.
-联合: 获得1L.",,machine
+联合: 获得1L.",,community
 Cheerful Consort,VotA,欢快伴侣,"获得1荣誉.
-抽一张牌.",,machine
+抽一张牌.",,community
 Alosyan Guide,VotA,阿洛西亚向导,"当你 获取此, 若你 拥有打出过命约英雄本回合, 放置此 直接置入你的手牌.
-获得3荣誉.",,machine
+获得3荣誉.",,community
 Sirewood Elder,VotA,父木长老,"获得2符文.
-联合: 抽一张牌.",,machine
+联合: 抽一张牌.",,community
 Burial Guardian,VotA,埋葬守卫,"获得2符文.
-下次你获取生命卡牌本回合, 获得1D.",,machine
+下次你获取生命卡牌本回合, 获得1D.",,community
 Qadim Stalker,VotA,卡迪姆潜行者,"获得2符文和 2战力.
-联合: 获得2荣誉.",,machine
+联合: 获得2荣誉.",,community
 Caretaker Zahral,VotA,看护者扎拉尔,"获得3符文.
-下次你获取一个英雄本回合, 你可以将它放置放到你的牌库顶.",,machine
+下次你获取一个英雄本回合, 你可以将它放置放到你的牌库顶.",,community
 "Asalas, the Impaler",VotA,阿萨拉斯·穿刺者,"获得2符文.
-下次你获取一个英雄本回合, 获得P相等以 已获取英雄之R费用.",,machine
-Pathfinder's Totem,VotA,探路者的图腾,联合: 每回合一次，获得1符文. (获得此效果若 你拥有打出过命约英雄本回合.),,machine
+下次你获取一个英雄本回合, 获得P相等以 已获取英雄之R费用.",,community
+Pathfinder's Totem,VotA,探路者的图腾,联合: 每回合一次，获得1符文. (获得此效果若 你拥有打出过命约英雄本回合.),,community
 Resourceful Trader,VotA,机智商人,"抽一张牌.
-下次你获取神器本回合, 获得1D.",,machine
+下次你获取神器本回合, 获得1D.",,community
 Brother Marius,VotA,修士马里乌斯,"获得1符文.
-获得额外的 1符文以 每个派系在你控制的神器之中.",,machine
+获得额外的 1符文以 每个派系在你控制的神器之中.",,community
 Excavator Pilot,VotA,挖掘机驾驶员,"获得2符文.
-若你控制的两 或更高神器s, 获得1L.",,machine
+若你控制的两 或更高神器s, 获得1L.",,community
 Salvagemaster Mila,VotA,打捞大师米拉,"获得4符文.
-你可以放置任意神器s你获取本回合直接进入战场.",,machine
-Forgemaster's Suit,VotA,锻主的套装,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得1荣誉.",,machine
-Stormsmith Anvil,VotA,风暴匠铁砧,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得1符文.",,machine
-Siegemaster's Ram,VotA,攻城主的攻城槌,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得2战力.",,machine
-K-YL3 Repairbot,VotA,K-YL3修理机,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 抽一张牌.",,machine
+你可以放置任意神器s你获取本回合直接进入战场.",,community
+Forgemaster's Suit,VotA,锻主的套装,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得1荣誉.",,community
+Stormsmith Anvil,VotA,风暴匠铁砧,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得1符文.",,community
+Siegemaster's Ram,VotA,攻城主的攻城槌,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 获得2战力.",,community
+K-YL3 Repairbot,VotA,K-YL3修理机,"每回合一次，当你 打出机械神器 (包括此牌一) 或若 你控制的神殿, 抽一张牌.",,community
 "Tyranyx, the Pillager",VotA,泰兰尼克斯·劫掠者,"你可以花费P此外还R以获取此.
-你可以花费P此外还R以获取机械神器.",,machine
-Reckless Excavator,VotA,鲁莽挖掘机,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1L或 1D.",,machine
+你可以花费P此外还R以获取机械神器.",,community
+Reckless Excavator,VotA,鲁莽挖掘机,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1L或 1D.",,community
 Shadowridge Scout,VotA,影脊斥候,"获得2战力.
-Echo: 获得1D. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",,machine
+回响: 获得1D. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",,community
 Spiteful Gladiator,VotA,怨毒角斗士,"获得2战力.
-Echo: 获得额外的 2战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",,machine
+回响: 获得额外的 2战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",,community
 Excavation Sentry,VotA,发掘哨兵,"获得2战力.
-放置你牌库顶的卡牌置入你的弃牌堆, 然后你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+放置你牌库顶的卡牌置入你的弃牌堆, 然后你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Soulsnare Hunter,VotA,魂阱猎手,"获得2战力.
-下次你击败一个怪物在中央牌列本回合, 获得1L.",,machine
+下次你击败一个怪物在中央牌列本回合, 获得1L.",,community
 Silenced Prophet,VotA,噤声先知,"抽一张牌.
-放置你牌库顶的卡牌置入你的弃牌堆, 然后你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+放置你牌库顶的卡牌置入你的弃牌堆, 然后你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Endbringer Jora,VotA,终末使者乔拉,"获得3战力.
-每当你 击败一个怪物在中央牌列本回合, 获得2符文.",,machine
+每当你 击败一个怪物在中央牌列本回合, 获得2符文.",,community
 "Randall, Umbral Sage",VotA,兰德尔·暗影贤者,"获得3战力.
-放置所有卡牌从 你的牌库置入你的弃牌堆, 然后返回虚空卡牌在你的弃牌堆以 你的手牌.",,machine
-Beacon of the Lost,VotA,信标迷失,Echo: 每回合一次，获得1战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.),,machine
+放置所有卡牌从 你的牌库置入你的弃牌堆, 然后返回虚空卡牌在你的弃牌堆以 你的手牌.",,community
+Beacon of the Lost,VotA,信标迷失,回响: 每回合一次，获得1战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.),,community
 Deranged Dirge,VotA,发狂挽歌,"每回合一次，获得1战力.
-你可以摧毁此 以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Cavern Horror,VotA,洞穴恐魔,奖励：获得1荣誉. 你可以洗牌你的弃牌堆置入你的牌库. (卡牌打出过本回合不 进入以 你的弃牌堆直到结束时回合.),,machine
-Hellfrost Imps,VotA,狱霜小恶魔,奖励：获得2荣誉. 你可以击败一个怪物在中央牌列被命名为狱霜小恶魔无需支付费用.,,machine
-Crypt Lurker,VotA,地穴潜伏者,奖励：获得3荣誉. 获得1D.,,machine
-Starved Abomination,VotA,饥馑憎恶,奖励：获得3荣誉. 获得1L.,,machine
-Death's Widow,VotA,死亡寡妇,奖励：获得2荣誉. 每位对手须摧毁一个神器其控制的. 抽一张牌以 每位对手该 做了不 摧毁一个神器以此方式.,,machine
-Grave Golem,VotA,坟墓魔像,奖励：获得4荣誉. 每位对手展示顶部卡牌的 其牌库和 放置它 置入其弃牌堆. 选择一个英雄已展示以此方式和 复制其效果.,,machine
+你可以摧毁此 以放逐一张卡牌在你的手牌或弃牌堆.",,community
+Cavern Horror,VotA,洞穴恐魔,奖励：获得1荣誉. 你可以洗牌你的弃牌堆置入你的牌库. (卡牌打出过本回合不 进入以 你的弃牌堆直到结束时回合.),,community
+Hellfrost Imps,VotA,狱霜小恶魔,奖励：获得2荣誉. 你可以击败一个怪物在中央牌列被命名为狱霜小恶魔无需支付费用.,,community
+Crypt Lurker,VotA,地穴潜伏者,奖励：获得3荣誉. 获得1D.,,community
+Starved Abomination,VotA,饥馑憎恶,奖励：获得3荣誉. 获得1L.,,community
+Death's Widow,VotA,死亡寡妇,奖励：获得2荣誉. 每位对手须摧毁一个神器其控制的. 抽一张牌以 每位对手该 做了不 摧毁一个神器以此方式.,,community
+Grave Golem,VotA,坟墓魔像,奖励：获得4荣誉. 每位对手展示顶部卡牌的 其牌库和 放置它 置入其弃牌堆. 选择一个英雄已展示以此方式和 复制其效果.,,community
 Iku's Minions,VotA,伊库的爪牙,"此费用为 2 更低以 击败若 你控制的神殿.
-奖励：获得4荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Mutated Scavenger,VotA,突变拾荒者,奖励：获得4荣誉. 获得5符文.,,machine
-"Kan'zir, the Ravager",VotA,坎齐尔·毁灭者,奖励：获得5荣誉. 每位对手loses控制的 所有Temples和摧毁所有神器s其控制的.,,machine
-"Hurras, Sea's Fury",VotA,胡拉斯·海之狂怒,奖励：获得4荣誉. 获得1L和 1D.,,machine
+奖励：获得4荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
+Mutated Scavenger,VotA,突变拾荒者,奖励：获得4荣誉. 获得5符文.,,community
+"Kan'zir, the Ravager",VotA,坎齐尔·毁灭者,奖励：获得5荣誉. 每位对手失去控制的 所有神殿和摧毁所有神器s其控制的.,,community
+"Hurras, Sea's Fury",VotA,胡拉斯·海之狂怒,奖励：获得4荣誉. 获得1L和 1D.,,community
 "Iku, Valley Tyrant",VotA,山谷暴君伊库,"此费用为 2战力更低以 击败以 每个神殿你控制的.
-奖励：获得8荣誉.",,machine
-Dreamscape Diviner,Del,梦境占卜者,获得2洞察.,Are你sure你want以知道?,machine
+奖励：获得8荣誉.",,community
+Dreamscape Diviner,Del,梦境占卜者,获得2洞察。,你确定想知道吗？,community
 Dimension Monk,Del,维度僧侣,"抽一张牌.
-你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
-Aegis Knight,Del,神盾骑士,放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,machine
-Dream Dealer,Del,梦交易者,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在圣贤, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.",,machine
+你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,community
+Aegis Knight,Del,神盾骑士,放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,community
+Dream Dealer,Del,梦交易者,"抽一张牌, 然后放逐一张卡牌在中央牌列. 然后, 若存在圣贤, 生命, 机械, 和虚空卡牌在中央牌列, 掷谵妄骰.",,community
 Templar General,Del,圣殿武士将军,"击败一个怪物以 费用 4战力或更低无需支付费用.
-宁静: 当你 获取此, 将它放置在你的手牌中.",,machine
+宁静: 当你 获取此, 将它放置在你的手牌中.",,community
 Divine Askara,Del,神圣阿斯卡拉,"复制本回合打出的一张英雄的效果。
 你可以支付 3洞察以 复制所选效果两次改为.
-此效果不能是 被复制.",,machine
-"Loa, Dream Dragon",Del,洛阿·梦龙,掷谵妄骰。,"他的spirit, manifest穿过梦境.",machine
-"Emri, Lightbringer",Del,携光者艾姆瑞,击败一个怪物在中央牌列或 虚空区无需支付费用. 放置该 怪物置于其底： 传送门牌库.,,machine
-Dream Stone,Del,梦石,你可以放逐此牌以 掷谵妄骰.,Look upon什么might拥有已经和 什么可以来 以pass.,machine
+此效果不能是 被复制.",,community
+"Loa, Dream Dragon",Del,洛阿·梦龙,掷谵妄骰。,他的灵魂，借梦境显现。,community
+"Emri, Lightbringer",Del,携光者艾姆瑞,击败一个怪物在中央牌列或 虚空区无需支付费用. 放置该 怪物置于其底： 中央牌库.,,community
+Dream Stone,Del,梦石,你可以放逐此牌以掷谵妄骰。,凝视那本可能发生、以及即将到来之事。,community
 The Dragon's Eye,Del,龙之眼,"当你 打出此, 获得1洞察.
-宁静: 每回合一次，获得1洞察. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,machine
+宁静: 每回合一次，获得1洞察. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",,community
 Delirium Nymph,Del,谵妄宁芙,"获得1符文.
-联合： 抽 2 卡牌. (获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)",,machine
+联合： 抽 2 卡牌. (获得此效果一次若 你打出或 拥有打出过另一命约英雄本回合.)",,community
 Dreamscape Dryad,Del,梦境树灵,"获得3荣誉.
-你可以支付 3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
-Pollen Pixie,Del,花粉小仙,获得2符文和 1荣誉.,You're going以feel little funny在首先。.,machine
-Dream Guide,Del,梦向导,获得2符文和 1洞察.,"At edge的世界, 她为guide以一切beyond.",machine
-Tuskrider,Del,牙骑手,"抽一张牌.
-联合： 获得4战力.",Truffles和manflesh.,machine
-Vineweaver,Del,织藤者,获得4荣誉.,,machine
+你可以支付 3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,community
+Pollen Pixie,Del,花粉小仙,获得2符文和1荣誉。,一开始你会觉得有点晕……,community
+Dream Guide,Del,梦向导,获得2符文和1洞察。,在世界的边缘，她是通往一切未知的向导。,community
+Tuskrider,Del,牙骑手,"抽一张牌。
+联合：获得4战力。",松露与人肉。,community
+Vineweaver,Del,织藤者,获得4荣誉.,,community
 "Kor, Worldbreaker",Del,科尔·碎界者,"获得2符文和 抽一张牌.
-若你 打出或 拥有打出过在least两其他命约英雄本回合, 获得6战力.",,machine
+若你 打出或 拥有打出过在至少两其他命约英雄本回合, 获得6战力.",,community
 "Evvy, Ogo's Gift",Del,艾薇·奥戈的馈赠,"获取一个英雄无需支付费用和 将它放置放到你的牌库顶.
-你可以3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
-Ogo War Tree,Del,奥戈战争树,"每回合一次，当你 获取一个英雄在中央牌列, 你可以将它放置放到你的牌库顶.",一路平安！,machine
+你可以3洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,community
+Ogo War Tree,Del,奥戈战争树,"每回合一次，当你 获取一个英雄在中央牌列, 你可以将它放置放到你的牌库顶.",一路平安！,community
 Steelweaver,Del,织钢者,"获得1符文. 一次本回合, 当你 获取神器, 将其直接进入战场.
-你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,machine
-Scrapbot Scrapper,Del,废料机拆解者,获得2战力. 你可以返回神器你控制的以 你的手牌.,One man之trash为另一bot之weapon.,machine
+你可以支付 1洞察以 再次发生. (获得效果列出的上方额外的次. 你可以只再次发生一次.)",,community
+Scrapbot Scrapper,Del,废料机拆解者,获得2战力。你可以将你控制的一个神器返回手牌。,某人之废，恰为机兵之器。,community
 Inferna Templar,Del,炼狱圣殿武士,"抽一张牌.
-若你控制的两 或更高神器s, 抽额外的卡牌.",,machine
+若你控制的两 或更高神器s, 抽额外的卡牌.",,community
 Emma Ironheart,Del,艾玛铁之心,"获得3符文. 若你控制的两 或更高神器s, 获得3战力.
-你可以支付 3洞察以 再次发生.",,machine
-Clockwork Shield,Del,发条盾,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1荣誉以 每个机械神器你的控制.",,machine
-Clockwork Blade,Del,发条刃,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力以 每个机械神器你的控制.",,machine
-Clockwork Helm,Del,发条盔,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1洞察以 每个机械神器你的控制.",,machine
-Clockwork Familiar,Del,发条使魔,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1符文以 每个机械神器你的控制.",,machine
-Salvage Yard,Del,打捞场,"At start的你的回合, 将此牌返回以 你的手牌.",回收。重建。再利用。,machine
-"Dhartha, Mechamonk",Del,达萨·机械僧,"每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌以 每个机械神器你的控制.",,machine
+你可以支付 3洞察以 再次发生.",,community
+Clockwork Shield,Del,发条盾,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1荣誉以 每个机械神器你的控制.",,community
+Clockwork Blade,Del,发条刃,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力以 每个机械神器你的控制.",,community
+Clockwork Helm,Del,发条盔,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1洞察以 每个机械神器你的控制.",,community
+Clockwork Familiar,Del,发条使魔,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1符文以 每个机械神器你的控制.",,community
+Salvage Yard,Del,打捞场,在你的回合开始时，将此牌返回你的手牌。,回收。重建。再利用。,community
+"Dhartha, Mechamonk",Del,达萨·机械僧,"每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌以 每个机械神器你的控制.",,community
 Nihil Chemist,Del,虚无药剂师,"获得1战力. 你可以放逐一张卡牌在你的手牌中的 弃牌堆.
-你可以支付 2洞察以 再次发生. (获得效果列出的额外的次. 你可以只再次发生一次.)",,machine
-Voidrager,Del,虚空狂怒者,"获得2战力. 下次你击败一个怪物在中央牌列本回合, 获得1洞察.",,machine
+你可以支付 2洞察以 再次发生. (获得效果列出的额外的次. 你可以只再次发生一次.)",,community
+Voidrager,Del,虚空狂怒者,"获得2战力. 下次你击败一个怪物在中央牌列本回合, 获得1洞察.",,community
 Shield Bearer,Del,盾持有者,"抽一张牌.
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Voidspeaker,Del,虚空语者,"获得2战力.
-Echo: 获得3符文. (获得此效果若 存在虚空卡牌在你的弃牌堆.)",ravenous appetite以human emotion.,machine
-Darktome Librarian,Del,暗典图书管理员,"获得2洞察.
-你可以放逐一张卡牌在你的手牌或弃牌堆.","Be careful, page六bites.",machine
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
+Voidspeaker,Del,虚空语者,"获得2战力。
+回响：获得3符文。（若你的弃牌堆中有虚空卡牌，则获得此效果。）",对人类情感有着贪婪的胃口。,community
+Darktome Librarian,Del,暗典图书管理员,"获得2洞察。
+你可以放逐你手牌或弃牌堆中的一张牌。",小心，第六页会咬人。,community
 "Naka, Shadeborn",Del,纳卡·影生,"获得3战力.
 你可以返回虚空卡牌在你的弃牌堆以 你的手牌.
-你可以支付 3洞察以 再次发生.",,machine
+你可以支付 3洞察以 再次发生.",,community
 "Cetra, Voidmother",Del,虚空之母塞特拉,"获得4战力.
-下次你击败一个怪物在中央牌列本回合, 你可以获取一个英雄无需支付费用和 将它放置放到你的牌库顶.",,machine
-Arbiter Circlet,Del,仲裁者头环,每回合一次，获得1战力.,恶魔bone和一hundred souls.,machine
-Nilhammer,Del,虚无锤,Echo: 每回合一次，获得3战力. (获得此效果若 存在虚空卡牌在你的弃牌堆.),Need something该breaks bones和spirits?,machine
-Demon Pups,Del,恶魔幼崽,"奖励：获得1荣誉. 抽一张牌. 然后, 你可以支付 1洞察以 抽额外的卡牌.",I只是wanted以pet一!,machine
-Dream Eater,Del,梦吞噬者,奖励：获得2荣誉和 1洞察.,"dream曾是painful, 但reality曾是torture.",machine
-Delirium Pixies,Del,谵妄小仙,奖励：获得2荣誉和 3符文.,Come打出以 我们.,machine
-Mammoth Beetle,Del,巨甲虫,奖励：获得3荣誉. 每位对手摧毁神器其控制的. 你可以支付 1洞察以 拥有每位对手摧毁额外的神器其控制的.,,machine
-Bleaktoad,Del,荒蟾,奖励：获得4荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆. 你可以支付 2洞察以 放逐额外的卡牌在你的手牌或弃牌堆.,,machine
-Dreadmare,Del,惧马,奖励：获得4荣誉和 3洞察.,soul day keeps惧马away.,machine
-Oak of Souls,Del,橡灵魂,奖励：获得3荣誉. 掷谵妄骰。,result的conscious死亡在unconscious世界.,machine
-"Zis, Dreamreaper",Del,齐斯·刈梦者,奖励：获得5荣誉. 拿取2洞察从 每位对手.,"作为许多ways以die, 作为那里为dreams以是dreamt.",machine
-Torment Legionary,Del,折磨军团兵,奖励：获得6荣誉. 获取一个梦生卡牌在中央牌列无需支付费用.,"Boundless ambition, beyond死亡, beyond reality.",machine
-Karion,Del,卡里昂,奖励：获得5荣誉和 10洞察.,"梦境gate为corrupt, hellish wound在两worlds.",machine
-"Glover, Dream Titan",Del,格洛弗·梦泰坦,奖励：获得7荣誉. 选择一名玩家和 拿取所有的 其I和随机卡牌从其手牌. 加入该卡牌以 你的手牌.,,machine
-Dreamseeker Start,Dlvr,寻梦者,获得1洞察和 抽一张牌.,诸梦maketh和dreams breaketh.,machine
+下次你击败一个怪物在中央牌列本回合, 你可以获取一个英雄无需支付费用和 将它放置放到你的牌库顶.",,community
+Arbiter Circlet,Del,仲裁者头环,每回合一次，获得1战力。,恶魔之骨，以及一百个灵魂。,community
+Nilhammer,Del,虚无锤,回响：每回合一次，获得3战力。（若你的弃牌堆中有虚空卡牌，则获得此效果。）,需要能敲碎骨头与心魄的东西吗？,community
+Demon Pups,Del,恶魔幼崽,奖励：获得1荣誉。抽一张牌。然后你可以支付1洞察再抽一张牌。,我只是想摸摸它！,community
+Dream Eater,Del,梦吞噬者,奖励：获得2荣誉和1洞察。,梦境痛苦，现实更是折磨。,community
+Delirium Pixies,Del,谵妄小仙,奖励：获得2荣誉和 3符文.,来和我们一起玩吧。,community
+Mammoth Beetle,Del,巨甲虫,奖励：获得3荣誉. 每位对手摧毁神器其控制的. 你可以支付 1洞察以 拥有每位对手摧毁额外的神器其控制的.,,community
+Bleaktoad,Del,荒蟾,奖励：获得4荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆. 你可以支付 2洞察以 放逐额外的卡牌在你的手牌或弃牌堆.,,community
+Dreadmare,Del,惧马,奖励：获得4荣誉和3洞察。,日啖一魂，惧马远离。,community
+Oak of Souls,Del,橡灵魂,奖励：获得3荣誉。掷谵妄骰。,意识之死，发生于无意识的世界。,community
+"Zis, Dreamreaper",Del,齐斯·刈梦者,奖励：获得5荣誉。从每位对手处夺取2洞察。,死法有多少种，梦就有多少场。,community
+Torment Legionary,Del,折磨军团兵,奖励：获得6荣誉。获取中央牌列中的一张梦生卡牌，无需支付费用。,无尽的野心，超越死亡，超越现实。,community
+Karion,Del,卡里昂,奖励：获得5荣誉和10洞察。,梦境之门已然腐化，是横跨两界的炼狱伤口。,community
+"Glover, Dream Titan",Del,格洛弗·梦泰坦,奖励：获得7荣誉. 选择一名玩家和 拿取所有的 其I和随机卡牌从其手牌. 加入该卡牌以 你的手牌.,,community
+Dreamseeker Start,Dlvr,寻梦者,获得1洞察并抽一张牌。,梦造就人，亦摧毁人。,community
 "Pasythea, The Redeemed",Dlvr,帕西提亚·救赎者,"此英雄视为作为所有派系
-当你 获取此, 它goes直接以 你的手牌.
-获得2符文, 2战力, 2荣誉和 抽一张牌.",,machine
+当你 获取此, 它变为直接以 你的手牌.
+获得2符文, 2战力, 2荣誉和 抽一张牌.",,community
 Pasythea's Cutlass,Dlvr,帕西提亚的弯刀,"此神器视为作为所有派系.
 当你 打出此, 获得2战力.
-帕西提亚费用为你 4洞察更低以 获取.",,machine
+帕西提亚费用为你 4洞察更低以 获取.",,community
 Pasythea's Katana,Dlvr,帕西提亚的刀,"此神器视为作为所有派系.
 当你 打出此, 抽一张牌.
-帕西提亚费用为你 4洞察更低以 获取.",,machine
+帕西提亚费用为你 4洞察更低以 获取.",,community
 Pasythea's Mace,Dlvr,帕西提亚的锤矛,"此神器视为作为所有派系.
 当你 打出此, 获得2符文.
-帕西提亚费用为你 4洞察更低以 获取.",,machine
+帕西提亚费用为你 4洞察更低以 获取.",,community
 Pasythea's Scimitar,Dlvr,帕西提亚的弯刀,"此神器视为作为所有派系.
 当你 打出此, 获得2荣誉.
-帕西提亚费用为你 4洞察更低以 获取.",,machine
-Dreamwalker,Dlvr,梦行者,"放逐一张卡牌在中央牌列.
-若它 为被替换被 怪物, 获得2洞察.
-若它 为被替换被 英雄, 获得2荣誉.
-若它 为被替换被 神器, 抽 2 卡牌.",Are你sure你want以知道?,machine
-Dream Chamber Disciples,Dlvr,梦室门徒们,"抽一张牌.
-SERENITY: 获得2洞察. (获得此效果若 那里为 没有卡牌在你的弃牌堆.)",Arha teach我们该 在次 所有traditions break其下weight的principle.,machine
+帕西提亚费用为你 4洞察更低以 获取.",,community
+Dreamwalker,Dlvr,梦行者,"放逐中央牌列的一张卡牌。
+若被替换为怪物，获得2洞察。
+若被替换为英雄，获得2荣誉。
+若被替换为神器，抽两张牌。",你确定想知道吗？,community
+Dream Chamber Disciples,Dlvr,梦室门徒们,"抽一张牌。
+宁静：获得2洞察。（若你的弃牌堆中没有卡牌，则获得此效果。）",亚哈教导我们：一切传统终将被原则的重量压垮。,community
 Azurite Channeler,Dlvr,蓝铜引导者,"放逐一张卡牌在你的手牌中和 将它替换以 秘教士或 重装步兵.
-掠夺 - 此回合, 若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得2洞察.",,machine
+掠夺 - 此回合, 若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得2洞察.",,community
 Psyonic Apprentice,Dlvr,心灵学徒,"当此 为在你的手牌中, 你可以支付 7洞察以 转化它 置入心灵圣骑士.
-击败一个怪物以 费用 4战力或更低无需支付费用.",,machine
-Psyonic Paladin,Dlvr,心灵圣骑士,击败一个怪物在中央牌列无需支付费用.,"作为armor为shaped被我们的thoughts, sword为directed被我们的将.",machine
-Aether Warrior,Dlvr,以太战士,"幻象 - 当此 为在中央牌列, 你可以支付 5洞察以 放逐和 打出此.
-抽两张牌.",My blade severs两者flesh和soul.,machine
-Psyche Askara,Dlvr,心灵阿斯卡拉,复制效果的 英雄你 拥有打出过本回合或 怪物奖励你 拥有已获得本回合.,Arha teach我们该 在次 所有traditions break其下weight的principle.,machine
+击败一个怪物以 费用 4战力或更低无需支付费用.",,community
+Psyonic Paladin,Dlvr,心灵圣骑士,击败中央牌列中的一个怪物，无需支付费用。,盔甲由我们的意念塑形，剑锋由我们的意志指引。,community
+Aether Warrior,Dlvr,以太战士,"幻象——当此牌在中央牌列时，你可以支付5洞察放逐并打出此牌。
+抽两张牌。",我的刃斩断血肉，亦斩断灵魂。,community
+Psyche Askara,Dlvr,心灵阿斯卡拉,复制你本回合打出过的一张英雄的效果，或你本回合获得过的一个怪物奖励。,亚哈教导我们：一切传统终将被原则的重量压垮。,community
 "Dhartha, Dream Master",Dlvr,达萨·梦大师,"幻象 - 当此 为在中央牌列, 你可以支付 9洞察以 放逐和 打出此.
-获取一个卡牌在中央牌列无需支付费用和 将它放置在你的手牌中.",,machine
-Dream Anchor,Dlvr,梦锚,"掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得2洞察.",,machine
-Entrophantasm,Dlvr,熵幻象,"获得1符文和 1洞察.
-联合： 抽一张牌.(获得此效果若 你打出或 拥有打出过另一命约英雄本回合.)",Are你sure你want以知道?,machine
-Dreamscarred Hunter,Dlvr,梦痕猎手,"抽一张牌.
-掠夺 - 此回合, 若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得3荣誉.",Are你sure你want以知道?,machine
-Faerie Commander,Dlvr,仙灵指挥官,"获得2符文. 下次你获取一个英雄在中央牌列本回合, 获得2战力.",他曾是发现dead在forest million little cuts.,machine
-Green Spritelings,Dlvr,绿小精灵,"幻象 - 当此 为在中央牌列, 你可以支付 4洞察以 放逐和 打出此.
-获得3荣誉.",Are你sure你want以知道?,machine
-Wereboar,Dlvr,野猪人,获得2战力.联合： 获得3符文.,Are你sure你want以知道?,machine
+获取一个卡牌在中央牌列无需支付费用和 将它放置在你的手牌中.",,community
+Dream Anchor,Dlvr,梦锚,"掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得2洞察.",,community
+Entrophantasm,Dlvr,熵幻象,"获得1符文和1洞察。
+联合：抽一张牌。（若你本回合打出或已打出过另一张命约英雄，则获得此效果。）",你确定想知道吗？,community
+Dreamscarred Hunter,Dlvr,梦痕猎手,"抽一张牌。
+掠夺——本回合若你获取一张卡牌并且击败一个怪物（均在中央牌列），获得3荣誉。",你确定想知道吗？,community
+Faerie Commander,Dlvr,仙灵指挥官,获得2符文。本回合你下次从中央牌列获取英雄时，获得2战力。,他在森林里被发现时，身上已有百万道细伤。,community
+Green Spritelings,Dlvr,绿小精灵,"幻象——当此牌在中央牌列时，你可以支付4洞察放逐并打出此牌。
+获得3荣誉。",你确定想知道吗？,community
+Wereboar,Dlvr,野猪人,"获得2战力。
+联合：获得3符文。",你确定想知道吗？,community
 Lychan Ranger,Dlvr,狼化游侠,"当此 为在你的手牌中, 你可以支付 6洞察以 转化它 置入狼化野兽.
-获得2符文和 2战力.",,machine
-Lychan Beast,Dlvr,狼化野兽,获得3符文和 3战力.,They'll从不看见我coming.,machine
+获得2符文和 2战力.",,community
+Lychan Beast,Dlvr,狼化野兽,获得3符文和3战力。,他们永远看不到我靠近。,community
 "Rut, Oaken Master",Dlvr,橡木大师鲁特,"获得3荣誉和 抽一张牌.
-掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得额外的 3荣誉.",,machine
-Tree of Bounty,Dlvr,树丰饶,"掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得3荣誉.",Are你sure你want以知道?,machine
+掠夺 - 每回合一次，若你 获取卡牌和 击败一个怪物,两者在中央牌列, 获得额外的 3荣誉.",,community
+Tree of Bounty,Dlvr,树丰饶,掠夺——每回合一次，若你获取一张卡牌并且击败一个怪物（均在中央牌列），获得3荣誉。,你确定想知道吗？,community
 Corite Mechanadon,Dlvr,刚玉机械兽,"幻象 - 当此 为在中央牌列, 你可以支付 2洞察以 放逐和 打出此.
-获得1符文和 1战力.",,machine
-Controlsmith,Dlvr,控术匠,"获得2符文. 若你控制的已转化Constuct, 抽一张牌.",,machine
-Stone Artificers,Dlvr,石神器师,获得2符文. 你可以放置下一神器你 获取本回合直接进入战场.,,machine
-Gearseer,Dlvr,齿轮预言者,"幻象 - 当此 为在中央牌列, 你可以支付 6洞察以 放逐和 打出此.
-获得3符文.",只difference between genius和madness为execution.,machine
-Teletransmitter Blueprint,Dlvr,远传器蓝图,你可以支付 5洞察以 将此牌转化为艾玛的远传器.,"它是like telepathy, 但更低effective.
-- 艾玛铁之心",machine
-Emma's Teletransmitter,Dlvr,艾玛的远传器,每回合一次，获得1荣誉以 每个已转化机械神器你 控制.,"""Why在五hells会I是calling你若I didn't需要help?"" - 艾玛铁之心",machine
-Mechannon Blueprint,Dlvr,机加农蓝图,你可以支付 5洞察以 将此牌转化为艾玛的机加农.,"""I wonder什么kind的dent此thing为going以make."" - 艾玛铁之心",machine
-Emma's Mechannon,Dlvr,艾玛的机加农,每回合一次，获得1战力以 每个已转化机械神器你 控制.,"""Did anyone看见该? I放置hole在该mountain!"" - 艾玛铁之心",machine
-Voidcycler Blueprint,Dlvr,虚空循环器蓝图,你可以支付 5洞察以 将此牌转化为艾玛的虚空循环器.,"""I wonder什么kind的dent此thing为going以make."" - 艾玛铁之心",machine
-Emma's Voidcycler,Dlvr,艾玛的虚空循环器,每回合一次，获得1符文以 每个已转化机械神器你 控制.,"""此proves它. 艾玛, you're genius."" - 艾玛铁之心",machine
-Emma's Workshop,Dlvr,艾玛的工坊,每回合一次，你可以转化机械神器无需支付费用.,"""此放置为falling apart. 它是perfect."" - 艾玛铁之心",machine
+获得1符文和 1战力.",,community
+Controlsmith,Dlvr,控术匠,"获得2符文. 若你控制的已转化神器, 抽一张牌.",,community
+Stone Artificers,Dlvr,石神器师,获得2符文. 你可以放置下一神器你 获取本回合直接进入战场.,,community
+Gearseer,Dlvr,齿轮预言者,"幻象——当此牌在中央牌列时，你可以支付6洞察放逐并打出此牌。
+获得3符文。",天才与疯狂的唯一差别，在于能否做成。,community
+Teletransmitter Blueprint,Dlvr,远传器蓝图,你可以支付5洞察，将此牌转化为艾玛的远传器。,"像心灵感应，但没那么好用。
+——艾玛·铁心",community
+Emma's Teletransmitter,Dlvr,艾玛的远传器,每回合一次，你每控制一个已转化的机械神器，获得1荣誉。,「我要是不需要帮忙，干嘛还打给你？」——艾玛·铁心,community
+Mechannon Blueprint,Dlvr,机加农蓝图,你可以支付5洞察，将此牌转化为艾玛的机加农。,「不知道这玩意儿能砸出多大坑。」——艾玛·铁心,community
+Emma's Mechannon,Dlvr,艾玛的机加农,每回合一次，你每控制一个已转化的机械神器，获得1战力。,「看到了吗？我在那座山上打了个洞！」——艾玛·铁心,community
+Voidcycler Blueprint,Dlvr,虚空循环器蓝图,你可以支付5洞察，将此牌转化为艾玛的虚空循环器。,「不知道这玩意儿能砸出多大坑。」——艾玛·铁心,community
+Emma's Voidcycler,Dlvr,艾玛的虚空循环器,每回合一次，你每控制一个已转化的机械神器，获得1符文。,「这证明了，艾玛，你是个天才。」——艾玛·铁心,community
+Emma's Workshop,Dlvr,艾玛的工坊,每回合一次，你可以将一个机械神器转化且无需支付费用。,「这地方快散架了。完美。」——艾玛·铁心,community
 Ironheart Blueprint,Dlvr,铁之心蓝图,"你可以支付 15洞察以 将此牌转化为铁之心.
-每回合一次，获得1洞察以 每个机械神器你 控制.",,machine
-The Ironheart,Dlvr,铁之心,"每回合一次，获得3符文, 3战力, 和 3荣誉.","""I不care how许多tentacles你拥有. I拥有airship!"" - 艾玛铁之心",machine
+每回合一次，获得1洞察以 每个机械神器你 控制.",,community
+The Ironheart,Dlvr,铁之心,每回合一次，获得3符文、3战力和3荣誉。,「管你有多少触手。我可是有飞艇！」——艾玛·铁心,community
 Blackwatch Dreamer,Dlvr,黑卫梦者,"幻象 - 当此 为在中央牌列, 你可以支付 2洞察以 放逐和 打出此.
-获得1战力. 你可以放逐一张卡牌在你的手牌中的 弃牌堆.",,machine
+获得1战力. 你可以放逐一张卡牌在你的手牌中的 弃牌堆.",,community
 Void Amathyst Defender,Dlvr,虚空紫晶防御者,"获得2战力.
-ECHO: 获得2洞察.(获得此效果若 存在虚空卡牌在你的弃牌堆.)",,machine
-Demon Hunter,Dlvr,恶魔猎手,"当此 为在你的手牌中, 你可以支付 8洞察以 转化它 置入恶魔大师.
-获得2战力.",Good. Bad. Try一以sword.,machine
-Demon Master,Dlvr,恶魔大师,获得5战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,"job为tough, 但smell为worse.",machine
-Invokist,Dlvr,祈唤师,"幻象 - 当此 为在中央牌列, 你可以支付 4洞察以 放逐和 打出此.
-获得3战力.","恐惧具有face.
-Allow我以show它以 你.",machine
-Nihil Bomber,Dlvr,虚无投弹者,抽一张牌. 你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，获得1洞察.,恐惧具有face.,machine
+回响: 获得2洞察.(获得此效果若 存在虚空卡牌在你的弃牌堆.)",,community
+Demon Hunter,Dlvr,恶魔猎手,"当此牌在你手牌中时，你可以支付8洞察，将其转化为恶魔大师。
+获得2战力。",好人也罢，坏人也罢。试试带剑的那个。,community
+Demon Master,Dlvr,恶魔大师,获得5战力。你可以放逐你手牌或弃牌堆中的一张牌。,工作艰难，气味更糟。,community
+Invokist,Dlvr,祈唤师,"幻象——当此牌在中央牌列时，你可以支付4洞察放逐并打出此牌。
+获得3战力。","恐惧也有面孔。
+让我指给你看。",community
+Nihil Bomber,Dlvr,虚无投弹者,抽一张牌. 你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，获得1洞察.,恐惧也有面孔。,community
 "Naka, Emri's Chosen",Dlvr,纳卡·艾姆瑞的天选者,"获得4战力.
-此回合, 你可以支付 0洞察以 梦缚费用为.",,machine
-"Emri, Soulstealer",Dlvr,窃魂者艾姆瑞,"获得5战力. 若那里为 10 或更高怪物在 虚空区, 获得10战力改为","Another day, 另一demigod.",machine
-Zinta's Bracers,Dlvr,辛塔的护腕,"每回合一次，若你 拥有已获得 2洞察或更高, 获得2战力.",辛塔reached置入虚空和 从它pulled daggers.,machine
-Nightmarauders,Dlvr,梦魇掠夺者,奖励：获得1荣誉和 1洞察.,他们无处不在！,machine
-Terminites,Dlvr,终末蚁,奖励：获得3荣誉. 每位对手摧毁最低费用神器其控制的.,"They're只是bugs, soldier. How big能够他们是?.",machine
-Warpdruid,Dlvr,扭曲德鲁伊,"奖励：获得2荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.
-DREAMBIND: 1洞察.",Bark split flesh作为.,machine
-Dreadmage,Dlvr,恐惧法师,"奖励：获得2荣誉和 抽两张牌. DREAMBIND: 4洞察.(当你 击败此, 你可以支付其 梦缚费用. 若你如此做，放置此 在你的弃牌堆. 当你 打出此, 获得其奖励.)",,machine
-Warprogue,Dlvr,扭曲游荡者,奖励：获得3荣誉. 拿取1洞察从 对手. DREAMBIND: 3洞察.,Love为dream. Love为nightmare.,machine
-Dream Titan,Dlvr,梦泰坦,奖励：获得6荣誉.,"gold giant, taller于mountains和silent作为sea.",machine
-Obfusca Spirit,Dlvr,朦胧精魂,"奖励：获得4荣誉. 选择一名对手以 弃掉卡牌随机从其手牌.
-DREAMBIND: 4洞察.",Love为dream. Love为nightmare.,machine
-Dream Tyrant,Dlvr,梦境暴君,奖励：获得5荣誉和 5洞察.,"gold giant, taller于mountains",machine
-River Reaper,Dlvr,河收割者,奖励：获得6荣誉. 每位对手摧毁只留一个，其余神器其控制的.,"gold giant, taller于mountains",machine
-"Caaro, Desert Breaker",Dlvr,卡罗·沙漠破碎者,"奖励：获得4荣誉. 以每位对手, 你选择和 摧毁一个神器其控制的.DREAMBIND: 2洞察.","gold giant, taller于mountains",machine
-"Nilia, The Shattered",Dlvr,尼莉亚·破碎,奖励：获得5荣誉. 拿取一张卡牌随机从 对手之手牌和 将该卡牌加入以 你的手牌.DREAMBIND: 7洞察.,"gold giant, taller于mountains",machine
-"Rakar, Corrupt Askara",Dlvr,拉卡尔·腐化阿斯卡拉,奖励：获得6荣誉. 加入梦缚怪物在 虚空区以 你的手牌.,Love为dream. Love为nightmare.,machine
-"Vezra'Tull, The Voidwyrm",promo,虚空巨虫维兹拉图尔,"你可以花费P而非H以获取此.
-获得1战力以 每个怪物在 虚空区.",Some Dragons horde gold. 她hordes nightmares.,machine
-Boon: Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,machine
-Boon - Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,machine
-Boon - Ulu,LGND,恩赐：乌鲁,"一次本回合, 获得1 renown在另一派系.",,machine
-Legendary Boon - Enlightened,LGND,传奇恩赐：圣贤,获取或 击败任意圣贤卡牌从 中央牌列无需支付费用.,,machine
-Boon: Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
-Boon - Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
-Boon - Naira,LGND,恩赐：奈拉,"一次本回合, 获得2荣誉.",,machine
-Legendary Boon - Lifebound,LGND,传奇恩赐：生命,获取或 击败任意生命卡牌从 中央牌列无需支付费用.,,machine
-Boon: Kor,LGND,恩赐：科尔,"一次本回合, 获得2符文.",,machine
-Boon - Kor,LGND,恩赐：科尔,"一次本回合, 获得2符文.",,machine
-Boon - P.R.I.M.E.,LGND,恩赐：P.R.I.M.E.,"一次本回合, 你可以返回神器从 你的弃牌堆以 你的手牌.",,machine
-Legendary Boon - Mechana,LGND,传奇恩赐：机械,获取或 击败任意机械卡牌从 中央牌列无需支付费用.,,machine
-Boon: Naka,LGND,恩赐：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,machine
-Boon - Naka,LGND,恩赐：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,machine
-Boon - Emri,LGND,恩赐：艾姆瑞,"一次本回合, 获得2战力.",,machine
-Legendary Boon - Void,LGND,传奇恩赐：虚空,获取或 击败任意虚空卡牌从 中央牌列无需支付费用.,,machine
+此回合, 你可以支付 0洞察以 梦缚费用为.",,community
+"Emri, Soulstealer",Dlvr,窃魂者艾姆瑞,获得5战力。若虚空区中有10个或更多怪物，改为获得10战力。,又是一天，又收割一位半神。,community
+Zinta's Bracers,Dlvr,辛塔的护腕,每回合一次，若你已获得2点或更多洞察，获得2战力。,辛塔伸手探入虚空，从中抽出双匕。,community
+Nightmarauders,Dlvr,梦魇掠夺者,奖励：获得1荣誉和1洞察。,他们无处不在！,community
+Terminites,Dlvr,终末蚁,奖励：获得3荣誉。每位对手摧毁其控制的费用最低的神器。,不过是虫子罢了，士兵。能有多大？,community
+Warpdruid,Dlvr,扭曲德鲁伊,"奖励：获得2荣誉。你可以放逐你手牌或弃牌堆中的一张牌。
+梦缚：1洞察。",树皮裂开，血肉绽放。,community
+Dreadmage,Dlvr,恐惧法师,"奖励：获得2荣誉和 抽两张牌. 梦缚: 4洞察.(当你 击败此, 你可以支付其 梦缚费用. 若你如此做，放置此 在你的弃牌堆. 当你 打出此, 获得其奖励.)",,community
+Warprogue,Dlvr,扭曲游荡者,"奖励：获得3荣誉。从一名对手处夺取1洞察。
+梦缚：3洞察。",爱是一场梦。爱是一场噩梦。,community
+Dream Titan,Dlvr,梦泰坦,奖励：获得6荣誉。,黄金巨人，高过群山，静如大海。,community
+Obfusca Spirit,Dlvr,朦胧精魂,"奖励：获得4荣誉。选择一名对手，令其从手牌中随机弃一张牌。
+梦缚：4洞察。",爱是一场梦。爱是一场噩梦。,community
+Dream Tyrant,Dlvr,梦境暴君,奖励：获得5荣誉和5洞察。,黄金巨人，高过群山。,community
+River Reaper,Dlvr,河收割者,奖励：获得6荣誉。每位对手摧毁其控制的神器，只保留一个。,黄金巨人，高过群山。,community
+"Caaro, Desert Breaker",Dlvr,卡罗·沙漠破碎者,"奖励：获得4荣誉。对每位对手，你选择并摧毁其控制的一个神器。
+梦缚：2洞察。",黄金巨人，高过群山。,community
+"Nilia, The Shattered",Dlvr,尼莉亚·破碎,"奖励：获得5荣誉。从一名对手的手牌中随机取一张牌加入你的手牌。
+梦缚：7洞察。",黄金巨人，高过群山。,community
+"Rakar, Corrupt Askara",Dlvr,拉卡尔·腐化阿斯卡拉,奖励：获得6荣誉。将虚空区中的一张梦缚怪物加入你的手牌。,爱是一场梦。爱是一场噩梦。,community
+"Vezra'Tull, The Voidwyrm",promo,虚空巨虫维兹拉图尔,"你可以花费战力而非荣誉来获取此牌。
+虚空区中每有一个怪物，获得1战力。",有的龙囤积黄金。她囤积噩梦。,community
+Boon: Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,community
+Boon - Master Dhartha,LGND,恩赐：达萨大师,"一次本回合, 抽一张牌.",,community
+Boon - Ulu,LGND,恩赐：乌鲁,"一次本回合, 获得1 声望在另一派系.",,community
+Legendary Boon - Enlightened,LGND,传奇恩赐：圣贤,获取或 击败任意圣贤卡牌从 中央牌列无需支付费用.,,community
+Boon: Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,community
+Boon - Cetra,LGND,恩赐：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,community
+Boon - Naira,LGND,恩赐：奈拉,"一次本回合, 获得2荣誉.",,community
+Legendary Boon - Lifebound,LGND,传奇恩赐：生命,获取或 击败任意生命卡牌从 中央牌列无需支付费用.,,community
+Boon: Kor,LGND,恩赐：科尔,"一次本回合, 获得2符文.",,community
+Boon - Kor,LGND,恩赐：科尔,"一次本回合, 获得2符文.",,community
+Boon - P.R.I.M.E.,LGND,恩赐：P.R.I.M.E.,"一次本回合, 你可以返回神器从 你的弃牌堆以 你的手牌.",,community
+Legendary Boon - Mechana,LGND,传奇恩赐：机械,获取或 击败任意机械卡牌从 中央牌列无需支付费用.,,community
+Boon: Naka,LGND,恩赐：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,community
+Boon - Naka,LGND,恩赐：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,community
+Boon - Emri,LGND,恩赐：艾姆瑞,"一次本回合, 获得2战力.",,community
+Legendary Boon - Void,LGND,传奇恩赐：虚空,获取或 击败任意虚空卡牌从 中央牌列无需支付费用.,,community
 Arha Recruit,LGND,亚哈新兵,"抽一张牌.
-获得1 renown, 然后放逐此牌.",,machine
-Askara of Judgement,LGND,审判阿斯卡拉,抽一张牌.,,machine
-Pathseeker Sensei,LGND,寻路者导师,击败一个怪物的 4战力或更低无需支付费用.,,machine
-Arha Emissary,LGND,亚哈使者,"抽一张牌.
-若你 打出或 拥有打出过使者的 每个Faction本回合, 你win游戏.",,machine
-Mountain Seer,LGND,山预言者,"抽一张牌, 然后放逐一张卡牌在 中央牌列. 然后, 获得1 renown在每个的 派系(s) 该被替换被放逐卡牌.",,machine
-Master Vaya,LGND,大师瓦娅,抽两张牌.,,machine
-Tablet of the Templar,LGND,石板圣殿武士,你可以摧毁此 以击败一个怪物的 费用 4战力或更低无需支付费用.,,machine
+获得1 声望, 然后放逐此牌.",,community
+Askara of Judgement,LGND,审判阿斯卡拉,抽一张牌.,,community
+Pathseeker Sensei,LGND,寻路者导师,击败一个怪物的 4战力或更低无需支付费用.,,community
+Arha Emissary,LGND,亚哈使者,"抽一张牌。
+若你本回合打出过每个派系的使者，你赢得游戏。",,community
+Mountain Seer,LGND,山预言者,"抽一张牌, 然后放逐一张卡牌在 中央牌列. 然后, 获得1 声望在每个的 派系(s) 该被替换被放逐卡牌.",,community
+Master Vaya,LGND,大师瓦娅,抽两张牌.,,community
+Tablet of the Templar,LGND,石板圣殿武士,你可以摧毁此 以击败一个怪物的 费用 4战力或更低无需支付费用.,,community
 Mycelial Mage,LGND,菌丝法师,"抽一张牌.
-获得3荣誉, 然后放逐此牌.",,machine
-Mushroom Druid,LGND,蘑菇德鲁伊,获得3荣誉.,,machine
-Lycan Fang,LGND,狼化人牙,获得2符文.,,machine
+获得3荣誉, 然后放逐此牌.",,community
+Mushroom Druid,LGND,蘑菇德鲁伊,获得3荣誉.,,community
+Lycan Fang,LGND,狼化人牙,获得2符文.,,community
 Forest Emissary,LGND,森林使者,"抽一张牌.
-联合-使者: 获得2荣誉. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,machine
-Snowstrider Lycan,LGND,踏雪者狼化人,"获得1符文, 1荣誉, 1战力, 和抽一张牌.",,machine
+联合-使者: 获得2荣誉. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,community
+Snowstrider Lycan,LGND,踏雪者狼化人,"获得1符文, 1荣誉, 1战力, 和抽一张牌.",,community
 Turtler Merchant,LGND,龟商商人,"获得5荣誉.
-你可以返回H以池 相等以H的英雄或 神器在 中央牌列. 若你如此做，获取它.",,machine
-Landis' Potions & Pies,LGND,兰迪斯的药剂与馅饼,"每回合一次，获得1荣誉.
-联合: 获得1符文.",Are你sure你want以知道?,machine
+你可以返回H以池 相等以H的英雄或 神器在 中央牌列. 若你如此做，获取它.",,community
+Landis' Potions & Pies,LGND,兰迪斯的药剂与馅饼,"每回合一次，获得1荣誉。
+联合：获得1符文。",你确定想知道吗？,community
 Sablespark Sisters,LGND,黑火花姐妹,"抽一张牌.
-获得1符文, 然后放逐此牌.",,machine
+获得1符文, 然后放逐此牌.",,community
 Mecha Emissary,LGND,机甲使者,"抽一张牌.
-联合-使者: 获得2符文. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,machine
-The Dreamscrape,LGND,刮梦者,每回合一次，你可以摧毁另一一 的你的机械神器以 获得2符文.,,machine
-Korpse Maker,LGND,尸科尔制造者,"每回合一次，当你 打出机械神器 (包括此牌一), 获得2战力.",,machine
-Mechannihilator,LGND,机歼灭者,每回合一次，你可以摧毁另一一 的你的机械神器以 获得3战力.,,machine
-Ironheart Engine,LGND,铁之心引擎,"每回合一次，当你 打出机械神器 (包括此牌一), 获得3符文.",,machine
-Mechaphoenix,LGND,机凤凰,"每回合一次，当你 打出机械神器 (包括此牌一), 获取或 击败卡牌以 费用相等以 或低于其R费用.",,machine
+联合-使者: 获得2符文. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,community
+The Dreamscrape,LGND,刮梦者,每回合一次，你可以摧毁另一一 的你的机械神器以 获得2符文.,,community
+Korpse Maker,LGND,尸科尔制造者,"每回合一次，当你 打出机械神器 (包括此牌一), 获得2战力.",,community
+Mechannihilator,LGND,机歼灭者,每回合一次，你可以摧毁另一一 的你的机械神器以 获得3战力.,,community
+Ironheart Engine,LGND,铁之心引擎,"每回合一次，当你 打出机械神器 (包括此牌一), 获得3符文.",,community
+Mechaphoenix,LGND,机凤凰,"每回合一次，当你 打出机械神器 (包括此牌一), 获取或 击败卡牌以 费用相等以 或低于其R费用.",,community
 Bombcrafter,LGND,炸弹匠,"抽一张牌.
-获得2战力, 然后放逐此牌.",,machine
-Shade Feather,LGND,暗影羽,获得1战力.你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+获得2战力, 然后放逐此牌.",,community
+Shade Feather,LGND,暗影羽,获得1战力.你可以放逐一张卡牌在你的手牌或弃牌堆.,,community
 Void Emissary,LGND,虚空使者,"抽一张牌.
-联合-使者: 获得2战力. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,machine
-Shadow Mender,LGND,暗影修复者,获得3战力.,,machine
-Shadow Arbiter,LGND,暗影仲裁者,抽一张牌. 你可以放逐一张卡牌在你的手牌中以 获得2战力.,,machine
+联合-使者: 获得2战力. (获得此效果一次若 你打出或 拥有打出过另一使者本回合.)",,community
+Shadow Mender,LGND,暗影修复者,获得3战力.,,community
+Shadow Arbiter,LGND,暗影仲裁者,抽一张牌. 你可以放逐一张卡牌在你的手牌中以 获得2战力.,,community
 "Raiyna, Riftwalker",LGND,蕾娜·裂隙行者,"获得4战力.
-下次你击败一个怪物在 中央牌列本回合, 获得其non-荣誉奖励两次.",,machine
-Riftclaw,LGND,裂隙爪,每回合一次，获得1战力.,,machine
+下次你击败一个怪物在 中央牌列本回合, 获得其非荣誉奖励两次.",,community
+Riftclaw,LGND,裂隙爪,每回合一次，获得1战力.,,community
 Claws of Deoful,LGND,爪迪奥福尔,"奖励：获得4荣誉.
-获得1 Renown在任意派系.",,machine
-Hurricane Warlock,LGND,飓风术士,奖励：获得2荣誉. 抽一张牌.,,machine
-Correction of Creation,LGND,校正造物,奖励：获得2荣誉. 你可以放逐一张卡牌从你的手牌或 弃牌堆.,,machine
-The Iron Seven,LGND,钢铁七人,"奖励：获得3荣誉. 选择aand摧毁至多一 神器在 打出, 或返回神器从 你的弃牌堆以 你的手牌.",,machine
-Hellstring Blades,LGND,狱弦双刃,奖励：获得5荣誉. 选择和 摧毁至多两 神器s在打出.,,machine
-MarrowWyrm Rider,LGND,髓虫骑手,奖励：获得3荣誉. 你可以获取一个英雄以 费用 5符文或更低无需支付费用.,,machine
-Muse of Malevolence,LGND,缪斯恶意,奖励：获得5荣誉. 获得2 Renown在任意派系.,,machine
+获得1 声望在任意派系.",,community
+Hurricane Warlock,LGND,飓风术士,奖励：获得2荣誉. 抽一张牌.,,community
+Correction of Creation,LGND,校正造物,奖励：获得2荣誉. 你可以放逐一张卡牌从你的手牌或 弃牌堆.,,community
+The Iron Seven,LGND,钢铁七人,"奖励：获得3荣誉. 选择和摧毁至多一 神器在 打出, 或返回神器从 你的弃牌堆以 你的手牌.",,community
+Hellstring Blades,LGND,狱弦双刃,奖励：获得5荣誉. 选择和 摧毁至多两 神器s在打出.,,community
+MarrowWyrm Rider,LGND,髓虫骑手,奖励：获得3荣誉. 你可以获取一个英雄以 费用 5符文或更低无需支付费用.,,community
+Muse of Malevolence,LGND,缪斯恶意,奖励：获得5荣誉. 获得2 声望在任意派系.,,community
 Lifebound Remnant,LGND,生命残响,"奖励：获得3荣誉.
-若你打出过或 已获取生命卡牌本回合, 获得额外的 2荣誉.",,machine
+若你打出过或 已获取生命卡牌本回合, 获得额外的 2荣誉.",,community
 Enlightened Remnant,LGND,圣贤残响,"奖励：获得5荣誉.
-若你打出过或 已获取圣贤卡牌本回合, 抽两张牌.",,machine
+若你打出过或 已获取圣贤卡牌本回合, 抽两张牌.",,community
 Mechana Remnant,LGND,机械残响,"奖励：获得4荣誉.
-若你打出过或 已获取机械卡牌本回合, 获得2符文.",,machine
+若你打出过或 已获取机械卡牌本回合, 获得2符文.",,community
 Void Remnant,LGND,虚空残响,"奖励：获得4荣誉.
-若你打出过或 已获取虚空卡牌本回合, 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.",,machine
+若你打出过或 已获取虚空卡牌本回合, 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.",,community
 Remnant of the Fallen,LGND,残响·堕落者,"奖励：获得5荣誉.
-获得1 Renown的每个派系.
-你可以获取或 击败任意卡牌在 中央牌列无需支付费用.",,machine
-Monk of the Stone Circle,LGND,僧侣石环,获取一个英雄以 费用 3符文或更低和 将它放置置入你的手牌.,,machine
-Psychic Amulet,LGND,心灵护符,"每回合一次，当你 打出机械或 圣贤神器 (包括此牌一), 抽一张牌.",,machine
+获得1 声望的每个派系.
+你可以获取或 击败任意卡牌在 中央牌列无需支付费用.",,community
+Monk of the Stone Circle,LGND,僧侣石环,获取一个英雄以 费用 3符文或更低和 将它放置置入你的手牌.,,community
+Psychic Amulet,LGND,心灵护符,"每回合一次，当你 打出机械或 圣贤神器 (包括此牌一), 抽一张牌.",,community
 Psionic Monk,LGND,灵能僧侣,"抽 2 卡牌.
-获得1荣誉以 每个派系之中神器你控制的.",,machine
+获得1荣誉以 每个派系之中神器你控制的.",,community
 Portal Ninja,LGND,传送门忍者,"获得2符文.
-联合: 你可以放逐一张卡牌你 打出过本回合.",,machine
+联合: 你可以放逐一张卡牌你 打出过本回合.",,community
 Fallen Fae,LGND,堕落者仙灵,"获得2战力.
-联合: 获得1荣誉.",,machine
+联合: 获得1荣誉.",,community
 Dark Monk,LGND,黑暗僧侣,"获得2战力.
-联合: 抽一张牌.",,machine
+联合: 抽一张牌.",,community
 Shade Askara,LGND,暗影阿斯卡拉,"获得3战力.
-若你 拥有圣贤或 虚空卡牌在你的弃牌堆, 抽一张牌.",,machine
-The Chrome Circle,LGND,铬环,"每回合一次，当你 打出机械或 生命神器 (包括此牌一), 获得1符文和 1荣誉.",,machine
-Mecha Cetra,LGND,机甲塞特拉,你可以获取一个英雄或 神器从 中央牌列无需支付费用和 将它放置放到你的牌库顶.,,machine
-Legend - Master Dhartha,LGND,传奇：达萨大师,"一次本回合, 抽一张牌.",,machine
-Legend - Ulu,LGND,传奇：乌鲁,"一次本回合, 获得1 renown在另一派系.",,machine
-Legend - Cetra,LGND,传奇：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,machine
-Legend - Naira,LGND,传奇：奈拉,"一次本回合, 获得2荣誉.",,machine
-Legend - Kor,LGND,传奇：科尔,"一次本回合, 获得2符文.",,machine
-Legend - P.R.I.M.E.,LGND,传奇：P.R.I.M.E.,"一次本回合, 你可以返回神器从 你的弃牌堆以 你的手牌.",,machine
-Legend - Naka,LGND,传奇：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,machine
-Legend - Emri,LGND,传奇：艾姆瑞,"一次本回合, 获得2战力.",,machine
+若你 拥有圣贤或 虚空卡牌在你的弃牌堆, 抽一张牌.",,community
+The Chrome Circle,LGND,铬环,"每回合一次，当你 打出机械或 生命神器 (包括此牌一), 获得1符文和 1荣誉.",,community
+Mecha Cetra,LGND,机甲塞特拉,你可以获取一个英雄或 神器从 中央牌列无需支付费用和 将它放置放到你的牌库顶.,,community
+Legend - Master Dhartha,LGND,传奇：达萨大师,"一次本回合, 抽一张牌.",,community
+Legend - Ulu,LGND,传奇：乌鲁,"一次本回合, 获得1 声望在另一派系.",,community
+Legend - Cetra,LGND,传奇：塞特拉,"一次本回合, 你可以放置英雄从 你的弃牌堆放到你的牌库顶.",,community
+Legend - Naira,LGND,传奇：奈拉,"一次本回合, 获得2荣誉.",,community
+Legend - Kor,LGND,传奇：科尔,"一次本回合, 获得2符文.",,community
+Legend - P.R.I.M.E.,LGND,传奇：P.R.I.M.E.,"一次本回合, 你可以返回神器从 你的弃牌堆以 你的手牌.",,community
+Legend - Naka,LGND,传奇：纳卡,"一次本回合, 你可以放逐一张卡牌你 打出过本回合.",,community
+Legend - Emri,LGND,传奇：艾姆瑞,"一次本回合, 获得2战力.",,community
 Militia 10TH,,民兵,获得1战力。,,official-anshashen+variant
 Apprentice 10TH,,学徒,获得1符文。,,official-anshashen+variant
 Mystic 10TH,,秘教士,获得2符文。,,official-anshashen+variant
@@ -606,7 +610,7 @@ Avatar Golem 10TH,CotG10,化身魔像,获得2战力。你每控制一种神器�
 Burrower Mark II 10TH,CotG10,钻地机II型,每回合你首次将机械神器进入战场时（包括此牌），抽一张牌。,,community+variant
 Hedron Cannon 10TH,CotG10,多面体加农,每回合一次，你每控制一个机械神器，获得1战力。,,community+variant
 Hedron Link Device 10TH,CotG10,多面体连接装置,你可以将所有神器视为机械神器。,,community+variant
-"Kor, the Ferromancer 10TH",CotG10,铁术师科尔,获得2战力. 抽一张牌若 你控制的 2 或更高神器s.,,machine
+"Kor, the Ferromancer 10TH",CotG10,铁术师科尔,获得2战力. 抽一张牌若 你控制的 2 或更高神器s.,,community
 Mechana Initiate 10TH,CotG10,机械新兵,获得1符文或1战力。,,official-anshashen+variant
 Reactor Monk 10TH,CotG10,反应堆僧侣,获得2符文。你本回合下一张获取的神器费用减少1符文。,,community+variant
 Rocket Courier X-99 10TH,CotG10,火箭信使X-99,每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。,,official-anshashen+variant
@@ -630,7 +634,7 @@ Samael's Trickster 10TH,CotG10,萨麦尔的诡术师,奖励：获得1荣誉。�
 Sea Tyrant 10TH,CotG10,海中暴君,奖励：获得5荣誉。每位对手须选择一张其控制的神器，将其余神器置入弃牌堆。,,community+variant
 Tormented Soul 10TH,CotG10,受折磨的灵魂,奖励：获得1荣誉。抽一张牌。,,community+variant
 Wind Tyrant 10TH,CotG10,风之暴君,奖励：获得3荣誉。获得3符文。,,community+variant
-"Xeron, Duke of Lies 10TH",CotG10,谎言之公爵泽伦,奖励：获得3荣誉. 拿取一张卡牌随机从 每位对手之手牌和 将该卡牌加入以 你的手牌.,,machine
+"Xeron, Duke of Lies 10TH",CotG10,谎言之公爵泽伦,奖励：获得3荣誉. 拿取一张卡牌随机从 每位对手之手牌和 将该卡牌加入以 你的手牌.,,community
 Militia,,民兵,获得1战力。,,official-anshashen
 Apprentice,,学徒,获得1符文。,,official-anshashen
 Mystic,,秘教士,获得2符文。,,official-anshashen
@@ -659,7 +663,7 @@ Avatar Golem,CotG,化身魔像,获得2战力。你每控制一种神器，获得
 Burrower Mark II,CotG,钻地机II型,每回合你首次将机械神器进入战场时（包括此牌），抽一张牌。,,community
 Hedron Cannon,CotG,多面体加农,每回合一次，你每控制一个机械神器，获得1战力。,,community
 Hedron Link Device,CotG,多面体连接装置,你可以将所有神器视为机械神器。,,community
-"Kor, the Ferromancer",CotG,铁术师科尔,获得2战力. 抽一张牌若 你控制的 2 或更高神器s.,,machine
+"Kor, the Ferromancer",CotG,铁术师科尔,获得2战力. 抽一张牌若 你控制的 2 或更高神器s.,,community
 Mechana Initiate,CotG,机械新兵,获得1符文或1战力。,,official-anshashen
 Reactor Monk,CotG,反应堆僧侣,获得2符文。你本回合下一张获取的神器费用减少1符文。,,community
 Rocket Courier X-99,CotG,火箭信使X-99,每回合一次，当你获取另一张机械神器时，你可以将其直接进入战场。,,official-anshashen
@@ -683,46 +687,46 @@ Samael's Trickster,CotG,萨麦尔的诡术师,奖励：获得1荣誉。获得1�
 Sea Tyrant,CotG,海中暴君,奖励：获得5荣誉。每位对手须选择一张其控制的神器，将其余神器置入弃牌堆。,,community
 Tormented Soul,CotG,受折磨的灵魂,奖励：获得1荣誉。抽一张牌。,,community
 Wind Tyrant,CotG,风之暴君,奖励：获得3荣誉。获得3符文。,,community
-"Xeron, Duke of Lies",CotG,谎言之公爵泽伦,奖励：获得3荣誉. 拿取一张卡牌随机从 每位对手之手牌和 将该卡牌加入以 你的手牌.,,machine
-Adayu the Omnipotent,RotF,天选者阿达尤,获取或 击败任意卡牌在中央牌列. (你无需支付符文或 战力).,,machine
-Arha Sensei,RotF,亚哈导师,放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵. 加入它以 你的手牌.,,machine
+"Xeron, Duke of Lies",CotG,谎言之公爵泽伦,奖励：获得3荣誉. 拿取一张卡牌随机从 每位对手之手牌和 将该卡牌加入以 你的手牌.,,community
+Adayu the Omnipotent,RotF,天选者阿达尤,获取或 击败任意卡牌在中央牌列. (你无需支付符文或 战力).,,community
+Arha Sensei,RotF,亚哈导师,放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵. 加入它以 你的手牌.,,community
 Askara of Fate,RotF,命运阿斯卡拉,"天命： 当此牌进入中央牌列时, 每位玩家可以抽一张牌.
-抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.",,machine
-Dhartha's Retreat,RotF,达萨的隐修处,"若你如此做，不获取或 击败卡牌在 你的回合, 你可以抽两 额外的卡牌在 结束时你的回合.",,machine
-Eternal Askara,RotF,永恒阿斯卡拉,"放逐一张卡牌在中央牌列. 若你 放逐怪物以此方式, 获得3荣誉.",,machine
-Hectic Scribe,RotF,忙乱书记,"抽两张牌, 然后弃掉两 卡牌.",,machine
-"Nairi, Henge Queen",RotF,环石女王奈莉,获得5荣誉.,,machine
-Dandelion Witch,RotF,蒲公英女巫,抽一张牌. 获得1荣誉以 每个命约英雄你 打出或 拥有打出过本回合 (包括此牌一).,,machine
-Great-Omen Raven,RotF,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,machine
-Lunar Stag,RotF,月鹿,获得2符文或 2荣誉.,,machine
+抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.",,community
+Dhartha's Retreat,RotF,达萨的隐修处,"若你如此做，不获取或 击败卡牌在 你的回合, 你可以抽两 额外的卡牌在 结束时你的回合.",,community
+Eternal Askara,RotF,永恒阿斯卡拉,"放逐一张卡牌在中央牌列. 若你 放逐怪物以此方式, 获得3荣誉.",,community
+Hectic Scribe,RotF,忙乱书记,"抽两张牌, 然后弃掉两 卡牌.",,community
+"Nairi, Henge Queen",RotF,环石女王奈莉,获得5荣誉.,,community
+Dandelion Witch,RotF,蒲公英女巫,抽一张牌. 获得1荣誉以 每个命约英雄你 打出或 拥有打出过本回合 (包括此牌一).,,community
+Great-Omen Raven,RotF,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,community
+Lunar Stag,RotF,月鹿,获得2符文或 2荣誉.,,community
 Serpentcall,RotF,唤蛇,"每回合一次，获得2符文.
-每回合一次，你可以获取hero从虚空区被 支付其 符文费用.",,machine
-Stone Circle,,石环,"每回合一次，你可以展示你牌库顶的卡牌. 若它是命约英雄, 抽它.
-每回合一次，你可以花费 2符文以 获得1荣誉.",,machine
+每回合一次，你可以获取英雄从虚空区被 支付其 符文费用.",,community
+Stone Circle,,石环,"天命： 当此牌进入中央牌列时, 每位玩家可以获取秘教士. 将它放置在 顶部的 其牌库.
+每回合一次，当你 获取一个英雄, 你可以将它放置放到你的牌库顶.",,community
 Stone Circle,RotF,石环,"天命： 当此牌进入中央牌列时, 每位玩家可以获取秘教士. 将它放置在 顶部的 其牌库.
-每回合一次，当你 获取一个英雄, 你可以将它放置放到你的牌库顶.",,machine
-Project Alpha,RotF,阿尔法计划,每回合一次，你可以获取一个英雄或 神器以 费用低于或 相等以 数量为机械神器你控制的.,,machine
-Dimension Diver,RotF,维度潜者,获得2符文. 你可以将所有神器s作为机械神器本回合.,,machine
-Combustion Idol,RotF,燃烧偶像,每回合一次，你可以抽一张牌若 你控制的三 或更高机械神器.,,machine
-Battery Monk,RotF,电池僧侣,你可以支付 1符文更低下次你获取神器本回合. 抽一张牌.,,machine
-Reclamax,RotF,回收机,"天命： 当此牌进入中央牌列时, 每位玩家可以选择神器在 其弃牌堆和 将它放置在其手牌中.",,machine
-Socket Altar,RotF,嵌口祭坛,"每回合一次，当你 放置机械神器进入战场 (包括此牌一), 获得2符文.",,machine
-Ferromancer's Helper,,铁术师助手,获得2符文. 你可以放置神器你控制的置入你的弃牌堆. 若你如此做，获得2战力.,,machine
+每回合一次，当你 获取一个英雄, 你可以将它放置放到你的牌库顶.",,community
+Project Alpha,RotF,阿尔法计划,每回合一次，你可以获取一个英雄或 神器以 费用低于或 相等以 数量为机械神器你控制的.,,community
+Dimension Diver,RotF,维度潜者,获得2符文. 你可以将所有神器s作为机械神器本回合.,,community
+Combustion Idol,RotF,燃烧偶像,每回合一次，你可以抽一张牌若 你控制的三 或更高机械神器.,,community
+Battery Monk,RotF,电池僧侣,你可以支付 1符文更低下次你获取神器本回合. 抽一张牌.,,community
+Reclamax,RotF,回收机,"天命： 当此牌进入中央牌列时, 每位玩家可以选择神器在 其弃牌堆和 将它放置在其手牌中.",,community
+Socket Altar,RotF,嵌口祭坛,"每回合一次，当你 放置机械神器进入战场 (包括此牌一), 获得2符文.",,community
+Ferromancer's Helper,,铁术师助手,获得2符文. 你可以放置神器你控制的置入你的弃牌堆. 若你如此做，获得2战力.,,community
 Arbiter of Fate,RotF,仲裁者天命,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.
-抽一张牌. 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Guardian of Sadranis,RotF,守卫萨德拉尼斯,"获得1战力. 下次你击败一个怪物在中央牌列或 虚空区本回合, 获得2荣誉.",,machine
-Black Hole,RotF,黑洞,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获得1战力.,,machine
-Deathseeker,RotF,寻死者,"获得2战力. 若此 为被放逐从你的手牌或 弃牌堆, 获得3荣誉.",,machine
-"Sadranis, Dark Emissary",RotF,黑暗使者萨德拉尼斯,获得3战力. 你可以击败一个怪物从虚空区被 支付其 战力费用. 将它放置置于其底： 传送门牌库.,,machine
-Black Watch Elite,RotF,黑卫精锐,获得3战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
-"Bazu, Duke of Scorn",RotF,轻蔑公爵巴祖,奖励：获得4荣誉. 每位对手要么弃掉卡牌以 每个神器其控制的要么放置所有神器s置入其弃牌堆.,,machine
-Doom Weeper,RotF,末日哀泣者,奖励：获得2荣誉. 获得2符文.,,machine
-Fire Tyrant,RotF,火焰暴君,奖励：获得6荣誉. 每位对手须弃掉卡牌.,,machine
+抽一张牌. 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
+Guardian of Sadranis,RotF,守卫萨德拉尼斯,"获得1战力. 下次你击败一个怪物在中央牌列或 虚空区本回合, 获得2荣誉.",,community
+Black Hole,RotF,黑洞,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获得1战力.,,community
+Deathseeker,RotF,寻死者,"获得2战力. 若此 为被放逐从你的手牌或 弃牌堆, 获得3荣誉.",,community
+"Sadranis, Dark Emissary",RotF,黑暗使者萨德拉尼斯,获得3战力. 你可以击败一个怪物从虚空区被 支付其 战力费用. 将它放置置于其底： 中央牌库.,,community
+Black Watch Elite,RotF,黑卫精锐,获得3战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,community
+"Bazu, Duke of Scorn",RotF,轻蔑公爵巴祖,奖励：获得4荣誉. 每位对手要么弃掉卡牌以 每个神器其控制的要么放置所有神器s置入其弃牌堆.,,community
+Doom Weeper,RotF,末日哀泣者,奖励：获得2荣誉. 获得2符文.,,community
+Fire Tyrant,RotF,火焰暴君,奖励：获得6荣誉. 每位对手须弃掉卡牌.,,community
 Ravenous Gorph,RotF,贪婪戈尔夫,"天命： 当此牌进入中央牌列时, 放逐所有卡牌相邻以 它.
-奖励：获得3荣誉. 你可以放逐一张卡牌该 曾是相邻以 此.",,machine
+奖励：获得3荣誉. 你可以放逐一张卡牌该 曾是相邻以 此.",,community
 Samael the Fallen,RotF,堕落之神萨麦尔,不可放逐。,,official-anshashen
-Sordid Asp,RotF,污秽蝮蛇,"奖励：获得1荣誉, 然后偷取 2荣誉从 对手以 最多的荣誉若 其拥有超过你.",,machine
-Vaultbreaker Wurm,RotF,破库巨虫,奖励：获得4荣誉. 每位其他玩家须弃掉其 最高费用神器. (他们选择在 情况的 平局).,,machine
+Sordid Asp,RotF,污秽蝮蛇,"奖励：获得1荣誉, 然后偷取 2荣誉从 对手以 最多的荣誉若 其拥有超过你.",,community
+Vaultbreaker Wurm,RotF,破库巨虫,奖励：获得4荣誉. 每位其他玩家须弃掉其 最高费用神器. (他们选择在 情况的 平局).,,community
 Militia SoS,,民兵,获得1战力。,,official-anshashen+variant
 Apprentice SoS,,学徒,获得1符文。,,official-anshashen+variant
 Mystic SoS,,秘教士,获得2符文。,,official-anshashen+variant
@@ -730,588 +734,587 @@ Heavy Infantry SoS,,重装步兵,获得2战力。,,official-anshashen+variant
 Cultist SoS,,邪教徒,奖励：获得1荣誉。,,official-anshashen+variant
 Fanatic SoS,SoS,狂信者,奖励：获得2荣誉。,,community+variant
 Arha Rising,SoS,亚哈崛起,"每回合一次，当玩家弃掉任意数量的 卡牌, 他们可以返回一 的它们以 其手牌.
-EVENT战利品： 抽一张牌.",,machine
+事件战利品： 抽一张牌.",,community
 Dreamer's Glass,SoS,梦者琉璃,"每回合一次，你可以放置卡牌从你的手牌其下此 面朝上.
 若你如此做，抽一张牌.
-当梦者琉璃离开打出或 游戏结束, 放置所有卡牌其下它 置入你的弃牌堆.",,machine
-Tower Askara,SoS,高塔阿斯卡拉,"抽 3 卡牌. 然后, 弃掉 2 卡牌或 圣贤卡牌.",,machine
+当梦者琉璃离开打出或 游戏结束, 放置所有卡牌其下它 置入你的弃牌堆.",,community
+Tower Askara,SoS,高塔阿斯卡拉,"抽 3 卡牌. 然后, 弃掉 2 卡牌或 圣贤卡牌.",,community
 "Raj, Psionic Master",SoS,灵能大师拉吉,"放逐一个英雄从你的手牌.
-若你如此做，获取一个英雄以 荣誉至多两 超过该 的被放逐卡牌和 将它放置置入你的手牌.",,machine
-Eye of Destiny,SoS,命运之眼,"每回合一次，当你 获取一个英雄, 你可以将它放置置入你的手牌.",,machine
-Elder Skeptic,SoS,长老怀疑者,"抽 2 卡牌. 然后, 弃掉卡牌.",,machine
+若你如此做，获取一个英雄以 荣誉至多两 超过该 的被放逐卡牌和 将它放置置入你的手牌.",,community
+Eye of Destiny,SoS,命运之眼,"每回合一次，当你 获取一个英雄, 你可以将它放置置入你的手牌.",,community
+Elder Skeptic,SoS,长老怀疑者,"抽 2 卡牌. 然后, 弃掉卡牌.",,community
 Elemental Adept,SoS,元素能手,"抽一张牌.
 若当前事件为 圣贤, 抽额外的 1 卡牌.
-你可以放逐一张卡牌在中央牌列.",,machine
-Nook Hound,SoS,角落猎犬,"天命： 当此牌进入中央牌列时, 每位玩家可以查看牌库顶卡牌的 其牌库. 他们可以将它放置置入其弃牌堆.",,machine
-Prodigal,SoS,浪子,击败一个怪物以P3 或更低.,,machine
-Treasures of the Study,SoS,宝藏书房,每回合一次，你可以弃掉 2 卡牌. 若你如此做，获得3荣誉.,,machine
+你可以放逐一张卡牌在中央牌列.",,community
+Nook Hound,SoS,角落猎犬,"天命： 当此牌进入中央牌列时, 每位玩家可以查看牌库顶卡牌的 其牌库. 他们可以将它放置置入其弃牌堆.",,community
+Prodigal,SoS,浪子,击败一个怪物以P3 或更低.,,community
+Treasures of the Study,SoS,宝藏书房,每回合一次，你可以弃掉 2 卡牌. 若你如此做，获得3荣誉.,,community
 Ogo Rising,SoS,奥戈崛起,"首先英雄打出过本回合为 也命约英雄.
- EVENT战利品： 获得1符文.",,machine
-Starchild,SoS,星之子,"获得1符文和 1荣誉. 然后, 抽一张牌.",,machine
-Granger,SoS,农夫,获得1符文和 1荣誉. 联合： 获得1符文和 1荣誉.,,machine
-"Syril, Runic Alpha",SoS,符文首领西里尔,获得3符文. 联合： 获得3战力.,,machine
-Lionheart,SoS,狮心,获得3荣誉. 联合： 抽一张牌.,,machine
-Everbloom,SoS,永绽,每回合一次，获得1 荣誉.,,machine
+事件战利品： 获得1符文.",,community
+Starchild,SoS,星之子,"获得1符文和 1荣誉. 然后, 抽一张牌.",,community
+Granger,SoS,农夫,获得1符文和 1荣誉. 联合： 获得1符文和 1荣誉.,,community
+"Syril, Runic Alpha",SoS,符文首领西里尔,获得3符文. 联合： 获得3战力.,,community
+Lionheart,SoS,狮心,获得3荣誉. 联合： 抽一张牌.,,community
+Everbloom,SoS,永绽,每回合一次，获得1 荣誉.,,community
 Snake Shaman,SoS,蛇萨满,"获得1符文. 若当前事件为 生命, 获得额外的 1符文.
-一次本回合, 你可以花费至多 4符文以 获得该等量的荣誉.",,machine
-Honey Siren,SoS,蜜海妖,"天命： 当蜜 海妖进入中央牌列, 每位玩家可以放置英雄从 其弃牌堆在 顶部的 其牌库.",,machine
+一次本回合, 你可以花费至多 4符文以 获得该等量的荣誉.",,community
+Honey Siren,SoS,蜜海妖,"天命： 当蜜 海妖进入中央牌列, 每位玩家可以放置英雄从 其弃牌堆在 顶部的 其牌库.",,community
 Avatar of Aiyana,SoS,化身·艾雅娜,"获得2符文.
-此回合, 你可以获取英雄在中央牌列被 支付符文相等以 其荣誉而非支付其 符文费用.",,machine
-Aiyana's Messenger,SoS,艾雅娜的信使,获得1符文. 你可以支付 1 更低符文下次你获取英雄本回合.,,machine
-Hedron Rising,SoS,多面体崛起,"万民神器s为也 机械神器.
-EVENT战利品： 当神器你控制的会 是摧毁ed, 你可以防止它 从被 摧毁ed.",,machine
-Weapon 303-V,SoS,武器303-V,"每回合一次，当你 打出机械神器 (包括此牌一), 你获得3战力.",,machine
-Scrap Flinger,SoS,废料投掷者,获得2战力. 你可以摧毁一个神器你控制的. 若你如此做，获得额外的 2战力.,,machine
-Dream Machine,SoS,梦机器,"天命： 当梦 机器进入中央牌列, 每位玩家可以返回神器其控制的以 其手牌.",,machine
-Brazer Drone,SoS,铜匠无人机,获得1符文. 你可以返回神器从 你的弃牌堆以 你的手牌.,,machine
-Autobuilder 5.0,SoS,自动建造机5.0,你可以摧毁此 以支付 2符文更低下次你获取机械神器本回合.,,machine
+此回合, 你可以获取英雄在中央牌列被 支付符文相等以 其荣誉而非支付其 符文费用.",,community
+Aiyana's Messenger,SoS,艾雅娜的信使,获得1符文. 你可以支付 1 更低符文下次你获取英雄本回合.,,community
+Hedron Rising,SoS,多面体崛起,"所有神器也视为机械神器。
+事件战利品：当你控制的神器将被摧毁时，你可以防止其被摧毁。",,community
+Weapon 303-V,SoS,武器303-V,"每回合一次，当你 打出机械神器 (包括此牌一), 你获得3战力.",,community
+Scrap Flinger,SoS,废料投掷者,获得2战力. 你可以摧毁一个神器你控制的. 若你如此做，获得额外的 2战力.,,community
+Dream Machine,SoS,梦机器,"天命： 当梦 机器进入中央牌列, 每位玩家可以返回神器其控制的以 其手牌.",,community
+Brazer Drone,SoS,铜匠无人机,获得1符文. 你可以返回神器从 你的弃牌堆以 你的手牌.,,community
+Autobuilder 5.0,SoS,自动建造机5.0,你可以摧毁此 以支付 2符文更低下次你获取机械神器本回合.,,community
 P.R.I.M.E.,SoS,P.R.I.M.E.,"获得3符文或 获取神器在中央牌列.
-当你 打出机械神器, 你可以返回P.R.I.M.E. 从你的弃牌堆以 你的手牌.",,machine
-Personal Wormhole,SoS,私人虫洞,"每回合一次，当你 打出机械神器 (包括此牌一), 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+当你 打出机械神器, 你可以返回P.R.I.M.E. 从你的弃牌堆以 你的手牌.",,community
+Personal Wormhole,SoS,私人虫洞,"每回合一次，当你 打出机械神器 (包括此牌一), 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Cog Maw,SoS,齿轮巨口,"每回合一次，你可以摧毁机械神器你控制的以 获得1符文.
-若当前事件为 机械, 获得额外的 1符文.",,machine
-Synchronizer,SoS,同步者,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1符文.",,machine
-Grease Monk,SoS,油污僧侣,获得1符文. 你可以支付 1 符文更低下次你获取神器本回合.,,machine
+若当前事件为 机械, 获得额外的 1符文.",,community
+Synchronizer,SoS,同步者,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1符文.",,community
+Grease Monk,SoS,油污僧侣,获得1符文. 你可以支付 1 符文更低下次你获取神器本回合.,,community
 Void Rising,SoS,虚空崛起,"每回合一次，当玩家击败怪物在 中央牌列, 该玩家获得 1荣誉.
-EVENT战利品： 放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Void Militia,SoS,虚空民兵,获得1战力. 你可以支付 1 战力更低下次你击败一个怪物在中央牌列本回合.,,machine
-Abolisher,SoS,废除者,"获得1符文. 你可以放逐一张卡牌在 你手牌; 若你 做, 获得额外的 1符文.",,machine
-Nihilmancer,SoS,虚无法师,"获得2战力. 你可以放逐一张卡牌在 你手牌; 若你 做, 获得额外的 1战力.",,machine
+事件战利品： 放逐一张卡牌在你的手牌或弃牌堆.",,community
+Void Militia,SoS,虚空民兵,获得1战力. 你可以支付 1 战力更低下次你击败一个怪物在中央牌列本回合.,,community
+Abolisher,SoS,废除者,"获得1符文. 你可以放逐一张卡牌在 你手牌; 若你 做, 获得额外的 1符文.",,community
+Nihilmancer,SoS,虚无法师,"获得2战力. 你可以放逐一张卡牌在 你手牌; 若你 做, 获得额外的 1战力.",,community
 Canopic Jar,SoS,卡诺皮克罐,"每回合一次，获得1战力.
-每回合一次，当你 击败一个怪物在中央牌列, 获得1符文.",,machine
-Soul Assassin,SoS,灵魂刺客,"获得2战力. 下次你击败一个怪物在中央牌列, 获得2符文.",,machine
+每回合一次，当你 击败一个怪物在中央牌列, 获得1符文.",,community
+Soul Assassin,SoS,灵魂刺客,"获得2战力. 下次你击败一个怪物在中央牌列, 获得2符文.",,community
 Shadowcaster,SoS,影咏者,"抽一张牌.
 你可以放逐一张卡牌从你的手牌; 若你 做, 你可以抽额外的 1 卡牌.
-若当前事件为 虚空, 你可以放逐一张卡牌在你的弃牌堆.",,machine
-Penumbral Edge,SoS,半影刃锋,每回合一次，获得2战力. 获得额外的 2战力若 你控制的暗影刃锋.,,machine
-Umbral Edge,SoS,暗影刃锋,每回合一次，获得2战力. 获得额外的 2战力若 你控制的半影刃锋.,,machine
-"Emri, Soulslayer",SoS,斩魂者艾姆瑞,天命： 每位玩家可以放逐 2 卡牌从其手牌和/或弃牌堆.,,machine
+若当前事件为 虚空, 你可以放逐一张卡牌在你的弃牌堆.",,community
+Penumbral Edge,SoS,半影刃锋,每回合一次，获得2战力. 获得额外的 2战力若 你控制的暗影刃锋.,,community
+Umbral Edge,SoS,暗影刃锋,每回合一次，获得2战力. 获得额外的 2战力若 你控制的半影刃锋.,,community
+"Emri, Soulslayer",SoS,斩魂者艾姆瑞,天命： 每位玩家可以放逐 2 卡牌从其手牌和/或弃牌堆.,,community
 Rise of the Cult,SoS,邪教崛起,"邪教徒和 狂信者拥有+1战力和 其奖励拥有+1战力.
-EVENT战利品： 获得1荣誉.",,machine
-Unchained Fates,SoS,挣脱的命运,奖励：5荣誉. 战利品： 抽 2 卡牌.,,machine
-Minotaur,SoS,牛头人,奖励：3荣誉. 战利品： 抽 1 卡牌.,,machine
-Hoarding Whelp,SoS,囤积幼龙,奖励：2荣誉. 战利品： 获得1战力.,,machine
-Hoarding Tyrant,SoS,囤积暴君,奖励：4荣誉. 战利品： 获得2符文.,,machine
-Fettered Soul,SoS,枷锁灵魂,奖励：获得2荣誉. 你可以放逐一张卡牌在中央牌列.,,machine
-Vandal Soul,SoS,破坏灵魂,奖励：3荣誉. 每位对手摧毁最低费用神器其控制的.,,machine
-Polaris Demon,SoS,北极星恶魔,"奖励：5荣誉. 选择一项：
-摧毁所有偶数费用神器s对手控制OR摧毁所有奇数费用神器s对手控制.",,machine
-Nemesis,SoS,宿敌,天命： 放逐当前事件.,,machine
-"Tarik, the Trickster",SoS,诡术师塔里克,奖励：5荣誉. 你可以选择英雄在中央牌列和 复制其效果.,,machine
-Noxious Soul,SoS,毒害灵魂,奖励：4荣誉. 每位对手须弃掉卡牌随机从其手牌.,,machine
+事件战利品： 获得1荣誉.",,community
+Unchained Fates,SoS,挣脱的命运,奖励：5荣誉. 战利品： 抽 2 卡牌.,,community
+Minotaur,SoS,牛头人,奖励：3荣誉. 战利品： 抽 1 卡牌.,,community
+Hoarding Whelp,SoS,囤积幼龙,奖励：2荣誉. 战利品： 获得1战力.,,community
+Hoarding Tyrant,SoS,囤积暴君,奖励：4荣誉. 战利品： 获得2符文.,,community
+Fettered Soul,SoS,枷锁灵魂,奖励：获得2荣誉. 你可以放逐一张卡牌在中央牌列.,,community
+Vandal Soul,SoS,破坏灵魂,奖励：3荣誉. 每位对手摧毁最低费用神器其控制的.,,community
+Polaris Demon,SoS,北极星恶魔,奖励：5荣誉。选择一项：摧毁对手控制的所有偶数费用神器；或摧毁对手控制的所有奇数费用神器。,,community
+Nemesis,SoS,宿敌,天命： 放逐当前事件.,,community
+"Tarik, the Trickster",SoS,诡术师塔里克,奖励：5荣誉. 你可以选择英雄在中央牌列和 复制其效果.,,community
+Noxious Soul,SoS,毒害灵魂,奖励：4荣誉. 每位对手须弃掉卡牌随机从其手牌.,,community
 Moment of Clarity,IH,片刻澄明,"当玩家获取圣贤卡牌, 该玩家可以抽一张牌.
- EVENT战利品： 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.",,machine
-"Aaron, the Godslayer",IH,亚伦·弑神者,击败一个怪物无需支付费用.,,machine
-Arha Medium,IH,亚哈灵媒,你可以放逐此牌以 获取秘教士或 重装步兵无需支付费用. 将它放置置入你的手牌.,,machine
-Askara of Souls,IH,灵魂阿斯卡拉,获得灵魂宝石.,,machine
-"Elan, Soul Marshal",IH,埃兰·灵魂元帅,获得灵魂宝石. 抽一张牌.,,machine
+事件战利品： 放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士无需支付费用. 将它放置置入你的手牌.",,community
+"Aaron, the Godslayer",IH,亚伦·弑神者,击败一个怪物无需支付费用.,,community
+Arha Medium,IH,亚哈灵媒,你可以放逐此牌以 获取秘教士或 重装步兵无需支付费用. 将它放置置入你的手牌.,,community
+Askara of Souls,IH,灵魂阿斯卡拉,获得灵魂宝石.,,community
+"Elan, Soul Marshal",IH,埃兰·灵魂元帅,获得灵魂宝石. 抽一张牌.,,community
 Temple Guardian,IH,神殿守卫,"击败一个怪物以P5 或更低无需支付费用.
-若当前事件为 圣贤, 抽一张牌.",,machine
+若当前事件为 圣贤, 抽一张牌.",,community
 Wandering Askara,IH,流浪阿斯卡拉,"抽一张牌, 然后你可以放逐一张卡牌在中央牌列.
-若你打出过另一流浪阿斯卡拉本回合, 你可以放逐两者卡牌以 拿取另一回合在此之后.",,machine
+若你打出过另一流浪阿斯卡拉本回合, 你可以放逐两者卡牌以 拿取另一回合在此之后.",,community
 The Great Eclipse,IH,大日食,"当玩家获取命约英雄, 该玩家可以将它放置在 顶部的 其牌库.
- EVENT战利品： 命名英雄. 该英雄为 也生命本回合.",,machine
+事件战利品： 命名英雄. 该英雄为 也生命本回合.",,community
 "Sabre, the Moonlit",IH,军刀·月下,"获得1符文. 获得1战力. 获得1荣誉. 抽一张牌. 
-联合： 获得1符文. 获得1战力. 获得1荣誉. 抽一张牌.",,machine
-Spider Witch,IH,蜘蛛女巫,获得2荣誉. 联合： 获得灵魂宝石.,,machine
+联合： 获得1符文. 获得1战力. 获得1荣誉. 抽一张牌.",,community
+Spider Witch,IH,蜘蛛女巫,获得2荣誉. 联合： 获得灵魂宝石.,,community
 Stone Circle Elder,IH,石环长老,"获取一个英雄费用不高于5 或更低无需支付费用. 将它放置放到你的牌库顶.
-若当前事件为 生命, 抽一张牌.",,machine
-Wolf Acolyte,IH,狼侍僧,获得1符文. 联合： 抽一张牌.,,machine
+若当前事件为 生命, 抽一张牌.",,community
+Wolf Acolyte,IH,狼侍僧,获得1符文. 联合： 抽一张牌.,,community
 Beast Staff,IH,野兽法杖,"每回合一次，获得1战力.
-每回合一次，你可以支付 1符文以 展示顶部卡牌的 你牌库. 获得荣誉相等以 其荣誉Value.",,machine
+每回合一次，你可以支付 1符文以 展示顶部卡牌的 你牌库. 获得荣誉相等以 其荣誉数值.",,community
 The World Tree,IH,世界树,"每回合一次，你可以支付至多 5符文以 获得该等量的H. 
-当你 打出命约英雄, 获得1符文.",,machine
+当你 打出命约英雄, 获得1符文.",,community
 Cosmic Protocol,IH,宇宙协议,"当玩家获取机械神器, 该玩家可以将其直接进入战场.
- EVENT战利品： 你支付 2符文更低以 获取你的下一机械神器本回合.",,machine
-Energy Monk,IH,能量僧侣,获得2战力. 你可以返回神器你控制的以 你的手牌.,,machine
-Hedron Pyromaniac,IH,多面体纵火狂,获得2符文. 你可以摧毁一个神器你控制的以 获得灵魂宝石.,,machine
-Astroblade TRX,IH,星刃TRX,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1荣誉.",,machine
-Driller Mark IV,IH,钻机型号IV,"每回合一次，当你 打出机械神器 (包括此牌一), 获得灵魂宝石.",,machine
-Recyclicrab,IH,循环蟹,"当你 打出机械神器, 若此 为在你的弃牌堆你可以返回它 以你的手牌.",,machine
-Repurposer,IH,再造者,"每回合一次，当你 打出机械神器 (包括此牌一), 你可以返回神器从 你的弃牌堆以 你的手牌.",,machine
+事件战利品： 你支付 2符文更低以 获取你的下一机械神器本回合.",,community
+Energy Monk,IH,能量僧侣,获得2战力. 你可以返回神器你控制的以 你的手牌.,,community
+Hedron Pyromaniac,IH,多面体纵火狂,获得2符文. 你可以摧毁一个神器你控制的以 获得灵魂宝石.,,community
+Astroblade TRX,IH,星刃TRX,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1荣誉.",,community
+Driller Mark IV,IH,钻机型号IV,"每回合一次，当你 打出机械神器 (包括此牌一), 获得灵魂宝石.",,community
+Recyclicrab,IH,循环蟹,"当你 打出机械神器, 若此 为在你的弃牌堆你可以返回它 以你的手牌.",,community
+Repurposer,IH,再造者,"每回合一次，当你 打出机械神器 (包括此牌一), 你可以返回神器从 你的弃牌堆以 你的手牌.",,community
 Spark Sprayer,IH,火花喷射器,"每回合一次，你可以摧毁机械神器你控制的以 获得1战力.
- 若当前事件为 机械, 获得额外的 1战力.",,machine
+若当前事件为 机械, 获得额外的 1战力.",,community
 Annihilation,IH,歼灭,"当玩家获取虚空卡牌, 该玩家可以放逐一张卡牌在其手牌中或 弃牌堆.
- EVENT战利品： 获得1战力.",,machine
-"Belthar, Soul Collector",IH,贝尔萨·集魂者,"获得3战力. 下次你击败一个怪物在中央牌列本回合, 获得3符文.",,machine
-Deathsworn Warrior,IH,誓死战士,天命： 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.,,machine
+事件战利品： 获得1战力.",,community
+"Belthar, Soul Collector",IH,贝尔萨·集魂者,"获得3战力. 下次你击败一个怪物在中央牌列本回合, 获得3符文.",,community
+Deathsworn Warrior,IH,誓死战士,天命： 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.,,community
 Soulshaper,IH,塑魂者,"你可以放逐此牌或 另一卡牌在你的手牌中. 
-若你如此做，获得灵魂宝石. 若当前事件为 虚空, 你可以放逐一张卡牌在你的弃牌堆以 获得灵魂宝石改为.",,machine
-Trophy Hunter,IH,战利品猎手,获得2战力. 你支付 1战力更低下次你击败战利品怪物本回合.,,machine
-Void Avenger,IH,虚空复仇者,"获得3战力. 下次你击败一个怪物在中央牌列, 获得灵魂宝石.",,machine
+若你如此做，获得灵魂宝石. 若当前事件为 虚空, 你可以放逐一张卡牌在你的弃牌堆以 获得灵魂宝石改为.",,community
+Trophy Hunter,IH,战利品猎手,获得2战力. 你支付 1战力更低下次你击败战利品怪物本回合.,,community
+Void Avenger,IH,虚空复仇者,"获得3战力. 下次你击败一个怪物在中央牌列, 获得灵魂宝石.",,community
 Orb of Nyx,IH,宝珠尼克斯,"每回合一次，获得3战力.
-当你 击败一个怪物在中央牌列, 获得灵魂宝石.",,machine
+当你 击败一个怪物在中央牌列, 获得灵魂宝石.",,community
 Souls Unbound,IH,灵魂解缚,"怪物在中央牌列为 不可放逐.
- EVENT战利品： 弃掉卡牌. 若你如此做，获得灵魂宝石.",,machine
-Acidic Crawler,IH,酸性爬行者,"奖励：5荣誉. 若对手控制最多的神器s, 摧毁所有神器s该玩家控制.",,machine
-"Akam, the Genie",IH,阿卡姆·灯神,奖励：3荣誉. ONGOING战利品： 放置三 愿望指示物在 阿卡姆.,,machine
-Cackling Jackal,IH,狂笑豺狼,奖励：2荣誉. 战利品： 放逐此 以获得1符文.,,machine
-Growmites,IH,增生螨,"奖励：获得2荣誉. ONGOING战利品： 当你 击败另一增生螨, 获得2荣誉.",,machine
-Nothing Man,IH,虚无之人,奖励：3荣誉. 战利品： 放逐此 以获得灵魂宝石.,,machine
-"Kythis, Rebel Godling",IH,凯西斯·反叛神子,奖励：8荣誉. ONGOING战利品： 每回合一次，获得灵魂宝石.,,machine
-"Kythis, Rebel Godling v2",IH,叛神子凯西斯,奖励：8荣誉. ONGOING战利品： 每回合一次，获得灵魂宝石.,,machine
-Soul Gem - Arha Initiate,IH,亚哈新兵,抽一张牌.,,machine
-Soul Gem - Arha Templar,IH,亚哈圣殿武士,击败一个怪物战力值不高于4 或更低.,,machine
-Soul Gem - Ascetic of the Lidless Eye,IH,无目之眼苦行僧,抽两张牌.,,machine
-Soul Gem - Askara of Fate,IH,命运阿斯卡拉,抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.,,machine
-Soul Gem - Master Dhartha,IH,达萨大师,抽三张牌.,,machine
-Soul Gem - Seer of the Forked Path,IH,歧路预言者,抽一张牌. 然后你可以放逐一张卡牌在中央牌列.,,machine
-Soul Gem - Druids of the Stone Circle,IH,石环德鲁伊,获取一个英雄费用不高于3 或更低. 将它放到你的牌库顶.,,machine
-Soul Gem - Great-Omen Raven,IH,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,machine
-Soul Gem - Landtalker,IH,大地说书人,获得3符文.,,machine
-Soul Gem - Lifebound Initiate,IH,生命新兵,获得1符文和 1荣誉.,,machine
-Soul Gem - Runic Lycanthrope,IH,符文狼化人,"获得2符文. 若你打出过命约英雄本回合, 获得2战力.",,machine
-Soul Gem - Wolf Shaman,IH,狼萨满,获得1符文. 抽一张牌.,,machine
-Soul Gem - Avatar Golem,IH,化身魔像,获得2战力. 获得1荣誉以 每个type的神器你控制的.,,machine
-Soul Gem - Dimension Diver,IH,维度潜者,获得2符文. 你可以将所有神器s作为机械神器本回合.,,machine
-Soul Gem - Mechana Initiate,IH,机械新兵,获得1符文或 1战力.,,machine
-Soul Gem - Reactor Monk,IH,反应堆僧侣,获得2符文. 下一神器你 获取本回合费用为 1符文更低.,,machine
-Soul Gem - Arbiter of Fate,IH,仲裁者天命,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.",,machine
-Soul Gem - Demon Slayer,IH,恶魔杀手,获得3战力.,,machine
-Soul Gem - Shade of the Black Watch,IH,黑卫之影,获得2战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
-Soul Gem - Spike Vixen,IH,尖刺雌狐,获得1战力. 抽一张牌.,,machine
-Soul Gem - Void Initiate,IH,虚空新兵,获得1符文. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
-Energy Shard Start,RoV,能量碎片,获得1E. 抽一张牌.,,machine
-Energy Shard,RoV,能量碎片,获得1E. 抽一张牌.,,machine
+事件战利品： 弃掉卡牌. 若你如此做，获得灵魂宝石.",,community
+Acidic Crawler,IH,酸性爬行者,"奖励：5荣誉. 若对手控制最多的神器s, 摧毁所有神器s该玩家控制.",,community
+"Akam, the Genie",IH,阿卡姆·灯神,奖励：3荣誉. 持续战利品： 放置三 愿望指示物在 阿卡姆.,,community
+Cackling Jackal,IH,狂笑豺狼,奖励：2荣誉. 战利品： 放逐此 以获得1符文.,,community
+Growmites,IH,增生螨,"奖励：获得2荣誉. 持续战利品： 当你 击败另一增生螨, 获得2荣誉.",,community
+Nothing Man,IH,虚无之人,奖励：3荣誉. 战利品： 放逐此 以获得灵魂宝石.,,community
+"Kythis, Rebel Godling",IH,凯西斯·反叛神子,奖励：8荣誉. 持续战利品： 每回合一次，获得灵魂宝石.,,community
+"Kythis, Rebel Godling v2",IH,叛神子凯西斯,奖励：8荣誉. 持续战利品： 每回合一次，获得灵魂宝石.,,community
+Soul Gem - Arha Initiate,IH,亚哈新兵,抽一张牌.,,community
+Soul Gem - Arha Templar,IH,亚哈圣殿武士,击败一个怪物战力值不高于4 或更低.,,community
+Soul Gem - Ascetic of the Lidless Eye,IH,无目之眼苦行僧,抽两张牌.,,community
+Soul Gem - Askara of Fate,IH,命运阿斯卡拉,抽两张牌. 每位其他玩家可以抽一张牌. 然后你可以放逐一张卡牌在中央牌列.,,community
+Soul Gem - Master Dhartha,IH,达萨大师,抽三张牌.,,community
+Soul Gem - Seer of the Forked Path,IH,歧路预言者,抽一张牌. 然后你可以放逐一张卡牌在中央牌列.,,community
+Soul Gem - Druids of the Stone Circle,IH,石环德鲁伊,获取一个英雄费用不高于3 或更低. 将它放到你的牌库顶.,,community
+Soul Gem - Great-Omen Raven,IH,大兆乌鸦,"命名卡牌. 展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为被命名为卡牌, 获得3荣誉.",,community
+Soul Gem - Landtalker,IH,大地说书人,获得3符文.,,community
+Soul Gem - Lifebound Initiate,IH,生命新兵,获得1符文和 1荣誉.,,community
+Soul Gem - Runic Lycanthrope,IH,符文狼化人,"获得2符文. 若你打出过命约英雄本回合, 获得2战力.",,community
+Soul Gem - Wolf Shaman,IH,狼萨满,获得1符文. 抽一张牌.,,community
+Soul Gem - Avatar Golem,IH,化身魔像,获得2战力. 获得1荣誉以 每个类型的神器你控制的.,,community
+Soul Gem - Dimension Diver,IH,维度潜者,获得2符文. 你可以将所有神器s作为机械神器本回合.,,community
+Soul Gem - Mechana Initiate,IH,机械新兵,获得1符文或 1战力.,,community
+Soul Gem - Reactor Monk,IH,反应堆僧侣,获得2符文. 下一神器你 获取本回合费用为 1符文更低.,,community
+Soul Gem - Arbiter of Fate,IH,仲裁者天命,"天命： 当此牌进入中央牌列时, 每位玩家可以放逐一张卡牌从其手牌或 弃牌堆.",,community
+Soul Gem - Demon Slayer,IH,恶魔杀手,获得3战力.,,community
+Soul Gem - Shade of the Black Watch,IH,黑卫之影,获得2战力. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,community
+Soul Gem - Spike Vixen,IH,尖刺雌狐,获得1战力. 抽一张牌.,,community
+Soul Gem - Void Initiate,IH,虚空新兵,获得1符文. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,community
+Energy Shard Start,RoV,能量碎片,获得1E. 抽一张牌.,,community
+Energy Shard,RoV,能量碎片,获得1E. 抽一张牌.,,community
 Militia RoV,RoV,民兵,获得1战力。,,official-anshashen+variant
 Apprentice RoV,RoV,学徒,获得1符文。,,official-anshashen+variant
 Mystic RoV,RoV,秘教士,获得2符文。,,official-anshashen+variant
 Heavy Infantry RoV,RoV,重装步兵,获得2战力。,,official-anshashen+variant
 Cultist RoV,RoV,邪教徒,奖励：获得1荣誉。,,official-anshashen+variant
 Monastic Tutor,RoV,寺院导师,"获取一个秘教士或 重装步兵无需支付费用.
-ENERGIZE 1E: 放置所获取的卡牌置入你的手牌.",,machine
-Monk of the Lidless Eye,RoV,无目之眼僧侣,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
+充能 1E: 放置所获取的卡牌置入你的手牌.",,community
+Monk of the Lidless Eye,RoV,无目之眼僧侣,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,community
 "Oziah, Judge of Logos",RoV,逻各斯审判者奥齐亚,"当此 为在中央牌列, 你可以获取此 无需支付费用若 你拥有已获得 7E或更高本回合.
-击败所有怪物在中央牌列无需支付费用.",,machine
-Reality Sculptor,RoV,现实塑造者,复制效果的 英雄打出过本回合以 费用 3符文或更低.,,machine
+击败所有怪物在中央牌列无需支付费用.",,community
+Reality Sculptor,RoV,现实塑造者,复制效果的 英雄打出过本回合以 费用 3符文或更低.,,community
 Righteous Templar,RoV,正义圣殿武士,"击败一个怪物费用为4战力或更低无需支付费用.
-ENERGIZE 3E: 改为， 击败任意怪物无需支付费用.",,machine
-Tablet of the Dreamer,RoV,石板梦者,"ENERGIZE 4E: 一次本回合, 获取或 击败任意卡牌在中央牌列无需支付费用.",,machine
+充能 3E: 改为， 击败任意怪物无需支付费用.",,community
+Tablet of the Dreamer,RoV,石板梦者,"充能 4E: 一次本回合, 获取或 击败任意卡牌在中央牌列无需支付费用.",,community
 Temporal Eye,RoV,时光之眼,"当此牌进入战场时, 抽一张牌.
-你可以放逐此牌和 另一时光之眼你控制的以 拿取额外回合.",,machine
-Truth Seeker,RoV,真理追寻者,"抽一张牌. 你可以放逐一张卡牌在中央牌列. 若下一卡牌以 进入中央牌列为 宝藏, 获取它.",,machine
+你可以放逐此牌和 另一时光之眼你控制的以 拿取额外回合.",,community
+Truth Seeker,RoV,真理追寻者,"抽一张牌. 你可以放逐一张卡牌在中央牌列. 若下一卡牌以 进入中央牌列为 宝藏, 获取它.",,community
 "Ulu, Askara Prince",RoV,乌鲁·阿斯卡拉王子,"复制本回合打出的一张英雄的效果。 此效果不能是 被复制.
-ENERGIZE 2E: 复制所选效果额外的次.",,machine
-Beacon Shaman,RoV,信标萨满,"展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为宝藏, 获得3荣誉.",,machine
+充能 2E: 复制所选效果额外的次.",,community
+Beacon Shaman,RoV,信标萨满,"展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为宝藏, 获得3荣誉.",,community
 Leotan's Familiar,RoV,莱奥坦的使魔,"获得1符文.
-ENERGIZE 1E: 获得2荣誉.",,machine
+充能 1E: 获得2荣誉.",,community
 Lifebound Muse,RoV,生命缪斯,"获取一个英雄以 费用 4符文或更低无需支付费用.
-ENERGIZE 2E: 改为， 获取任意英雄无需支付费用.",,machine
-Loamspeaker Druid,RoV,沃土语者德鲁伊,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
+充能 2E: 改为， 获取任意英雄无需支付费用.",,community
+Loamspeaker Druid,RoV,沃土语者德鲁伊,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,community
 Ogo Demontrap,RoV,奥戈捕魔阱,"每回合一次，获得1战力.
-ENERGIZE 4E: 一次本回合, 获得3荣誉.",,machine
+充能 4E: 一次本回合, 获得3荣誉.",,community
 "Oras, the Redeemer",RoV,奥拉斯·救赎者,"获得4符文.
-每位次 你获取一个英雄从中央牌列本回合, 获得荣誉相等以 其荣誉值.",,machine
+每位次 你获取一个英雄从中央牌列本回合, 获得荣誉相等以 其荣誉值.",,community
 Runic Honiskrot,RoV,符文霍尼斯克洛特,"获得2符文.
-ENERGIZE 3E: 获得2战力.",,machine
+充能 3E: 获得2战力.",,community
 Starcaller Leotan,RoV,唤星者莱奥坦,"获得4荣誉.
-充能： 获得额外的 1荣誉以 每个 1E你拥有已获得本回合.",,machine
-Wildcall Staff,RoV,野性呼唤法杖,每回合一次，你支付 2符文更低以 获取卡牌以 宝藏其下它.,,machine
+充能： 获得额外的 1荣誉以 每个 1E你拥有已获得本回合.",,community
+Wildcall Staff,RoV,野性呼唤法杖,每回合一次，你支付 2符文更低以 获取卡牌以 宝藏其下它.,,community
 Cognition Courier,RoV,认知信使,"获得2符文.
-充能： 你支付 1符文更低下次你获取神器本回合以 每个 1E你拥有已获得本回合.",,machine
-Foresight Monacle,RoV,预见单片镜,"ENERGIZE 4E: 一次本回合, 获得1符文以 每个机械神器你控制的.",,machine
+充能： 你支付 1符文更低下次你获取神器本回合以 每个 1E你拥有已获得本回合.",,community
+Foresight Monacle,RoV,预见单片镜,"充能 4E: 一次本回合, 获得1符文以 每个机械神器你控制的.",,community
 Magnet Monk,RoV,磁僧侣,"获得2战力.
-获得1E以每个派系在你控制的神器之中.",,machine
-Omnicron,RoV,全时者,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
+获得1E以每个派系在你控制的神器之中.",,community
+Omnicron,RoV,全时者,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,community
 Portabillet,RoV,便携弹,"每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌.
-ENERGIZE 5E: 一次本回合, 抽一张牌.",,machine
-Prototype CH32,RoV,原型CH32,"ENERGIZE 1E: 一次本回合, 当你 获取机械神器, 你可以将其直接进入战场.",,machine
-Reactor Shrine,RoV,反应堆神龛,"ENERGIZE 2E: 一次本回合, 获得1荣誉以 每个机械神器你控制的.",,machine
-Skyrocket Drone,RoV,冲天无人机,获得1符文和 额外的 1符文若 你控制的神器.,,machine
-Zeta Arsenal,RoV,泽塔武库,"ENERGIZE 3E: 一次本回合, 获得1战力以 每个机械神器你控制的.",,machine
+充能 5E: 一次本回合, 抽一张牌.",,community
+Prototype CH32,RoV,原型CH32,"充能 1E: 一次本回合, 当你 获取机械神器, 你可以将其直接进入战场.",,community
+Reactor Shrine,RoV,反应堆神龛,"充能 2E: 一次本回合, 获得1荣誉以 每个机械神器你控制的.",,community
+Skyrocket Drone,RoV,冲天无人机,获得1符文和 额外的 1符文若 你控制的神器.,,community
+Zeta Arsenal,RoV,泽塔武库,"充能 3E: 一次本回合, 获得1战力以 每个机械神器你控制的.",,community
 Blackwatch Vanquisher,RoV,黑卫征服者,"获得2战力.
-ENERGIZE 3E: 获得额外的 2战力.",,machine
+充能 3E: 获得额外的 2战力.",,community
 Darkwalker,RoV,暗行者,"获得2战力.
-ENERGIZE 1E: 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+充能 1E: 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Illiya the Demonborn,RoV,伊利亚魔生,"获得4战力.
-充能： 获得额外的 1战力以 每个 1E你拥有已获得本回合.",,machine
+充能： 获得额外的 1战力以 每个 1E你拥有已获得本回合.",,community
 Nyxian Spiritcaster,RoV,尼克斯魂咏者,"获得3E.
-抽一张牌.",,machine
-Spirit Merchant,RoV,精魂商人,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,machine
-Tome of Erabus,RoV,典籍埃拉布斯,每回合一次，获得1E.,,machine
+抽一张牌.",,community
+Spirit Merchant,RoV,精魂商人,"天命： 当此牌进入中央牌列时, 以每个宝藏其下此,",,community
+Tome of Erabus,RoV,典籍埃拉布斯,每回合一次，获得1E.,,community
 Treasure Hunter,RoV,宝藏猎手,"获得2战力.
-你可以支付 1战力更低下次你击败一个怪物以 宝藏其下它 本回合.",,machine
+你可以支付 1战力更低下次你击败一个怪物以 宝藏其下它 本回合.",,community
 Voidfeeder,RoV,饲虚者,"每回合一次，获得1战力.
-ENERGIZE 2E: 一次本回合, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+充能 2E: 一次本回合, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Deviant Fiend,RoV,畸变邪魔,"奖励： 获得3荣誉.
-充能： 获得额外的 1荣誉以 每个 1E你拥有已获得本回合.",,machine
+充能： 获得额外的 1荣誉以 每个 1E你拥有已获得本回合.",,community
 Firestorm Effigy,RoV,火暴偶像,"奖励： 获得3荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.
-ENERGIZE 1E: 你可以放逐额外的卡牌在你的手牌或弃牌堆.",,machine
+充能 1E: 你可以放逐额外的卡牌在你的手牌或弃牌堆.",,community
 Herald of Doom,RoV,先驱末日,"奖励： 获得6荣誉. 获取或 击败卡牌在中央牌列无需支付费用.
-ENERGIZE 7E: 改为， 获取和 击败所有卡牌在中央牌列无需支付费用.",,machine
-Lagoon Troll,RoV,潟湖巨魔,奖励： 获得2荣誉. 抽一张牌.,,machine
-Mordant Widow,RoV,蚀骨寡妇,"奖励： 获得4荣誉. 以每位对手, 你选择和 摧毁一个神器其控制的.",,machine
-Protean Sea Slug,RoV,多变海蛞蝓,奖励： 获得5荣誉. 每位对手摧毁所有神器s其控制的.,,machine
+充能 7E: 改为， 获取和 击败所有卡牌在中央牌列无需支付费用.",,community
+Lagoon Troll,RoV,潟湖巨魔,奖励： 获得2荣誉. 抽一张牌.,,community
+Mordant Widow,RoV,蚀骨寡妇,"奖励： 获得4荣誉. 以每位对手, 你选择和 摧毁一个神器其控制的.",,community
+Protean Sea Slug,RoV,多变海蛞蝓,奖励： 获得5荣誉. 每位对手摧毁所有神器s其控制的.,,community
 Raging Ursine,RoV,暴怒熊,"奖励： 获得3荣誉.
-ENERGIZE 2E: 获得2符文.",,machine
-Serpent Siren,RoV,巨蛇海妖,奖励： 获得1荣誉.,,machine
-"Terrus, Paragon of Strife",RoV,特鲁斯·争斗典范,奖励： 获得5荣誉. 每位对手弃掉随机卡牌从其手牌. 你可以选择卡牌已弃掉以此方式和 将它放置在你的手牌中.,,machine
+充能 2E: 获得2符文.",,community
+Serpent Siren,RoV,巨蛇海妖,奖励： 获得1荣誉.,,community
+"Terrus, Paragon of Strife",RoV,特鲁斯·争斗典范,奖励： 获得5荣誉. 每位对手弃掉随机卡牌从其手牌. 你可以选择卡牌已弃掉以此方式和 将它放置在你的手牌中.,,community
 Twisted Tyrant,RoV,扭曲暴君,"奖励： 获得6荣誉.
-ENERGIZE 3E: 抽三张牌.",,machine
-Vault Sphinx,RoV,宝库狮身人面,奖励： 获得2荣誉.,,machine
-Dark Energy Shard,DU,黑暗能量碎片,天命： 每位玩家可以放逐一张卡牌在 其弃牌堆.,,machine
+充能 3E: 抽三张牌.",,community
+Vault Sphinx,RoV,宝库狮身人面,奖励： 获得2荣誉.,,community
+Dark Energy Shard,DU,黑暗能量碎片,天命： 每位玩家可以放逐一张卡牌在 其弃牌堆.,,community
 Anointed Askara,DU,涂油阿斯卡拉,"抽一张牌.
-一次本回合, 当你 获取一个英雄或 神器从中央牌列, 将它放置置入你的手牌.",,machine
-Arha Mentor,DU,亚哈导师,"ENERGIZE 2E: 抽一张牌.
-你可以放逐一张卡牌从你的手牌. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置置入你的手牌.",,machine
-Shardfinder Compass,DU,寻晶者罗盘,你可以放逐此牌以 获取所有的 宝藏s在中央牌列.,,machine
-Valiant Ascetic,DU,勇毅苦行僧,你可以放逐此牌以 击败一个怪物以 费用 5战力或更低无需支付费用.,,machine
+一次本回合, 当你 获取一个英雄或 神器从中央牌列, 将它放置置入你的手牌.",,community
+Arha Mentor,DU,亚哈导师,"充能 2E: 抽一张牌.
+你可以放逐一张卡牌从你的手牌. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置置入你的手牌.",,community
+Shardfinder Compass,DU,寻晶者罗盘,你可以放逐此牌以 获取所有的 宝藏s在中央牌列.,,community
+Valiant Ascetic,DU,勇毅苦行僧,你可以放逐此牌以 击败一个怪物以 费用 5战力或更低无需支付费用.,,community
 "Veya, Handmaiden of Logos",DU,维雅·逻各斯侍女,"选择一项： 获取一个英雄以 费用 6符文或更低无需支付费用, 或击败一个怪物以 费用 6战力或更低无需支付费用.
-ENERGIZE 2E: 改为， 你可以选择两者.",,machine
-Gemcatcher Spirit,DU,捕晶者精魂,"ENERGIZE 2E: 将此牌转化为异界向导. (忽略此牌的其余卡牌之效果.)
-抽一张牌.",,machine
-Otherworldly Guide,DU,异界向导,抽两张牌.,,machine
-"Toric, Devoted Disciple",DU,托里克·虔诚门徒,"ENERGIZE 4E: 将此牌转化为托里克, 飞升者. (忽略此牌的其余卡牌之效果.)
-复制效果的 英雄在中央牌列.",,machine
-"Toric, Ascendant",DU,托里克·飞升者,获取一个英雄无需支付费用和 将它放置置入你的手牌.,,machine
+充能 2E: 改为， 你可以选择两者.",,community
+Gemcatcher Spirit,DU,捕晶者精魂,"充能 2E: 将此牌转化为异界向导. (忽略此牌的其余卡牌之效果.)
+抽一张牌.",,community
+Otherworldly Guide,DU,异界向导,抽两张牌.,,community
+"Toric, Devoted Disciple",DU,托里克·虔诚门徒,"充能 4E: 将此牌转化为托里克, 飞升者. (忽略此牌的其余卡牌之效果.)
+复制效果的 英雄在中央牌列.",,community
+"Toric, Ascendant",DU,托里克·飞升者,获取一个英雄无需支付费用和 将它放置置入你的手牌.,,community
 Dendris the Gladewyrm,DU,登德里斯林间巨虫,"获得2符文, 2战力, 和 2荣誉.
-ENERGIZE 3E: 获得额外的 2符文, 2战力, 和 2荣誉.",,machine
-Gem-Eater Leprechaun,DU,噬晶小矮妖,获得2符文和 2E.,,machine
-"Moken, the Huntmaster",DU,莫肯·猎主,"获得5荣誉.
-At结束时游戏, 莫肯, 猎主之荣誉值 为相等以 数量为宝藏卡牌在 你的牌库.",,machine
-Mosaic Horn,DU,镶嵌号角,"ENERGIZE 2E: 一次本回合, 获得2符文.",,machine
+充能 3E: 获得额外的 2符文, 2战力, 和 2荣誉.",,community
+Gem-Eater Leprechaun,DU,噬晶小矮妖,获得2符文和 2E.,,community
+"Moken, the Huntmaster",DU,莫肯·猎主,"获得5荣誉。
+游戏结束时，此牌的荣誉值等于你牌库中宝藏牌的数量。",,community
+Mosaic Horn,DU,镶嵌号角,"充能 2E: 一次本回合, 获得2符文.",,community
 Raven Siren,DU,乌鸦海妖,"获得1符文.
-充能： 你支付 1符文更低以 每个 1E你拥有已获得本回合下次你获取一个英雄本回合.",,machine
-Honiskrot Tribesman,DU,霍尼斯克洛特部族人,"ENERGIZE 2E: 将此牌转化为霍尼斯克洛特酋长. (忽略此牌的其余卡牌之效果.)
-获得1符文.",,machine
-Honiskrot Chieftain,DU,霍尼斯克洛特酋长,获得3符文.,,machine
-"Jakeb, Cobra Shaman",DU,杰克布·眼镜蛇萨满,"ENERGIZE 4E: 将此牌转化为杰克布, 眼镜蛇王. (忽略此牌的其余卡牌之效果.)
-获得3荣誉.",,machine
+充能： 你支付 1符文更低以 每个 1E你拥有已获得本回合下次你获取一个英雄本回合.",,community
+Honiskrot Tribesman,DU,霍尼斯克洛特部族人,"充能 2E: 将此牌转化为霍尼斯克洛特酋长. (忽略此牌的其余卡牌之效果.)
+获得1符文.",,community
+Honiskrot Chieftain,DU,霍尼斯克洛特酋长,获得3符文.,,community
+"Jakeb, Cobra Shaman",DU,杰克布·眼镜蛇萨满,"充能 4E: 将此牌转化为杰克布, 眼镜蛇王. (忽略此牌的其余卡牌之效果.)
+获得3荣誉.",,community
 "Jakeb, Cobra King",DU,杰克布·眼镜蛇王,"获得6荣誉.
-当你 获得荣誉从 另一卡牌本回合, 获得两次该 等量的荣誉改为.",,machine
-Charging Chamber,DU,充能室,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1E.",,machine
+当你 获得荣誉从 另一卡牌本回合, 获得两次该 等量的荣誉改为.",,community
+Charging Chamber,DU,充能室,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1E.",,community
 Crystalline Monk,DU,水晶僧侣,"获得2符文.
-你可以move宝藏从 其下卡牌在中央牌列以 另一卡牌在中央牌列.",,machine
-Hedron Dredger,DU,多面体挖掘者,"每回合一次，若你控制的三 或更高机械神器, 你可以充能神器你控制的.",,machine
-Replication Drone,DU,复制无人机,你为 视为以 控制额外的机械神器.,,machine
-Scrap Scrabbler,DU,废料翻捡者,"ENERGIZE 2E: 将此牌转化为翻捡小队. (忽略此牌的其余卡牌之效果.)
-获得1符文和 1战力.",,machine
-Scrabbling Squad,DU,翻捡小队,获得2符文和 2战力.,,machine
-Yolothian Monolith,DU,约洛斯巨石,"ENERGIZE 4E: 将此牌转化为约洛克瑞克斯, 守卫和 将它放置置入你的手牌.",,machine
+你可以移动宝藏从 其下卡牌在中央牌列以 另一卡牌在中央牌列.",,community
+Hedron Dredger,DU,多面体挖掘者,"每回合一次，若你控制的三 或更高机械神器, 你可以充能神器你控制的.",,community
+Replication Drone,DU,复制无人机,你为 视为以 控制额外的机械神器.,,community
+Scrap Scrabbler,DU,废料翻捡者,"充能 2E: 将此牌转化为翻捡小队. (忽略此牌的其余卡牌之效果.)
+获得1符文和 1战力.",,community
+Scrabbling Squad,DU,翻捡小队,获得2符文和 2战力.,,community
+Yolothian Monolith,DU,约洛斯巨石,"充能 4E: 将此牌转化为约洛克瑞克斯, 守卫和 将它放置置入你的手牌.",,community
 "Yolocryx, the Guardian",DU,约洛克瑞克斯·守卫,"获得5战力和 额外的 1战力以 每个机械神器你控制的.
-当你 打出机械神器, 你可以将此牌返回从 你的弃牌堆以 你的手牌.",,machine
+当你 打出机械神器, 你可以将此牌返回从 你的弃牌堆以 你的手牌.",,community
 Arbiter of the Lost,DU,仲裁者迷失,"获得2E.
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Nightmare Sentinel,DU,梦魇哨卫,"获得2战力.
-下次你击败一个怪物在中央牌列本回合, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Nyxian Ritualist,DU,尼克斯祭仪师,获得3战力和 3E.,,machine
-Riftwalker's Axe,DU,裂隙行者的斧,"ENERGIZE 2E: 一次本回合, 获得2战力.",,machine
-Voidsworn Warrior,DU,誓虚战士,"ENERGIZE 2E: 将此牌转化为誓虚冠军. (忽略此牌的其余卡牌之效果.)
-获得1战力.",,machine
-Voidsworn Champion,DU,誓虚冠军,获得4战力.,,machine
-Azerax of the Black Watch,DU,阿泽拉克斯黑卫,"ENERGIZE 4E: 将此牌转化为阿泽拉克斯, 尼克斯的天选者. (忽略此牌的其余卡牌之效果.)
+下次你击败一个怪物在中央牌列本回合, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
+Nyxian Ritualist,DU,尼克斯祭仪师,获得3战力和 3E.,,community
+Riftwalker's Axe,DU,裂隙行者的斧,"充能 2E: 一次本回合, 获得2战力.",,community
+Voidsworn Warrior,DU,誓虚战士,"充能 2E: 将此牌转化为誓虚冠军. (忽略此牌的其余卡牌之效果.)
+获得1战力.",,community
+Voidsworn Champion,DU,誓虚冠军,获得4战力.,,community
+Azerax of the Black Watch,DU,阿泽拉克斯黑卫,"充能 4E: 将此牌转化为阿泽拉克斯, 尼克斯的天选者. (忽略此牌的其余卡牌之效果.)
 获得4战力.
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 "Azerax, Nyx's Chosen",DU,阿泽拉克斯·尼克斯的天选者,"获得6战力.
-你可以放逐任意数量的 卡牌在你的手牌中和/或弃牌堆.",,machine
+你可以放逐任意数量的 卡牌在你的手牌中和/或弃牌堆.",,community
 Cacklecast Wretch,DU,狂笑施法可怜虫,"若你 拥有已获得 4E或更高本回合, 你可以击败此 无需支付费用.
-奖励： 获得4荣誉.",,machine
+奖励： 获得4荣誉.",,community
 Oxipede,DU,牛蜈,"奖励： 获得2荣誉.
-ENERGIZE 2E: 获得2荣誉.",,machine
-Phasefiend,DU,相位邪魔,奖励： 获得1荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,machine
+充能 2E: 获得2荣誉.",,community
+Phasefiend,DU,相位邪魔,奖励： 获得1荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.,,community
 Plunder Devil,DU,掠夺恶魔,"奖励： 获得5荣誉. 你可以获取一个英雄或 神器以 费用 3符文或更低无需支付费用.
-ENERGIZE 2E: 改为， 你可以获取一个英雄或 神器以 费用 6符文或更低无需支付费用.",,machine
-Smoke Tyrant,DU,烟雾暴君,奖励： 获得4荣誉. 放逐顶部七张卡牌的 传送门牌库.,,machine
-Vault Lich,DU,宝库巫妖,"天命： 当此牌进入中央牌列时, 放逐每个卡牌在中央牌列以 宝藏其下它.",,machine
-Webclaw,DU,网爪,"奖励： 获得3荣誉. 每位对手以 三或更高神器s在打出desroys神器其控制的.
-ENERGIZE 3E: 改为， 每位对手摧毁神器其控制的.",,machine
+充能 2E: 改为， 你可以获取一个英雄或 神器以 费用 6符文或更低无需支付费用.",,community
+Smoke Tyrant,DU,烟雾暴君,奖励： 获得4荣誉. 放逐顶部七张卡牌的 中央牌库.,,community
+Vault Lich,DU,宝库巫妖,"天命： 当此牌进入中央牌列时, 放逐每个卡牌在中央牌列以 宝藏其下它.",,community
+Webclaw,DU,网爪,"奖励： 获得3荣誉. 每位对手以 三或更高神器s在打出摧毁神器其控制的.
+充能 3E: 改为， 每位对手摧毁神器其控制的.",,community
 "Erabus, the Exiled",DU,埃拉布斯·流放者,"若你打出过黑暗能量碎片本回合, 你支付 2战力更低以 击败此.
-奖励： 将此牌转化为埃拉布斯, 之子的 尼克斯和 将它放置置入你的手牌.",,machine
-"Erabus, Son of Nyx",DU,埃拉布斯·之子尼克斯,击败一个怪物在 虚空区无需支付费用和 将它放置置于其底： 传送门牌库.,,machine
+奖励： 将此牌转化为埃拉布斯, 之子的 尼克斯和 将它放置置入你的手牌.",,community
+"Erabus, Son of Nyx",DU,埃拉布斯·之子尼克斯,击败一个怪物在 虚空区无需支付费用和 将它放置置于其底： 中央牌库.,,community
 Militia RU,RU,民兵,获得1战力。,,official-anshashen+variant
 Apprentice RU,RU,学徒,获得1符文。,,official-anshashen+variant
 Mystic RU,RU,秘教士,获得2符文。,,official-anshashen+variant
 Heavy Infantry RU,RU,重装步兵,获得2战力。,,official-anshashen+variant
 Cultist RU,RU,邪教徒,奖励：获得1荣誉。,,official-anshashen+variant
-"Dhartha, the Eternal",RU,达萨·永恒,"展示传送门牌库顶的卡牌. 获取或 击败该 卡牌无需支付费用.
-多重联合： 你可以重复此.",,machine
-Journeyman Outrider,RU,旅者先驱骑手,获取一个英雄或 神器以 费用 5符文或更低无需支付费用.,,machine
+"Dhartha, the Eternal",RU,达萨·永恒,"展示中央牌库顶的卡牌. 获取或 击败该 卡牌无需支付费用.
+多重联合： 你可以重复此.",,community
+Journeyman Outrider,RU,旅者先驱骑手,获取一个英雄或 神器以 费用 5符文或更低无需支付费用.,,community
 Neophyte Mentor,RU,新入门者导师,"抽一张牌.
- 下一秘教士或 重装步兵你 打出本回合视为作为派系的 你的choice.",,machine
+下一秘教士或 重装步兵你 打出本回合视为作为派系的 你的选择.",,community
 Sage of Lucid Dreams,,贤者清明诸梦,"一次本回合, 放逐一张卡牌在你的手牌中. 若你如此做，获取一个英雄以H值至多一 超过该 的被放逐卡牌和 将它放置在你的手牌中.
-多重联合： 你可以重复此.",,machine
+多重联合： 你可以重复此.",,community
 Oziah's Familiar,RU,奥齐亚的使魔,"击败一个怪物以 费用 4战力或更低无需支付费用.
-多重联合： 重复此效果.",,machine
-Scryer of the Lidless Eye,RU,无目之眼占卜者,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 圣贤, 返回它 以你的手牌.",,machine
+多重联合： 重复此效果.",,community
+Scryer of the Lidless Eye,RU,无目之眼占卜者,"抽两 卡牌, 然后弃掉卡牌. 若已弃掉卡牌为 圣贤, 返回它 以你的手牌.",,community
 Disciple of Oziah,RU,之徒·奥齐亚,"当此 为在你的手牌中, 若你 拥有打出过另一圣贤英雄本回合, 将此牌转化为后裔· 奥齐亚.
-击败一个怪物以 费用 3战力或更低无需支付费用.",,machine
-Scion of Oziah,RU,后裔·奥齐亚,击败一个怪物以 费用 5战力或更低无需支付费用.,,machine
+击败一个怪物以 费用 3战力或更低无需支付费用.",,community
+Scion of Oziah,RU,后裔·奥齐亚,击败一个怪物以 费用 5战力或更低无需支付费用.,,community
 "Vir, Ascetic Master",RU,维尔·苦行僧大师,"当此 为在你的手牌中, 若你 拥有打出过英雄的 每个派系本回合, 将此牌转化为维尔, 昙花古鲁.
-获取一个英雄在中央牌列无需支付费用和 将它放置在你的手牌中.",,machine
-"Vir, Ephemeral Guru",RU,维尔·昙花古鲁,获取所有英雄在中央牌列无需支付费用和 放置它们在你的手牌中.,,machine
-Forgotten Scripture,RU,遗忘经文,"若你打出过两 的更多圣贤英雄本回合, 将此牌转化为真言的 真正视界.",,machine
-Mantra of True Sight,RU,真言真正视界,每回合一次，你可以抽一张牌.,,machine
+获取一个英雄在中央牌列无需支付费用和 将它放置在你的手牌中.",,community
+"Vir, Ephemeral Guru",RU,维尔·昙花古鲁,获取所有英雄在中央牌列无需支付费用和 放置它们在你的手牌中.,,community
+Forgotten Scripture,RU,遗忘经文,"若你打出过两 的更多圣贤英雄本回合, 将此牌转化为真言的 真正视界.",,community
+Mantra of True Sight,RU,真言真正视界,每回合一次，你可以抽一张牌.,,community
 Animus of the Wild,RU,魂魄荒野,"获得2符文.
-你支付 1符文更低下次你获取一个英雄本回合.",,machine
+你支付 1符文更低下次你获取一个英雄本回合.",,community
 "Cetra, Matron of Stars",RU,星辰主母塞特拉,"一次本回合, 获取一个英雄无需支付费用. 将它放置放到你的牌库顶.
-多重联合： 你可以重复此.",,machine
+多重联合： 你可以重复此.",,community
 Everbloom Clique,RU,永绽小圈子,"获得2荣誉.
-多重联合： 获得1荣誉.",,machine
+多重联合： 获得1荣誉.",,community
 Snapdragon Witch,RU,金鱼草女巫,"获得1荣誉.
 抽一张牌.
-若你 拥有更多H于每个其他玩家, 抽额外的卡牌.",,machine
+若你 拥有更多H于每个其他玩家, 抽额外的卡牌.",,community
 Wolf Shaman RU,RU,狼萨满,获得1符文。抽一张牌。,,official-anshashen+variant
 Disciple of Cetra,RU,之徒·塞特拉,"当此 为在你的手牌中, 若你 拥有打出过另一命约英雄本回合, 将此牌转化为后裔· 塞特拉.
-获得1符文和 1荣誉.",,machine
-Scion of Cetra,RU,后裔·塞特拉,获得2符文和 2荣誉.,,machine
+获得1符文和 1荣誉.",,community
+Scion of Cetra,RU,后裔·塞特拉,获得2符文和 2荣誉.,,community
 "Remus, Pack Guardian",RU,雷穆斯·兽群守卫,"当此 为在你的手牌中, 若你 拥有已获得 3荣誉或更高本回合, 将此牌转化为雷穆斯, 荒野使者.
-获得3符文.",,machine
+获得3符文.",,community
 "Remus, Wild Emissary",RU,雷穆斯·荒野使者,"获得3符文.
-你可以花费R作为穿过它 曾是P本回合.",,machine
-Druid's Wreath,RU,德鲁伊花环,"若你打出过两 或更高命约英雄本回合, 将此牌转化为翠绿冠冕.",,machine
-Verdant Crown,RU,翠绿冠冕,每回合一次，获得2荣誉.,,machine
-Air Support Squadron,RU,空中支援中队,"每回合一次，当你 获取机械卡牌, 你可以将它放置在你的手牌中.",,machine
-Defense Generator,RU,防御发生器,"每回合一次，当你 获取机械卡牌, 获得2战力.",,machine
-Hedron Watchtower,RU,多面体瞭望塔,"每回合一次，当你 获取机械卡牌, 获得H相等以 该卡牌之H值.",,machine
+你可以花费R作为穿过它 曾是P本回合.",,community
+Druid's Wreath,RU,德鲁伊花环,"若你打出过两 或更高命约英雄本回合, 将此牌转化为翠绿冠冕.",,community
+Verdant Crown,RU,翠绿冠冕,每回合一次，获得2荣誉.,,community
+Air Support Squadron,RU,空中支援中队,"每回合一次，当你 获取机械卡牌, 你可以将它放置在你的手牌中.",,community
+Defense Generator,RU,防御发生器,"每回合一次，当你 获取机械卡牌, 获得2战力.",,community
+Hedron Watchtower,RU,多面体瞭望塔,"每回合一次，当你 获取机械卡牌, 获得H相等以 该卡牌之H值.",,community
 Matron of Discovery,RU,发现主母,"获得2符文.
-多重联合： 获得1符文.",,machine
-Upgrade Foundry,RU,升级铸造厂,"每回合一次，当你 获取机械卡牌, 抽两张牌.",,machine
-Workshop Gargoyle,RU,工坊石像鬼,"每回合一次，当你 获取机械卡牌, 获得1荣誉.",,machine
+多重联合： 获得1符文.",,community
+Upgrade Foundry,RU,升级铸造厂,"每回合一次，当你 获取机械卡牌, 抽两张牌.",,community
+Workshop Gargoyle,RU,工坊石像鬼,"每回合一次，当你 获取机械卡牌, 获得1荣誉.",,community
 Disciple of Euloth,RU,之徒·尤洛斯,"当此 为在你的手牌中, 若你 拥有打出过另一机械英雄本回合, 将此牌转化为后裔· 尤洛斯.
-获得1符文和 1战力.",,machine
-Scion of Euloth,RU,后裔·尤洛斯,获得2符文和 2战力.,,machine
+获得1符文和 1战力.",,community
+Scion of Euloth,RU,后裔·尤洛斯,获得2符文和 2战力.,,community
 "Alset, Monk Prodigy",RU,阿尔塞特·僧侣神童,"当此 为在你的手牌中, 若你控制的 2 或更高神器s, 将此牌转化为阿尔塞特, 反应堆学者.
-获得3符文.",,machine
+获得3符文.",,community
 "Alset, Reactor Savant",RU,阿尔塞特·反应堆学者,"获得4符文.
-当你 获取神器本回合, 你可以将它放置进入战场.",,machine
-Secluded Laboratory,RU,隐秘实验室,"若你打出过两 或更高机械英雄, 将此牌转化为零 点反应堆.",,machine
-Zero Point Reactor,RU,零点反应堆,每回合一次，获得2符文.,,machine
+当你 获取神器本回合, 你可以将它放置进入战场.",,community
+Secluded Laboratory,RU,隐秘实验室,"若你打出过两 或更高机械英雄, 将此牌转化为零 点反应堆.",,community
+Zero Point Reactor,RU,零点反应堆,每回合一次，获得2符文.,,community
 Black Watch Exemplar,RU,黑卫典范,"获得3战力.
-多重联合： 你可以放逐一张卡牌在你的弃牌堆.",,machine
+多重联合： 你可以放逐一张卡牌在你的弃牌堆.",,community
 Deathdealer Noble,RU,死神贵族,"获得2战力.
-多重联合： 获得1战力.",,machine
+多重联合： 获得1战力.",,community
 Shadow Stalker,RU,暗影潜行者,"你可以放逐一张卡牌在你的弃牌堆.
-抽一张牌.",,machine
+抽一张牌.",,community
 Spike Vixen RU,RU,尖刺雌狐,获得1战力。抽一张牌。,,community+variant
 Disciple of Emri,RU,之徒·艾姆瑞,"当此 为在你的手牌中, 若你 拥有打出过另一虚空英雄本回合, 将此牌转化为后裔· 艾姆瑞.
 获得1战力.
-你可以放逐一张卡牌在你的弃牌堆.",,machine
+你可以放逐一张卡牌在你的弃牌堆.",,community
 Scion of Emri,RU,后裔·艾姆瑞,"获得3战力.
-你可以放逐一张卡牌在你的弃牌堆.",,machine
+你可以放逐一张卡牌在你的弃牌堆.",,community
 "Emri, the Unmaker",RU,解构者艾姆瑞,"当此 为在你的手牌中, 若那里为 8 或更高怪物在 虚空区, 将此牌转化为恶魔克星艾姆瑞.
-获得4战力.",,machine
+获得4战力.",,community
 "Emri, Demonsbane",RU,恶魔克星艾姆瑞,"获得5战力.
-此回合, 你可以击败怪物在 虚空区作为穿过他们处于在中央牌列. 放置怪物被击败以此方式置于其底： 传送门牌库.",,machine
-Initiate's Gauntlets,RU,新兵的护手,"若你打出过两 或更高虚空英雄本回合, 将此牌转化为黑暗之握.",,machine
-Clutch of Darkness,RU,黑暗之握,每回合一次，获得2战力.,,machine
+此回合, 你可以击败怪物在 虚空区作为穿过他们处于在中央牌列. 放置怪物被击败以此方式置于其底： 中央牌库.",,community
+Initiate's Gauntlets,RU,新兵的护手,"若你打出过两 或更高虚空英雄本回合, 将此牌转化为黑暗之握.",,community
+Clutch of Darkness,RU,黑暗之握,每回合一次，获得2战力.,,community
 Canon Templar,RU,圣典圣殿武士,"获得2符文.
-你可以击败一个怪物以P费用低于或 相等以R费用的 神器你控制的.",,machine
+你可以击败一个怪物以P费用低于或 相等以R费用的 神器你控制的.",,community
 Deathbound Druid,RU,缚死德鲁伊,"获得3荣誉.
-你可以放逐一张卡牌在你的弃牌堆.",,machine
+你可以放逐一张卡牌在你的弃牌堆.",,community
 Nightmare Delver,RU,梦魇深掘者,"获得2符文.
-若你控制的两 或更高神器s, 你可以放逐一张卡牌在你的弃牌堆.",,machine
+若你控制的两 或更高神器s, 你可以放逐一张卡牌在你的弃牌堆.",,community
 Timestream Seer,RU,时流预言者,"获得2符文.
-你可以放逐一张卡牌在中央牌列.",,machine
+你可以放逐一张卡牌在中央牌列.",,community
 Voidforged Paladin,RU,虚空锻圣骑士,"获得2战力.
- 首先次 你击败一个怪物在中央牌列本回合, 抽两张牌.",,machine
+首先次 你击败一个怪物在中央牌列本回合, 抽两张牌.",,community
 Wildgear Druid,RU,野性齿轮德鲁伊,"获得2符文.
-若你控制的两 或更高神器s, 获得2荣誉.",,machine
-Foundation Burrower,RU,根基钻地者,奖励： 获得1荣誉. 你可以放逐一张卡牌在中央牌列.,,machine
-Sadistic Giant,RU,虐杀巨人,奖励： 获得5荣誉.,,machine
-Sower of Betrayal,RU,播种者背叛,奖励： 获得3荣誉. 命名派系. 获得额外的 2荣誉以 每个英雄的 该派系你 拥有打出过本回合.,,machine
-Sower of Discontent,RU,播种者不满,奖励： 获得2荣誉. 命名派系. 获得额外的 1荣誉以 每个英雄的 该派系你 拥有打出过本回合.,,machine
-Terrorizing Fiend,RU,威吓邪魔,奖励： 获得2荣誉. 抽两张牌.,,machine
-Wailing Spectre,RU,哀嚎幽灵,奖励： 获得4荣誉. 你可以放逐至多两 卡牌在你的弃牌堆.,,machine
-Borderland Nihilist,RU,边地虚无者,奖励： 将此牌转化为边地佣兵和 获取它.,,machine
+若你控制的两 或更高神器s, 获得2荣誉.",,community
+Foundation Burrower,RU,根基钻地者,奖励： 获得1荣誉. 你可以放逐一张卡牌在中央牌列.,,community
+Sadistic Giant,RU,虐杀巨人,奖励： 获得5荣誉.,,community
+Sower of Betrayal,RU,播种者背叛,奖励： 获得3荣誉. 命名派系. 获得额外的 2荣誉以 每个英雄的 该派系你 拥有打出过本回合.,,community
+Sower of Discontent,RU,播种者不满,奖励： 获得2荣誉. 命名派系. 获得额外的 1荣誉以 每个英雄的 该派系你 拥有打出过本回合.,,community
+Terrorizing Fiend,RU,威吓邪魔,奖励： 获得2荣誉. 抽两张牌.,,community
+Wailing Spectre,RU,哀嚎幽灵,奖励： 获得4荣誉. 你可以放逐至多两 卡牌在你的弃牌堆.,,community
+Borderland Nihilist,RU,边地虚无者,奖励： 将此牌转化为边地佣兵和 获取它.,,community
 Borderland Mercenary,RU,边地佣兵,"抽一张牌.
-命名派系. 此英雄视为作为该 派系本回合.",,machine
-Adayu the Tormented,RU,阿达尤受折磨,奖励： 将此牌转化为阿达尤宁静和 获取它.,,machine
+命名派系. 此英雄视为作为该 派系本回合.",,community
+Adayu the Tormented,RU,阿达尤受折磨,奖励： 将此牌转化为阿达尤宁静和 获取它.,,community
 Adayu the Serene,RU,阿达尤宁静,"此英雄视为作为所有派系.
 获得1符文, 1战力和 1荣誉. 抽一张牌.
-多重联合： 获得1符文以 每个机械英雄, 1战力以 每个虚空英雄,1荣誉以 每个命约英雄, 和抽一张牌以 每个圣贤英雄你 打出或 拥有打出过本回合.",,machine
-Eye of Potential,,潜能之眼,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
-"Cetra, Benefactor of All",,万民之恩塞特拉,"从你开始, 和然后going在回合秩序, 每位玩家获取英雄无需支付费用. 英雄已获取以此方式为 放置在 顶部的 其拥有者' decks.",,machine
+多重联合： 获得1符文以 每个机械英雄, 1战力以 每个虚空英雄,1荣誉以 每个命约英雄, 和抽一张牌以 每个圣贤英雄你 打出或 拥有打出过本回合.",,community
+Eye of Potential,,潜能之眼,每回合一次，你可以放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,community
+"Cetra, Benefactor of All",,万民之恩塞特拉,从你开始，按回合顺序，每位玩家获取一张英雄且无需支付费用。以此法获取的英雄置于其拥有者的牌库顶。,,community
 Nyxian Corruptor,,尼克斯腐蚀者,"获得3战力.
-你可以花费R视为P本回合.",,machine
+你可以花费R视为P本回合.",,community
 Sadistic Laboratory,,虐杀实验室,"每回合一次，获得1战力.
-当你 击败一个怪物在 中央牌列, 放逐任意怪物其下此 和放置被击败怪物其下此. 你可以击败怪物其下此 视为在中央牌列. 若此 离开打出, 放逐任意monsters其下此.",,machine
+当你 击败一个怪物在 中央牌列, 放逐任意怪物其下此 和放置被击败怪物其下此. 你可以击败怪物其下此 视为在中央牌列. 若此 离开打出, 放逐任意怪物其下此.",,community
 Foul Replicant,,污秽复制体,"奖励： 获得4荣誉.
-ONGOING战利品： 每回合一次，选择神器你控制的. 此获得text的所选神器以 本回合.",,machine
-Dhartha,DoC,达萨,"+1: 每当你 获取或 击败圣贤卡牌从中央牌列, 获得1rep.",,machine
-"Dhartha, Master of Sight",DoC,达萨·大师视界,你可以放逐此牌或 卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,machine
-Nairi,DoC,奈莉,"+1: 每当你 获取或 击败生命卡牌从中央牌列, 获得1rep.",,machine
+持续战利品： 每回合一次，选择神器你控制的. 此获得文本的所选神器以 本回合.",,community
+Dhartha,DoC,达萨,"+1: 每当你 获取或 击败圣贤卡牌从中央牌列, 获得1声望.",,community
+"Dhartha, Master of Sight",DoC,达萨·大师视界,你可以放逐此牌或 卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用和 将它放置在你的手牌中.,,community
+Nairi,DoC,奈莉,"+1: 每当你 获取或 击败生命卡牌从中央牌列, 获得1声望.",,community
 "Nairi, Wild Queen",DoC,奈莉·荒野女王,"获得1荣誉. 抽一张牌.
-联合： 获得1荣誉. 抽一张牌.",,machine
-Kor,DoC,科尔,"+1: 每当你 获取或 击败机械卡牌从中央牌列, 获得1rep.",,machine
+联合： 获得1荣誉. 抽一张牌.",,community
+Kor,DoC,科尔,"+1: 每当你 获取或 击败机械卡牌从中央牌列, 获得1声望.",,community
 "Kor, the Ironmind",DoC,科尔·铁心,"获得2符文和 2战力.
-若你控制的两 或更高神器s, 抽一张牌.",,machine
-Sadranis,DoC,萨德拉尼斯,"+1: 每当你 获取或 击败虚空卡牌从中央牌列, 获得1rep.",,machine
-"Sadranis, Dark Savant",DoC,萨德拉尼斯·黑暗学者,"抽两张牌, 然后弃掉卡牌. 你可以放逐一张卡牌在你的弃牌堆.",,machine
+若你控制的两 或更高神器s, 抽一张牌.",,community
+Sadranis,DoC,萨德拉尼斯,"+1: 每当你 获取或 击败虚空卡牌从中央牌列, 获得1声望.",,community
+"Sadranis, Dark Savant",DoC,萨德拉尼斯·黑暗学者,"抽两张牌, 然后弃掉卡牌. 你可以放逐一张卡牌在你的弃牌堆.",,community
 Seer of Days Past,DoC,预言者往日过去,"当你 获取此, 集结: 圣贤.
-抽一张牌. 若你 拥有8rep或更高, 抽额外的卡牌.",,machine
-Daybreak Askara,DoC,破晓阿斯卡拉,"复制效果的 英雄打出本回合. 若英雄曾是圣贤, 复制该 英雄之效果额外的次. 此效果不能是 被复制.",,machine
+抽一张牌. 若你 拥有8声望或更高, 抽额外的卡牌.",,community
+Daybreak Askara,DoC,破晓阿斯卡拉,"复制效果的 英雄打出本回合. 若英雄曾是圣贤, 复制该 英雄之效果额外的次. 此效果不能是 被复制.",,community
 Austere Sage,DoC,严苛贤者,"抽一张牌.
-你可以放逐一张卡牌在中央牌列, 然后集结: 圣贤.",,machine
+你可以放逐一张卡牌在中央牌列, 然后集结: 圣贤.",,community
 Serene Ascetic,DoC,宁静苦行僧,"当你 获取此, 你可以将它放置放到你的牌库顶.
-抽两张牌.",,machine
-"Surya, Light's Sword",DoC,苏尔亚·光明的剑,"击败一个怪物在中央牌列无需支付费用.若它 费用 7战力或更高, 拿取额外回合在此之后.",,machine
-Mantra of Renewal,DoC,真言更新,"每回合一次，若你 拥有打出过两 或更高圣贤卡牌 (包括此牌一), 抽一张牌.",,machine
-Premonition Bell,DoC,预感钟,你可以摧毁此 以复制效果的 英雄在中央牌列以 费用 5符文或更低.,,machine
+抽两张牌.",,community
+"Surya, Light's Sword",DoC,苏尔亚·光明的剑,"击败一个怪物在中央牌列无需支付费用.若它 费用 7战力或更高, 拿取额外回合在此之后.",,community
+Mantra of Renewal,DoC,真言更新,"每回合一次，若你 拥有打出过两 或更高圣贤卡牌 (包括此牌一), 抽一张牌.",,community
+Premonition Bell,DoC,预感钟,你可以摧毁此 以复制效果的 英雄在中央牌列以 费用 5符文或更低.,,community
 Pack Leader,DoC,兽群首领,"当你 获取此, 集结: 生命.
 获得2符文.
-你可以花费R视为战力以 击败生命怪物本回合.",,machine
+你可以花费R视为战力以 击败生命怪物本回合.",,community
 Ogo Courier,DoC,奥戈信使,"获得2符文.
-下次你获取一个英雄在中央牌列, 集结: 生命.",,machine
-Moonveil Clique,DoC,月纱小圈子,"获得2符文.
-联合： At结束时回合, 放置此 在你的手牌中而非你的弃牌堆.",,machine
-Emissary of Dawn,DoC,使者黎明,获取一个英雄无需支付费用. 获得H相等以 其H值.,,machine
-Flytrap Staff,DoC,捕蝇草法杖,"每回合一次，若你 拥有打出过两 或更高生命卡牌 (包括此牌一), 获得2荣誉.",,machine
-Starlight Sanctum,DoC,星光圣所,"每回合一次，获得2符文.
-每回合一次，当你 获取一个英雄在中央牌列, 你可以获取一个英雄的 相等或更低er费用无需支付费用.",,machine
+下次你获取一个英雄在中央牌列, 集结: 生命.",,community
+Moonveil Clique,DoC,月纱小圈子,"获得2符文。
+联合：回合结束时，将此牌置于你的手牌而非弃牌堆。",,community
+Emissary of Dawn,DoC,使者黎明,获取一个英雄无需支付费用. 获得H相等以 其H值.,,community
+Flytrap Staff,DoC,捕蝇草法杖,"每回合一次，若你 拥有打出过两 或更高生命卡牌 (包括此牌一), 获得2荣誉.",,community
+Starlight Sanctum,DoC,星光圣所,"每回合一次，获得2符文。
+每回合一次，当你从中央牌列获取英雄时，你可以再获取一张费用等于或更低的英雄，无需支付费用。",,community
 Overhaul Cleric,DoC,大修神职者,"当你 获取此, 集结: 机械.
 获得2符文.
-若你控制的两 或更高神器s, 获得额外的 1符文.",,machine
+若你控制的两 或更高神器s, 获得额外的 1符文.",,community
 Prospector Scout,DoC,探矿者斥候,"获得2符文.
-下次你获取神器在中央牌列本回合, 集结: 机械.",,machine
+下次你获取神器在中央牌列本回合, 集结: 机械.",,community
 "Adam, Builder Adept",DoC,亚当·建造者能手,"当你 获取此, 你可以获取神器在中央牌列无需支付费用.
-获得4符文.",,machine
-Spark Bug,DoC,火花虫,"每回合一次，若你 拥有打出过两 或更高机械卡牌 (包括此牌一), 获得2符文.",,machine
-Gnome Repairbot,DoC,侏儒修理机,每回合一次，你可以放置机械神器从 你的弃牌堆放到你的牌库顶.,,machine
-Plasma Cannon,DoC,等离子加农,"每回合一次，若你控制的四 或更高机械神器, 你可以获取或 击败任意卡牌在中央牌列无需支付费用.",,machine
-Conversion Port,DoC,转化端口,你可以将所有神器s作为如同他们为 所有派系.,,machine
+获得4符文.",,community
+Spark Bug,DoC,火花虫,"每回合一次，若你 拥有打出过两 或更高机械卡牌 (包括此牌一), 获得2符文.",,community
+Gnome Repairbot,DoC,侏儒修理机,每回合一次，你可以放置机械神器从 你的弃牌堆放到你的牌库顶.,,community
+Plasma Cannon,DoC,等离子加农,"每回合一次，若你控制的四 或更高机械神器, 你可以获取或 击败任意卡牌在中央牌列无需支付费用.",,community
+Conversion Port,DoC,转化端口,你可以将所有神器s作为如同他们为 所有派系.,,community
 Emri's Sting,DoC,艾姆瑞的毒刺,"每回合一次，获得2战力.
-当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Undaunted Scout,DoC,无畏斥候,"当你 获取此, 集结: 虚空.
-获得2战力.",,machine
+获得2战力.",,community
 Maniacal Crusher,DoC,狂乱粉碎者,"获得2战力.
-下次你击败一个怪物在中央牌列本回合, 集结: 虚空.",,machine
-Riftgate Conjuror,DoC,裂隙门咒术师,"获得3战力.
-下次你击败虚空怪物本回合, 获得其reward额外的次.",,machine
-Shade's Bargain,DoC,暗影交易,"每回合一次，若你 拥有打出过两 或更高虚空卡牌 (包括此牌一), 获得2战力.",,machine
+下次你击败一个怪物在中央牌列本回合, 集结: 虚空.",,community
+Riftgate Conjuror,DoC,裂隙门咒术师,"获得3战力。
+本回合你下次击败虚空怪物时，额外再获得一次其奖励。",,community
+Shade's Bargain,DoC,暗影交易,"每回合一次，若你 拥有打出过两 或更高虚空卡牌 (包括此牌一), 获得2战力.",,community
 Morbid Hammer,DoC,病态锤,"每回合一次，获得1战力.
-当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Rootscryer,DoC,根卜者,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为圣贤或 生命, 获得3荣誉.",,machine
-Canopy Sanctuary,DoC,树冠圣所,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为圣贤或 生命, 获得3荣誉.",,machine
-Surge Protector,DoC,浪涌保护者,"选择一项： 获取一个神器以 费用 5符文或更低无需支付费用, 或击败一个怪物以 费用 5战力或更低无需支付费用.",,machine
-Library Familiar,DoC,图书馆使魔,"每回合一次，当你 打出圣贤神器或 机械神器 (包括此牌一), 抽一张牌.",,machine
-Guide of Lost Souls,DoC,迷途灵魂向导,你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,machine
+当此牌进入战场时, 你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
+Rootscryer,DoC,根卜者,"展示你牌库顶的卡牌和 将它放置置入你的手牌. 若它 为圣贤或 生命, 获得3荣誉.",,community
+Canopy Sanctuary,DoC,树冠圣所,"每回合一次，你可以展示你牌库顶的卡牌和 将它放置在你的手牌中. 若它 为圣贤或 生命, 获得3荣誉.",,community
+Surge Protector,DoC,浪涌保护者,"选择一项： 获取一个神器以 费用 5符文或更低无需支付费用, 或击败一个怪物以 费用 5战力或更低无需支付费用.",,community
+Library Familiar,DoC,图书馆使魔,"每回合一次，当你 打出圣贤神器或 机械神器 (包括此牌一), 抽一张牌.",,community
+Guide of Lost Souls,DoC,迷途灵魂向导,你可以放逐一张卡牌在你的手牌或弃牌堆. 若你如此做，将它替换以 秘教士或 重装步兵.,,community
 Riftdrake Rider,DoC,裂隙龙兽骑手,"抽两张牌.
-你可以放逐至多两 卡牌在你的手牌或弃牌堆.",,machine
+你可以放逐至多两 卡牌在你的手牌或弃牌堆.",,community
 Wildgear Sower,DoC,野性齿轮播种者,"获得2符文.
-获得1荣誉以 每个派系之中神器s你的控制. (派系为圣贤, 生命, 机械和 虚空).",,machine
-Genesis Capsule,DoC,创世舱,"每回合一次，当你 获取命约英雄或 机械神器, 你可以将它放置放到你的牌库顶.",,machine
+获得1荣誉以 每个派系之中神器s你的控制. (派系为圣贤, 生命, 机械和 虚空).",,community
+Genesis Capsule,DoC,创世舱,"每回合一次，当你 获取命约英雄或 机械神器, 你可以将它放置放到你的牌库顶.",,community
 Shepherd of the Lost,DoC,牧者迷失,"获得2符文.
-若此 为被放逐从你的手牌或 弃牌堆, 获得5荣誉.",,machine
+若此 为被放逐从你的手牌或 弃牌堆, 获得5荣誉.",,community
 Muse of Rebirth,DoC,缪斯重生,"获得2符文.
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Clockwork Sentry,DoC,发条哨兵,"获得2战力.
-若你控制的两 或更高神器s, 获得额外的 2战力.",,machine
+若你控制的两 或更高神器s, 获得额外的 2战力.",,community
 Riftwatch Turret,DoC,裂隙守望炮塔,"每回合一次，获得1战力.
-每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力.",,machine
+每回合一次，当你 打出机械神器 (包括此牌一), 获得1战力.",,community
 Corrupted Sage,DoC,腐化贤者,"奖励： 获得2荣誉. 抽一张牌.
-集结: 圣贤.",,machine
-Betrayed Templar,DoC,被弃圣殿武士,奖励： 获得5荣誉. 你可以击败一个怪物在中央牌列以 费用 5战力或更低无需支付费用.,,machine
+集结: 圣贤.",,community
+Betrayed Templar,DoC,被弃圣殿武士,奖励： 获得5荣誉. 你可以击败一个怪物在中央牌列以 费用 5战力或更低无需支付费用.,,community
 Thorned Charger,DoC,棘刺冲锋者,"奖励： 获得3荣誉. 你可以放置英雄从 你的弃牌堆放到你的牌库顶.
-集结: 生命.",,machine
-Cult of the False Circle,DoC,邪教虚假环,奖励： 获得5荣誉. 你可以获取一个英雄以 费用 5符文或更低无需支付费用.,,machine
+集结: 生命.",,community
+Cult of the False Circle,DoC,邪教虚假环,奖励： 获得5荣誉. 你可以获取一个英雄以 费用 5符文或更低无需支付费用.,,community
 Rejected Prototype,DoC,废弃原型,"奖励： 获得3荣誉. 你支付 3符文更低下次你获取神器本回合.
-集结: 机械.",,machine
-Exhaust Lurker,DoC,废气潜伏者,奖励： 获得5荣誉. 每位对手摧毁神器其控制的以 每个神器你控制的.,,machine
+集结: 机械.",,community
+Exhaust Lurker,DoC,废气潜伏者,奖励： 获得5荣誉. 每位对手摧毁神器其控制的以 每个神器你控制的.,,community
 Deathfinder,DoC,寻死者,"奖励： 获得2荣誉. 你可以放逐一张卡牌在你的手牌或弃牌堆.
-集结: 虚空.",,machine
-Wild Riftdrake,DoC,荒野裂隙龙兽,奖励： 获得4荣誉. 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.,,machine
+集结: 虚空.",,community
+Wild Riftdrake,DoC,荒野裂隙龙兽,奖励： 获得4荣誉. 你可以放逐至多两 卡牌从你的手牌或 弃牌堆.,,community
 "Aranyx, the Glutton",DoC,阿兰尼克斯·贪食者,"奖励： 获得4荣誉. 获得7战力.
-集结: 怪物.",,machine
-"Xeron, Lord of Deofol",DoC,泽伦·迪奥福尔之主,奖励： 获得6荣誉.,,machine
-Ephemeral Monk,DS,昙花僧侣,"抽 2 卡牌, 然后放逐此牌.",,machine
+集结: 怪物.",,community
+"Xeron, Lord of Deofol",DoC,泽伦·迪奥福尔之主,奖励： 获得6荣誉.,,community
+Ephemeral Monk,DS,昙花僧侣,"抽 2 卡牌, 然后放逐此牌.",,community
 Auspicious Askara,DS,吉兆阿斯卡拉,"抽一张牌.
-联合： 你可以放逐一张卡牌在中央牌列.",,machine
+联合： 你可以放逐一张卡牌在中央牌列.",,community
 Nocturnal Seer,DS,夜行预言者,"抽一张牌.
-你可以支付 1符文更低下次你获取梦生卡牌本回合.",,machine
-Arha Sensei DS,DS,亚哈导师,放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用. 加入它以 你的手牌.,,machine
+你可以支付 1符文更低下次你获取梦生卡牌本回合.",,community
+Arha Sensei DS,DS,亚哈导师,放逐一张卡牌在你的手牌中. 若你如此做，获取秘教士或 重装步兵无需支付费用. 加入它以 你的手牌.,,community
 Garden Attendant,DS,园丁侍从,"获得1洞察.
-抽一张牌.",,machine
-Templar Dragoon,DS,圣殿武士龙骑兵,"击败一个怪物以 费用 4 或更低无需支付费用, 或将一张卡牌加入你的梦境.",,machine
-Pasythea's Ward,DS,帕西提亚的守护,每回合一次，获得1洞察.,,machine
+抽一张牌.",,community
+Templar Dragoon,DS,圣殿武士龙骑兵,"击败一个怪物以 费用 4 或更低无需支付费用, 或将一张卡牌加入你的梦境.",,community
+Pasythea's Ward,DS,帕西提亚的守护,每回合一次，获得1洞察.,,community
 "Loa, Sleeping Dragon",DS,洛阿·沉睡龙,"获得3洞察.
-抽一张牌.",,machine
-Dreamshaper Jesse,DS,塑梦者杰西,获取顶部卡牌的 梦牌库无需支付费用.,,machine
+抽一张牌.",,community
+Dreamshaper Jesse,DS,塑梦者杰西,获取顶部卡牌的 梦牌库无需支付费用.,,community
 Unbound Emissary,DS,解缚使者,"你可以花费I视为R以获取此.
-获取或 击败任意卡牌在中央牌列或 你的梦境无需支付费用.",,machine
-Ephemeral Druid,DS,昙花德鲁伊,"获得5荣誉, 然后放逐此牌.",,machine
+获取或 击败任意卡牌在中央牌列或 你的梦境无需支付费用.",,community
+Ephemeral Druid,DS,昙花德鲁伊,"获得5荣誉, 然后放逐此牌.",,community
 Alluring Shaman,DS,魅惑萨满,"获得1符文.
-你可以支付 1洞察以 获得3荣誉.",,machine
+你可以支付 1洞察以 获得3荣誉.",,community
 Verdant Hatchling,DS,翠绿幼体,"获得2荣誉.
-联合： 获得2符文.",,machine
-Flytrap Fairy,DS,捕蝇草妖精,"获得1符文, 1荣誉, 和 1洞察.",,machine
-Dreamwillow Druids,DS,梦柳德鲁伊,选择一项： 获取一个英雄以 费用 5符文或更低无需支付费用; 或将一张卡牌加入你的梦境.,,machine
+联合： 获得2符文.",,community
+Flytrap Fairy,DS,捕蝇草妖精,"获得1符文, 1荣誉, 和 1洞察.",,community
+Dreamwillow Druids,DS,梦柳德鲁伊,选择一项： 获取一个英雄以 费用 5符文或更低无需支付费用; 或将一张卡牌加入你的梦境.,,community
 Lunar Pack,DS,月兽群,"获得2符文.
-联合： 获得2洞察.",,machine
+联合： 获得2洞察.",,community
 Dreamwillow,DS,梦柳,"每回合一次，获得1符文.
-每回合你首次打出命约英雄时, 获得1洞察.",,machine
+每回合你首次打出命约英雄时, 获得1洞察.",,community
 "Raka, Dreamtender",DS,拉卡·守梦者,"获得5荣誉.
-将一张卡牌加入你的梦境.",,machine
+将一张卡牌加入你的梦境.",,community
 "Verdagris, the Wild",DS,维达格里斯·荒野,"获得4符文.
-每位次 你获取一个英雄本回合, 获得I相等以 其H值.",,machine
-Ephemeral Inventor,DS,昙花发明家,"获得3符文, 然后放逐此牌.",,machine
-Planar Aperture,DS,位面孔径,"当你 获取机械神器, 你可以支付 1洞察以 将其直接进入战场.",,machine
-ID34 Detector,DS,ID34探测器,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1洞察.",,machine
-Synapse Spire,DS,突触尖塔,"每回合一次，当你 打出机械神器 (包括此牌一), 将一张卡牌加入你的梦境.",,machine
-Hedron Berserker,DS,多面体狂战,"获得3符文或 3战力. 若你控制的三 或更高神器s, 获得两者改为.",,machine
+每位次 你获取一个英雄本回合, 获得I相等以 其H值.",,community
+Ephemeral Inventor,DS,昙花发明家,"获得3符文, 然后放逐此牌.",,community
+Planar Aperture,DS,位面孔径,"当你 获取机械神器, 你可以支付 1洞察以 将其直接进入战场.",,community
+ID34 Detector,DS,ID34探测器,"每回合一次，当你 打出机械神器 (包括此牌一), 获得1洞察.",,community
+Synapse Spire,DS,突触尖塔,"每回合一次，当你 打出机械神器 (包括此牌一), 将一张卡牌加入你的梦境.",,community
+Hedron Berserker,DS,多面体狂战,"获得3符文或 3战力. 若你控制的三 或更高神器s, 获得两者改为.",,community
 Deluxe Capacitor,DS,豪华电容,"你可以视为梦神器s作为如同他们为 机械神器.
-每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌.",,machine
-TH07 Tank,DS,TH07坦克,每回合一次，你可以支付 1洞察以 获得3符文. 你可以花费它们只 以获取机械神器.,,machine
-Inquarry Hydra,DS,采石九头蛇,每回合一次，获得1洞察以 每个机械神器你控制的 (包括此牌一).,,machine
-Chaos Cannon,DS,混沌加农,每回合一次，你可以支付 5洞察以 获得10战力. 你可以支付 1洞察更低以use此异能以 每个其他机械神器你控制的.,,machine
-Ephemeral Ritualist,DS,昙花祭仪师,"获得4战力, 然后放逐此牌.",,machine
+每回合一次，当你 打出机械神器 (包括此牌一), 抽一张牌.",,community
+TH07 Tank,DS,TH07坦克,每回合一次，你可以支付 1洞察以 获得3符文. 你可以花费它们只 以获取机械神器.,,community
+Inquarry Hydra,DS,采石九头蛇,每回合一次，获得1洞察以 每个机械神器你控制的 (包括此牌一).,,community
+Chaos Cannon,DS,混沌加农,每回合一次，你可以支付 5洞察以 获得10战力. 你可以支付 1洞察更低以使用此异能以 每个其他机械神器你控制的.,,community
+Ephemeral Ritualist,DS,昙花祭仪师,"获得4战力, 然后放逐此牌.",,community
 Caustic Conjurer,DS,腐蚀咒术师,"获得1洞察.
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
-Dreamkiller,DS,弑梦者,获得2战力和 1洞察.,,machine
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
+Dreamkiller,DS,弑梦者,获得2战力和 1洞察.,,community
 Loam Summoner,DS,沃土召唤师,"将一张卡牌加入你的梦境.
-你可以放逐一张卡牌在你的手牌或弃牌堆.",,machine
+你可以放逐一张卡牌在你的手牌或弃牌堆.",,community
 Fear Wielder,DS,恐惧持有者,"获得3战力.
-下次你击败一个怪物在中央牌列本回合, 将一张卡牌加入你的梦境.",,machine
+下次你击败一个怪物在中央牌列本回合, 将一张卡牌加入你的梦境.",,community
 Fatality Blades,DS,致命双刃,"每回合一次，获得1战力.
-每回合一次，当你 击败一个怪物在中央牌列, 获得1洞察.",,machine
-Nightmare Harvester,DS,梦魇收割者,获得4战力. 你可以支付 1洞察以 获得4符文改为.,,machine
+每回合一次，当你 击败一个怪物在中央牌列, 获得1洞察.",,community
+Nightmare Harvester,DS,梦魇收割者,获得4战力. 你可以支付 1洞察以 获得4符文改为.,,community
 "Emri, Shadowslayer",DS,斩影者艾姆瑞,"获得5战力.
-你可以花费P视为I本回合.",,machine
-Rust Gremlin,DS,锈小妖,奖励： 获得1荣誉. 抽一张牌.,,machine
-Thieving Gryphon,DS,偷窃狮鹫,奖励： 获得2荣誉. 获得2符文.,,machine
-Tidestalker,DS,潮潜者,奖励： 获得4荣誉.,,machine
-Fen Maw,DS,沼巨口,奖励： 获得3荣誉. 获得2洞察.,,machine
-Trinket Harpy,DS,饰品鹰身女妖,奖励： 获得3荣誉. 将一张卡牌加入你的梦境.,,machine
+你可以花费P视为I本回合.",,community
+Rust Gremlin,DS,锈小妖,奖励： 获得1荣誉. 抽一张牌.,,community
+Thieving Gryphon,DS,偷窃狮鹫,奖励： 获得2荣誉. 获得2符文.,,community
+Tidestalker,DS,潮潜者,奖励： 获得4荣誉.,,community
+Fen Maw,DS,沼巨口,奖励： 获得3荣誉. 获得2洞察.,,community
+Trinket Harpy,DS,饰品鹰身女妖,奖励： 获得3荣誉. 将一张卡牌加入你的梦境.,,community
 Deluding Djinn,DS,欺瞒灯神,"奖励： 获得5荣誉.
-你可以花费I视为P以击败此.",,machine
-Hulking Crab,DS,庞大蟹,奖励： 获得4荣誉. 每位对手摧毁half的其 神器s进位至多.,,machine
-Puppetmaster,DS,傀儡师,奖励： 获得4荣誉. 拿取1洞察从 每位对手.,,machine
-Fleeting Hope Djinn,DS,飞逝希望灯神,奖励： 获得5荣誉. 加入两卡牌以 你的梦境.,,machine
-Nightmare Tyrant,DS,梦魇暴君,奖励： 获得5荣誉. 获取一个卡牌从 你的梦境无需支付费用.,,machine
-Engulfing Kraken,DS,吞噬克拉肯,"奖励： 获得6荣誉. 拿取一张卡牌随机从 每位对手之梦境, 和将它们加入你的梦境.",,machine
-"Nilus, the Despair",DS,尼卢斯·绝望,奖励： 获得7荣誉. 获取顶部三 卡牌的 梦牌库无需支付其 费用.,,machine
+你可以花费I视为P以击败此.",,community
+Hulking Crab,DS,庞大蟹,奖励： 获得4荣誉. 每位对手摧毁一半的其 神器s进位至多.,,community
+Puppetmaster,DS,傀儡师,奖励： 获得4荣誉. 拿取1洞察从 每位对手.,,community
+Fleeting Hope Djinn,DS,飞逝希望灯神,奖励： 获得5荣誉. 加入两卡牌以 你的梦境.,,community
+Nightmare Tyrant,DS,梦魇暴君,奖励： 获得5荣誉. 获取一个卡牌从 你的梦境无需支付费用.,,community
+Engulfing Kraken,DS,吞噬克拉肯,"奖励： 获得6荣誉. 拿取一张卡牌随机从 每位对手之梦境, 和将它们加入你的梦境.",,community
+"Nilus, the Despair",DS,尼卢斯·绝望,奖励： 获得7荣誉. 获取顶部三 卡牌的 梦牌库无需支付其 费用.,,community
 Imaginative Matron,DS,想象主母,"抽一张牌, 然后弃掉卡牌.
-联合： Return卡牌从 你的弃牌堆以 你的手牌.",,machine
+联合： 返回卡牌从 你的弃牌堆以 你的手牌.",,community
 Reverie Muse,DS,幻想缪斯,"获得1符文.
-联合： Double你的R.",,machine
-Brainstorm Sentry,DS,头脑风暴哨兵,获得1符文和 1战力以 每个机械神器你控制的.,,machine
+联合： 翻倍你的R.",,community
+Brainstorm Sentry,DS,头脑风暴哨兵,获得1符文和 1战力以 每个机械神器你控制的.,,community
 Bringer of Despair,DS,带来者绝望,"获得2战力.
-联合： Double你的P.",,machine
+联合： 翻倍你的P.",,community
 "Pasythea, the Aegis",DS,帕西提亚·神盾,"此英雄视为作为所有派系. 获得3符文, 3战力, 3荣誉.
-若你控制的帕西提亚的守护, 你可以获取此 无需支付费用和 将它放置置入你的手牌.",,machine
-Chronicle of Vigil,DS,祈夜编年史,每回合一次，获得1荣誉以 每个派系在你控制的神器之中. (此卡牌具有没有派系.),,machine
+若你控制的帕西提亚的守护, 你可以获取此 无需支付费用和 将它放置置入你的手牌.",,community
+Chronicle of Vigil,DS,祈夜编年史,每回合一次，获得1荣誉以 每个派系在你控制的神器之中. (此卡牌具有没有派系.),,community
 Vigil's Resolve,DS,祈夜的决意,"当你 打出秘教士, 获得1符文.
-当你 打出重装步兵, 获得1战力.",,machine
-Askaran Armor,DS,阿斯卡拉甲,"每回合一次，当你 获取卡牌从 你的梦境, 你可以将一张卡牌加入你的梦境.",,machine
-Yggdrasil Canopy,DS,世界树树冠,"当你 会获得H没有击败怪物, 获得两次该 等量的H改为.",,machine
-Dream Lab,DS,梦实验室,你可以支付 1符文更低以 获取神器s在中央牌列.,,machine
-Arbiter's Censer,DS,仲裁者香炉,"当你 击败一个怪物在中央牌列, 获得2荣誉.",,machine
-Ashes to Ashes,DS,灰烬归于灰烬,放逐所有卡牌在中央牌列.,,machine
-Dust to Dust,DS,尘土归于尘土,摧毁所有神器s你的对手控制.,,machine
-Armistice,DS,停战,每位玩家弃掉其 手牌和 抽五 卡牌.,,machine
-Wicked End,DS,邪终结,击败一个怪物在中央牌列无需支付费用.,,machine
-Test of Faith,DS,试炼信仰,"展示传送门牌库顶的卡牌. 获取或 击败它 无需支付费用. 若你 获取一个英雄以此方式, 将它放置置入你的手牌.",,machine
+当你 打出重装步兵, 获得1战力.",,community
+Askaran Armor,DS,阿斯卡拉甲,"每回合一次，当你 获取卡牌从 你的梦境, 你可以将一张卡牌加入你的梦境.",,community
+Yggdrasil Canopy,DS,世界树树冠,"当你 会获得H没有击败怪物, 获得两次该 等量的H改为.",,community
+Dream Lab,DS,梦实验室,你可以支付 1符文更低以 获取神器s在中央牌列.,,community
+Arbiter's Censer,DS,仲裁者香炉,"当你 击败一个怪物在中央牌列, 获得2荣誉.",,community
+Ashes to Ashes,DS,灰烬归于灰烬,放逐所有卡牌在中央牌列.,,community
+Dust to Dust,DS,尘土归于尘土,摧毁所有神器s你的对手控制.,,community
+Armistice,DS,停战,每位玩家弃掉其 手牌和 抽五 卡牌.,,community
+Wicked End,DS,邪终结,击败一个怪物在中央牌列无需支付费用.,,community
+Test of Faith,DS,试炼信仰,"展示中央牌库顶的卡牌. 获取或 击败它 无需支付费用. 若你 获取一个英雄以此方式, 将它放置置入你的手牌.",,community
 Aura of the Askara,DS,灵光阿斯卡拉,"若你打出过两 圣贤英雄以 同名本回合, 你可以获取此 无需支付费用.
-ONGOING: 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合.",,machine
-Lunar Embrace,DS,月拥抱,此回合你可以花费R视为P.,,machine
-Cetra's Respite,DS,塞特拉的喘息,获取一个英雄在中央牌列无需支付费用.,,machine
+持续: 每回合一次，你可以复制效果的 英雄你 拥有打出过本回合.",,community
+Lunar Embrace,DS,月拥抱,此回合你可以花费R视为P.,,community
+Cetra's Respite,DS,塞特拉的喘息,获取一个英雄在中央牌列无需支付费用.,,community
 Nairi's Blessing,DS,奈莉的祝福,"若你打出过三 或更高命约英雄本回合, 你可以获取此 无需支付费用.
 获得10荣誉.
-ONGOING: 你为 视为以 拥有打出过命约英雄每回合.",,machine
-Technological Leap,DS,科技跃进,获取所有神器s在中央牌列无需支付其 费用.,,machine
+持续: 你为 视为以 拥有打出过命约英雄每回合.",,community
+Technological Leap,DS,科技跃进,获取所有神器s在中央牌列无需支付其 费用.,,community
 Order of the Gear,DS,秩序齿轮,"若你控制的四 或更高神器s, 你可以获取此 无需支付费用.
-ONGOING: 你的机械英雄为 神器s改为. 你可以use其异能每回合一次.",,machine
-Stalk the Shadows,DS,潜行暗影,此回合你可以击败怪物在 虚空区视为在中央牌列.,,machine
-Call of Darkness,DS,黑暗呼唤,放逐至多 5 卡牌在你的手牌或弃牌堆.,,machine
-Berserker Frenzy,DS,狂战狂乱,"若你 拥有被击败三 或更高怪物在中央牌列本回合, 你可以获取此 无需支付费用.
-获得10荣誉.
-ONGOING: 每回合一次，当你 击败一个怪物, 双倍其H reward.",,machine
+持续: 你的机械英雄为 神器s改为. 你可以使用其异能每回合一次.",,community
+Stalk the Shadows,DS,潜行暗影,此回合你可以击败怪物在 虚空区视为在中央牌列.,,community
+Call of Darkness,DS,黑暗呼唤,放逐至多 5 卡牌在你的手牌或弃牌堆.,,community
+Berserker Frenzy,DS,狂战狂乱,"若你本回合已在中央牌列击败三个或更多怪物，你可以获取此牌且无需支付费用。
+获得10荣誉。
+持续：每回合一次，当你击败一个怪物时，将其荣誉奖励翻倍。",,community

@@ -119,15 +119,15 @@ flowchart LR
 
 **Exit（已达成）：** 目标域 `missing=0`；`gates.json` phase=1 / `max_missing_total=0`；ingest 不得把机翻标成 reviewed。
 
-### Phase 2 — 质量（`draft → reviewed`）← 当前
+### Phase 2 — 质量（`draft → reviewed`）
 
 按扩展包审校（包序固定，避免漏包）：
 
 `CotG → CotG10 → RotF → SoS → IH → RoV → DU → RU → DoC → DS → WoS → GotE → VotA → Del → Dlvr → LGND → promo`
 
-每包 Exit：glossary 门禁通过（如 Enlightened→圣贤，禁「启迪」）；该包 effect 全为 `reviewed`（flavor 可仍 draft 但计数可见）。
+**Exit（已达成）：** glossary 门禁通过（Enlightened→圣贤，禁「启迪」命中=0）；全包 effect/name/UI → `reviewed`；`draft_total=0`；credits → `waived(credits_names)`；`gates.json` phase=2 / `max_draft_total=0`。
 
-### Phase 3 — UX 消闪
+### Phase 3 — UX 消闪 ← 当前
 
 - 字体 / L2 时序、扩大 L1、规则书面板定向重本地化、评估原生 CH
 - **每项改动**必须带回归用例或文档化 L6 清单项
@@ -152,5 +152,6 @@ flowchart LR
 
 | 日期 | 说明 |
 | --- | --- |
+| 2026-08-22 | Phase 2 质量闭环完成（draft=0；启迪=0；gates phase 2）；进入 Phase 3 |
 | 2026-08-22 | Phase 1 覆盖闭环完成（missing=0；空风味 waived；gates phase 1）；进入 Phase 2 |
 | 2026-08-22 | 首版：将缺陷分析计划落库；标注 Phase T/0 完成与 Phase 1 入口 |

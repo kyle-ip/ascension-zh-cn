@@ -177,16 +177,14 @@ Thank you for playing.
 by pressing their name.",点击好友名字即可邀请。
 Current Games,当前对局
 No active game,没有进行中的对局
-Press the avatar to invite Friends from your Friends List,Press avatar以invite Friends从你的Friends List
+Press the avatar to invite Friends from your Friends List,点击头像，从好友列表邀请好友。
 Waiting on Player,等待玩家
 "Loading rulebook,
 please wait...","正在加载规则书，
 请稍候…"
 "Purchase all the Ascension bundles for one low price!<br><br>Includes Bundle #1 through Bundle #5.  
 
-That's 630 <b>unique</b> new cards to play with.","Purchase所有Ascension bundles以一low price!<br><br>Includes Bundle #1 穿过Bundle #5. 
-
-该之 630 <b>unique</b> 新卡牌以 打出以."
+That's 630 <b>unique</b> new cards to play with.",一次购入全部《创升纪元》捆绑包，超值优惠！<br><br>包含捆绑包 #1 至 #5。<br><br>共计 630 张<b>独特</b>新卡可供游玩。
 See Cards,See卡牌
 "Purchase both <b>Delirium</b> and <b>Deliverance</b> expansions together for a greater value!
 
@@ -195,7 +193,7 @@ See Cards,See卡牌
 Individual items can be purchased from the ""Purchase Separately"" menu.
 Are you sure you wish to purchase the bundle?","你已拥有本合集中的一件或多件内容。
 单件商品可在「单独购买」中购买。"
-If you previously had a Playdek account or use one for our other games you may login with that account email and password.,若你previously曾有Playdek account或use一以 我们的其他games你可以login以该account email和password.
+If you previously had a Playdek account or use one for our other games you may login with that account email and password.,若你此前已有 Playdek 账号，或在我们其他游戏中使用过该账号，可用同一邮箱与密码登录。
 Purchase all for 99.99.99,全部购买 99.99
 No Account at All,完全没有账号
 Vault of the Ancients,上古宝库
@@ -228,7 +226,7 @@ Enlightened Champion,圣贤冠军
 "Whenever you acquire or defeat an Enlightened card in the center row, Rally: Enlightened.","每当你 获取或 击败圣贤卡牌在中央牌列, 集结: 圣贤."
 "Acquire Dhartha, Master of Sight.","获取达萨, 大师的 视界."
 Dhartha,达萨
-"A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.","remnant的something long since forgotten, 其appearance在祈夜为shrouded在mystery."
+"A remnant of something long since forgotten, their appearance in Vigil is shrouded in mystery.",被遗忘之物的残响，它们在祈夜的现身笼罩着谜团。
 Void Champion,虚空冠军
 "Whenever you acquire or defeat a Void card in the center row, Rally: Void.","每当你 获取或 击败虚空卡牌在中央牌列, 集结: 虚空."
 "Acquire Sadranis, Dark Savant.","获取萨德拉尼斯, 黑暗学者."
@@ -244,49 +242,49 @@ Honor Points,荣誉点数
 Power Card Deck,战力牌堆
 Rune Card Deck,符文牌堆
 "COST
-The amount of Power you must spend to acquire this card.","COST
- amount的战力你 须花费以获取此牌."
+The amount of Power you must spend to acquire this card.","费用
+获取此牌所需花费的战力。"
 "REWARD
-What this monster does when defeated.","REWARD
-What此怪物does当被击败."
+What this monster does when defeated.","奖励
+击败此怪物时获得的效果。"
 <size=104>E</size>arth Tyrant,<size=104>E</size>arth暴君
 Monsters,怪物
 "FLAVOR TEXT
-Flavor text has no game effect.","FLAVOR TEXT
-Flavor text具有没有游戏效果."
+Flavor text has no game effect.","风味文本
+风味文本不影响规则。"
 "EFFECT
-What the card does when played or in play.","EFFECT
-What卡牌does当打出过或 在打出."
+What the card does when played or in play.","效果
+此牌打出或在场上时的作用。"
 "COST
 The number of Runes you must spend to acquire this card.","COST
  数量的 符文你 须花费以获取此牌."
 "HONOR
-How much Honor this card is worth.","HONOR
-How等量的荣誉此牌为 价值为."
+How much Honor this card is worth.","荣誉
+此牌可提供多少荣誉。"
 "FACTION
 There are 4 different factions:
 <color=#4cbbeb>Enlightened
 <color=#7fc241>Lifebound
 <color=#b6b6b6>Mechana
 <color=#bb8bbe>Void
-","FACTION
-There为 4 different派系:
+","派系
+共有四大派系：
 <color=#4cbbeb>圣贤
-<color=#7fc241>生命
+<color=#7fc241>命约
 <color=#b6b6b6>机械
 <color=#bb8bbe>虚空"
-This is the flavor part.,此为flavor part.
+This is the flavor part.,此处为风味文本。
 "Once per turn, when you acquire another Mechana Construct, you may put it directly in play.","每回合一次，当你 获取另一机械神器, 你可以将它放置直接在 打出."
 <size=104>R</size>ocket Courier X-99,<size=104>R</size>ocket信使X-99
 Constructs,神器s
-Sharpen the mind and the sword will follow.,Sharpen心智和sword将跟随.
+Sharpen the mind and the sword will follow.,磨砺心智，剑锋自至。
 <size=104>A</size>rha Templar,<size=104></size>rha圣殿武士
 Game End:,终局：
 "<margin-right=8em>To defeat a Monster, you must have enough Power.  You may defeat any number of Monsters as long as you have enough Power.  Cards that are eligible to be defeated will glow red. 
 
 
 
-","<margin-right=8em>以击败一个怪物, 你须拥有enough战力. 你可以击败任意数量的 怪物作为long作为你 拥有enough战力. 卡牌该 为eligible以是 被击败将glow red."
+",<margin-right=8em>要击败怪物，你必须拥有足够的战力。只要战力足够，你可以击败任意数量的怪物。</margin-right>
 Defeating Monsters:,击败怪物：
 Acquiring Heroes and Constructs:,获取英雄与神器：
 Play Order:,行动顺序:

@@ -15,11 +15,11 @@ Install: [README](../README.md). Design: [architecture.md](architecture.md). **R
 | --- | --- | --- |
 | **T** Test + inventory foundation | **Done** | Inventory + pytest L0–L4 + CI ceilings |
 | **0** Baseline + runtime hotfixes | **Done** | Rulebook/DLC filled; UI junk cleaned; store stable + long-copy Chinese (plugin **1.4.5**) |
-| **1** Coverage loop `missing→0` | **Done (coverage)** | `missing_total=0`; empty flavors waived; acronym names reviewed |
-| **2** Per-pack `draft→reviewed` | **Next** | Pack order in roadmap; lower 「启迪」 hits |
+| **1** Coverage loop `missing→0` | **Done** | `missing_total=0`; empty flavors waived; acronym names reviewed |
+| **2** Per-pack `draft→reviewed` | **Done** | All packs reviewed; `draft_total=0`; 启迪=0; credits waived |
 | **3** Anti-flicker UX | Not started | Plugin changes need tests |
 
-Inventory snapshot: **3616** rows; **0** missing; draft 2471; reviewed 244; waived 901. Gates at **phase 1** (`max_missing_total: 0`).
+Inventory snapshot: **3616** rows; **0** missing; **0** draft; reviewed 2712; waived 904. Gates at **phase 2** (`max_missing_total: 0`, `max_draft_total: 0`).
 
 ## Done
 
@@ -27,18 +27,27 @@ BepInEx 6 overlays `GetTextByKey` + TMP/UI `set_text` Exact/Norm + YaHei CJK fal
 
 Overlay ≈ 3084 keys / 2299 exact. Rulebook/DLC long copy in `rulebook.csv` with runtime Exact+Norm+partial. Regression via `tests/` + `gates.json`.
 
-## Phase 2 gaps
+## Phase 2 closed
 
-- Large `draft` debt across effects/UI/flavor
-- Glossary ban 「启迪」 still has a hit ceiling (drive to 0)
-- Machine-mixed English leftovers inside card effects
+- All pack effects/names → `reviewed` (938+938)
+- Flavors with source → translated `reviewed`; empty source → `waived(no_flavor_in_source)`
+- UI / tutorial / combat_log / shop_dlc → `reviewed`
+- Rulebook credits (Latin person names kept) → `waived(credits_names)`
+- Glossary: Enlightened→圣贤; ban-term 「启迪」 hits = 0
+- `lua_cards.csv`: no `machine` source; center deck → 中央牌库
+- Gates: `phase=2`, `max_draft_total=0` + per-domain draft ceilings
+
+## Next (Phase 3+)
+
+- Anti-flicker UX; bitmap titles (still waived); Traditional Chinese later
 
 ## Changelog (this file)
 
 | Date | Version | Delta |
 | --- | --- | --- |
+| 2026-08-22 | Phase 2 | Quality closed: `draft_total=0`; all packs reviewed; 启迪=0; credits waived; gates phase 2 + draft ceilings; pytest 25 |
 | 2026-08-22 | Phase 1 | Coverage closed: `missing_total=0`; flavor waive policy; acronym names; Loading rulebook fix |
-| 2026-08-22 | Phase 2 | Terminology: 启迪→圣贤 everywhere; glossary gate ceiling 0 |
+| 2026-08-22 | Phase 2 kickoff | Terminology: 启迪→圣贤 everywhere; glossary gate ceiling 0 |
 | 2026-08-22 | v1.4.5 | Store/rulebook long-copy restored; full overlay deploy checks; Phase T/0 complete |
 | 2026-08-22 | v1.4.3–1.4.4 | Store freeze mitigation then coverage restore |
 | 2026-08-22 | v1.3 | Architecture docs; Inventory + pytest; rulebook/DLC baseline |

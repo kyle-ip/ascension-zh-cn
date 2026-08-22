@@ -114,6 +114,32 @@ def _machine_mixed(zh: str) -> bool:
         "TMP",
         "Stone",
         "Blade",
+        "Hedron",
+        "Ferromancers",
+        "Ferromancer",
+        "Game",
+        "Center",
+        "Fate",
+        "Cards",
+        "Ascension",
+        "Vigil",
+        "Samael",
+        "Deofol",
+        "Kor",
+        "Arha",
+        "Emma",
+        "Ironheart",
+        "Playdek",
+        "Asmodee",
+        "support",
+        "playdekgames",
+        "com",
+        "net",
+        "email",
+        "password",
+        "CEO",
+        "CTO",
+        "CFO",
     }
     leftover = [w for w in words if w not in allow and w.title() not in allow]
     return len(leftover) >= 2
@@ -122,19 +148,22 @@ def _machine_mixed(zh: str) -> bool:
 def _status_for(zh: str, *, source: str = "", prior: str = "") -> str:
     if prior in STATUSES and prior == "waived":
         return "waived"
-    if prior == "reviewed" and zh and _looks_cjk(zh) and not _machine_mixed(zh):
-        return "reviewed"
     if not (zh or "").strip():
         return "missing"
     if not _looks_cjk(zh):
+        # Latin-only identity names (P.R.I.M.E.) handled by forced_status.
         return "missing"
-    if source.startswith("official") or source.startswith("community"):
-        return "reviewed" if not _machine_mixed(zh) else "draft"
-    if source == "machine" or _machine_mixed(zh):
+    if _machine_mixed(zh):
         return "draft"
-    if prior in ("draft", "reviewed"):
-        return prior
-    return "draft"
+    if source == "machine":
+        return "draft"
+    if source.startswith("official") or source.startswith("community"):
+        return "reviewed"
+    if prior == "reviewed":
+        return "reviewed"
+    # Phase 2: clean CJK without machine leftovers counts as reviewed
+    # (UI / tutorial / rulebook rows have no machine source tag).
+    return "reviewed"
 
 
 def _load_prior() -> dict[str, dict[str, str]]:
@@ -271,16 +300,23 @@ def build() -> dict:
                 if re.fullmatch(r"(?:<sprite=\d+>\s*)+", en_stripped or ""):
                     forced = "waived"
                     reason = "sprite_icon_only"
-                elif "Lead Programmer" in en or (
-                    "Flavor Text" in en and "John Fiorillo" in en
+                elif any(
+                    k in en
+                    for k in (
+                        "Lead Programmer",
+                        "Chief Executive Officer",
+                        "Additional IP Development",
+                        "Administration",
+                        "Game Engine Design",
+                        "Lead Design",
+                        "Design and Development",
+                        "Justin Gary",
+                        "Gary Arant",
+                    )
                 ):
-                    if not _looks_cjk(zh):
-                        forced = "waived"
-                        reason = "credits_names"
-                elif "Chief Executive Officer" in en or "Additional IP Development" in en:
-                    if not _looks_cjk(zh):
-                        forced = "waived"
-                        reason = "credits_names"
+                    # Credits pages keep Latin person names by design.
+                    forced = "waived"
+                    reason = "credits_names"
                 _add(
                     rows,
                     prior,

@@ -1,5 +1,5 @@
 {
-  "phase": "1",
+  "phase": "2",
   "required_domains": [
     "bitmap_title",
     "cards_effect",
@@ -29,6 +29,18 @@
     "ui_runtime": 0
   },
   "max_missing_total": 0,
+  "max_draft_total": 0,
+  "max_draft_by_domain": {
+    "cards_effect": 0,
+    "cards_name": 0,
+    "cards_flavor": 0,
+    "ui_keys": 0,
+    "ui_runtime": 0,
+    "tutorial": 0,
+    "combat_log": 0,
+    "rulebook_text": 0,
+    "shop_dlc": 0
+  },
   "forbid_glossary_terms_in_zh": [
     "启迪"
   ],
